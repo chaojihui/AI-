@@ -1,0 +1,35 @@
+{
+  "$comment": "数据源配置。url=直接 RSS；rsshubRoute=RSSHub 路由（自动依次尝试镜像，全失败则跳过该源）。source 留空时自动按域名识别。想增删板块/来源直接改这个文件。",
+  "sections": [
+    {
+      "title": "AI发展",
+      "feeds": [
+        { "url": "https://36kr.com/feed", "source": "36氪" },
+        { "url": "https://www.solidot.org/index.rss", "source": "Solidot" },
+        { "rsshubRoute": "/jiqizhixin/daily", "source": "机器之心" },
+        { "rsshubRoute": "/qbitai", "source": "量子位" }
+      ]
+    },
+    {
+      "title": "财经",
+      "feeds": [
+        { "url": "https://dedicated.wallstreetcn.com/rss.xml", "source": "华尔街见闻" },
+        { "rsshubRoute": "/telegraph", "source": "财联社电报" }
+      ]
+    },
+    {
+      "title": "社会新闻",
+      "feeds": [
+        { "rsshubRoute": "/thepaper/channel/25", "source": "澎湃新闻" }
+      ]
+    },
+    {
+      "title": "其他",
+      "feeds": [
+        { "url": "https://sspai.com/feed", "source": "少数派" }
+      ]
+    }
+  ],
+  "githubTrending": 6,
+  "hackerNews": 4
+}
