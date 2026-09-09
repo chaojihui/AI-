@@ -1,57 +1,173 @@
+// 由 GitHub Actions 自动生成 2026-09-09T06:31:46.069Z
+// 生成模式：原始标题
 window.BRIEFING_DATA = {
-  date: "2026-08-26",
-  sections: [
+  "date": "2026-09-09",
+  "sections": [
     {
-      title: "AI发展",
-      items: [
-        {text:"阿里发布并开源Qwen3.8-Flash：125B参数仅激活6B，训练成本较上代骤降近90%，API每百万Token输入1元、输出3元，性能超越Opus 4.6",source:"新京报贝壳财经",link:"https://news.qq.com/rain/a/20260826A0DZ6Q00"},
-        {text:"智谱上线并开源GLM-5.3-Flash(320B-A18B)：即海外爆火"牛来"模型，10万张国产芯片承载全部线上流量，智能指数与Claude Opus 4.8持平，定价仅其1/40",source:"科创板日报",link:"https://www.163.com/dy/article/L5B695E60550B1DU.html"},
-        {text:"工信部明确"十五五"AI发展路线图：智能算力达2185EFLOPS，已研制近200项AI关键标准，将攻关高端训练芯片、人形机器人、脑机接口等前沿技术",source:"海报新闻",link:"https://view.inews.qq.com/a/20260826A08LYY00"},
-        {text:"月之暗面洽谈入驻微软、亚马逊、谷歌云：Kimi K3拟登陆三大云平台，分走最高30%相关收入，或成中美云服务商首个大型收入分成合作",source:"凤凰网财经",link:"http://view.inews.qq.com/a/20260826A09SZG00"},
-        {text:"中国开源AI在美国平台使用率首超闭源模型：DeepSeek-V4-Flash居首，中国模型包揽前五中四席，成本优势是主因",source:"南华早报",link:"http://view.inews.qq.com/a/20260826A0AFVQ00"},
-        {text:"我国AI开源大模型全球累计下载破百亿次：国家级开源社区汇聚用户超1100万、托管模型超7万个",source:"央视新闻",link:"http://view.inews.qq.com/a/20260826A06I8H00"}
+      "title": "AI发展",
+      "items": [
+        {
+          "text": "孕期记忆力下降背后的生物学机制",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85325",
+          "content": "许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”神经环路，从而暂时性损害记忆功能，从机制层面解答了高水平雌激素影响认知的生物学基础。研究人员首先构建了模拟孕期持续高雌激素水平的小鼠模型，发"
+        },
+        {
+          "text": "Brave 声称其比竞争对手使用的系统资源更少页面加载速度更快",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85324",
+          "content": "基于 Chromium 的浏览器 Brave 公布了一份测试结果，称其桌面版比竞争对手 Chrome、Microsoft Edge 和 Firefox 占用更少的系统资源，页面加载速度更快。测试使用的 Firefox 不是最新版本 v155，而是旧版本 v146.0.1。结果显示，Brave 的平均 CPU 占用率为 33%，Chrome 为 47%，Edge 为 53%，Firefox 为 78%；Brave 使用了约 1.2 GB "
+        },
+        {
+          "text": "科学家建议冲马桶合盖以减少气凝胶",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85323",
+          "content": "Flinders 大学的研究人员发现，冲马桶会向周围空气释放气溶胶和生物气溶胶，气溶胶颗粒甚至会进入到成年人的呼吸区，而冲水后气溶胶会在空气中悬浮至少 20 秒。这些发现是基于对 22 项马桶气溶胶研究的分析。结果表明，保持良好的厕所卫生，包括定期清洁马桶及其周围表面，以及使用后洗手，有助于最大限度减少微生物污染和潜在的微生物疾病风险。使用马桶的低冲水模式也有助于最大限度减少气溶胶的产生。充足的通风有助于扩散和清除悬浮的空气颗粒，关闭马"
+        },
+        {
+          "text": "控制呼吸为何能控制焦虑？",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85322",
+          "content": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递给嗅球的僧帽细胞，信息随后从嗅球传输到海马旁皮层中的长投射中间神经元，最终到达杏仁体基底外侧核的谷氨酸能神经元。研究发现，鼻腔气流通过这条通"
+        },
+        {
+          "text": "Jellyfin 12.0 释出",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85321",
+          "content": "开源媒体服务器 Jellyfin 项目释出了 v12.0。Jellyfin 采用了新版本号，在旧版本下 Jellyfin 12.0 其实就是 10.12.0，10.11.x 将是最后一个使用旧方案的分支。Jellyfin 12.0 主要变化包括：重写了媒体库数据库，显著改进了性能，但数据库重构尚未完全完成；电视剧集支持多版本，可同时包含电视版和加长版，或者 1080p 和 4K 等不同分辨率版本；支持图书和漫画；等等。"
+        },
+        {
+          "text": "澳大利亚想要社媒平台允许用户退出算法驱动的信息流",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85320",
+          "content": "在禁止儿童使用社媒平台之后，澳大利亚工党政府提出了一项新的法律草案，要求社媒平台允许用户退出算法驱动的信息流。用户可选择算法推荐的个性化内容作为默认信息流，或者拒绝接收算法推荐的内容，只浏览用户关注的朋友和创作者的内容。被称为 My Feed, My Way 的法案旨在给予用户选择权，违反者将面临最高 1.092 亿澳元的罚款。澳大利亚总理 Anthony Albanese 表示，“它赋予用户选择权，如果大型科技公司不遵守我们的法律，我"
+        }
       ]
     },
     {
-      title: "财经",
-      items: [
-        {text:"A股震荡攀升：沪指涨0.59%报3912.52点，深成指涨0.69%，创业板指涨0.51%，科创50涨1.71%，两市成交1.8万亿元，有色与大金融板块领涨",source:"澎湃新闻",link:"https://www.thepaper.cn/newsDetail_forward_33954714"},
-        {text:"英伟达Q2财报大超预期：营收962亿美元同比增106%，数据中心收入890亿增117%，预计下财年营收增约70%，亚马逊承诺额外部署200万块GPU，盘后涨近5%",source:"证券时报",link:"https://www.stcn.com/article/detail/4137988.html"},
-        {text:"DeepSeek前7个月营收约4.75亿元：同比增近10倍，API毛利率高达82.9%，净亏损收窄至7.15亿元，正推进5000亿元估值新一轮融资并筹备明年在上海上市",source:"每日经济新闻",link:"https://www.nbd.com.cn/articles/2026-08-27/4559892.html"},
-        {text:"美股三大指数小幅收跌：道指跌0.21%，标普500跌0.02%，纳指跌0.08%，英伟达财报前跌1.6%，盘后超预期财报推动其盘后涨近5%",source:"上海证券报",link:"https://www.163.com/dy/article/L5AVENU60552C2FY.html"},
-        {text:"宇树科技上市一周市值缩水2000亿：收盘报591.53元跌1.87%，总市值2393亿元，较1100元历史高价蒸发2056亿元，连续5日下跌",source:"财联社",link:"https://cj.sina.com.cn/articles/view/6013508393/m1666edb2903301kz0m"}
+      "title": "财经",
+      "items": [
+        {
+          "text": "日元这轮反弹不靠干预靠资本回流？挪威主权基金固收配置或从美债转向日债",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3781394",
+          "content": "日元正在经历一场与以往截然不同的升值——这一次，没有央行出手，没有政府烧钱，而是真实的资本回流在驱动。 上周，美元兑日元急跌，跌幅与此前两次官方干预相当，但目前尚未出现明显回调。与此前不同的是，此轮升值并非日本当局购债操作的产物。 挪威主权财富基金Norges Fund据报正在调整其固定收益配置，方向或从美国国债转向日本债券，由此引发市场对更多国际资金回流东京的广泛猜测。 在此背景下，日元兑美元维持在154附近。 分析人士认为，日元升值"
+        },
+        {
+          "text": "日元强势引发多空分歧：对冲基金看涨至140，散户逆势加码空头",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3781393",
+          "content": "日元持续升值正在外汇市场制造一场罕见的多空对峙。对冲基金竞相布局看涨期权，部分押注美元兑日元年内跌破150甚至低至140；与此同时，日本散户投资者却逆势加仓空头，坚持做多美元。两种截然相反的仓位，折射出市场对日元走势的深度分歧。 日元本月已对美元升值约4%，一度触及153关口。对冲基金的押注正在升温——芝加哥商业交易所数据显示，周二最活跃的美元兑日元期权为11月到期、行权价142.86的看跌期权， 年内到期的看跌期权总量是看涨期权的三倍"
+        },
+        {
+          "text": "标普料SK海力士四季度再启最高40万亿韩元回购，叠加丰厚股息，韩国Value-up行情再获新催化",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3781366",
+          "content": "9月8日，标普全球市场情报（S&P Global Market Intelligence）最新预测显示，受AI存储芯片强劲景气度驱动， SK海力士有望在今年第四季度宣布新一轮股票回购计划，规模预计在20万亿至40万亿韩元（约合280亿美元）之间。 且在完成大规模回购后，公司仍有能力派发丰厚股息，这为韩国政府推进的“企业价值提升（Value-up）”及股东回报重构行情再添强劲催化剂。 标普亚太股票股息预测负责人Mohammad Hassa"
+        },
+        {
+          "text": "沪指震荡走高，煤炭、航运爆发，光通信活跃、长飞光纤一度涨停，恒科指跌0.6%，海底捞大跌9%",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3781379",
+          "content": "光通信大涨，长飞光纤一度涨停，此前 华尔街见闻文章 写道，康宁宣布，已与美国电信运营商Verizon签署一份持续至2032年的多年期、数十亿美元光纤供应协议。此外，高通与亚马逊达成协议，共同建设人工智能数据中心基础设施，将合作开发高达1.6T的光互联解决方案 9月9日，A股三大指数早盘走势分化，沪指震荡走强、深成指与创业板指高开低走转绿，算力硬件局部爆发，高速铜连接、电路板、光通信等概念股集体拉升，航运、煤炭等板块活跃，AI应用、文化传"
+        },
+        {
+          "text": "30万亿知识工作、30万亿消费市场--驾驭AI推理时代",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3781377",
+          "content": "摩根士丹利认为人工智能产业正从基础设施建设阶段大步迈入“推理时代”，这一技术演进将数字化并重塑全球20至30万亿美元的知识工作市场与近30万亿美元的消费市场，从而驱动资本市场发生规模空前的板块轮动。 追风交易台消息，9月7日，摩根士丹利Brian Nowak牵头的研究报告《The Morgan Stanley AI Guidebook: Navigating the Age of Inference》指出， 随着超大规模云服务商的数据中"
+        },
+        {
+          "text": "美伊战事推升油价逼近百元关口，亚洲芯片股延续涨势，SK海力士涨逾3%，金银齐升",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3781389",
+          "content": "中东局势急剧恶化，布伦特原油逼近100美元关口，而亚洲芯片股则在AI交易持续火热的带动下延续涨势。 周三韩国综合指数日内涨幅扩大至2%，三星电子和SK海力士双双走强，此前费城半导体指数周二在美股交易中上涨1.3%。MSCI亚太指数整体上涨0.6%，信息技术板块贡献最大。 据新华社报道，美军周二摧毁了五艘伊朗原油油轮，以报复伊朗伊斯兰革命卫队在过去两天内两度向美国军舰发射弹道导弹。受此影响，布伦特原油一度攀升1.8%至每桶99.67美元，"
+        }
       ]
     },
     {
-      title: "社会新闻",
-      items: [
-        {text:"西藏吉隆县发生泥石流灾害：已造成3人遇难、265人失联，国家启动二级救灾应急响应，财政部紧急预拨1.2亿元中央自然灾害救灾资金",source:"人民网",link:"https://society.people.com.cn/n1/2026/0827/c1008-40786785.html"},
-        {text:"国务院食安办对"敌敌畏消杀"事件挂牌督办：针对厦门消杀公司违规使用敌敌畏为餐饮门店消杀事件，会同市场监管总局、国家疾控局成立联合工作组赴实地督促指导",source:"中宏网",link:"https://www.zhonghongwang.com/show-258-470462-1.html"},
-        {text:"刘翔退役11年后被要求安置：上海体育局给出"买断或当教练"二选一，刘翔深夜连发微博质疑"十年了想起来安置我"，体育局回应已依规沟通妥善安置",source:"腾讯网",link:"https://new.qq.com/rain/a/20260827A06RBW00"},
-        {text:"中印边界问题特别代表第25次会晤达成8点共识：成立划界专家小组和边境管控工作小组，新增两个将军级会谈会晤点和两条军事联络热线，商定2027年在印度举行第26次会晤",source:"人民日报",link:"https://cpc.people.com.cn/BIG5/n1/2026/0827/c64387-40787150.html"}
+      "title": "其他",
+      "items": [
+        {
+          "text": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
+          "source": "少数派",
+          "link": "https://sspai.com/post/113668",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/113668&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114352",
+          "content": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。<a href=&#34;https://sspai.com/post/114352&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+          "source": "少数派",
+          "link": "https://sspai.com/prime/story/sidecar-optimizations",
+          "content": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。<a href=&#34;https://sspai.com/prime/story/sidecar-optimizations&#34; target=&#34;_blank&#34;>查看全文</a><p>本文为会员文章，出自<a href=&#34;https://"
+        },
+        {
+          "text": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114327",
+          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/114327&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "一日一技｜我的 Windows 11 头像会动，你也可以",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114312",
+          "content": "Where's everyone going? Bingo?<a href=&#34;https://sspai.com/post/114312&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+          "source": "少数派",
+          "link": "https://sspai.com/post/113299",
+          "content": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。<a href=&#34;https://sspai.com/post/113299&#34; target=&#34;_blank&#34;>查看全文</a>"
+        }
       ]
     },
     {
-      title: "GitHub 热点项目",
-      items: [
-        {text:"tt-a1i/archify — Agent技能，生成美观可验证的架构图、流程图、时序图等，自包含HTML支持动效导出（JavaScript）",source:"GitHub",link:"https://github.com/tt-a1i/archify"},
-        {text:"freestylefly/awesome-gpt-image-2 — GPT-Image2工业级提示词引擎与模板库，530+案例逆向工程，20+套工业级模板（JavaScript）",source:"GitHub",link:"https://github.com/freestylefly/awesome-gpt-image-2"},
-        {text:"anthropics/claude-plugins-official — Anthropic官方管理的高质量Claude Code插件目录（Python）",source:"GitHub",link:"https://github.com/anthropics/claude-plugins-official"},
-        {text:"Alishahryar1/free-claude-code — 从终端、应用、IDE或手机免费使用Claude Code、Codex等，提供13亿+免费令牌（Python）",source:"GitHub",link:"https://github.com/Alishahryar1/free-claude-code"},
-        {text:"AgriciDaniel/claude-obsidian — 面向Obsidian + Claude Code的自组织AI第二大脑，自动读取关联并归档到Markdown知识图谱（Python）",source:"GitHub",link:"https://github.com/AgriciDaniel/claude-obsidian"},
-        {text:"rohitg00/ai-engineering-from-scratch — AI工程从零学习与构建，面向开发者的全栈AI工程教程（Python）",source:"GitHub",link:"https://github.com/rohitg00/ai-engineering-from-scratch"},
-        {text:"browser-use/browser-use — 让网站对AI智能体可访问，轻松实现线上任务自动化（Python）",source:"GitHub",link:"https://github.com/browser-use/browser-use"}
-      ]
-    },
-    {
-      title: "其他",
-      items: [
-        {text:"苹果官宣9月9日秋季发布会：将发布首款折叠屏iPhone Ultra（5.5寸外屏/7.6寸内屏），搭载2nm A20 Pro芯片，这也是新CEO特努斯首场发布会",source:"澎湃新闻",link:"https://www.toutiao.com/article/7678518252020810240/"},
-        {text:"Meta与美国各州达成166.8亿美元和解：就青少年社交媒体危害案达成协议，Meta将对青少年用户设置每日2小时使用限制和午夜至凌晨6时禁用",source:"网易",link:"https://www.163.com/dy/article/L5BRNM5N05129QAF.html"},
-        {text:"AGIC 2026深圳国际通用人工智能产业博览会开幕：规模8万平方米，超1000家企业参展，华为腾讯商汤等亮相，海外买家超2万人",source:"深圳晚报",link:"https://wb.sznews.com/PC/content/202608/27/content_3473781.html"}
+      "title": "GitHub 热点项目",
+      "items": [
+        {
+          "text": "ayghri/i-have-adhd：ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output.（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/ayghri/i-have-adhd",
+          "content": ""
+        },
+        {
+          "text": "cathrynlavery/diagram-design：cathrynlavery / diagram-design 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.（HTML）",
+          "source": "GitHub",
+          "link": "https://github.com/cathrynlavery/diagram-design",
+          "content": ""
+        },
+        {
+          "text": "openai/skills：openai / skills Skills Catalog for Codex（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/openai/skills",
+          "content": ""
+        },
+        {
+          "text": "affaan-m/ECC：affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.（JavaScript）",
+          "source": "GitHub",
+          "link": "https://github.com/affaan-m/ECC",
+          "content": ""
+        },
+        {
+          "text": "heygen-com/hyperframes：heygen-com / hyperframes Write HTML. Render video. Built for agents.（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/heygen-com/hyperframes",
+          "content": ""
+        },
+        {
+          "text": "coreyhaines31/marketingskills：coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.（JavaScript）",
+          "source": "GitHub",
+          "link": "https://github.com/coreyhaines31/marketingskills",
+          "content": ""
+        }
       ]
     }
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-08-26", "2026-08-25", "2026-08-24", "2026-08-19", "2026-08-18", "2026-08-11", "2026-08-10", "2026-08-09"];
+window.BRIEFING_ARCHIVE = ["2026-09-09","2026-08-26","2026-08-25","2026-08-24","2026-08-19","2026-08-18","2026-08-11","2026-08-10"];
