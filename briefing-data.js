@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-09-11T06:32:26.114Z
+// 由 GitHub Actions 自动生成 2026-09-12T06:20:06.422Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "LG 强烈否认其监视电视用户",
+          "text": "因 NASA 削减预算 ESA 将独立完成金星探索项目",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85341",
-          "content": "本周早期时候，YouTube 主播 Gamers Nexus 与独立安全研究人员合作，发现 LG 的智能电视机即便在离线或待机模式下也会持续记录并上传用户数据。LG 电视还会扫描 Wi-Fi 网络、记录音频日志，采样音视频输入内容以识别用户正在观看的节目。LG 在一则声明中称视频内容不实，“LG 电视仅在用户按住遥控器上的语音按钮，或在激活 Far-Field 功能后识别出‘Hi LG’等唤醒词时，才会处理语音数据。”LG 表示除此之外"
+          "link": "https://www.solidot.org/story?sid=85357",
+          "content": "因特朗普政府削减了 NASA 预算，难以兑现提供合成孔径雷达的承诺，欧洲 ESA 将独立推进金星探索项目 Envision。Envision 轨道探测器任务旨在对金星表面进行测绘，由于金星表面被厚厚的硫酸云层笼罩，需要使用雷达穿透云层。NASA 与 ESA 于 2024 年签署了一份谅解备忘录，NASA 提供美制合成孔径雷达，通过其深空网络提供跟踪与通信支持。作为交换，ESA 将把美国研究人员纳入其团队。然而 2026 年和 2027 "
         },
         {
-          "text": "育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求",
+          "text": "尼泊尔用大疆无人机运送遗体和食物",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85340",
-          "content": "在 Steam 上购买和运行育碧的游戏需要安装其客户端 Ubisoft Connect，启动游戏时需要同时启动育碧和 Steam 两个启动程序，这种做法长期受到 Steam 玩家的诟病。现在育碧宣布将逐步取消这一要求，“从《Prince of Persia: The Lost Crown》起，我们将测试一项名为‘Ubisoft Connect Services’的全新 Steam 工具。该工具能保留跨平台进度、跨平台联机、玩家安全保障、"
+          "link": "https://www.solidot.org/story?sid=85356",
+          "content": "在毁灭性的泥石流之后，尼泊尔正利用大疆无人机运送遇难者遗体，向幸存者运送食物。尼泊尔军方正使用中国捐赠的四架大疆 FlyCart 100 无人机，每天执行 10-16 次物资运送任务。FlyCart 100 配备了约 30 米长的绳索和绞盘系统，可用于吊装和投放重物。根据电池配置的不同，无人机载重能力在 85-100 公斤之间。尼泊尔军方使用无人机每趟运送约 60 公斤的物资，它也能将遇难者遗体从部分受灾严重的地区运送出来。截至 9 月"
         },
         {
-          "text": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
+          "text": "远程办公增加了睡眠时间但减少了身体活动",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85339",
-          "content": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-Stokes 方程列为六大千禧年数学问题之一。OpenAI 本周宣布通过动用约 1 万个 AI 智能体进行长达 88 小"
+          "link": "https://www.solidot.org/story?sid=85355",
+          "content": "根据 Turku 大学的一项研究，远程办公增加了睡眠时间但减少了身体活动。研究人员分析了混合办公者在远程办公和去办公室办公之间的睡眠、久坐行为及身体活动差异。结果显示，相比去办公室办公，远程办公日的平均睡眠时间多了 15分钟，但坐姿或卧姿时间增加了 45 分钟。站立、轻度身体活动以及中高强度身体活动的时间都有所减少。研究还显示，办公室办公日的步行和骑行活动，在远程办公日部分被坐姿、卧姿和睡眠所取代，因为远程办公不需要通勤。"
         },
         {
-          "text": "微软九月例行更新修复近千个 Bug",
+          "text": "科学家利用高压和逾 2000 高温制造超离子冰",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85338",
-          "content": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 "
+          "link": "https://www.solidot.org/story?sid=85354",
+          "content": "水是人类文明中最常见也最不可或缺的物质，但如果单纯以理化的视角来看，它其实是太阳系中最怪异的液体之一。结冰时体积膨胀密度变小、高得离奇的表面张力和沸点，若仅按分子量计算，它在室温下甚至本该是气态。而当我们离开地球，将环境调至极端的高温与高压时，水分子的行为还会变得更加离奇。一个法国的研究团队，近期在实验室中成功打造出极端环境下的新型态冰结晶——六方密堆积超离子冰(hexagonal close-packed superionic ice"
         },
         {
-          "text": "Google 向司机推荐更长的行驶路线以缓解拥堵",
+          "text": "中国科学家提议利用废弃煤矿展开农业试验",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85337",
-          "content": "根据发表在《Nature Cities》期刊上的一项研究，Google 研究人员利用 Google Maps 有意向部分司机推荐更长的行驶路线，此举有助于将车流分散到更多条道路上，从而缓解交通拥堵。研究人员在西雅图、盐湖城、芝加哥和亚特兰大等 10 座城市进行了实验，结果显示拥堵路段的平均车速提高了 2%，通行时间缩短了 0.7%。这种方法对大城市如洛杉矶的高速公路路段的引导效果最为显著，相关路段的车速提高了 4.6%。大部分城市的效果"
+          "link": "https://www.solidot.org/story?sid=85353",
+          "content": "中国各地分布着逾 12,000 座废弃煤矿，这些煤矿拥有巨大的地下空间和完善的基础设施，具备改造利用的潜力。太原理工大学、山西省煤基资源绿色高效开发工程中心等机构的研究人员在《中国矿业》期刊上发表论文，提议利用废弃煤矿展开农业试验。废弃煤矿的一个显而易见的缺陷是缺乏农作物所必须的阳光和降雨，但优点是地下环境能精确调控，不受天气波动、气候变化及自然灾害的影响。研究人员称，“在全球气候变化加剧及极端与封闭环境农业需求不断增长的背景下，探索煤"
         },
         {
-          "text": "2026 年拉斯克奖宣布",
+          "text": "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85336",
-          "content": "拉斯克奖公布了 2026 年的获奖名单。基础医学奖授予了发现掌管睡眠的大脑神经传递物质“食欲素”（Orexin）的日本筑波大学教授柳泽正史（66岁）和美国斯坦福医学院的 Emmanuel Mignot。临床医学奖项授予了开发血友病治疗药的中外制药公司前顾问服部有宏（66岁）、顾问北泽刚久（57岁）以及研究总部长井川智之（49岁）。这是日本人自 2014 年名城大学教授森和俊获奖以来，时隔近 12 年再次获奖。该奖被称为诺贝尔奖的风向标。"
+          "link": "https://www.solidot.org/story?sid=85352",
+          "content": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常使用笔记本电脑，他习惯将笔电放在腹部，有时一用就是八个小时，还经常在电脑充电时使用。医生终于明白了他的病因，诊断他患有 Erythema a"
         }
       ]
     },
@@ -48,46 +48,64 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "中东局势现缓和信号，油价日内回调3%，亚洲股债双杀、日股重挫近3%，美债十年期收益率逼近5%",
+          "text": "交易员警惕线上移：10年期美债收益率破6%，才是个人投资组合的真正红线",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781549",
-          "content": "亚洲市场周五遭遇大规模风险资产抛售，股票与债券同步下跌。投资者正屏息等待当日晚些时候公布的美国8月通胀数据，这份报告将在很大程度上左右美联储本月的加息决策。 据央视新闻，也门胡塞武装最高政治委员会发表声明说，红海西海岸各省份的交火已经停止，并声称“此前沙特方面调集、用于威胁也门有关地区的武装力量已被驱逐”。此外，据CCTV国际时讯英国《金融时报》报道，海湾国家外长计划与伊朗外长阿拉格齐举行会晤。此次会议由阿曼与伊朗牵头，旨在争取各方支持"
+          "link": "https://wallstreetcn.com/articles/3781625",
+          "content": "十年期美债收益率在消化CPI数据后已从5%附近关口回落，但最新调查显示，交易员愿意等到收益率突破6%甚至更高，才会着手调整个人持仓。 周五，油价回落使得长期国债收益率小幅回落，但本周美国国债收益率曲线全面飙升，短期美债收益率更是暴跌。 2年期美债收益率攀升28个基点、至4.60%以上，10年期美债收益率一度升至4.988%、逼近5%关口，30年期国债收益率则达到约5.38%，创下2007年以来的最高水平。 9月11日，据彭博最新Mark"
         },
         {
-          "text": "油价异动！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号",
+          "text": "又见存储巨头“天量奖金”：美光最高发68个月奖金",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781565",
-          "content": "全球能源市场最敏感的两条航运动脉同时出现重大进展。伊朗与海湾国家外长计划于下周举行会晤，寻求霍尔木兹海峡临时协议；与此同时，也门胡塞武装宣布红海西海岸交火停止。两则消息叠加，直接推动国际油价走高。 据央视国际时讯援引英国《金融时报》报道， 海湾合作委员会六国外长计划于9月14日（下周一）在阿曼沿海城市塞拉莱与伊朗外长阿拉格齐举行会晤。此次会议由阿曼主导，旨在争取各方支持一项临时协议，以规范霍尔木兹海峡的商船通行秩序。 与此同时，据央视新"
+          "link": "https://wallstreetcn.com/articles/3781624",
+          "content": "美光科技宣布向中国台湾员工发放创纪录奖励，但工会拒绝接受并维持罢工威胁，劳资博弈进入关键阶段。 美光科技周五宣布， 中国台湾员工将获得相当于35至68个月薪酬的2026财年奖励，最低现金补偿为170万新台币（约合5.38万美元）。 美光指出，在经历了一个“对公司而言非凡的年份”后，全球超过6万名员工将获得2026财年的奖励，本次向员工发放的薪酬力度为历年来最高。 然而，代表美光中国台湾约三分之二员工的桃园工会当日发表声明称，双方在持续谈"
         },
         {
-          "text": "创业板跌2%，科创50跌近3%，存储芯片、有色金属全线下挫，中际旭创AH股齐涨，恒指、恒科指齐跌，小米、腾讯逆势翻红",
+          "text": "柴油价格历史性突破6美元！美国会放“出口管制”大招吗？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781553",
-          "content": "AH股齐跌，隔夜 美国市场遭遇股债双杀 ，存储芯片股普跌，美油飙涨7%破百，美国最新的通胀数据显示，PPI同比增幅超预期，通胀忧虑重燃，美联储9月加息概率升至近七成。亚太股市集体下跌，日本和韩国股市均下挫。A股港股光模块一度逆势拉升，中际旭创A股和H股集体走高。 9月11日，A股低开低走，三大股指盘初均跌超1%，盘中跌幅均扩大至2%，科创50跌近3%。有色金属、化肥农药、券商、零售等板块集体调整，小金属、锂矿、镍矿、铜产业等概念股遭遇重"
+          "link": "https://wallstreetcn.com/articles/3781623",
+          "content": "美国柴油零售价首次突破每加仑6美元，创下历史纪录，令能源驱动的通胀压力在中期选举前夕骤然升温，也将一个长期被视为&#34;下策&#34;的政策选项重新推至聚光灯下——限制乃至禁止美国成品油出口。 据美国汽车协会（AAA）数据，全国柴油均价已达每加仑6.0556美元，加利福尼亚州价格更逼近8美元。 与此同时，汽油价格也突破每加仑4美元，创同期历史最高水平。据彭博9月11日报道，距离11月中期选举仅剩约50天，高企的油价正在侵蚀消费者购买力"
         },
         {
-          "text": "OpenAI CFO：当AI让一切“经验”贬值，什么才是企业的稀缺品？",
+          "text": "OpenAI推出Agents API公测版，将Codex背后的harness与基础设施向开发者开放",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781562",
-          "content": "随着AI从单纯的“推理”迈向“自主行动”，当“智力”逐渐成为一种商品，OpenAI CFO认为“判断力”将成为人类和企业在未来最稀缺的核心资产。 9月10，OpenAI首席财务官萨拉·弗莱尔（Sarah Friar）做客Consello首席执行官Declan Kelly主持的《灰色地带》（Grey Matter）播客。在这场深度访谈中，弗莱尔针对市场当前最关心的AI商业化落地、天价资本开支（Capex）的投资回报率、以及未来的技术指引进"
+          "link": "https://wallstreetcn.com/articles/3781521",
+          "content": "OpenAI正将支撑其旗舰编程助手Codex的底层代理框架向全体开发者开放，标志着该公司将内部积累的Agent工程化经验正式产品化输出。 OpenAI周三宣布，Agents API即日起进入公开测试阶段，面向所有开发者开放。 此前这套代理框架与基础设施只服务于Codex和企业版ChatGPT，如今以编程接口的形式对外提供，开发者无需额外付费，仅按实际消耗的token及工具调用量计费。 过去一年，随着Codex和ChatGPT for W"
         },
         {
-          "text": "新债王Gundlach警示：若美联储按兵不动，长端利率将大幅攀升",
+          "text": "戴尔单日暴涨12%创新高！被甲骨文点名为千亿资本支出“核心供货商”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781563",
-          "content": "&#34;新债王&#34;Jeffrey Gundlach在美联储议息会议前夕发出三重警告：美联储若不加息，长端利率将大幅飙升；通胀走势与1970年代惊人相似；AI债券利差已接近翻倍，而美股估值高得&#34;如同酒店迷你吧——没有便宜货&#34;。 在美联储下周三（FOMC会议日）议息决议公布前夕，DoubleLine资本首席执行官兼首席投资官Jeffrey Gundlach在最新一期&#34;Gundlach Unlocked&#34"
+          "link": "https://wallstreetcn.com/articles/3781615",
+          "content": "甲骨文管理层在业绩说明会上点名戴尔为核心供货商，叠加RBC Capital首次覆盖给予&#34;跑赢大盘&#34;评级，戴尔科技股价创新高。 美东时间9月11日美股三大指数全线反弹，资金重新流入AI硬件与半导体板块，戴尔作为AI算力落地的代表标的一举领涨。 此前9月10日美股盘后，甲骨文管理层在业绩说明会上重申2027财年资本支出计划高达900亿至950亿美元，用于扩建AI数据中心及相关基础设施，并直接点名戴尔与HPE将是这笔支出的主要"
         },
         {
-          "text": "苹果“新掌门”的产品哲学：技术审美重于概念营销，不追求首发追求“终局定义”",
+          "text": "油价是特朗普的“大麻烦”，而日元是所有人的",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781556",
-          "content": "苹果新任CEO John Ternus首次公开阐述其产品理念，为外界勾勒出&#34;特纳斯时代&#34;的苹果轮廓。 2026年9月11日，在备受瞩目的年度iPhone发布会后，上任仅一周的苹果新任CEO约翰·特纳斯（John Ternus）在Apple Park接受了科技媒体Tom's Guide的深度专访。 （右二苹果新任CEO John Ternus） 作为在苹果效力25年的工程老将，特纳斯就市场高度关注的AI穿戴设备热潮、数据隐"
+          "link": "https://wallstreetcn.com/articles/3781620",
+          "content": "两条截然不同的风险主线正在同步收紧：油价在政治压力下剧烈震荡，直接威胁特朗普的中期选举前景；而日元的结构性转向，则可能通过套息交易平仓、资本 回流 和全球收益率上行，将冲击波传导至每一个主要资产类别。 布伦特原油周四大幅跳涨后周五急速回落，但仍接近110美元/桶 ，距中期选举仅剩约七周半。自8月油价飙升以来，民主党重夺参议院的概率已从41%升至50%以上。特朗普周二表示，油价将在中期选举后才会大幅回落——此番表态或强化了市场对冲突持续的"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "本周看什么 | 最近值得一看的 7 部作品",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114458",
+          "content": "📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演， ...<a href=&#34;https://sspai.com/post/114458&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114449",
+          "content": "新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。<a href=&#34;https://sspai.com/post/114449&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
+          "source": "少数派",
+          "link": "https://sspai.com/post/113605",
+          "content": "如果你想买一辆能够长期持有、同时又足够「正常」的新能源车，我还是非常推荐去试试理想 i6。<a href=&#34;https://sspai.com/post/113605&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "新 iPhone 配件精选：多种组合一次配齐",
           "source": "少数派",
@@ -105,24 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/114384",
           "content": "祝每一位老师教师节快乐！<a href=&#34;https://sspai.com/post/114384&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：Apple 发布 iPhone Duo 折叠屏等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114394",
-          "content": "奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。<a href=&#34;https://sspai.com/post/114394&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114393",
-          "content": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。<a href=&#34;https://sspai.com/post/114393&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114392",
-          "content": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。<a href=&#34;https://sspai.com/post/114392&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -142,27 +142,27 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "obra/superpowers：obra / superpowers An agentic skills framework & software development methodology that works.（Shell）",
+          "text": "nab138/iloader：nab138 / iloader User friendly sideloader（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/obra/superpowers",
+          "link": "https://github.com/nab138/iloader",
           "content": ""
         },
         {
-          "text": "alsk1992/CloddsBot：alsk1992 / CloddsBot Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.（TypeScript）",
+          "text": "melgarafael/DeskcommCRM：melgarafael / DeskcommCRM Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/alsk1992/CloddsBot",
+          "link": "https://github.com/melgarafael/DeskcommCRM",
           "content": ""
         },
         {
-          "text": "Tencent/teamai-cli：Tencent / teamai-cli Make Every Team AI Native（TypeScript）",
+          "text": "vastsa/PI-Desktop：vastsa / PI-Desktop Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/Tencent/teamai-cli",
+          "link": "https://github.com/vastsa/PI-Desktop",
           "content": ""
         },
         {
-          "text": "AlexsJones/llmfit：AlexsJones / llmfit Hundreds of models & providers. One command to find what runs on your hardware.（Rust）",
+          "text": "armory3d/armorpaint：armory3d / armorpaint Graphics Creation Tools（C）",
           "source": "GitHub",
-          "link": "https://github.com/AlexsJones/llmfit",
+          "link": "https://github.com/armory3d/armorpaint",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-09-11","2026-09-10","2026-09-09","2026-08-26","2026-08-25","2026-08-24","2026-08-19","2026-08-18"];
+window.BRIEFING_ARCHIVE = ["2026-09-12","2026-09-11","2026-09-10","2026-09-09","2026-08-26","2026-08-25","2026-08-24","2026-08-19"];
