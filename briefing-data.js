@@ -1,7 +1,7 @@
-// 由 GitHub Actions 自动生成 2026-09-12T06:20:06.422Z
+// 由 GitHub Actions 自动生成 2026-09-13T06:40:35.221Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "sections": [
     {
       "title": "AI发展",
@@ -48,46 +48,52 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "交易员警惕线上移：10年期美债收益率破6%，才是个人投资组合的真正红线",
+          "text": "也门局势骤然升温！胡塞武装与沙特互相袭击，伊朗：我们与沙特“并不处于战争状态”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781625",
-          "content": "十年期美债收益率在消化CPI数据后已从5%附近关口回落，但最新调查显示，交易员愿意等到收益率突破6%甚至更高，才会着手调整个人持仓。 周五，油价回落使得长期国债收益率小幅回落，但本周美国国债收益率曲线全面飙升，短期美债收益率更是暴跌。 2年期美债收益率攀升28个基点、至4.60%以上，10年期美债收益率一度升至4.988%、逼近5%关口，30年期国债收益率则达到约5.38%，创下2007年以来的最高水平。 9月11日，据彭博最新Mark"
+          "link": "https://wallstreetcn.com/articles/3781644",
+          "content": "也门战场冲突急剧升级，正将中东地区推向更广泛对抗的边缘。也门胡塞武装相继攻占曼德海峡战略要地，并持续对沙特发动袭击，促使多方大国紧急介入斡旋，但局势走向仍高度不确定。 特朗普12日称美方已与胡塞武装通话，后者表示不愿与美国交战，但胡塞武装方面暂未公开证实。与此同时，伊朗总统佩泽希齐扬表示伊朗与沙特“并不处于战争状态”，呼吁地区国家坐下来共同构建和平，但据路透社报道，伊朗此前已向巴基斯坦回应称“无法控制”胡塞武装。 战场局势：胡塞武装控制"
         },
         {
-          "text": "又见存储巨头“天量奖金”：美光最高发68个月奖金",
+          "text": "所有目光聚焦沃什，下周“央行超级周”迎来G7加息潮？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781624",
-          "content": "美光科技宣布向中国台湾员工发放创纪录奖励，但工会拒绝接受并维持罢工威胁，劳资博弈进入关键阶段。 美光科技周五宣布， 中国台湾员工将获得相当于35至68个月薪酬的2026财年奖励，最低现金补偿为170万新台币（约合5.38万美元）。 美光指出，在经历了一个“对公司而言非凡的年份”后，全球超过6万名员工将获得2026财年的奖励，本次向员工发放的薪酬力度为历年来最高。 然而，代表美光中国台湾约三分之二员工的桃园工会当日发表声明称，双方在持续谈"
+          "link": "https://wallstreetcn.com/articles/3781642",
+          "content": "全球货币政策正站在新的转折点。在通胀压力持续升温、中东局势再度升级、油价重返每桶100美元上方的背景下，G7主要央行即将在同一周内相继作出利率决定，全球货币政策格局或将由此重塑。 美联储将率先在周三登场。受上周五美国核心通胀超预期数据提振，市场对美联储主席沃什领衔加息的押注骤然升温——这一举措可能直接与总统特朗普的意愿相悖。彭博经济学家Anna Wong、Andrew Sacher及Eliza Winger直言： &#34;市场信号毫不"
         },
         {
-          "text": "柴油价格历史性突破6美元！美国会放“出口管制”大招吗？",
+          "text": "三巨头支持“放缓”、OpenAI推迟IPO！社区热议：“AI交易”周一遭暴击？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781623",
-          "content": "美国柴油零售价首次突破每加仑6美元，创下历史纪录，令能源驱动的通胀压力在中期选举前夕骤然升温，也将一个长期被视为&#34;下策&#34;的政策选项重新推至聚光灯下——限制乃至禁止美国成品油出口。 据美国汽车协会（AAA）数据，全国柴油均价已达每加仑6.0556美元，加利福尼亚州价格更逼近8美元。 与此同时，汽油价格也突破每加仑4美元，创同期历史最高水平。据彭博9月11日报道，距离11月中期选举仅剩约50天，高企的油价正在侵蚀消费者购买力"
+          "link": "https://wallstreetcn.com/articles/3781643",
+          "content": "周六，Anthropic首席执行官Dario Amodei发文呼吁全球AI行业主动放缓前沿模型开发节奏，随后获得埃隆·马斯克与Sam Altman公开背书。Altman同时向《财富》杂志表示，OpenAI今年不会推进IPO计划，理由是“当前安全形势下，现在上市是不明智的”。 从追求极致增长向强调安全降速的突然转向，已在交易社区引发连锁反应。早期市场指标显示，在“AI降速”消息传出后，HyperliquidX平台上的相关资产应声下跌， O"
         },
         {
-          "text": "OpenAI推出Agents API公测版，将Codex背后的harness与基础设施向开发者开放",
+          "text": "美联储会“连续加息”？1980年代末“紧缩周期”会重演吗？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781521",
-          "content": "OpenAI正将支撑其旗舰编程助手Codex的底层代理框架向全体开发者开放，标志着该公司将内部积累的Agent工程化经验正式产品化输出。 OpenAI周三宣布，Agents API即日起进入公开测试阶段，面向所有开发者开放。 此前这套代理框架与基础设施只服务于Codex和企业版ChatGPT，如今以编程接口的形式对外提供，开发者无需额外付费，仅按实际消耗的token及工具调用量计费。 过去一年，随着Codex和ChatGPT for W"
+          "link": "https://wallstreetcn.com/articles/3781640",
+          "content": "市场对美联储重启加息的担忧正在升温，令历史上一段颇具警示意味的周期重回投资者视野。花旗研究最新量化宏观策略报告显示，当前宏观环境与1988至1989年紧缩周期的相似程度明显上升，同时叠加中东局势再度升级与美国通胀压力重燃，跨资产配置逻辑正在悄然生变。 据追风交易台消息，花旗研究分析师Alex Saunders与Vinh Vo在9月11日发布的报告中指出，尽管其宏观模型（Regime Model）整体仍停留在&#34;正常&#34;（No"
         },
         {
-          "text": "戴尔单日暴涨12%创新高！被甲骨文点名为千亿资本支出“核心供货商”",
+          "text": "死敌罕见联手！马斯克、Aaltman支持Dario Amodei“全球放缓AI”呼吁",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781615",
-          "content": "甲骨文管理层在业绩说明会上点名戴尔为核心供货商，叠加RBC Capital首次覆盖给予&#34;跑赢大盘&#34;评级，戴尔科技股价创新高。 美东时间9月11日美股三大指数全线反弹，资金重新流入AI硬件与半导体板块，戴尔作为AI算力落地的代表标的一举领涨。 此前9月10日美股盘后，甲骨文管理层在业绩说明会上重申2027财年资本支出计划高达900亿至950亿美元，用于扩建AI数据中心及相关基础设施，并直接点名戴尔与HPE将是这笔支出的主要"
+          "link": "https://wallstreetcn.com/articles/3781639",
+          "content": "AI领域三大死敌，史上头一次站在了同一边——在一系列失控事件与末日预警接连冲击行业后，Anthropic、OpenAI与SpaceX的掌门人罕见联手，呼吁放缓人工智能开发步伐。 周六，Anthropic首席执行官Dario Amodei发布博文， 呼吁全球AI行业主动降速，理由是当前前沿模型能力的提升速度已远超人类的理解与控制能力。 文章发出后数小时内， SpaceX首席执行官埃隆·马斯克在X平台发帖表态“Dario说得对”。 Open"
         },
         {
-          "text": "油价是特朗普的“大麻烦”，而日元是所有人的",
+          "text": "“超级周”来袭：美联储会加息吗？霍尔木兹能达成协议吗？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781620",
-          "content": "两条截然不同的风险主线正在同步收紧：油价在政治压力下剧烈震荡，直接威胁特朗普的中期选举前景；而日元的结构性转向，则可能通过套息交易平仓、资本 回流 和全球收益率上行，将冲击波传导至每一个主要资产类别。 布伦特原油周四大幅跳涨后周五急速回落，但仍接近110美元/桶 ，距中期选举仅剩约七周半。自8月油价飙升以来，民主党重夺参议院的概率已从41%升至50%以上。特朗普周二表示，油价将在中期选举后才会大幅回落——此番表态或强化了市场对冲突持续的"
+          "link": "https://wallstreetcn.com/articles/3781558",
+          "content": "09月14日 - 09月20日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 超级央行周与中国8月经济数据： 美联储将公布FOMC利率决议，沃什随后举行新闻发布会，此次加息还是维持利率不变“预计是一场势均力敌的较量”。此外，市场预计日本央行将加息25个基点，焦点在于未来加息节奏的信号。英国央行预计维持利率不变。中国数据方面， 9月15日，8月规模以上工业增加值 、 社零 、 全国房地产开发投资 、 70城房价 "
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114461",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/114461&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "本周看什么 | 最近值得一看的 7 部作品",
           "source": "少数派",
@@ -107,22 +113,16 @@ window.BRIEFING_DATA = {
           "content": "如果你想买一辆能够长期持有、同时又足够「正常」的新能源车，我还是非常推荐去试试理想 i6。<a href=&#34;https://sspai.com/post/113605&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "新 iPhone 配件精选：多种组合一次配齐",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114414",
-          "content": "iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ...<a href=&#34;https://sspai.com/post/114414&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "text": "We must pace the frontier（613 分 · 862 评论）",
+          "source": "Hacker News",
+          "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "content": ""
         },
         {
-          "text": "派早报：商务部回应美国 AI 蒸馏指控",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114439",
-          "content": "<p>商务部回应美国 AI 蒸馏指控</p><p>谷歌声称为了合规将「降级」欧盟搜索服务</p><p>Apple 智能将有用量限制</p><p>OpenAI 将与三星合作开发芯片</p><p>小岛秀夫新游戏被索尼取消，转由微软发行</p><p>DeepSeek V4.1 发布</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=&#34;https://sspai.com/po"
-        },
-        {
-          "text": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114384",
-          "content": "祝每一位老师教师节快乐！<a href=&#34;https://sspai.com/post/114384&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "text": "LG denies TV spying claims, says tracking and snooping concerns 'not true'（490 分 · 387 评论）",
+          "source": "Hacker News",
+          "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+          "content": ""
         }
       ]
     },
@@ -130,21 +130,9 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "ayghri/i-have-adhd：ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output.（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/ayghri/i-have-adhd",
-          "content": ""
-        },
-        {
           "text": "bilawalsidhu/gods-eye-view：bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.（JavaScript）",
           "source": "GitHub",
           "link": "https://github.com/bilawalsidhu/gods-eye-view",
-          "content": ""
-        },
-        {
-          "text": "nab138/iloader：nab138 / iloader User friendly sideloader（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/nab138/iloader",
           "content": ""
         },
         {
@@ -154,15 +142,27 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "vastsa/PI-Desktop：vastsa / PI-Desktop Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins（TypeScript）",
+          "text": "asgeirtj/system_prompts_leaks：asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.（JavaScript）",
           "source": "GitHub",
-          "link": "https://github.com/vastsa/PI-Desktop",
+          "link": "https://github.com/asgeirtj/system_prompts_leaks",
           "content": ""
         },
         {
-          "text": "armory3d/armorpaint：armory3d / armorpaint Graphics Creation Tools（C）",
+          "text": "nab138/iloader：nab138 / iloader User friendly sideloader（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/armory3d/armorpaint",
+          "link": "https://github.com/nab138/iloader",
+          "content": ""
+        },
+        {
+          "text": "Flowseal/zapret-discord-youtube（Batchfile）",
+          "source": "GitHub",
+          "link": "https://github.com/Flowseal/zapret-discord-youtube",
+          "content": ""
+        },
+        {
+          "text": "jihe520/MathModelAgent：jihe520 / MathModelAgent 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/jihe520/MathModelAgent",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-09-12","2026-09-11","2026-09-10","2026-09-09","2026-08-26","2026-08-25","2026-08-24","2026-08-19"];
+window.BRIEFING_ARCHIVE = ["2026-09-13","2026-09-12","2026-09-11","2026-09-10","2026-09-09","2026-08-26","2026-08-25","2026-08-24"];
