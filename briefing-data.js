@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-09-14T06:53:04.265Z
+// 由 GitHub Actions 自动生成 2026-09-15T06:34:01.339Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "宇树如何将机器狗的价格降至 2000 美元",
+          "text": "非洲野犬完成了横跨大陆的 4000 公里之旅",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85366",
-          "content": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验室里有四台宇树的四足机器人，每台售价约 1.5 万美元，以及波士顿动力的四足机器人 Spot，起售价 7.5 万美元。波士顿动力原本是这一领"
+          "link": "https://www.solidot.org/story?sid=85376",
+          "content": "根据发表在《Ecology》期刊上的一项研究，一群非洲野犬完成了横跨大陆、创纪录的 4000 公里之旅。科学家表示这是有记录以来非洲陆生哺乳动物为寻找配偶而行进的最远距离。三只雄犬行进的直线距离大约为 418 公里，但为了绕过人类活动区域它们迂回走了 4000 公里路。非洲野犬是非洲最稀有的捕食者之一，目前野外仅存约 6000 只。它们生活在高度社会化的家族群中，集体狩猎，四处游荡、寻找新领地以及与其它群体进行繁殖机会而闻名。它们无法在"
         },
         {
-          "text": "Matt Mullenweg 据报道恢复了对 Automattic 的控制",
+          "text": "越南关联服务器泄漏了 2.2 亿条旅客信息",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85365",
-          "content": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenweg 通过公司 Slack 频道指责首席财务官 Mark Davies 与董事会串通，董事会投票决定由 Davies 担任临时 CEO。两天后"
+          "link": "https://www.solidot.org/story?sid=85375",
+          "content": "Kinryū Labs 发现了一个因错误配置而能被访问的数据库，该数据库 Advance Passenger Information 记录了过去九年进出越南的几乎所有旅客和机组人员的信息。在接到通知之后该数据库的访问于 2026 年 6 月关闭。Kinryu Labs 是在 6 月 3 日发现了名为 pax-info 的 Elasticsearch 集群，该数据库可使用默认凭证登陆，运营者没有改变默认的用户名和密码，它包含了 29 个索"
         },
         {
-          "text": "北京全面限制无人机",
+          "text": "中国地震局与苹果公司沟通推进地震预警信息接入 iOS",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85364",
-          "content": "北京市政府公布了新修订的《北京市无人驾驶航空器管理规定》，全面限制无人机。《规定》将自 2026 年 11 月 15 日起实施。《规定》明确，本市行政区域全域为无人驾驶航空器管制空域，禁止在本市行政区域内实施无人驾驶航空器飞行活动，禁止在本市行政区域内持有、存放无人驾驶航空器及其核心部件，禁止运输、携带无人驾驶航空器及其核心部件进入本市行政区域。《规定》还要求特殊保障单位应当建立安全管理制度，明确管理责任，防止发生安全事件，特殊保障情形"
+          "link": "https://www.solidot.org/story?sid=85374",
+          "content": "中国地震局监测司上周五表示，中国地震台网中心正在与苹果公司沟通，力争加快推进地震预警信息接入 iOS 系统。苹果手机用户目前可通过微信小程序获取该局统一发布的地震预警信息。今年 8 月 24 日，四川宜宾长宁发生 4.7 级地震，但成都高新减灾研究所用自己的系统生成了一个“7.7级”的地震预警，并以“中国地震预警网”的名义，通过荣耀、vivo、魅族手机以及小天才手表等终端向用户推送。中国地震局后来把这种行为定性为“擅自生成”“违规推送”"
         },
         {
-          "text": "暴雪宣布 FPS 版《星际争霸》",
+          "text": "养狗有助于降低老人患认知症风险",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85362",
-          "content": "暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的第三部《虚空之遗》，时隔 11 年之后宣布的正统续作不再属于 RTS。FPS 版《星际争霸》游戏设定在 Koprulu "
+          "link": "https://www.solidot.org/story?sid=85373",
+          "content": "日本国立环境研究所等机构从 2016 年起，历时 7 年半对约 1.1 万名老年人开展了调查。他们在学术期刊上发表了研究成果。养狗的老年人因认知症需要接受护理的风险比从未养狗的人群低 48%。研究认为，遛狗带来的身体活动以及社交往来起到了积极作用。曾经养过狗的人患认知症的风险也低于从未养过狗的人群。虽然该差异在统计学上并不显著，但推测养狗时期建立的人际联系等因素可能带来了积极影响。研究还表明，养狗能拉动经济。若养狗人群增加，宠物食品、宠"
         },
         {
-          "text": "墨西哥毒贩涉足加密货币挖矿",
+          "text": "律师在谋杀案中捏造了证词，他将此归咎于 ChatGPT",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85361",
-          "content": "墨西哥贩毒集团涉足了加密货币挖矿业务。墨西哥警方在 Puebla 州的 Sierra Norte 地区发现了一个用电量远超周边村庄的矿场，查获了 300 个 GPU、80 个中压终端设备以及 8 个卫星天线。虽然就国际商业规模而言，该矿场的规模相当有限，但这已是自去年年初以来该地区发现的第四个加密货币矿场。根据区块链分析公司 Chainalysis 对流向非法钱包地址的交易量进行的分析，全球范围内非法加密货币交易在 2025 年增长一倍"
+          "link": "https://www.solidot.org/story?sid=85372",
+          "content": "律师在法律文件中使用 AI 工具捏造不存在的信息不是什么大新闻，AI 捏造的通常是不存在的案例，然而本案的特殊之处在于 AI 捏造了证词。律师 Stephen Aaron 在一起谋杀案中代表其客户提起上诉，在递交的法律文件中包含了捏造的警方证词以及虚构的证人。Aaron 声称他将一份由计算机生成的庭审记录及其它案卷材料输入了 ChatGPT，想当然地认为它会生成一份“无懈可击的摘要”。他不清楚 AI 工具会产生“幻觉”——即虚构信息。 "
         },
         {
-          "text": "Waymo 举报了两名携带幽灵枪的青少年乘客",
+          "text": "日本无意结婚的男女比例都超两成",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85360",
-          "content": "Waymo 举报了两名携带幽灵枪的年轻乘客。事件发生在 9 月 3 日凌晨 4 点前，地点是旧金山的 Richmond 区。Waymo 发言人称，它在检测到乘客携带枪支之后，停下了无人出租车，通知了执法部门。旧金山警方拘留了两名未成年青少年，一名男孩和一名女孩，搜查汽车后发现了一支已上膛的 AR 风格突击步枪。两名乘客已被送往少年拘留中心。这不是 Waymo 第一次举报乘客，它在今年 7 月曾举报了玩玩具枪的两名青少年乘客。"
+          "link": "https://www.solidot.org/story?sid=85371",
+          "content": "日本国立社会保障与人口问题研究所公布了 2025 年出生动向基本调查。18-34 岁未婚人群“终生不打算结婚”的男女受访者比例首次都超过 2 成，其中男性为 24.0%，女性为 21.5%。表示“打算将来结婚”的人群中男性占 75.1%，女性占 77.8%。均首次跌破 8 成。回答结婚有好处的人群男性占 56.3%，女性占 63.4%，均创历史最低水平。夫妻理想中的子女数量比 2021 年上一次调查的平均 2.25 人减少 0.07 人"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "苹果预售追踪：iPhone 18 Pro系列海外需求信号偏弱，Duo评测正面但硬件落后",
+          "text": "全球债市遭遇\"完美风暴\"！10年期美债收益率破5%创2007年来新高，日韩股市集体下跌，布油价再涨近2%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781688",
-          "content": "苹果iPhone 18 Pro系列开启预售仅两天，交货等待时间数据已释放明显预警信号——除中国大陆及中国香港地区外，主要海外市场需求较去年同期显著偏弱；与此同时，折叠屏新机Duo初步评测虽获正面反馈，但硬件规格落后于安卓竞品的短板难以回避。 据杰富瑞（Jefferies）于9月14日发布的追踪报告，自9月12日美东时间上午8时开启预购以来， 美国、英国、德国、日本四大市场的iPhone 18 Pro Max交货等待时间较去年同期缩短5至"
+          "link": "https://wallstreetcn.com/articles/3781779",
+          "content": "美国10年期国债收益率突破5%关口，创下近二十年来最高水平， 全球债市正面临油价飙升、政府债务扩张与人工智能融资热潮 三重压力的集中冲击。这一里程碑式的突破，不仅令亚洲股债市场同步走低，更将市场目光聚焦于美联储周三的利率决议——这或将成为决定债市走向的关键节点。 美国10年期国债收益率周二最高上涨4个基点至5.02%，超越2023年高点，为2007年以来首次触及这一水平。此轮上涨的直接导火索是全球油价走高——布伦特原油上涨1.6%至约每"
         },
         {
-          "text": "日本央行加息或已无悬念，关键在于如何应对高市政府和贝森特的压力",
+          "text": "美联储本周加息概率92%、10年期美债收益率破5%，为何没能压垮黄金？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781691",
-          "content": "日本央行本周或将把政策利率上调25个基点至1.25%，创下31年来的最高水平，市场已把这一结果完全定价。真正的悬念已从“加不加息”转向行长植田和男如何在华盛顿与东京的双重政治压力之间，守住日本央行的独立性边界。 最新、也是增量最大的变量来自美国：财政部长贝森特反复声称日本央行在“下一步动作”上存在“不对称信息”，对植田和男的独立性构成空前压力。 与此同时，首相高市早苗倾向再通胀与低利率，其阵营可能通过经济财政政策大臣木内登英向央行施压。"
+          "link": "https://wallstreetcn.com/articles/3781778",
+          "content": "美联储加息预期飙升、美债收益率突破5%心理关口，黄金却未被压垮——这背后是地缘风险驱动的通胀对冲需求与利率压力之间的角力，折射出当前宏观环境的深层矛盾。 中东局势急剧恶化成为这轮行情的核心推手。据 新华社报道 ，也门胡塞武装对沙特发动新一轮袭击，沙特随即关闭东西输油管道，这条管道日均输送量涉及全球约4%的石油供应。油价随之攀升至每桶107美元附近，布伦特原油报每桶106.96美元。能源冲击强化了市场对通胀持续的担忧，CME FedWat"
         },
         {
-          "text": "创业板午后跌超1%，培育钻石、医药股集体走强，恒科指转跌，江波龙H股跌10%",
+          "text": "科创50半日涨近2%，风电、半导体集体大涨，存储芯片拉升，恒科指盘中涨1%，科网股集体反弹",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781673",
-          "content": "9月14日，A股午后全线下跌，三大股指集体走低，创业板跌幅再度扩大至1%。盘面上，培育钻石（金刚石铜散热）、网络安全（AI安全共识）、CRO（创新药）三线领涨，汽车整车、PCB/MLCC、电力活跃；前期高位人气股集体退潮，农业、军工回调，龙版传媒复牌一字跌停。 港股午后分化，恒指震荡上涨，恒科指亦转跌，科网股、汽车股反弹，创新药盘中活跃，芯片股、AI大模型股集体下挫，兆易创新、澜起科技、华虹宏力等纷纷下挫，智谱跌7%，MINIMAX跌5"
+          "link": "https://wallstreetcn.com/articles/3781766",
+          "content": "9月15日，A股三大指数集体低开后冲高回落、涨跌不一，沪指微跌、深成指微涨，科创50逆势涨1.79%领跑，盘中一度涨3%。板块方面，风电设备、PCB/覆铜板、存储芯片三线领涨，网络安全、MLCC、汽车整车、固态电池活跃；大消费与农业集体退潮，农业、旅游酒店、零售跌幅居前。 港股分化，恒指、恒科指盘初一度上涨，恒指翻红，随后再度回落转跌，恒科指盘中一度涨超1%，权重科网股、芯片半导体集体反弹。债市方面，国债期货纷纷走高。商品方面，国内商品"
         },
         {
-          "text": "高盛合伙人：三重阻力压制美股，四大方向仍存布局机会",
+          "text": "高盛对冲基金主管：“零日期权”压制美股波动，科技和能源仍是最佳选择",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781676",
-          "content": "美股二季度走出一波强劲行情，纳斯达克指数单季涨幅达32%，费城半导体指数更飙升87%。但此后市场陷入横盘，涨势戛然而止。 高盛合伙人Mark Wilson在其最新一期《Weekly Mash》中指出，美股自二季度大涨后陷入横盘，三重阻力正在压制市场：中期选举历史规律、量化机器仍满仓做多、能源-债券-股票三角绞杀。Wilson同时看好四个方向：AI基础设施龙头、大宗商品及相关股票（尤其铜）、德国股市、大型银行。 三重阻力：哪些东西挡在前面"
+          "link": "https://wallstreetcn.com/articles/3781777",
+          "content": "美股正处于一场多空拉锯之中，而一股来自期权市场的隐性力量正将标普500指数的日内波动锁定在异常狭窄的区间内。 高盛对冲基金业务主管Tony Pasquariello在最新市场宏观报告中警告称，&#34;当前的交易并不容易&#34;。他指出， 股市一方面受到油价上涨和利率走高的压制，另一方面又获得企业盈利增长的支撑，整体陷入僵局。 与此同时，高盛经济学家David Mericle已将9月美联储议息会议加息25个基点纳入预测，尽管他本人认为"
         },
         {
-          "text": "三家客户贡献44%营收，英伟达越来越依赖大客户了",
+          "text": "知名PE合伙人斯坦福授课：AI 时代的钱到底流向了哪里？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781687",
-          "content": "英伟达的营收规模在过去两年急速膨胀，但与此同时，其客户结构也在悄然收窄。 9月13日，据The Information报道，在截至今年7月的本财年上半年， 英伟达有三家客户各自贡献了超过10%的总营收，三者合计占比达44%。而在上一财年，这一数字是两家客户占36%。再往前追溯至FY2023，英伟达没有任何一家客户的占比达到10%。 这一变化的背后，是英伟达数据中心业务的爆发式增长——该业务营收从FY2023的约150亿美元，飙升至上一财"
+          "link": "https://wallstreetcn.com/articles/3781769",
+          "content": "资深科技投资人、Altimeter Capital合伙人Apoorv Agrawal在斯坦福大学的最新授课中，深度拆解了当前3000亿美元AI生态的“倒三角”利益分配格局，并直言AI应用要想突破当前的盈利瓶颈，进军广告领域将是今年的重大事件。 近期，在斯坦福大学的一场公开课程中，Altimeter Capital合伙人、斯坦福大学兼职讲师Apoorv Agrawal围绕“AI时代的钱到底流向了哪里”这一市场核心关切，进行了深度拆解。 随"
         },
         {
-          "text": "IPO在即，Anthropic连续两季度盈利",
+          "text": "关掉“古法研究型”后，他用AI Agent做了一家“AI时代对冲基金”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781666",
-          "content": "Anthropic正站在上市前的关键节点上，以一份亮眼的财务成绩单向市场证明其商业模式的可行性。 据英国《金融时报》9月13日消息，知情人士透露， 这家Claude大模型的开发商已告知部分股东，本季度调整后营业利润将连续第二个季度实现正值 ，标志着这家成立五年的AI独角兽在冲刺IPO前完成了一项重要的里程碑。与此同时， Anthropic已选定纳斯达克作为上市地点 ， 此次IPO估值或达2万亿美元乃至更高 。 在财务数据层面，Anthr"
+          "link": "https://wallstreetcn.com/articles/3781773",
+          "content": "“Houston，把Desmond周末跑出来的策略图调出来。” Brian Kelly对着电脑说了一句话，几张图表随即出现在屏幕上。 放在过去，这道指令至少要穿过几张办公桌：量化研究员整理测试结果，分析师画图，再把材料送到基金经理面前。如今，周末加班的Desmond是Agent，负责上传下达的Houston也是。 Kelly是对冲基金Bracket22的创始人。公司里还有Steffi和Doocy，一个看技术信号，一个专门攻击投资逻辑。四"
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
+          "text": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
+          "source": "少数派",
+          "link": "https://sspai.com/post/47126",
+          "content": "学生理财应是「理」字当头，培养收支的计划性是第一位，也恰恰是理财投资的基础。<a href=&#34;https://sspai.com/post/47126&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114593",
+          "content": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等<a href=&#34;https://sspai.com/post/114593&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派评｜近期值得关注的 App",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114577",
+          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/114577&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+          "source": "少数派",
+          "link": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+          "content": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。<a href=&#34;https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey&#34; target=&#34;_blank&#34;>查看全文</a><p>本文为会员文章，出自<a href=&#34;https://sspai.c"
+        },
+        {
+          "text": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114453",
+          "content": "照片能证明它被拍过，但不能证明镜头前是真的。<a href=&#34;https://sspai.com/post/114453&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
           "text": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
           "source": "少数派",
           "link": "https://sspai.com/post/114410",
           "content": "每年九月都是苹果用户最期待的时节——苹果发布新一代iPhone。当新机到手，你可能也要随之给手上的配件更新换代。巧了，这一次，少数派给大家带来了一款颠覆以往所有磁吸支架形态的产品，它够薄、够轻、够好用 ...<a href=&#34;https://sspai.com/post/114410&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114539",
-          "content": "<p>美国 AI 高管呼吁放缓研发，特朗普反对</p><p>苹果解释 Apple Watch 不会持续录音</p><p>LG 否认智能电视监控用户</p><p>暴雪公布《魔兽世界》怀旧服</p><p>儿童贴身使用笔记本电脑导致皮肤灼伤</p><p>Android 开始支持密码管理器迁移</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=&#34;https://sspai.c"
-        },
-        {
-          "text": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
-          "source": "少数派",
-          "link": "https://sspai.com/post/113880",
-          "content": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。<a href=&#34;https://sspai.com/post/113880&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114461",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/114461&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher（765 分 · 317 评论）",
-          "source": "Hacker News",
-          "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "content": ""
-        },
-        {
-          "text": "Why is Google still serving dodgy ads?（755 分 · 340 评论）",
-          "source": "Hacker News",
-          "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-          "content": ""
         }
       ]
     },
@@ -136,33 +136,33 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "ever-co/ever-gauzy：ever-co / ever-gauzy Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co（TypeScript）",
+          "text": "alibaba/open-code-review：alibaba / open-code-review Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.（Go）",
           "source": "GitHub",
-          "link": "https://github.com/ever-co/ever-gauzy",
+          "link": "https://github.com/alibaba/open-code-review",
           "content": ""
         },
         {
-          "text": "bilawalsidhu/gods-eye-view：bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.（JavaScript）",
+          "text": "multimodal-art-projection/YuE：multimodal-art-projection / YuE YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/bilawalsidhu/gods-eye-view",
+          "link": "https://github.com/multimodal-art-projection/YuE",
           "content": ""
         },
         {
-          "text": "tech-leads-club/agent-skills：tech-leads-club / agent-skills The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.（TypeScript）",
+          "text": "debpalash/VoiceStudio：debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/tech-leads-club/agent-skills",
+          "link": "https://github.com/debpalash/VoiceStudio",
           "content": ""
         },
         {
-          "text": "melgarafael/DeskcommCRM：melgarafael / DeskcommCRM Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.（TypeScript）",
+          "text": "666ghj/MiroFish：666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物（Python）",
           "source": "GitHub",
-          "link": "https://github.com/melgarafael/DeskcommCRM",
+          "link": "https://github.com/666ghj/MiroFish",
           "content": ""
         },
         {
-          "text": "calesthio/OpenMontage：calesthio / OpenMontage World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.（Python）",
+          "text": "Panniantong/Agent-Reach：Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/calesthio/OpenMontage",
+          "link": "https://github.com/Panniantong/Agent-Reach",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-09-14","2026-09-13","2026-09-12","2026-09-11","2026-09-10","2026-09-09","2026-08-26","2026-08-25"];
+window.BRIEFING_ARCHIVE = ["2026-09-15","2026-09-14","2026-09-13","2026-09-12","2026-09-11","2026-09-10","2026-09-09","2026-08-26"];
