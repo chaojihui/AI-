@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-09-15T06:34:01.339Z
+// 由 GitHub Actions 自动生成 2026-09-16T06:33:33.679Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "非洲野犬完成了横跨大陆的 4000 公里之旅",
+          "text": "夜晚睡眠光照太亮可能会损伤心脏",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85376",
-          "content": "根据发表在《Ecology》期刊上的一项研究，一群非洲野犬完成了横跨大陆、创纪录的 4000 公里之旅。科学家表示这是有记录以来非洲陆生哺乳动物为寻找配偶而行进的最远距离。三只雄犬行进的直线距离大约为 418 公里，但为了绕过人类活动区域它们迂回走了 4000 公里路。非洲野犬是非洲最稀有的捕食者之一，目前野外仅存约 6000 只。它们生活在高度社会化的家族群中，集体狩猎，四处游荡、寻找新领地以及与其它群体进行繁殖机会而闻名。它们无法在"
+          "link": "https://www.solidot.org/story?sid=85388",
+          "content": "研究人员分析了 英国生物样本库（UK Biobank）11,071 名参与者的数据，参与者在一周时间内手腕佩戴了光线和运动传感器。研究开始时参与者均未有心血管疾病。在几年之后他们接受了心脏 MRI 检查。研究人员主要针对两类人群，其一是夜间睡眠时几乎没有任何光；其二是接触至少 3 lux（照度单位）的光，这些光线可能来自透过窗帘射入的街灯，家用电器上的 LED 灯。在考虑个人背景、生活方式、健康状况和环境因素后，研究人员发现，夜间睡眠时"
         },
         {
-          "text": "越南关联服务器泄漏了 2.2 亿条旅客信息",
+          "text": "出于兴趣阅读有助于促进终身的身心健康",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85375",
-          "content": "Kinryū Labs 发现了一个因错误配置而能被访问的数据库，该数据库 Advance Passenger Information 记录了过去九年进出越南的几乎所有旅客和机组人员的信息。在接到通知之后该数据库的访问于 2026 年 6 月关闭。Kinryu Labs 是在 6 月 3 日发现了名为 pax-info 的 Elasticsearch 集群，该数据库可使用默认凭证登陆，运营者没有改变默认的用户名和密码，它包含了 29 个索"
+          "link": "https://www.solidot.org/story?sid=85387",
+          "content": "WHO 的数据显示，全球逾 10 亿人有心理健康障碍，其中焦虑症和抑郁症等病症造成了巨大的个人痛苦和经济损失。全世界约有七分之一 10-19 岁青少年有心理障碍，占该年龄段疾病负担的 15%。抑郁症、焦虑症和行为障碍是导致疾病和残疾的主因，而自杀则是 15-29 岁人群的第三大死因，凸显了为青少年提供心理健康支持的迫切性。人们已经认识到，环境因素会影响大脑健康、认知能力、心理健康及身体健康，而这些因素可通过改变行为加以改善。因此通过改善"
         },
         {
-          "text": "中国地震局与苹果公司沟通推进地震预警信息接入 iOS",
+          "text": "英国殖民之前的澳大利亚原居民人口约 222 万",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85374",
-          "content": "中国地震局监测司上周五表示，中国地震台网中心正在与苹果公司沟通，力争加快推进地震预警信息接入 iOS 系统。苹果手机用户目前可通过微信小程序获取该局统一发布的地震预警信息。今年 8 月 24 日，四川宜宾长宁发生 4.7 级地震，但成都高新减灾研究所用自己的系统生成了一个“7.7级”的地震预警，并以“中国地震预警网”的名义，通过荣耀、vivo、魅族手机以及小天才手表等终端向用户推送。中国地震局后来把这种行为定性为“擅自生成”“违规推送”"
+          "link": "https://www.solidot.org/story?sid=85386",
+          "content": "在英国舰队于 1788 年登陆澳大利亚前，这块大陆生活了多少原居民？在英国殖民澳大利亚 140 多年后的 1930 年代，人口学家 Alfred Radcliffe-Brown 首次对原居民的人口总数进行了估计。他估计澳洲原居民的人口在 25 万到 30 万之间，他强调这是一个最低估计值。现在研究人员使用了五种不同的方法重新进行了估计，得出的中位数是——殖民前澳大利亚的原住民约有 222 万。研究人员称，原住民人口至少 100 万以上，"
         },
         {
-          "text": "养狗有助于降低老人患认知症风险",
+          "text": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85373",
-          "content": "日本国立环境研究所等机构从 2016 年起，历时 7 年半对约 1.1 万名老年人开展了调查。他们在学术期刊上发表了研究成果。养狗的老年人因认知症需要接受护理的风险比从未养狗的人群低 48%。研究认为，遛狗带来的身体活动以及社交往来起到了积极作用。曾经养过狗的人患认知症的风险也低于从未养过狗的人群。虽然该差异在统计学上并不显著，但推测养狗时期建立的人际联系等因素可能带来了积极影响。研究还表明，养狗能拉动经济。若养狗人群增加，宠物食品、宠"
+          "link": "https://www.solidot.org/story?sid=85385",
+          "content": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5%）主要是 AI 编写的，10 款应用难以明确归类（9.8%）， 18 款应用几乎没有 AI 参与的迹象（17.6%）。有 4 个托管在 C"
         },
         {
-          "text": "律师在谋杀案中捏造了证词，他将此归咎于 ChatGPT",
+          "text": "廉价太阳能改变世界能源格局",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85372",
-          "content": "律师在法律文件中使用 AI 工具捏造不存在的信息不是什么大新闻，AI 捏造的通常是不存在的案例，然而本案的特殊之处在于 AI 捏造了证词。律师 Stephen Aaron 在一起谋杀案中代表其客户提起上诉，在递交的法律文件中包含了捏造的警方证词以及虚构的证人。Aaron 声称他将一份由计算机生成的庭审记录及其它案卷材料输入了 ChatGPT，想当然地认为它会生成一份“无懈可击的摘要”。他不清楚 AI 工具会产生“幻觉”——即虚构信息。 "
+          "link": "https://www.solidot.org/story?sid=85384",
+          "content": "巴基斯坦水泥公司 Bestway Cement 正在扩建其太阳能发电设施，计划年底前在现有 26MW 装机容量的基础上增加 6.34MW 装机容量。太阳能满足了该公司逾四分之一的电力需求。受益于中国制造的廉价太阳能组件，Bestway 及其竞争对手加入了全球数百万企业和家庭的行列，在屋顶、庭院、花园等空地上安装太阳能电池板。截至 2025 年底，全球太阳能装机容量已接近 1.2TW。由廉价中国光伏板推动的太阳能革命——以及个人发电模式的"
         },
         {
-          "text": "日本无意结婚的男女比例都超两成",
+          "text": "一款在浏览器里运行、部署在自己服务器上的 SQL 客户端",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85371",
-          "content": "日本国立社会保障与人口问题研究所公布了 2025 年出生动向基本调查。18-34 岁未婚人群“终生不打算结婚”的男女受访者比例首次都超过 2 成，其中男性为 24.0%，女性为 21.5%。表示“打算将来结婚”的人群中男性占 75.1%，女性占 77.8%。均首次跌破 8 成。回答结婚有好处的人群男性占 56.3%，女性占 63.4%，均创历史最低水平。夫妻理想中的子女数量比 2021 年上一次调查的平均 2.25 人减少 0.07 人"
+          "link": "https://www.solidot.org/story?sid=85383",
+          "content": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 这些都在内。9 月 8 日发布了 0.15.0 版本。我觉得值得一提的是他们把 AI 那部分做了实测：28 个模型跑同一套六项数据库任"
         }
       ]
     },
@@ -48,46 +48,70 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "全球债市遭遇\"完美风暴\"！10年期美债收益率破5%创2007年来新高，日韩股市集体下跌，布油价再涨近2%",
+          "text": "日本8月出口增19.3%，但高油价推高贸易逆差",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781779",
-          "content": "美国10年期国债收益率突破5%关口，创下近二十年来最高水平， 全球债市正面临油价飙升、政府债务扩张与人工智能融资热潮 三重压力的集中冲击。这一里程碑式的突破，不仅令亚洲股债市场同步走低，更将市场目光聚焦于美联储周三的利率决议——这或将成为决定债市走向的关键节点。 美国10年期国债收益率周二最高上涨4个基点至5.02%，超越2023年高点，为2007年以来首次触及这一水平。此轮上涨的直接导火索是全球油价走高——布伦特原油上涨1.6%至约每"
+          "link": "https://wallstreetcn.com/articles/3781867",
+          "content": "日本8月出口延续两位数增长，对美、对华出货增速均跑赢整体，但进口成本在油价与日元弱势作用下加速攀升，贸易逆差扩大至1.1万亿日元，连续第四个月录得赤字。半导体出口的强劲动能正与能源进口的价格冲击形成对冲。 日本财务省周三公布的数据显示， 8月出口同比增长19.3%，为连续第12个月增长，但较7月的23.2%有所放缓，高于经济学家18.4%的预期中值。 进口同比大增28%，远超出口增速，推动未经调整的贸易逆差从7月修正后的6383亿日元扩"
         },
         {
-          "text": "美联储本周加息概率92%、10年期美债收益率破5%，为何没能压垮黄金？",
+          "text": "不要和盈利周期对抗！美股今年破8000点？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781778",
-          "content": "美联储加息预期飙升、美债收益率突破5%心理关口，黄金却未被压垮——这背后是地缘风险驱动的通胀对冲需求与利率压力之间的角力，折射出当前宏观环境的深层矛盾。 中东局势急剧恶化成为这轮行情的核心推手。据 新华社报道 ，也门胡塞武装对沙特发动新一轮袭击，沙特随即关闭东西输油管道，这条管道日均输送量涉及全球约4%的石油供应。油价随之攀升至每桶107美元附近，布伦特原油报每桶106.96美元。能源冲击强化了市场对通胀持续的担忧，CME FedWat"
+          "link": "https://wallstreetcn.com/articles/3781870",
+          "content": "华尔街可能严重低估了当前盈利周期的爆发力。 据追风交易台消息，杰富瑞（Jefferies）在9月14日的最新研报中发出明确警告： 不要与盈利周期对抗 。在AI投资狂潮和企业盈利超预期上行的双重引擎驱动下， 标普500指数预计将在今年（2026年）底飙升至8000点，并在2027年进一步触及9000点 。 报告认为，尽管面临10年期美债收益率上升、通胀粘性以及中期选举等宏观逆风，但是 企业基本面仍将是决定回报的核心驱动力 。 杰富瑞的核心"
         },
         {
-          "text": "科创50半日涨近2%，风电、半导体集体大涨，存储芯片拉升，恒科指盘中涨1%，科网股集体反弹",
+          "text": "“持续学习”的AI将把内存“供不应求”延伸至2031年?",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781766",
-          "content": "9月15日，A股三大指数集体低开后冲高回落、涨跌不一，沪指微跌、深成指微涨，科创50逆势涨1.79%领跑，盘中一度涨3%。板块方面，风电设备、PCB/覆铜板、存储芯片三线领涨，网络安全、MLCC、汽车整车、固态电池活跃；大消费与农业集体退潮，农业、旅游酒店、零售跌幅居前。 港股分化，恒指、恒科指盘初一度上涨，恒指翻红，随后再度回落转跌，恒科指盘中一度涨超1%，权重科网股、芯片半导体集体反弹。债市方面，国债期货纷纷走高。商品方面，国内商品"
+          "link": "https://wallstreetcn.com/articles/3781868",
+          "content": "AI记忆能力的结构性跃升，正将全球内存市场推向一个持续数年的供给短缺周期。 据追风交易台消息，花旗在9月14日的报告中表示，随着AI从单纯的训练与推理阶段迈入&#34;持续学习&#34;时代， HBM、服务器DDR5及企业级固态硬盘（eSSD）的需求将从2027年起同步爆发性增长 。花旗预计，DRAM供需比（S/D ratio）将在2027年和2028年分别恶化至-8.7%和-9.7%，NAND同期供需比亦将跌至-6.1%和-5.5%，"
         },
         {
-          "text": "高盛对冲基金主管：“零日期权”压制美股波动，科技和能源仍是最佳选择",
+          "text": "“AI安全”的市场意义：推理和后训练算力需求增加20%，拉高行业整体算力成本18%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781777",
-          "content": "美股正处于一场多空拉锯之中，而一股来自期权市场的隐性力量正将标普500指数的日内波动锁定在异常狭窄的区间内。 高盛对冲基金业务主管Tony Pasquariello在最新市场宏观报告中警告称，&#34;当前的交易并不容易&#34;。他指出， 股市一方面受到油价上涨和利率走高的压制，另一方面又获得企业盈利增长的支撑，整体陷入僵局。 与此同时，高盛经济学家David Mericle已将9月美联储议息会议加息25个基点纳入预测，尽管他本人认为"
+          "link": "https://wallstreetcn.com/articles/3781860",
+          "content": "AI安全监管正从道德议题演变为可量化的成本变量，并将深刻重塑AI基础设施的投资逻辑。 据追风交易台，巴克莱最新研究报告，前沿AI实验室推行的&#34;节奏控制&#34;（Pacing）机制，将在2027年起为行业整体算力成本增加约18%，对应新增开支逾440亿美元。 OpenAI于2026年8月18日发布博文，正式披露其针对高能力模型的安全监控要求。根据该披露，对于Sol级别及以上能力的模型，所有强化学习（RL）训练、评估及推理工作负载"
         },
         {
-          "text": "知名PE合伙人斯坦福授课：AI 时代的钱到底流向了哪里？",
+          "text": "NikeSKIMS入华，女性运动服饰市场又多了一个变量",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781769",
-          "content": "资深科技投资人、Altimeter Capital合伙人Apoorv Agrawal在斯坦福大学的最新授课中，深度拆解了当前3000亿美元AI生态的“倒三角”利益分配格局，并直言AI应用要想突破当前的盈利瓶颈，进军广告领域将是今年的重大事件。 近期，在斯坦福大学的一场公开课程中，Altimeter Capital合伙人、斯坦福大学兼职讲师Apoorv Agrawal围绕“AI时代的钱到底流向了哪里”这一市场核心关切，进行了深度拆解。 随"
+          "link": "https://wallstreetcn.com/articles/3781866",
+          "content": "NikeSKIMS终于正式进入中国。 9月16日，由耐克与SKIMS共同打造的NikeSKIMS宣布登陆中国市场。 首波产品涵盖九大服装面料系列、鞋履及配饰，并将于9月29日在上海兴业太古汇开出中国首个线下慢闪空间，持续开放至2027年2月。 线上则通过Nike App和耐克中国官网销售。 这也是NikeSKIMS自2025年9月北美首发近一年后，最新一次地域扩张。过去一年，NikeSKIMS一直通过扩充品类和市场，把一次新品首发逐渐推"
         },
         {
-          "text": "关掉“古法研究型”后，他用AI Agent做了一家“AI时代对冲基金”",
+          "text": "香港发布首个五年规划：聚焦人工智能产业，强化全球最大离岸人民币枢纽功能",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781773",
-          "content": "“Houston，把Desmond周末跑出来的策略图调出来。” Brian Kelly对着电脑说了一句话，几张图表随即出现在屏幕上。 放在过去，这道指令至少要穿过几张办公桌：量化研究员整理测试结果，分析师画图，再把材料送到基金经理面前。如今，周末加班的Desmond是Agent，负责上传下达的Houston也是。 Kelly是对冲基金Bracket22的创始人。公司里还有Steffi和Doocy，一个看技术信号，一个专门攻击投资逻辑。四"
+          "link": "https://wallstreetcn.com/articles/3781865",
+          "content": "香港特区政府发布首份经济和社会发展五年规划，以人工智能产业和深化大湾区融合为核心抓手，为2026至2030年的发展路径划定清晰框架。 9月15日，香港特区政府正式公布《香港特别行政区经济和社会发展第一个五年规划（2026-2030年）》， 这是香港有史以来首次以五年规划形式系统阐述其经济和社会发展蓝图。 行政长官李家超公布的这份规划共约6万字，分7篇58章，设立 六大目标，涵盖经济突破、国际竞争力提升、北部都会区建设加速，以及民生福祉改"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
+          "source": "少数派",
+          "link": "https://sspai.com/post/113295",
+          "content": "复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。<a href=&#34;https://sspai.com/post/113295&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114638",
+          "content": "华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。<a href=&#34;https://sspai.com/post/114638&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114613",
+          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/114613&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114565",
+          "content": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=&#34;https://sspai.com/post/114565&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
           "source": "少数派",
@@ -99,30 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/114593",
           "content": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等<a href=&#34;https://sspai.com/post/114593&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派评｜近期值得关注的 App",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114577",
-          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/114577&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-          "source": "少数派",
-          "link": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-          "content": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。<a href=&#34;https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey&#34; target=&#34;_blank&#34;>查看全文</a><p>本文为会员文章，出自<a href=&#34;https://sspai.c"
-        },
-        {
-          "text": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114453",
-          "content": "照片能证明它被拍过，但不能证明镜头前是真的。<a href=&#34;https://sspai.com/post/114453&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114410",
-          "content": "每年九月都是苹果用户最期待的时节——苹果发布新一代iPhone。当新机到手，你可能也要随之给手上的配件更新换代。巧了，这一次，少数派给大家带来了一款颠覆以往所有磁吸支架形态的产品，它够薄、够轻、够好用 ...<a href=&#34;https://sspai.com/post/114410&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,21 +130,21 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "JustVugg/colibri：JustVugg / colibri Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦（C）",
-          "source": "GitHub",
-          "link": "https://github.com/JustVugg/colibri",
-          "content": ""
-        },
-        {
           "text": "alibaba/open-code-review：alibaba / open-code-review Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.（Go）",
           "source": "GitHub",
           "link": "https://github.com/alibaba/open-code-review",
           "content": ""
         },
         {
-          "text": "multimodal-art-projection/YuE：multimodal-art-projection / YuE YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.（Python）",
+          "text": "JustVugg/colibri：JustVugg / colibri Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦（C）",
           "source": "GitHub",
-          "link": "https://github.com/multimodal-art-projection/YuE",
+          "link": "https://github.com/JustVugg/colibri",
+          "content": ""
+        },
+        {
+          "text": "ever-co/ever-gauzy：ever-co / ever-gauzy Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/ever-co/ever-gauzy",
           "content": ""
         },
         {
@@ -154,15 +154,15 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "666ghj/MiroFish：666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物（Python）",
+          "text": "Homebrew/BrewUI：Homebrew / BrewUI 📺 Homebrew's official macOS GUI（Swift）",
           "source": "GitHub",
-          "link": "https://github.com/666ghj/MiroFish",
+          "link": "https://github.com/Homebrew/BrewUI",
           "content": ""
         },
         {
-          "text": "Panniantong/Agent-Reach：Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.（Python）",
+          "text": "melgarafael/DeskcommCRM：melgarafael / DeskcommCRM Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/Panniantong/Agent-Reach",
+          "link": "https://github.com/melgarafael/DeskcommCRM",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-09-15","2026-09-14","2026-09-13","2026-09-12","2026-09-11","2026-09-10","2026-09-09","2026-08-26"];
+window.BRIEFING_ARCHIVE = ["2026-09-16","2026-09-15","2026-09-14","2026-09-13","2026-09-12","2026-09-11","2026-09-10","2026-09-09"];
