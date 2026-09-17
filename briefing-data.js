@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-09-16T06:33:33.679Z
+// 由 GitHub Actions 自动生成 2026-09-17T06:32:41.077Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "夜晚睡眠光照太亮可能会损伤心脏",
+          "text": "付费给大学生睡足七小时提高了他们的学习成绩",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85388",
-          "content": "研究人员分析了 英国生物样本库（UK Biobank）11,071 名参与者的数据，参与者在一周时间内手腕佩戴了光线和运动传感器。研究开始时参与者均未有心血管疾病。在几年之后他们接受了心脏 MRI 检查。研究人员主要针对两类人群，其一是夜间睡眠时几乎没有任何光；其二是接触至少 3 lux（照度单位）的光，这些光线可能来自透过窗帘射入的街灯，家用电器上的 LED 灯。在考虑个人背景、生活方式、健康状况和环境因素后，研究人员发现，夜间睡眠时"
+          "link": "https://www.solidot.org/story?sid=85400",
+          "content": "全世界有无数人的睡眠不足，睡眠不足与肥胖、糖尿病、高血压、心脏病、中风及过早死亡相关。如果有人付费让你睡更长时间？科学家为此做了一项社会实验。研究人员向匹兹堡大学的 1100 多名本科生提供了 Fitbit 以及一款能发送就寝提醒和晨间反馈的应用。在为期四周内研究人员随机选择了 468 名学生，只要他们某晚睡眠时间达到至少七小时，就向其支付 5 美元报酬。研究人员通过他们佩戴的设备核实实际睡眠时长。参与研究的学生平均年龄约为 19 岁，"
         },
         {
-          "text": "出于兴趣阅读有助于促进终身的身心健康",
+          "text": "PS2 Fat 使用的安全芯片在时隔 26 年被破解",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85387",
-          "content": "WHO 的数据显示，全球逾 10 亿人有心理健康障碍，其中焦虑症和抑郁症等病症造成了巨大的个人痛苦和经济损失。全世界约有七分之一 10-19 岁青少年有心理障碍，占该年龄段疾病负担的 15%。抑郁症、焦虑症和行为障碍是导致疾病和残疾的主因，而自杀则是 15-29 岁人群的第三大死因，凸显了为青少年提供心理健康支持的迫切性。人们已经认识到，环境因素会影响大脑健康、认知能力、心理健康及身体健康，而这些因素可通过改变行为加以改善。因此通过改善"
+          "link": "https://www.solidot.org/story?sid=85399",
+          "content": "1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP102064 芯片进行开盖，利用显微镜和光学数据提取技术分析芯片电路。期间发现了一个漏洞利用方法，可通过软件提取芯片数据。MechaCon "
         },
         {
-          "text": "英国殖民之前的澳大利亚原居民人口约 222 万",
+          "text": "Denuvo 起诉黑客违反 DMCA 反规避条款",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85386",
-          "content": "在英国舰队于 1788 年登陆澳大利亚前，这块大陆生活了多少原居民？在英国殖民澳大利亚 140 多年后的 1930 年代，人口学家 Alfred Radcliffe-Brown 首次对原居民的人口总数进行了估计。他估计澳洲原居民的人口在 25 万到 30 万之间，他强调这是一个最低估计值。现在研究人员使用了五种不同的方法重新进行了估计，得出的中位数是——殖民前澳大利亚的原住民约有 222 万。研究人员称，原住民人口至少 100 万以上，"
+          "link": "https://www.solidot.org/story?sid=85398",
+          "content": "Denuvo 在美国加州北区联邦法院起诉了名叫 voices38 的匿名游戏破解黑客，指控其违反了 DMCA 的反规避条款。被告被控绕过了逾二十款游戏使用的 Denuvo DRM，相关游戏包括了《霍格沃茨之遗（Hogwarts Legacy）》和《黑神话：悟空》。随着诉讼的推进，Denuvo 可能会向 Reddit、Discord 和 Valve 发出传票，以获取黑客的身份信息。voices38 发布了一系列使用 Denuvo DRM "
         },
         {
-          "text": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
+          "text": "AWS 称无法恢复中东部分可用区资源和数据的访问",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85385",
-          "content": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5%）主要是 AI 编写的，10 款应用难以明确归类（9.8%）， 18 款应用几乎没有 AI 参与的迹象（17.6%）。有 4 个托管在 C"
+          "link": "https://www.solidot.org/story?sid=85397",
+          "content": "亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。亚马逊此前已建议其客户将其工作负荷迁移到其它可用区，它表示在该可用区完全无法使用前大部分客户已完成了迁移。位于阿联酋的可用区 mec1-az"
         },
         {
-          "text": "廉价太阳能改变世界能源格局",
+          "text": "FAST 发现极短周期、最轻双中子星系统",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85384",
-          "content": "巴基斯坦水泥公司 Bestway Cement 正在扩建其太阳能发电设施，计划年底前在现有 26MW 装机容量的基础上增加 6.34MW 装机容量。太阳能满足了该公司逾四分之一的电力需求。受益于中国制造的廉价太阳能组件，Bestway 及其竞争对手加入了全球数百万企业和家庭的行列，在屋顶、庭院、花园等空地上安装太阳能电池板。截至 2025 年底，全球太阳能装机容量已接近 1.2TW。由廉价中国光伏板推动的太阳能革命——以及个人发电模式的"
+          "link": "https://www.solidot.org/story?sid=85396",
+          "content": "天文学家利用中国天眼（500 米口径球面射电望远镜，FAST）开展大规模银道面脉冲星系统性搜寻，迄今已成功发现约 900 颗新脉冲星。通过持续后续精准观测，研究讨团队识别了一颗处于紧致轨道的双中子星系统 PSRJ1856-0039。该双中子星系统轨道周期仅 2.36 小时，在人类已知双中子星系统中位列第二短。极短的轨道周期意味着两颗中子星间距极小、双星相互绕转轨道的致密程度极高，是目前已知相对论效应表现最显著的双中子星系统之一。同时该系"
         },
         {
-          "text": "一款在浏览器里运行、部署在自己服务器上的 SQL 客户端",
+          "text": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85383",
-          "content": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 这些都在内。9 月 8 日发布了 0.15.0 版本。我觉得值得一提的是他们把 AI 那部分做了实测：28 个模型跑同一套六项数据库任"
+          "link": "https://www.solidot.org/story?sid=85395",
+          "content": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，M"
         }
       ]
     },
@@ -48,46 +48,70 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "日本8月出口增19.3%，但高油价推高贸易逆差",
+          "text": "诺和诺德、礼来、字节系落子AI制药，A股创新药、CRO板块嗨了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781867",
-          "content": "日本8月出口延续两位数增长，对美、对华出货增速均跑赢整体，但进口成本在油价与日元弱势作用下加速攀升，贸易逆差扩大至1.1万亿日元，连续第四个月录得赤字。半导体出口的强劲动能正与能源进口的价格冲击形成对冲。 日本财务省周三公布的数据显示， 8月出口同比增长19.3%，为连续第12个月增长，但较7月的23.2%有所放缓，高于经济学家18.4%的预期中值。 进口同比大增28%，远超出口增速，推动未经调整的贸易逆差从7月修正后的6383亿日元扩"
+          "link": "https://wallstreetcn.com/articles/3781972",
+          "content": "AI制药浪潮正催生新一轮产业协作热潮，并直接带动上游服务板块估值重估。 9月16日， 诺和诺德宣布与Anthropic达成合作，将采用后者科学专用平台Claude Science加速新药研发；同日，金斯瑞生物科技宣布与礼来AI/机器学习药物发现协作平台Lilly TuneLab™达成合作，为其参与企业提供湿实验室验证服务。 此外， 据硬AI消息 ，字节跳动拆分独立的AI制药公司Anew Labs已完成2.9亿美元首轮融资，红杉中国、高瓴"
         },
         {
-          "text": "不要和盈利周期对抗！美股今年破8000点？",
+          "text": "SpaceX是防御性AI股吗？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781870",
-          "content": "华尔街可能严重低估了当前盈利周期的爆发力。 据追风交易台消息，杰富瑞（Jefferies）在9月14日的最新研报中发出明确警告： 不要与盈利周期对抗 。在AI投资狂潮和企业盈利超预期上行的双重引擎驱动下， 标普500指数预计将在今年（2026年）底飙升至8000点，并在2027年进一步触及9000点 。 报告认为，尽管面临10年期美债收益率上升、通胀粘性以及中期选举等宏观逆风，但是 企业基本面仍将是决定回报的核心驱动力 。 杰富瑞的核心"
+          "link": "https://wallstreetcn.com/articles/3781970",
+          "content": "在AI安全争议升温、基础模型发展前景受质疑之际，摩根士丹利强调，SpaceX在AI股组合中具备相对更强的防御属性，并维持其超配评级及300美元目标价。 外界对基础模型开发自我限速的呼声已令AI交易整体承压。据摩根士丹利研究，在过去一周及一个月的股价表现中，SpaceX相较Meta、英伟达、Broadcom等主要AI同类股展现出更强的抗跌韧性。分析师Adam Jonas指出，SpaceX并非纯粹的AI标的，其业务多元化结构赋予股价在AI情"
         },
         {
-          "text": "“持续学习”的AI将把内存“供不应求”延伸至2031年?",
+          "text": "习近平就发展先进制造业作出重要指示强调，持续做大做强先进制造业，为推进中国式现代化提供有力支撑",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781868",
-          "content": "AI记忆能力的结构性跃升，正将全球内存市场推向一个持续数年的供给短缺周期。 据追风交易台消息，花旗在9月14日的报告中表示，随着AI从单纯的训练与推理阶段迈入&#34;持续学习&#34;时代， HBM、服务器DDR5及企业级固态硬盘（eSSD）的需求将从2027年起同步爆发性增长 。花旗预计，DRAM供需比（S/D ratio）将在2027年和2028年分别恶化至-8.7%和-9.7%，NAND同期供需比亦将跌至-6.1%和-5.5%，"
+          "link": "https://wallstreetcn.com/articles/3781967",
+          "content": "中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的十八大以来，我国先进制造业不断发展壮大，创新力、竞争力、综合实力显著增强，制造强国建设迈出坚实步伐。 习近平强调，新征程上，要以新时代中国特色社会主义思想为指导，完整准确全面贯彻新发展理念，统筹高质量发展和高水平安全，坚持智能化、绿色化、融合化方向，持续做大做强先进制造业，提升产业链自主可控水平，加快构建以先进制造业为骨干的现代化产业体系，巩固壮大实体"
         },
         {
-          "text": "“AI安全”的市场意义：推理和后训练算力需求增加20%，拉高行业整体算力成本18%",
+          "text": "GPU云服务掀涨价潮：Nebius再提价20%，算力供给侧迎议价权反转",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781860",
-          "content": "AI安全监管正从道德议题演变为可量化的成本变量，并将深刻重塑AI基础设施的投资逻辑。 据追风交易台，巴克莱最新研究报告，前沿AI实验室推行的&#34;节奏控制&#34;（Pacing）机制，将在2027年起为行业整体算力成本增加约18%，对应新增开支逾440亿美元。 OpenAI于2026年8月18日发布博文，正式披露其针对高能力模型的安全监控要求。根据该披露，对于Sol级别及以上能力的模型，所有强化学习（RL）训练、评估及推理工作负载"
+          "link": "https://wallstreetcn.com/articles/3781962",
+          "content": "Nebius宣布将于10月1日起全面上调旗下GPU云服务定价，平均涨幅约20%，叠加英伟达发布强劲季度财报，推动该股盘后大涨近7%，AI算力供需格局持续偏紧的市场判断进一步获得印证。 此轮提价覆盖H100、H200、B200及B300多款芯片型号，是Nebius今年5月以来的第二轮涨价。市场将此解读为AI算力需求持续过热、供给仍然紧张的强烈信号，受此提振，Coreweave盘后续涨近4%，光通信板块亦普遍走强，AAOI、Credo Te"
         },
         {
-          "text": "NikeSKIMS入华，女性运动服饰市场又多了一个变量",
+          "text": "A股三大股指集体冲高回落，CRO、创新药大涨，贵金属下挫，恒科指盘中跌超1%，AI大模型股双雄反弹",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781866",
-          "content": "NikeSKIMS终于正式进入中国。 9月16日，由耐克与SKIMS共同打造的NikeSKIMS宣布登陆中国市场。 首波产品涵盖九大服装面料系列、鞋履及配饰，并将于9月29日在上海兴业太古汇开出中国首个线下慢闪空间，持续开放至2027年2月。 线上则通过Nike App和耐克中国官网销售。 这也是NikeSKIMS自2025年9月北美首发近一年后，最新一次地域扩张。过去一年，NikeSKIMS一直通过扩充品类和市场，把一次新品首发逐渐推"
+          "link": "https://wallstreetcn.com/articles/3781953",
+          "content": "在美联储偏鹰加息的冲击下，A股和港股市场风险情绪承压，但A股市场结构性主线清晰：创新药、汽车整车与玻纤电子布逆势活跃，前期强势的黄金股则集体重挫。港股AI大模型股反弹，智谱盘中涨7%，得益于智谱9月16日表示，有信心将年末ARR（年度经常性收入）指引从24亿美元上调至30亿美元。 9月17日，A股早盘集体低开，三大股指盘初一度上冲，创业板涨超1%，随后震荡回落，生物医药板块大涨，CRO、减肥药、创新药等集体拉升，玻璃纤维、玻璃基板、电子"
         },
         {
-          "text": "香港发布首个五年规划：聚焦人工智能产业，强化全球最大离岸人民币枢纽功能",
+          "text": "摩根大通全球宏观大会：央行可能比预期“更快更大幅度加息”，但“股票与债券收益率”可能“齐涨”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781865",
-          "content": "香港特区政府发布首份经济和社会发展五年规划，以人工智能产业和深化大湾区融合为核心抓手，为2026至2030年的发展路径划定清晰框架。 9月15日，香港特区政府正式公布《香港特别行政区经济和社会发展第一个五年规划（2026-2030年）》， 这是香港有史以来首次以五年规划形式系统阐述其经济和社会发展蓝图。 行政长官李家超公布的这份规划共约6万字，分7篇58章，设立 六大目标，涵盖经济突破、国际竞争力提升、北部都会区建设加速，以及民生福祉改"
+          "link": "https://wallstreetcn.com/articles/3781943",
+          "content": "据追风交易台消息，摩根大通摩根大通战略研究部发布摩根大通全球宏观大会的会议纪要，称本次大会释放的最核心信号，可以用一句话概括：股票与美债收益率可以同时上行，至少目前如此。全球央行，尤其是美联储，可能不得不以比市场预期更快、更大幅度的节奏加息。 报告称，15位宏观与市场演讲者围绕美国经济前景、美联储政策、AI资本支出及地缘政治风险展开深度讨论，形成两大高确信度判断： 第一，央行——尤其是美联储——可能不得不以比市场预期更快、更大幅度的节奏"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114451",
+          "content": "今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？<a href=&#34;https://sspai.com/post/114451&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114658",
+          "content": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。<a href=&#34;https://sspai.com/post/114658&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "探秘柬埔寨，千年吴哥窟",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114454",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/114454&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114607",
+          "content": "今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。<a href=&#34;https://sspai.com/post/114607&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
           "source": "少数派",
@@ -99,30 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/114638",
           "content": "华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。<a href=&#34;https://sspai.com/post/114638&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114613",
-          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/114613&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114565",
-          "content": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=&#34;https://sspai.com/post/114565&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
-          "source": "少数派",
-          "link": "https://sspai.com/post/47126",
-          "content": "学生理财应是「理」字当头，培养收支的计划性是第一位，也恰恰是理财投资的基础。<a href=&#34;https://sspai.com/post/47126&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114593",
-          "content": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等<a href=&#34;https://sspai.com/post/114593&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -136,33 +136,33 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
+          "text": "cloudflare/security-audit-skill：cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings（JavaScript）",
+          "source": "GitHub",
+          "link": "https://github.com/cloudflare/security-audit-skill",
+          "content": ""
+        },
+        {
           "text": "JustVugg/colibri：JustVugg / colibri Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦（C）",
           "source": "GitHub",
           "link": "https://github.com/JustVugg/colibri",
           "content": ""
         },
         {
-          "text": "ever-co/ever-gauzy：ever-co / ever-gauzy Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co（TypeScript）",
+          "text": "abue-ammar/tinycast：abue-ammar / tinycast Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.（Swift）",
           "source": "GitHub",
-          "link": "https://github.com/ever-co/ever-gauzy",
+          "link": "https://github.com/abue-ammar/tinycast",
           "content": ""
         },
         {
-          "text": "debpalash/VoiceStudio：debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.（Python）",
+          "text": "jamiepine/voicebox：jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/debpalash/VoiceStudio",
+          "link": "https://github.com/jamiepine/voicebox",
           "content": ""
         },
         {
-          "text": "Homebrew/BrewUI：Homebrew / BrewUI 📺 Homebrew's official macOS GUI（Swift）",
+          "text": "Lakr233/vphone-cli（Swift）",
           "source": "GitHub",
-          "link": "https://github.com/Homebrew/BrewUI",
-          "content": ""
-        },
-        {
-          "text": "melgarafael/DeskcommCRM：melgarafael / DeskcommCRM Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/melgarafael/DeskcommCRM",
+          "link": "https://github.com/Lakr233/vphone-cli",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-09-16","2026-09-15","2026-09-14","2026-09-13","2026-09-12","2026-09-11","2026-09-10","2026-09-09"];
+window.BRIEFING_ARCHIVE = ["2026-09-17","2026-09-16","2026-09-15","2026-09-14","2026-09-13","2026-09-12","2026-09-11","2026-09-10"];
