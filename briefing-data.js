@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-09-17T06:32:41.077Z
+// 由 GitHub Actions 自动生成 2026-09-18T06:27:36.389Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "付费给大学生睡足七小时提高了他们的学习成绩",
+          "text": "微塑料像特洛伊木马一样传播有毒物质",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85400",
-          "content": "全世界有无数人的睡眠不足，睡眠不足与肥胖、糖尿病、高血压、心脏病、中风及过早死亡相关。如果有人付费让你睡更长时间？科学家为此做了一项社会实验。研究人员向匹兹堡大学的 1100 多名本科生提供了 Fitbit 以及一款能发送就寝提醒和晨间反馈的应用。在为期四周内研究人员随机选择了 468 名学生，只要他们某晚睡眠时间达到至少七小时，就向其支付 5 美元报酬。研究人员通过他们佩戴的设备核实实际睡眠时长。参与研究的学生平均年龄约为 19 岁，"
+          "link": "https://www.solidot.org/story?sid=85412",
+          "content": "欧洲的一项研究发现，微塑料会像特洛伊木马一样在土壤中传播污染物、农药和细菌。研究人员在 11 个国家测试了 227 块农田，都发现了微塑料。研究人员还发现，微塑料可能会与农药兽药发生相互作用。瑞士的一项研究发现，轮胎磨损颗粒含量最高的农田，其有毒化学物质和金属的含量也最高。微塑料的表面能为微生物创造新的栖息地，该表面被称为塑料圈（plastisphere）。相比对照组，塑料圈内的抗生素抗性基因有所增加，农药则进一步放大了这一效应。研究人"
         },
         {
-          "text": "PS2 Fat 使用的安全芯片在时隔 26 年被破解",
+          "text": "德国法庭裁决 Meta 要为其平台上第三方发布的虚假广告承担责任",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85399",
-          "content": "1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP102064 芯片进行开盖，利用显微镜和光学数据提取技术分析芯片电路。期间发现了一个漏洞利用方法，可通过软件提取芯片数据。MechaCon "
+          "link": "https://www.solidot.org/story?sid=85411",
+          "content": "德国一家法院周四裁定，Meta 必须对其 Instagram 和 Facebook 平台上第三方发布的虚假广告承担责任，责令 Meta 删除此类内容和支付赔偿。诉讼由一家德国金融门户网站的运营商及其创始人提起，虚假广告在推荐可疑投资项目时未经许可使用了它的 logo 和图像。该运营商在 2024 年 8 月向 Meta 举报了近 260 起违规，而 Meta 花了 62 天时间才删除部分内容。Meta 发言人表示对裁决持异议，正在考虑后"
         },
         {
-          "text": "Denuvo 起诉黑客违反 DMCA 反规避条款",
+          "text": "刚果埃博拉疫情死亡人数超过 3500 人",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85398",
-          "content": "Denuvo 在美国加州北区联邦法院起诉了名叫 voices38 的匿名游戏破解黑客，指控其违反了 DMCA 的反规避条款。被告被控绕过了逾二十款游戏使用的 Denuvo DRM，相关游戏包括了《霍格沃茨之遗（Hogwarts Legacy）》和《黑神话：悟空》。随着诉讼的推进，Denuvo 可能会向 Reddit、Discord 和 Valve 发出传票，以获取黑客的身份信息。voices38 发布了一系列使用 Denuvo DRM "
+          "link": "https://www.solidot.org/story?sid=85410",
+          "content": "刚果民主共和国的埃博拉疫情死亡人数超过 3500 人，确诊病例超过 7400 例，逾 1700 人康复。WHO 称，疫情最严重的 Ituri 省的病毒传播速度在下降，上周报告了约 300 例新增病例和 160 例死亡病例，占全国的一半；South Kivu 省自 5 月以来未报告新增病例；North Kivu 省的传播速度在加快，过去两周的新增病例从 100 多增加到 200 多；邻国乌干达境内的传播已经遏制。WHO 宣布，埃博拉疫苗试"
         },
         {
-          "text": "AWS 称无法恢复中东部分可用区资源和数据的访问",
+          "text": "Roman 太空望远镜有足够的燃料可服役 22 年",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85397",
-          "content": "亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。亚马逊此前已建议其客户将其工作负荷迁移到其它可用区，它表示在该可用区完全无法使用前大部分客户已完成了迁移。位于阿联酋的可用区 mec1-az"
+          "link": "https://www.solidot.org/story?sid=85409",
+          "content": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA 表示受益于精确的发射、巧妙规划的飞行轨道，地面操作团队的出色执行，望远镜有足够的燃料能执行 22 年的任务。NASA 称，Roman 望远"
         },
         {
-          "text": "FAST 发现极短周期、最轻双中子星系统",
+          "text": "今年上线的微短剧逾九成是 AI 剧",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85396",
-          "content": "天文学家利用中国天眼（500 米口径球面射电望远镜，FAST）开展大规模银道面脉冲星系统性搜寻，迄今已成功发现约 900 颗新脉冲星。通过持续后续精准观测，研究讨团队识别了一颗处于紧致轨道的双中子星系统 PSRJ1856-0039。该双中子星系统轨道周期仅 2.36 小时，在人类已知双中子星系统中位列第二短。极短的轨道周期意味着两颗中子星间距极小、双星相互绕转轨道的致密程度极高，是目前已知相对论效应表现最显著的双中子星系统之一。同时该系"
+          "link": "https://www.solidot.org/story?sid=85408",
+          "content": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI 生成的电影。现年 38 岁陈奕龙说道，“如果你无法战胜它，那就加入它。”雇佣陈奕龙的是总部位于深圳的 Feixiang Universe "
         },
         {
-          "text": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
+          "text": "地球正变得不那么扁平",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85395",
-          "content": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，M"
+          "link": "https://www.solidot.org/story?sid=85407",
+          "content": "地球并非是完美的球形，自转以及围绕太阳公转使其赤道部分隆起，两极部分扁平。根据一项新研究，可能是由于极地地区的冰雪融化，地球两极在隆起，与此同时赤道地区则在加速下沉，地球的整体形状变得不那么扁平。研究人员利用了 GNSS 导航网络地面站在 1997-2015 年间的测量数据，绘制了地球固体部分的升降变化。结果显示，1997-2000 年间地球两极以每年约 0.5 毫米的速度隆起。到 2015 年，隆起速度已增至每年 1 毫米。"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "诺和诺德、礼来、字节系落子AI制药，A股创新药、CRO板块嗨了",
+          "text": "沪指重返3900点，创业板涨超2%，半导体爆发，创新药拉升，恒科指涨超1%，联想创新高，MINIMAX涨13%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781972",
-          "content": "AI制药浪潮正催生新一轮产业协作热潮，并直接带动上游服务板块估值重估。 9月16日， 诺和诺德宣布与Anthropic达成合作，将采用后者科学专用平台Claude Science加速新药研发；同日，金斯瑞生物科技宣布与礼来AI/机器学习药物发现协作平台Lilly TuneLab™达成合作，为其参与企业提供湿实验室验证服务。 此外， 据硬AI消息 ，字节跳动拆分独立的AI制药公司Anew Labs已完成2.9亿美元首轮融资，红杉中国、高瓴"
+          "link": "https://wallstreetcn.com/articles/3782045",
+          "content": "9月18日，A股早盘放量普涨，三大股指全线走高，盘中集体涨超1%，创业板涨超2%，沪指重新站上3900点，科创50半日大涨近4%领跑全场。半导体设备、先进封装、存储芯片、算力芯片全线爆发，CPO光模块、创新药、大消费共振走强，前期强势的农业、汽车高位股则集体回吐。 港股早盘高开高走，恒指、恒科指双双上涨，恒科指亦涨超1%，权重科网股多数上涨，联想集团大涨超7%，创历史新高，市值超越美团，芯片股反弹，兆易创新、华虹宏力等涨幅居前。AI大模"
         },
         {
-          "text": "SpaceX是防御性AI股吗？",
+          "text": "桥水基金：AI基建交易大多已被定价，仅持有“很小仓位”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781970",
-          "content": "在AI安全争议升温、基础模型发展前景受质疑之际，摩根士丹利强调，SpaceX在AI股组合中具备相对更强的防御属性，并维持其超配评级及300美元目标价。 外界对基础模型开发自我限速的呼声已令AI交易整体承压。据摩根士丹利研究，在过去一周及一个月的股价表现中，SpaceX相较Meta、英伟达、Broadcom等主要AI同类股展现出更强的抗跌韧性。分析师Adam Jonas指出，SpaceX并非纯粹的AI标的，其业务多元化结构赋予股价在AI情"
+          "link": "https://wallstreetcn.com/articles/3782057",
+          "content": "全球最大对冲基金之一桥水基金（Bridgewater Associates）对AI基础设施投资主题的热情正在降温。桥水管理首席投资官Greg Jensen表示，AI基建相关交易的上行空间已大部分被市场定价，基金正将目光转向其他投资机会。 据科技媒体The Information报道，Jensen直言， &#34;两年前这是一笔极好的交易，但如今大部分已被定价。&#34; 他透露，桥水目前在AI基建方向上仅持有&#34;很小的仓位&#34"
         },
         {
-          "text": "习近平就发展先进制造业作出重要指示强调，持续做大做强先进制造业，为推进中国式现代化提供有力支撑",
+          "text": "美联储开始加息，私募信贷“雪上加霜”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781967",
-          "content": "中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的十八大以来，我国先进制造业不断发展壮大，创新力、竞争力、综合实力显著增强，制造强国建设迈出坚实步伐。 习近平强调，新征程上，要以新时代中国特色社会主义思想为指导，完整准确全面贯彻新发展理念，统筹高质量发展和高水平安全，坚持智能化、绿色化、融合化方向，持续做大做强先进制造业，提升产业链自主可控水平，加快构建以先进制造业为骨干的现代化产业体系，巩固壮大实体"
+          "link": "https://wallstreetcn.com/articles/3782044",
+          "content": "美联储新一轮加息，正将本已深陷困境的私募股权行业推向更危险的境地。 创纪录的3490亿美元资金被困&#34;僵尸基金&#34;，退出渠道持续堵塞，募资规模跌至多年低点 ——这场危机的烈度，正随利率曲线的上行而加剧。 美联储本周三宣布加息，直接打击了私募股权行业年初以来对市场复苏的期待。此前，行业普遍寄望于特朗普任命的新任美联储主席沃什推动降息，交易活动也一度回暖。然而利率不降反升， 约5000亿美元处于存续第七至十年的私募基金面临无法按"
         },
         {
-          "text": "GPU云服务掀涨价潮：Nebius再提价20%，算力供给侧迎议价权反转",
+          "text": "投票结果7-2！日本央行以1990年以来最快速度升息，日元跌破157，日经225急涨",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781962",
-          "content": "Nebius宣布将于10月1日起全面上调旗下GPU云服务定价，平均涨幅约20%，叠加英伟达发布强劲季度财报，推动该股盘后大涨近7%，AI算力供需格局持续偏紧的市场判断进一步获得印证。 此轮提价覆盖H100、H200、B200及B300多款芯片型号，是Nebius今年5月以来的第二轮涨价。市场将此解读为AI算力需求持续过热、供给仍然紧张的强烈信号，受此提振，Coreweave盘后续涨近4%，光通信板块亦普遍走强，AAOI、Credo Te"
+          "link": "https://wallstreetcn.com/articles/3782052",
+          "content": "日本央行周五（9月18日）将基准利率上调25个基点至1.25%，为1995年以来最高水平，也是自2024年3月退出负利率政策以来的第六次加息。此次加息速度创下1990年以来最快纪录，标志着日本货币正常化进程进入新阶段。 决策并非全票通过。 九名委员中，日本首相高市早苗任命的两位再通胀派委员浅田统一郎和佐藤绫野投了不同意见票，主张按兵不动， 反映出行内对进一步紧缩的分歧犹存。分析认为，这释放出了鸽派信号：主张刺激经济的高市早苗可能不愿看到"
         },
         {
-          "text": "A股三大股指集体冲高回落，CRO、创新药大涨，贵金属下挫，恒科指盘中跌超1%，AI大模型股双雄反弹",
+          "text": "三家AI公司估值超5万亿美元、超过45年科技IPO首日估值总和，VC“分散投资”逻辑正在失效",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781953",
-          "content": "在美联储偏鹰加息的冲击下，A股和港股市场风险情绪承压，但A股市场结构性主线清晰：创新药、汽车整车与玻纤电子布逆势活跃，前期强势的黄金股则集体重挫。港股AI大模型股反弹，智谱盘中涨7%，得益于智谱9月16日表示，有信心将年末ARR（年度经常性收入）指引从24亿美元上调至30亿美元。 9月17日，A股早盘集体低开，三大股指盘初一度上冲，创业板涨超1%，随后震荡回落，生物医药板块大涨，CRO、减肥药、创新药等集体拉升，玻璃纤维、玻璃基板、电子"
+          "link": "https://wallstreetcn.com/articles/3782032",
+          "content": "AI浪潮正在将风险投资行业长期奉行的&#34;广撒网&#34;逻辑逼向极限。 Anthropic预计在近期上市时估值将达2万亿美元，SpaceX今年6月IPO首日估值同样为2万亿美元，OpenAI则正考虑以1.2万亿美元估值完成私募融资、并于明年谋求上市。仅此三家公司合计估值便将轻松突破5万亿美元。 据佛罗里达大学Warrington商学院荣誉教授Jay Ritter整理的数据， 1980年至2025年间共有3365家科技公司完成IPO"
         },
         {
-          "text": "摩根大通全球宏观大会：央行可能比预期“更快更大幅度加息”，但“股票与债券收益率”可能“齐涨”",
+          "text": "中国工业5.0：十年12万亿美元的资本开支超级周期",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3781943",
-          "content": "据追风交易台消息，摩根大通摩根大通战略研究部发布摩根大通全球宏观大会的会议纪要，称本次大会释放的最核心信号，可以用一句话概括：股票与美债收益率可以同时上行，至少目前如此。全球央行，尤其是美联储，可能不得不以比市场预期更快、更大幅度的节奏加息。 报告称，15位宏观与市场演讲者围绕美国经济前景、美联储政策、AI资本支出及地缘政治风险展开深度讨论，形成两大高确信度判断： 第一，央行——尤其是美联储——可能不得不以比市场预期更快、更大幅度的节奏"
+          "link": "https://wallstreetcn.com/articles/3782054",
+          "content": "中国制造业正在经历一场深刻的范式转变——从依赖规模与低成本的&#34;世界工厂&#34;，升级为以AI、自动化与产业生态为核心的&#34;全球工业操作系统&#34;， 这一转变将催生一轮规模达12万亿美元，时间跨度长达十年的工业资本开支超级周期。 据追风交易台，摩根士丹利在最新发布的BluePaper报告中将其定义为“工业5.0”，这轮投资的核心并非单纯扩大传统产能，而是推动工厂向自适应、可学习、可持续迭代的生产系统演进。资金将重点流向"
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
+          "text": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114670",
+          "content": "让我们一起细数 watchOS 27 中的新功能。<a href=&#34;https://sspai.com/post/114670&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "让 Agent 读懂你的身体：数据获取篇",
+          "source": "少数派",
+          "link": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+          "content": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ...<a href=&#34;https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis&#34; target=&#34;_blank&#34;>查看全文</"
+        },
+        {
+          "text": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114699",
+          "content": "少数派的近期动态口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解八月买了什 ...<a href=&#34;https://sspai.com/post/114699&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "城市漫步指南｜威海初秋，看海玩沙",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114557",
+          "content": "9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。<a href=&#34;https://sspai.com/post/114557&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114643",
+          "content": "除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。<a href=&#34;https://sspai.com/post/114643&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
           "text": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
           "source": "少数派",
           "link": "https://sspai.com/post/114451",
           "content": "今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？<a href=&#34;https://sspai.com/post/114451&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114658",
-          "content": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。<a href=&#34;https://sspai.com/post/114658&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "探秘柬埔寨，千年吴哥窟",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114454",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/114454&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114607",
-          "content": "今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。<a href=&#34;https://sspai.com/post/114607&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/113295",
-          "content": "复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。<a href=&#34;https://sspai.com/post/113295&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114638",
-          "content": "华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。<a href=&#34;https://sspai.com/post/114638&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -142,27 +142,27 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "JustVugg/colibri：JustVugg / colibri Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦（C）",
+          "text": "addyosmani/agent-skills：addyosmani / agent-skills Production-grade engineering skills for AI coding agents.（JavaScript）",
           "source": "GitHub",
-          "link": "https://github.com/JustVugg/colibri",
+          "link": "https://github.com/addyosmani/agent-skills",
           "content": ""
         },
         {
-          "text": "abue-ammar/tinycast：abue-ammar / tinycast Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.（Swift）",
+          "text": "Tencent/BrowserSkill：Tencent / BrowserSkill Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/abue-ammar/tinycast",
+          "link": "https://github.com/Tencent/BrowserSkill",
           "content": ""
         },
         {
-          "text": "jamiepine/voicebox：jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create.（TypeScript）",
+          "text": "alphaXiv/OpenResearch：alphaXiv / OpenResearch Turn your coding agents into research agents（Rust）",
           "source": "GitHub",
-          "link": "https://github.com/jamiepine/voicebox",
+          "link": "https://github.com/alphaXiv/OpenResearch",
           "content": ""
         },
         {
-          "text": "Lakr233/vphone-cli（Swift）",
+          "text": "anthropics/claude-code：anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/Lakr233/vphone-cli",
+          "link": "https://github.com/anthropics/claude-code",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-09-17","2026-09-16","2026-09-15","2026-09-14","2026-09-13","2026-09-12","2026-09-11","2026-09-10"];
+window.BRIEFING_ARCHIVE = ["2026-09-18","2026-09-17","2026-09-16","2026-09-15","2026-09-14","2026-09-13","2026-09-12","2026-09-11"];
