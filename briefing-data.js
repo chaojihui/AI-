@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-09-18T06:27:36.389Z
+// 由 GitHub Actions 自动生成 2026-09-19T06:26:10.512Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "微塑料像特洛伊木马一样传播有毒物质",
+          "text": "微软高管称 AI 的训练数据是人类历史上最大规模的劳动成果盗窃",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85412",
-          "content": "欧洲的一项研究发现，微塑料会像特洛伊木马一样在土壤中传播污染物、农药和细菌。研究人员在 11 个国家测试了 227 块农田，都发现了微塑料。研究人员还发现，微塑料可能会与农药兽药发生相互作用。瑞士的一项研究发现，轮胎磨损颗粒含量最高的农田，其有毒化学物质和金属的含量也最高。微塑料的表面能为微生物创造新的栖息地，该表面被称为塑料圈（plastisphere）。相比对照组，塑料圈内的抗生素抗性基因有所增加，农药则进一步放大了这一效应。研究人"
+          "link": "https://www.solidot.org/story?sid=85423",
+          "content": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动成果盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web。OpenAI 的产品如 ChatGPT 可能会危及新闻出版商的经济基础。OpenAI 和微软的数据都显示这一预测是正确的。微软的数据指出，"
         },
         {
-          "text": "德国法庭裁决 Meta 要为其平台上第三方发布的虚假广告承担责任",
+          "text": "85% 的日本游戏开发者在工作中使用生成式 AI",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85411",
-          "content": "德国一家法院周四裁定，Meta 必须对其 Instagram 和 Facebook 平台上第三方发布的虚假广告承担责任，责令 Meta 删除此类内容和支付赔偿。诉讼由一家德国金融门户网站的运营商及其创始人提起，虚假广告在推荐可疑投资项目时未经许可使用了它的 logo 和图像。该运营商在 2024 年 8 月向 Meta 举报了近 260 起违规，而 Meta 花了 62 天时间才删除部分内容。Meta 发言人表示对裁决持异议，正在考虑后"
+          "link": "https://www.solidot.org/story?sid=85422",
+          "content": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game Industry Report》显示，85.8% 的日本游戏开发者在工作中使用生成式 AI——63% 的开发者表示每天都在使用，22.8% 的开发者则是偶尔使用，去年这一比例是 51%。开发者使用生成式 AI 最主要是为了“改进运营效率与生产力”，其次是“缩短开发周期”以及“降低开发与运"
         },
         {
-          "text": "刚果埃博拉疫情死亡人数超过 3500 人",
+          "text": "安全研究人员利用 Claude 成功入侵 OpenAI",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85410",
-          "content": "刚果民主共和国的埃博拉疫情死亡人数超过 3500 人，确诊病例超过 7400 例，逾 1700 人康复。WHO 称，疫情最严重的 Ituri 省的病毒传播速度在下降，上周报告了约 300 例新增病例和 160 例死亡病例，占全国的一半；South Kivu 省自 5 月以来未报告新增病例；North Kivu 省的传播速度在加快，过去两周的新增病例从 100 多增加到 200 多；邻国乌干达境内的传播已经遏制。WHO 宣布，埃博拉疫苗试"
+          "link": "https://www.solidot.org/story?sid=85421",
+          "content": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服务。他们向 OpenAI 和 Discourse 报告了 bug，从 OpenAI 获得了 6500 美元的赏金。安全研究人员利用了 Ope"
         },
         {
-          "text": "Roman 太空望远镜有足够的燃料可服役 22 年",
+          "text": "科学家识别了一种新猫科动物",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85409",
-          "content": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA 表示受益于精确的发射、巧妙规划的飞行轨道，地面操作团队的出色执行，望远镜有足够的燃料能执行 22 年的任务。NASA 称，Roman 望远"
+          "link": "https://www.solidot.org/story?sid=85420",
+          "content": "研究人员识别了一种新的野生猫科动物，这是一百年来首次命名新猫科物种。新物种被命名 Leopardus tilcayo（或 Tilcayo 虎猫），生活在玻利维亚的 Yungas 地区，身材纤细，布满斑点，长着圆耳朵，其体型比普通家猫要小。目前不清楚该种群的数量。虎猫是原产于中南美洲、Leopardus 属小型野生猫科动物，南美洲共有五种虎猫，全都生活在栖息地正迅速消失的地方。新发现的 Tilcayo 虎猫是在 Yungas 的一个动物保"
         },
         {
-          "text": "今年上线的微短剧逾九成是 AI 剧",
+          "text": "美国的富裕社区更可能发生火灾",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85408",
-          "content": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI 生成的电影。现年 38 岁陈奕龙说道，“如果你无法战胜它，那就加入它。”雇佣陈奕龙的是总部位于深圳的 Feixiang Universe "
+          "link": "https://www.solidot.org/story?sid=85419",
+          "content": "加州河滨的研究人员分析了 1984 年以来发生的 141 起火灾，并结合人口数量、开发状况、气候及人口统计数据进行分析。研究发现，富裕社区面临火灾的几率高约 30%。原因是富裕社区通常位于森林环绕的山坡或峡谷地带，因此更容易遭受火灾。一旦社区遭遇火灾，恢复过程会十分缓慢。约 78% 的严重过火区域在五年内未能恢复到火灾前的温度范围，而 73 %的区域未能恢复到此前的植被覆盖水平。总体而言，过火后的城市区域变得更热，植被更少，且影响会持续"
         },
         {
-          "text": "地球正变得不那么扁平",
+          "text": "韩国的超老龄化问题",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85407",
-          "content": "地球并非是完美的球形，自转以及围绕太阳公转使其赤道部分隆起，两极部分扁平。根据一项新研究，可能是由于极地地区的冰雪融化，地球两极在隆起，与此同时赤道地区则在加速下沉，地球的整体形状变得不那么扁平。研究人员利用了 GNSS 导航网络地面站在 1997-2015 年间的测量数据，绘制了地球固体部分的升降变化。结果显示，1997-2000 年间地球两极以每年约 0.5 毫米的速度隆起。到 2015 年，隆起速度已增至每年 1 毫米。"
+          "link": "https://www.solidot.org/story?sid=85418",
+          "content": "一个社会中 65 岁及以上人口占到总人口的 7%-13%，即被认为是老龄化社会；如果该比例超过 20%，则被认为是超老龄化社会。2024 年 12 月韩国老年人口比例首次超过 20%，进入了超老龄化社会。到 2026 年 8 月，该比例进一步提高到了 22.1%。人口老龄化本身并非问题。某种程度上它反映了人口结构的进步：由于生活条件的改善，过早死亡的人数减少，同时寿命也延长了。人口老龄化完全可能标志着社会变得更安全、健康，在人口结构上更"
         }
       ]
     },
@@ -48,46 +48,58 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "沪指重返3900点，创业板涨超2%，半导体爆发，创新药拉升，恒科指涨超1%，联想创新高，MINIMAX涨13%",
+          "text": "从“减速”到“加油”！Astra两周抢占13%份额，Anthropic考虑IPO前发布新模型应战",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782045",
-          "content": "9月18日，A股早盘放量普涨，三大股指全线走高，盘中集体涨超1%，创业板涨超2%，沪指重新站上3900点，科创50半日大涨近4%领跑全场。半导体设备、先进封装、存储芯片、算力芯片全线爆发，CPO光模块、创新药、大消费共振走强，前期强势的农业、汽车高位股则集体回吐。 港股早盘高开高走，恒指、恒科指双双上涨，恒科指亦涨超1%，权重科网股多数上涨，联想集团大涨超7%，创历史新高，市值超越美团，芯片股反弹，兆易创新、华虹宏力等涨幅居前。AI大模"
+          "link": "https://wallstreetcn.com/articles/3782129",
+          "content": "喊出&#34;放缓&#34;仅七天，Anthropic就面临打乱自身发布节奏的压力。 据路透社报道，在OpenAI新模型GPT-6 Astra上线仅两周、企业端份额急剧流失的背景下，Anthropic正在评估提前发布新模型的可能性。这一转变折射出一个现实： 在IPO倒计时与激烈的市场竞争面前，增长曲线的优先级高于安全宣言。 据路透社报道，Anthropic内部已就提前发布新模型展开讨论，消息人士还透露，AI助手Claude正深度参与下一"
         },
         {
-          "text": "桥水基金：AI基建交易大多已被定价，仅持有“很小仓位”",
+          "text": "2张反对票意味着什么？日本这次加息“最值得玩味的问题”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782057",
-          "content": "全球最大对冲基金之一桥水基金（Bridgewater Associates）对AI基础设施投资主题的热情正在降温。桥水管理首席投资官Greg Jensen表示，AI基建相关交易的上行空间已大部分被市场定价，基金正将目光转向其他投资机会。 据科技媒体The Information报道，Jensen直言， &#34;两年前这是一笔极好的交易，但如今大部分已被定价。&#34; 他透露，桥水目前在AI基建方向上仅持有&#34;很小的仓位&#34"
+          "link": "https://wallstreetcn.com/articles/3782127",
+          "content": "在2026年9月的议息会议上，日本央行如期将政策利率从1.00%上调至1.25%。然而，剥开符合预期的表象，真正的市场信号隐藏在两张反对票中。花旗银行指出一个看似矛盾的“悖论”： 鸽派委员的反对票，反而将促使日本央行以更快的速度冲刺终端利率。 据追风交易台，花旗银行日本经济分析师Sosuke Nakamura 18日发布研究报告，深度复盘日本央行（BoJ）9月议息会议。日本央行如期将政策利率从1.00%上调至1.25%，但此次会议最值得"
         },
         {
-          "text": "美联储开始加息，私募信贷“雪上加霜”",
+          "text": "人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782044",
-          "content": "美联储新一轮加息，正将本已深陷困境的私募股权行业推向更危险的境地。 创纪录的3490亿美元资金被困&#34;僵尸基金&#34;，退出渠道持续堵塞，募资规模跌至多年低点 ——这场危机的烈度，正随利率曲线的上行而加剧。 美联储本周三宣布加息，直接打击了私募股权行业年初以来对市场复苏的期待。此前，行业普遍寄望于特朗普任命的新任美联储主席沃什推动降息，交易活动也一度回暖。然而利率不降反升， 约5000亿美元处于存续第七至十年的私募基金面临无法按"
+          "link": "https://wallstreetcn.com/articles/3782125",
+          "content": "巴克莱认为，通用人形机器人的大规模部署可能要等到2035年前后，而非2030年。 在9月18日发布的最新研报中，巴克莱对人形机器人投资热潮提出了三点判断：瓶颈在智能而非硬件，算力拉动集中在边缘而非数据中心，Physical AI颠覆的第一波浪潮很可能根本不是人形的。 报告中，巴克莱还围绕着规模、算力、形态等投资者最关切的问题进行了详细分析。 争议一：大规模部署，2035而非2030 巴克莱在报告中写道，当前行业中被展示的许多人形机器人能"
         },
         {
-          "text": "投票结果7-2！日本央行以1990年以来最快速度升息，日元跌破157，日经225急涨",
+          "text": "闪迪暴涨11%，存储和芯片股“短期期权”爆巨量，“AI股神”又出手了？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782052",
-          "content": "日本央行周五（9月18日）将基准利率上调25个基点至1.25%，为1995年以来最高水平，也是自2024年3月退出负利率政策以来的第六次加息。此次加息速度创下1990年以来最快纪录，标志着日本货币正常化进程进入新阶段。 决策并非全票通过。 九名委员中，日本首相高市早苗任命的两位再通胀派委员浅田统一郎和佐藤绫野投了不同意见票，主张按兵不动， 反映出行内对进一步紧缩的分歧犹存。分析认为，这释放出了鸽派信号：主张刺激经济的高市早苗可能不愿看到"
+          "link": "https://wallstreetcn.com/articles/3782123",
+          "content": "周五，约9600万美元短期看涨期权集中涌入闪迪（SanDisk）、美光（Micron）、英特尔（Intel）和Marvell四只AI芯片股。盘中，闪迪涨幅一度暴涨11%。 看着这波“爆巨量”的短期期权交易流，CNBC主持人Jim Cramer在社交平台X上发文感叹道：“看这架势，活脱脱Leopold杀回来了！” 如果你一直在关注全球AI算力和大模型赛道的投资机会，你一定不会对Leopold Aschenbrenner感到陌生。 这位曾经"
         },
         {
-          "text": "三家AI公司估值超5万亿美元、超过45年科技IPO首日估值总和，VC“分散投资”逻辑正在失效",
+          "text": "Anthropic、OpenAI、谷歌等AI巨头遭反垄断诉讼，被指协同放缓技术发展",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782032",
-          "content": "AI浪潮正在将风险投资行业长期奉行的&#34;广撒网&#34;逻辑逼向极限。 Anthropic预计在近期上市时估值将达2万亿美元，SpaceX今年6月IPO首日估值同样为2万亿美元，OpenAI则正考虑以1.2万亿美元估值完成私募融资、并于明年谋求上市。仅此三家公司合计估值便将轻松突破5万亿美元。 据佛罗里达大学Warrington商学院荣誉教授Jay Ritter整理的数据， 1980年至2025年间共有3365家科技公司完成IPO"
+          "link": "https://wallstreetcn.com/articles/3782124",
+          "content": "人工智能行业的监管争议正从政策层面蔓延至法律战场。 据Politico报道，四家原告于上周五在加利福尼亚州联邦法院提起民事诉讼，指控Anthropic、OpenAI、SpaceXAI及谷歌涉嫌违反美国反垄断法，通过公开协调放缓AI发展速度的方式实施非法商业合谋。上述四家公司均未立即回应置评请求。 诉讼的直接导火索是Anthropic首席执行官Dario Amodei本月早些时候发表的一篇文章。文章呼吁&#34;全行业协调&#34;以&#"
         },
         {
-          "text": "中国工业5.0：十年12万亿美元的资本开支超级周期",
+          "text": "姆巴佩告别耐克加盟昂跑，跑鞋新贵挑战足球市场",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782054",
-          "content": "中国制造业正在经历一场深刻的范式转变——从依赖规模与低成本的&#34;世界工厂&#34;，升级为以AI、自动化与产业生态为核心的&#34;全球工业操作系统&#34;， 这一转变将催生一轮规模达12万亿美元，时间跨度长达十年的工业资本开支超级周期。 据追风交易台，摩根士丹利在最新发布的BluePaper报告中将其定义为“工业5.0”，这轮投资的核心并非单纯扩大传统产能，而是推动工厂向自适应、可学习、可持续迭代的生产系统演进。资金将重点流向"
+          "link": "https://wallstreetcn.com/articles/3782121",
+          "content": "以高端跑鞋起家的瑞士运动品牌On昂跑，正式把业务版图扩展至足球市场。 9月18日，昂跑宣布与法国球星基利安·姆巴佩合作。姆巴佩将担任全球品牌大使，并直接参与未来足球鞋及服装的研发与测试。 与此同时，法国足坛名宿蒂埃里·亨利出任昂跑足球运动总监，负责产品开发、球员合作及足球文化等业务。据昂跑披露，亨利从2025年底开始，已在幕后参与品牌进入足球市场的战略和产品筹备。 效力于巴塞罗那女足的瑞士球员西德妮·舍滕莱布也将参与产品研发和测试。她自"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "本周看什么 | 最近值得一看的 9 部作品",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114716",
+          "content": "📅本周新预告《哆啦A梦大雄的蒸汽时间车》首支特报9月15日，动画电影《哆啦A梦大雄的蒸汽时间车》发布了特报影像，定档2027年3月5日在日本上映。本作为《哆啦A梦》电影系列第46部作品，森山瑠潮执导， ...<a href=&#34;https://sspai.com/post/114716&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "8月音乐精选：有限的生命里，要听得再任性一点！",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114555",
+          "content": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=&#34;https://sspai.com/post/114555&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
           "source": "少数派",
@@ -111,18 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/114557",
           "content": "9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。<a href=&#34;https://sspai.com/post/114557&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114643",
-          "content": "除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。<a href=&#34;https://sspai.com/post/114643&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114451",
-          "content": "今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？<a href=&#34;https://sspai.com/post/114451&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,21 +130,27 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "alibaba/open-code-review：alibaba / open-code-review Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.（Go）",
-          "source": "GitHub",
-          "link": "https://github.com/alibaba/open-code-review",
-          "content": ""
-        },
-        {
           "text": "cloudflare/security-audit-skill：cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings（JavaScript）",
           "source": "GitHub",
           "link": "https://github.com/cloudflare/security-audit-skill",
           "content": ""
         },
         {
-          "text": "addyosmani/agent-skills：addyosmani / agent-skills Production-grade engineering skills for AI coding agents.（JavaScript）",
+          "text": "anthropics/claude-code：anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/addyosmani/agent-skills",
+          "link": "https://github.com/anthropics/claude-code",
+          "content": ""
+        },
+        {
+          "text": "alibaba/open-code-review：alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.（Go）",
+          "source": "GitHub",
+          "link": "https://github.com/alibaba/open-code-review",
+          "content": ""
+        },
+        {
+          "text": "affaan-m/ECC：affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.（JavaScript）",
+          "source": "GitHub",
+          "link": "https://github.com/affaan-m/ECC",
           "content": ""
         },
         {
@@ -154,15 +160,9 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "alphaXiv/OpenResearch：alphaXiv / OpenResearch Turn your coding agents into research agents（Rust）",
+          "text": "addyosmani/agent-skills：addyosmani / agent-skills Production-grade engineering skills for AI coding agents.（JavaScript）",
           "source": "GitHub",
-          "link": "https://github.com/alphaXiv/OpenResearch",
-          "content": ""
-        },
-        {
-          "text": "anthropics/claude-code：anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/anthropics/claude-code",
+          "link": "https://github.com/addyosmani/agent-skills",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-09-18","2026-09-17","2026-09-16","2026-09-15","2026-09-14","2026-09-13","2026-09-12","2026-09-11"];
+window.BRIEFING_ARCHIVE = ["2026-09-19","2026-09-18","2026-09-17","2026-09-16","2026-09-15","2026-09-14","2026-09-13","2026-09-12"];
