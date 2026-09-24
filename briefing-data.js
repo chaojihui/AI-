@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-09-23T06:30:51.676Z
+// 由 GitHub Actions 自动生成 2026-09-24T06:36:42.383Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "黑客声称入侵了 FBI 窃取雇员信息",
+          "text": "2025 年全台每 46 名新生儿就有 1 个是台积电宝宝",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85457",
-          "content": "勒索组织 ShinyHunters 声称入侵了 FBI 窃取了逾 2TB 雇员数据。该组织的一名发言人称，这次行动不是出于经济动机，而是要求 FBI 更正或撤回此前发表的声明，其中包含大量不实的指控。ShinyHunters 称它利用了 FBI 招聘网页的一个 Oracle PeopleSoft 的 0day 漏洞，该漏洞允许在服务器上远超执行代码。该组织随后篡改了页面，替换为已被其控制的横幅和图片(This site has been"
+          "link": "https://www.solidot.org/story?sid=85468",
+          "content": "台积电最新永续报告书显示，2025 年台厂区及采钰公司员工共迎来 2,331 名新生儿，占全台新生儿 2.2%。台积电员工的生育率约为全台的 2 倍。台积电的高生育率被认为与该公司薪资更高相关。台积电员工薪资中位数为 300 万台币，平均数为 400 万台币，四倍多余全台的薪资。研究显示收入与生育率呈现 U 型曲线，从贫穷进入小康阶段时，生育意愿下降，但从小康变得富有后，生育意愿又开始提高。这是因为生育成本会随着经济发展增加，薪资与房价"
         },
         {
-          "text": "新 Halo 游戏将由动视开发",
+          "text": "年检显示高里程电动车比汽油车更可靠",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85456",
-          "content": "微软 Xbox 游戏业务宣布旗下第一方工作室 Halo Studios 等裁员 268 人，动视将负责下一代 Halo 游戏的开发，而原来负责开发 Halo 的 Halo Studios 则转变成辅助工作室角色。Obsidian 工作室将成为 Bethesda 的一部分，将继续开发 Grounded 以及新 Fallout 游戏。King 工作室将合并微软的休闲游戏部门 Microsoft Casual Games。开发 Forza 系"
+          "link": "https://www.solidot.org/story?sid=85467",
+          "content": "对 4740 万英国机动车年检（MOT test）数据的分析发现，当汽车行驶里程达到 9-12 万英里时，电动汽车的年检不合格率为汽油车同类车型的 75%（16.5% 对 22.1%）。行驶里程超过 12 万英里后，电动汽车的不合格率为 16%，而汽油车为 23.5%。研究发现，较低行驶里程两种动力类型的汽车之间的不合格率差异相对较小。研究还发现，电动汽车的一大问题是其轮胎磨损问题两倍于燃油车。英国机动车年检没有检查电池的健康状况，因此"
         },
         {
-          "text": "美国酒精消费自疫情以来首次下降",
+          "text": "不要被 AI 炒作愚弄",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85455",
-          "content": "盖洛普 8 月民调显示，仅有 54% 的美国人饮酒，而 2010 年这一数字是 67%。千禧一代和 Z 世代推动了减少饮酒的趋势，而 50-64 岁的中老年人的酒精消费则在上升。发表在《Annals of Internal Medicine》期刊上的一项研究分析了逾 11.4 万名美国成年人的调查数据，受访者在 2018-2024 年间参加了 CDC 的年度健康调查 National Health Interview Survey，其中"
+          "link": "https://www.solidot.org/story?sid=85466",
+          "content": "Anthropic 声称其模型 Claude Mythos 在发现软件漏洞上胜过大多数安全专家。随后发生了 OpenAI–Hugging Face 安全事件，此后 Anthropic（自豪）和 Meta（不情愿）也披露了各自模型的类似事件。紧接着 Anthropic 宣称其模型取得了数学领域的突破；OpenAI 也声称自己取得了数学突破。Anthropic 工程师 Jacob Coxon 在宣布离职时引发了广泛关注，他声称该公司与 Op"
         },
         {
-          "text": "天文学家发现已知最年轻行星",
+          "text": "英国准备施压 Google 向 Android 和 Chrome 用户展示 AI 助手选择屏",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85454",
-          "content": "天文学家发现了已知最年轻的行星——Elias 2-24 b。这颗不到 100 万年的木星大小行星仍被其形成时的气体和尘埃包围。其令人惊讶的形成速度挑战了关于巨行星如何形成的主流理论。现有的行星形成理论认为，一颗大质量行星不可能形成地如此迅速，尤其是在距离恒星如此遥远的地方。当前模型表明，在太阳系中木星的位置形成一颗木星大小的行星大约需要 500 万年，那么距恒星更远的巨行星形成时间应该更长。然而 Elias 2-24 系统中这个微弱天体"
+          "link": "https://www.solidot.org/story?sid=85465",
+          "content": "英国竞争监管机构 CMA 想要让 Android 和 Chrome 用户对 AI 助手和搜索引擎有更大的选择权和控制权。CMA 公布了一份提案，要求 Google 在用户首次设置 Android 手机或打开 Chrome 浏览器时，向其展示多种搜索引擎供选择，并且每年提示用户选择一个默认搜索引擎；符合技术与安全标准的 AI 助手也必须获准出现在选择屏上上。该提案目前进入公众咨询阶段，截止日期为 10 月 9 日，CMA 预计将在今年底前"
         },
         {
-          "text": "为躲避亿万富翁税 Larry Page 等人迁出加州",
+          "text": "全球陆地热浪更早到来、发展得更快",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85453",
-          "content": "对加州亿万富翁征收一次性 5% 税的提案 Initiative Number 25-0024 将在 11 月 3 日进行公投。胡佛研究所的研究显示，面临征税的亿万富翁们已有近三成迁出加州。Larry Page 在迈阿密 Coconut Grove 购买了两栋临水豪宅，总价 1.73 亿美元，同时将家族办公室 Koop 从加州转到注册地特拉华州、办公地址佛罗里达的公司。Sergey Brin 在迈阿密 Allison Island 购买了"
+          "link": "https://www.solidot.org/story?sid=85464",
+          "content": "中科院研究人员的一项研究发现，自 1979 年以来，全球陆地热浪开始时间显著提前、结束时间显著推迟，热浪季节明显延长；进入21世纪以来，发生快速起始型首次热浪的陆地面积占当年热浪影响区面积的比例显著增加。研究团队基于1979-2023年全球气候数据，系统分析了全球陆地热浪开始时间、结束时间、热浪季节长度及每年首次热浪起始速度的长期变化，并利用多个独立气候数据集对结果进行交叉验证。结果显示，全球陆地首次热浪发生时间平均每 10 年提前约 "
         },
         {
-          "text": "NASA 火星样本采集送回任务终止",
+          "text": "美国准备再次制裁 ICC",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85452",
-          "content": "美国国会的预算法案取消了对 NASA 火星样本采集送回任务 Mars Sample Return(MSR)的资助，虽然该法案还需要通过国会两院的批准以及总统的签署才会生效，但实际上代表着 MSR 计划的终止。MSR 计划因为不断膨胀的成本而备受争议，2024 年其成本膨胀至 110 亿美元，如果推行将占用大部分 NASA 科学预算。2025 年 NASA 设法将项目成本降至 70 亿美元，但费用仍然过高，而 NASA 同时正面临特朗普政"
+          "link": "https://www.solidot.org/story?sid=85463",
+          "content": "荷兰正在为位于海牙的国际刑事法院（ICC）面临美国新一轮制裁做准备。荷兰正研究如何协助法院维持运作，包括支付员工薪酬、保护证人以及维护拘留设施。美国已制裁了十多名现任和前任 ICC 工作人员，国务卿国卢比奥（Marco Rubio）表示，这是一场彻底瓦解 ICC 所构成威胁的全面行动。ICC 有 125 个成员国，美国、以色列等都未加入该机构。美国的制裁可能会导致法院无法使用金融和 IT 服务，甚至两年无法向美籍员工支付薪酬。当 ICC"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "AI隐形骨架浮出水面！大摩：CCL与铜箔赛道百亿美元增量开启",
+          "text": "Meta全面押注个人Agent：Muse接入眼镜、Mac、邮箱，打通购物与办公",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782345",
-          "content": "建滔积层板周三在港股逆市走强，涨超6%，报49港元，成为AI基础设施材料链上一个醒目的信号。这一涨势背后，是摩根士丹利一份深度行业报告所揭示的结构性机遇——覆铜板（CCL）与铜箔，这两种长期游离于AI投资叙事之外的基础材料，正在成为算力扩张不可或缺的&#34;隐形骨架&#34;。 据追风交易台，摩根士丹利在最新报告中表示，该行预计全球CCL潜在市场总规模（TAM）将从2025年的190亿美元增至2030年的470亿美元，对应20%的复合"
+          "link": "https://wallstreetcn.com/articles/3782438",
+          "content": "Meta正将旗下个人AI智能体Muse打造成覆盖用户全场景生活的核心平台，从智能眼镜到Mac桌面，从购物交易到日常办公，一场围绕&#34;个人超级智能&#34;的全面布局正在加速成形。 9月23日，Meta在加州门洛帕克举行年度Connect开发者大会。CEO扎克伯格宣布，Muse将接入Meta智能眼镜产品线、新增Mac端计算机操作能力、获得独立电子邮件地址，并与沃尔玛、Sephora、Best Buy、Gap等主要零售商达成合作。与此"
         },
         {
-          "text": "OPPO首次给Find X加“E”，4999元守住旗舰入口",
+          "text": "全球债市抛售潮蔓延！日本10年期国债收益率冲上1996年来新高",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782356",
-          "content": "vivo之后，OPPO加入了9月国产旗舰机大战。 9月22日，OPPO正式发布Find X10系列，一次带来Find X10 E、Find X10和Find X10 Pro Max三款机型，起售价分别为4999元、5499元和6799元，将于9月24日正式开售。 这是OPPO首次在Find X系列首发阵容中加入E版本。 从产品布局看，E版承接的是Find X系列中对价格更为敏感用户的角色。 在存储、芯片等成本上涨的背景下，今年Find "
+          "link": "https://wallstreetcn.com/articles/3782437",
+          "content": "日本债市在结束周假期后重新开市，随即被卷入全球债券抛售浪潮。日本10年期国债收益率周四飙升至1996年8月以来最高水平，与美国国债收益率同步冲上数十年高点，标志着全球主要债市正经历一场历史性的同步重定价。 日本10年期国债收益率周四上涨10个基点至3.075%，5年期收益率上涨9.5个基点至2.37%，各期限收益率全线攀升。 与此同时，美国10年期国债收益率亦升至近19年高点，30年期日本国债收益率上涨近7个基点至4.134%，5年期收"
         },
         {
-          "text": "蒙牛孵化的运动营养品牌，迎来李宁入股",
+          "text": "特朗普面临柴油出口禁令两难：选票压力与市场代价的博弈",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782353",
-          "content": "蒙牛孵化的运动营养品牌迈胜，又引入了一批产业股东。 近日，专业运动营养品牌迈胜宣布完成近亿元A+轮融资。本轮投资方包括中信农业产业基金、李宁公司与非凡领越，融资资金将用于产品研发、专业运动场景建设、用户教育、渠道拓展，以及供应链和组织能力建设。 这是迈胜不到一年内完成的第二轮近亿元融资。2025年11月，迈胜宣布完成近亿元A轮融资，由仙乐健康领投，高瓴创投与蒙牛创投跟投。 加上原有股东蒙牛集团，目前迈胜的股东已经覆盖乳制品、营养健康、运"
+          "link": "https://wallstreetcn.com/articles/3782420",
+          "content": "美国柴油价格创历史新高，特朗普政府正面临一场政治逻辑与经济逻辑的正面冲突。限制出口看似是平抑国内油价的捷径，但分析人士警告，这一举措可能引发连锁反应，最终令美国消费者和全球市场付出更高代价。 柴油价格已飙升至每加仑6.50美元的历史纪录 ，汽油价格亦维持在每加仑约4.50美元的高位，能源成本正成为白宫在中期选举前愈发棘手的政治包袱。据媒体报道，特朗普本周表态支持禁止柴油出口的构想，美国财政部长贝森特也表示政府正在评估全面或部分禁令的可行"
         },
         {
-          "text": "A股三大股指齐跌，北证50逆势涨2%，房地产冲高回落，PCB、玻璃基板走强，恒科指跌1%，科网股集体下挫",
+          "text": "A股三大股指早盘齐跌，创业板跌近2%，机器人逆势拉升，算力硬件、有色金属下挫，恒科指跌1%，权重科网股普遍调整",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782342",
-          "content": "9月23日，早盘三大指数集体收跌，北证50逆势涨超2%。覆铜板/PCB涨价逻辑最强，玻璃基板、培育钻石、CRO、黄酒多点开花，传媒影视、煤炭、海运等板块集体陷入调整。房地产冲高回落，万科A一度涨停，午盘收涨5%。 港股低开低走，恒指、恒科指双双下跌，恒科指一度跌超1%，权重科网股回调，阿里盘中跌超4%，腾讯跌超2%，AI大模型股双雄同样下挫，智谱、MINIMAX跌超4%。债市方面，国债期货集体下跌。商品方面，国内商品期货多数下跌。核心市"
+          "link": "https://wallstreetcn.com/articles/3782428",
+          "content": "马斯克&#34;千亿台&#34;人形机器人预期叠加特斯拉宁波量产审厂，减速器、机器人执行器集体爆发，洛轴股份20cm涨停。 9月24日，A股早盘低开低走，三大股指集体下跌，深成指、创业板跌近2%，个股普跌，超4300只个股下跌。风电设备、纺织制造、教育、银行等板块领涨；贵金属、白酒、房地产、PCB等板块领跌。 港股同样低开低走，恒指、恒科指盘中下跌，恒科指跌超1%，权重科网股全线下跌，芯片半导体股亦承压，兆易创新、剑桥科技跌幅居前。债市"
         },
         {
-          "text": "“券商一哥”掌门将换人，邹迎光接棒张佑君",
+          "text": "AI算力融资正被重新定价：CoreWeave数据中心债券息票9.25%，较同类高2.7个百分点",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782349",
-          "content": "“券商一哥”即将迎来新的一把手。 华尔街见闻多方求证获悉，9月22日中信证券内部已就相关人事调整作出安排，张佑君将退休，现任总经理邹迎光接棒。 这意味着，执掌中信证券超过十年的张佑君即将交棒。后续待履行上市公司相关程序后，中信证券管理层也将完成新一轮调整。 此次接棒并不突然。 2024年11月，中信证券董事会聘任邹迎光为总经理。此后不到两年，这名从固定收益业务成长起来的老将进一步走向中信证券管理层核心。 出生于1970年的邹迎光，职业经"
+          "link": "https://wallstreetcn.com/articles/3782433",
+          "content": "Blue Owl Capital 关联方为 CoreWeave 相关数据中心项目发行的 11 亿美元高收益债券，以 9.25% 的收益率完成定价，较同类评级债券平均收益率高出约 2.7 个百分点。这笔交易为 AI 算力热潮的信用风险标出了新价格：当数据中心的租户本身是投机级借款人时，融资成本正在被市场重新定价。 据知情人士，这批 5 年期债券定价于面值的 98.5%，由高盛、花旗和德意志银行联合承销；募集资金将用于弗吉尼亚州里士满附近 "
         },
         {
-          "text": "办公Agent不再比谁会做PPT，开始争夺“谁最懂这家公司”",
+          "text": "个人Agent入口大战升级！Grok Bot周活激增、Muse登顶App Store，OpenAI最快本周迎战",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782346",
-          "content": "9月22日的云栖大会上，千问办公一次发布了六项企业能力。 最抓眼球的是“数字员工”：它有名字、部门、负责人、岗位职责和授权范围，能被停用，执行记录也可以追溯。看起来，AI终于从一个悬浮在桌面上的工具，变成了组织架构里有工牌的同事。 但如果只盯着这张“工牌”，很容易错过发布会上更重要的四个字：企业上下文。 按照千问办公的描述，它要连接群聊、文档、知识库和业务系统，从中识别人、项目、流程和规则，再根据具体任务调取相关信息。换句话说，数字员工"
+          "link": "https://wallstreetcn.com/articles/3782432",
+          "content": "AI助手赛道正从&#34;聊天问答&#34;向&#34;替人干活&#34;全面跃迁，一场争夺用户工作流入口的关键战役已经打响。 SpaceXAI的Grok Bot上线逾一个月、 Meta的Muse登顶App Store ，OpenAI则被贴上&#34;追赶者&#34;标签 ， 正紧急备战，最快本周推出代号&#34;Aeon&#34;的个人Agent产品 ，以应对两面夹击。 据彭博9月22日报道， Grok Bot截至9月14日的周活跃用"
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
+          "text": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114395",
+          "content": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。<a href=&#34;https://sspai.com/post/114395&#34; target=&#3"
+        },
+        {
+          "text": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114913",
+          "content": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。<a href=&#34;https://sspai.com/post/114913&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114904",
+          "content": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。<a href=&#34;https://sspai.com/post/114904&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114901",
+          "content": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...<a href=&#34;https://sspai.com/post/114901&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
           "text": "Here Wallpaper：把喜欢的地图做成壁纸",
           "source": "少数派",
           "link": "https://sspai.com/post/114211",
           "content": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。<a href=&#34;https://sspai.com/post/114211&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114889",
-          "content": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。<a href=&#34;https://sspai.com/post/114889&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
           "text": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
           "source": "少数派",
           "link": "https://sspai.com/post/114878",
           "content": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...<a href=&#34;https://sspai.com/post/114878&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114551",
-          "content": "黄金时代「时尚与科技结合」的浪漫。<a href=&#34;https://sspai.com/post/114551&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "Coast：用十年经验，给记账这件事一个「终点」",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114479",
-          "content": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。<a href=&#34;https://sspai.com/post/114479&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114823",
-          "content": "如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...<a href=&#34;https://sspai.com/post/114823&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -136,15 +136,9 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "agent-substrate/substrate：agent-substrate / substrate Agent Substrate: the core system（Go）",
+          "text": "google/ax：google / ax Google's open agentic orchestration runtime（Go）",
           "source": "GitHub",
-          "link": "https://github.com/agent-substrate/substrate",
-          "content": ""
-        },
-        {
-          "text": "dream-num/univer：dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/dream-num/univer",
+          "link": "https://github.com/google/ax",
           "content": ""
         },
         {
@@ -154,15 +148,21 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "google/ax：google / ax Google's open agentic orchestration runtime（Go）",
+          "text": "BuilderIO/agent-native：BuilderIO / agent-native A framework for building agentic apps（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/google/ax",
+          "link": "https://github.com/BuilderIO/agent-native",
           "content": ""
         },
         {
-          "text": "mvt-project/mvt：mvt-project / mvt MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.（Python）",
+          "text": "obra/superpowers：obra / superpowers An agentic skills framework & software development methodology that works.（Shell）",
           "source": "GitHub",
-          "link": "https://github.com/mvt-project/mvt",
+          "link": "https://github.com/obra/superpowers",
+          "content": ""
+        },
+        {
+          "text": "dream-num/univer：dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/dream-num/univer",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-09-23","2026-09-22","2026-09-21","2026-09-20","2026-09-19","2026-09-18","2026-09-17","2026-09-16"];
+window.BRIEFING_ARCHIVE = ["2026-09-24","2026-09-23","2026-09-22","2026-09-21","2026-09-20","2026-09-19","2026-09-18","2026-09-17"];
