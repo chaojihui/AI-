@@ -1,11 +1,35 @@
-// 由 GitHub Actions 自动生成 2026-09-26T06:31:31.464Z
+// 由 GitHub Actions 自动生成 2026-09-27T06:59:28.880Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "sections": [
     {
       "title": "AI发展",
       "items": [
+        {
+          "text": "Excel 的单元格将支持输入多个值",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85482",
+          "content": "微软宣布其电子表格软件 Excel 的单元格将支持输入多个值，而不是以前的只能一个值。Excel 将通过“列表”（Lists）、“单元格内数组”（arrays in cells）和“嵌套数组”（nested arrays）三个功能实现在单元格内输入多个值。微软称，某个项目可能会将“Carlos，Henrietta，Jacob”列为三位负责人，或者 Forms 调查问卷可能会将“2:00 PM；2:30 PM；3:00 PM”作为单个回复"
+        },
+        {
+          "text": "荷兰政府测试本土发行版 NixOS",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85481",
+          "content": "2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中荷兰政府正在本土 Linux 发行版 NixOS 基础上上构建数字工作环境 Digitaal Autonome Werkomgeving Overheid (DAWO) 。DAWO 包含了操作系统、办公套件、协作应用、云服务及管理工具。试点项目正在荷兰政府内部展开。欧洲各地的政府以前"
+        },
+        {
+          "text": "YouTube、TikTok 和 Meta 都拒绝投放马斯克纪录片的商业广告",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85480",
+          "content": "负责发行 Alex Gibney 拍摄的马斯克（Elon Musk）纪录片《Musk》的公司 Bleecker Street 发现，主流社交平台 YouTube、TikTok 和旗下包括 Instagram 和 Facebook 的 Meta 公司，以及马斯克旗下的 X 平台都拒绝投放该纪录片的商业广告。这是一部批评马斯克的纪录片，X 平台拒绝能理解，但 YouTube、TikTok 以及 Meta 都拒绝令发行商感到意外，引发了少数几"
+        },
+        {
+          "text": "Velum：方便部署的CosyVoice推理程序",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85479",
+          "content": "Nala Ginrut 写道： HardenedLinux 最近发布了可用于推理CosyVoice的Velum，它用modern C++开发，编译成一个单一的可执行文件，方便部署。 CosyVoice是目前比较优秀的一款 TTS 模型，但其推理程序使用的Python体系比较老旧，需要在部署的时候做一些处理，而且Python依赖占用空间较大，不利于大量能力情况下的Agent部署。要是每个agent能力都要一堆Python十几G的依赖，每一"
+        },
         {
           "text": "黑手党可能阻止了芬太尼流入意大利",
           "source": "Solidot",
@@ -17,30 +41,6 @@ window.BRIEFING_DATA = {
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85477",
           "content": "非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究人员得出结论，大象会使用 35 种不同的植物，其中 25 种在当地已知具有药用价值。一位野生动物巡护员看到母象使用名为 Angurweet "
-        },
-        {
-          "text": "全球平均气温每上升 1C 德国夏天气温上升 2.62C",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85476",
-          "content": "全球平均气温正走在比工业化前水平高出 1.5°C 的轨道上。很多人可能会觉得升温幅度不大，可以接受或忍受。但地球绝大部分表面是海洋，海洋的升温幅度要缓慢得多，而陆地则显著得多，居民体会到的升温幅度要高得多。德国研究人员在《Environmental Research Letters》期刊上发表研究报告，指出全球平均气温每上升 1°C 德国夏天气温上升 2.62°C，范围在1.62-3.62°C 之间。当地热浪频率的增加速度会远远超过全球"
-        },
-        {
-          "text": "中国各地推动 AI 视频产业化",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85475",
-          "content": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作的主要原因。CCTV 报道 2026 年上半年，AI 短剧的制作成本从每分钟 5,000 元降至几百元。可能和太阳能等领域一样，AI 视频行"
-        },
-        {
-          "text": "F-Droid 2.0 发布",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85474",
-          "content": "Android 自由软件应用商店 F-Droid 宣布发布 2.0 版本。F-Droid 2.0 对 UI 进行了重新设计，旨在更容易的发现，安装和管理应用。主要界面简化为了三个核心区域：发现，搜索和“我的应用”。类别现在整合进了发现，使其更容易浏览和探索，而“我的应用”提供了一个一站式管理已安装应用、更新和潜在问题的地方。设置和附近交换在顶栏的一级菜单里，但不再占据主界面的空间。F-Droid 2.0 不再将所有游戏放在一起，而是分成"
-        },
-        {
-          "text": "蝙蝠起源于欧洲",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85473",
-          "content": "发表在《自然》期刊上的一项研究结合基因组和化石证据，重建了蝙蝠长达 6500 万年的演化历史。最新研究推翻了此前蝙蝠起源于亚洲、非洲或北美的假说，蝙蝠最早起源于欧洲，之后进入非洲，然后向亚洲、美洲和澳大利亚扩散。澳大利亚昆士兰州东南部 Murgon 发现的蝙蝠化石 Australonycteris 距今已有 5500 万年，仅比欧洲的化石稍晚。蝙蝠是唯一能真正进行动力飞行的哺乳动物。大多数蝙蝠仅靠声音就能在漆黑的环境中辨别方向和捕食。全"
         }
       ]
     },
@@ -48,46 +48,52 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "AI基础设施撞上“墙”！Marvell：铜连接、内存瓶颈成下一阶段算力扩张关键",
+          "text": "下周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782579",
-          "content": "AI算力竞赛正从单纯的芯片之争，演变为一场涵盖互连、内存与网络的系统级博弈。 Marvell高管近日在Six Five Summit 2026上指出，随着推理模型驱动内存需求急剧膨胀、数据中心规模突破物理极限，铜连接已逼近性能天花板，光学互连与内存扩展技术正成为下一阶段算力扩张的核心变量。Marvell定制云解决方案业务执行副总裁Will Chu表示， 市场长期聚焦于XPU本身，却忽视了围绕XPU的&#34;附着层&#34;——包括网络"
+          "link": "https://wallstreetcn.com/articles/3782598",
+          "content": "09月28日 - 10月04日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观数据方面聚焦美国非农、PCE与中国PMI。 “美联储最爱通胀指标”8月PCE与9月非农将先后公布，直接考验美联储10月加息路径。当前市场定价10月加息概率接近70%，长端美债收益率已升至2007年以来高位。若就业数据超预期，反而可能加剧紧缩担忧。国内方面，中国PMI数据出炉，市场关注经济成色。 科技产业迎来催化密集期。 OpenA"
         },
         {
-          "text": "高盛测算：“AI第二阶段”的“资本缺口”要怎么补？",
+          "text": "不插管的食管癌筛查，达摩院从一张肺部CT开始",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782577",
-          "content": "超大规模云计算企业（Hyperscaler）的AI资本支出狂潮正从&#34;花多少&#34;的争论，转向&#34;能赚回多少&#34;的核心命题。 高盛最新研究显示，六大超大规模云计算企业若要在2026至2027年约1.73万亿美元的AI算力资本支出上实现15%的投入资本回报率（ROIC）， 需在2028至2030年间累计创造约1.42万亿美元的收入。 高盛互联网与科技团队负责人Eric Sheridan在报告中指出，当前市场争论的焦点"
+          "link": "https://wallstreetcn.com/articles/3782594",
+          "content": "王奇峰经常到区县医院指导工作。 这位四川省肿瘤医院放疗科主任医师，在基层见过不少让他遗憾的病例。患者来的时候已经吃不下饭，错过了根治性治疗。调出医院系统里的记录，这个人两年前因为肺炎住过院，拍过胸部CT。 把两年前的片子和现在对比，那时食管壁已经有增厚。 当时没有人注意到，患者没提到吃饭有问题，影像科医生也只看了肺部情况。 9月24日，阿里巴巴达摩院联合四川省肿瘤医院、中山大学肿瘤防治中心等机构，发布食管癌筛查AI模型DAMO EAGL"
         },
         {
-          "text": "阿波罗首席经济学家警告：美联储可能忽视了柴油价格风险",
+          "text": "涨价的代价！麦当劳股价半年大跌30%，将创2002年以来最差表现",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782576",
-          "content": "阿波罗全球管理公司首席经济学家Torsten Slok发出警告，创纪录的柴油价格对通胀构成的威胁，可能远超美联储目前的评估——因为柴油成本会渗透进核心消费者价格指数，而后者恰恰是美联储货币政策的核心参照指标。 Slok周五在彭博电视《Surveillance》节目中表示， 柴油相关运输成本的传导路径与汽油截然不同。由于运输商品对零售供应链乃至数据中心建设均不可或缺，需求价格弹性极低，价格上涨最终将转嫁至企业和消费者。 “柴油价格上涨，实"
+          "link": "https://wallstreetcn.com/articles/3782597",
+          "content": "一家快餐巨头正在为多年来的涨价策略付出代价。 麦当劳股价较今年2月高点已累计下跌近31%，年内跌幅达22%，若全年维持这一走势，将创下2002年以来最差年度表现。 就在本周，麦当劳在投资者日活动上预告，当前季度美国同店销售将“略为负增长”。上一季度，其销售额仅增长0.8%，为逾一年来最慢增速。 消息一出，公司随即宣布一项耗资85亿美元的多年期改善计划，涵盖技术投入、门店升级及拓展鸡肉和饮品品类。然而市场并不买账——投资者担忧资本支出大幅"
         },
         {
-          "text": "冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉的Solidigm，如今估值或达1500亿美元",
+          "text": "扎克伯格谈Muse：AI Agent爆发，“元宇宙、智能眼镜和大模型”三大赌注完成交汇",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782575",
-          "content": "SK海力士旗下固态存储子公司Solidigm正筹划赴美上市， 目标估值高达1500亿美元，拟募资150亿美元，有望刷新美股半导体IPO纪录。而这家公司的前身，正是英特尔以约88.5亿美元出售的NAND闪存业务 ——从被剥离的非核心资产，到如今估值翻逾十倍的AI存储明星，Solidigm的蜕变折射出这轮AI基础设施投资热潮对存储赛道的深刻重塑。 据路透社援引三位知情人士透露，Solidigm本周已与多家投行举行IPO承销商竞标陈述会（ba"
+          "link": "https://wallstreetcn.com/articles/3782596",
+          "content": "三年前，Meta CEO扎克伯格在Joe Rogan节目上说过，有一天人们戴上眼镜、AI Agent就会随之出现。如今，这一幕或正在发生。 Meta推出的个人AI Agent——Muse上线两周用户即达数百万。扎克伯格在9月25日一档访谈节目中表示：“每隔几年我们才能遇到这种情况。”他将Muse的早期反响定性为 “一出手就是全垒打” ——这在Meta产品历史上属于少数。 与此同时， 他宣布Muse将整合至全线Ray-Ban智能眼镜， 用"
         },
         {
-          "text": "“Agent vs 美债”——谁将主导美股？",
+          "text": "汽油价格飙升，欧洲电车销量激增，8月增速超50%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782574",
-          "content": "AI Agent浪潮与美债利率上行的对峙，正将美股撕裂成两个截然不同的世界。 本周，Meta发布旗下Agentic AI模型Muse，单周市值暴增2200亿美元，推动纳斯达克100指数成为表现最强的主要股指。但与此同时，美债收益率持续走高，将利率敏感型资产打入低谷——罗素2000指数显著落后，标普500指数在7700点附近反复拉锯，始终无法实现有效突破。 市场的内部分化已达到极端程度。若剔除AI相关标的，标普500本周实际下跌约1%；纽"
+          "link": "https://wallstreetcn.com/articles/3782593",
+          "content": "油价飙升正在做到多年政策未能做到的事——让欧洲消费者大规模转向电动车。 欧洲8月纯电动汽车注册量同比激增52%，创下近年来最强劲的单月增速。这一数字背后，是汽油价格持续攀升带来的真实经济压力。 据彭博报道，欧洲汽车制造商协会（EACEA）周四公布的数据显示，德国市场增幅达75%，法国销量则同比翻倍以上。整体来看，截至8月，欧洲每三辆新车中已有逾一辆带有充电插头，而去年同期这一比例仅略高于四分之一。 Stellantis旗下雪铁龙品牌负责"
         },
         {
-          "text": "认购倍数高达4倍！“AI戒指”Oura IPO遇热捧",
+          "text": "三季报在即，三星电子和海力士面临“极高预期”，考验“全球AI交易”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782572",
-          "content": "智能戒指制造商Oura在动荡市场中逆势而上，其IPO获得约4倍超额认购，成为近期美股IPO市场的一抹亮色。 据彭博社援引知情人士消息，负责此次发行的承销银行预计将于周一下午截止接受投资者订单。 Oura及部分股东合计发行5000万股，定价区间为每股40至44美元，拟募资最高达22亿美元。 按发行价上限计算，公司市值将达141亿美元，若计入股票期权及限制性股票单元，完全稀释后估值约为150亿美元。 此次IPO定价日期定于9月29日，股票将"
+          "link": "https://wallstreetcn.com/articles/3782590",
+          "content": "AI驱动的强劲需求和新一代存储技术的推进，韩国两大芯片巨头三星电子和SK Hynix正处于全球半导体“超级周期”的中心。随着这两家公司第三季度财报临近，其业绩表现将成为全球市场检验“AI交易”盈利持久性的关键试金石。 市场目前对两家巨头的业绩抱有极高预期。 据《首尔经济日报》引述FnGuide的数据，第三季度三星电子预计将实现199.1万亿韩元的营收和105.6万亿韩元的营业利润，而SK Hynix的营收和营业利润预计将分别达到94.1"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114958",
+          "content": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...<a href=&#34;https://sspai.com/post/114958&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "本周看什么 | 最近值得一看的 6 部作品",
           "source": "少数派",
@@ -113,16 +119,10 @@ window.BRIEFING_DATA = {
           "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/113823&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "U.S. appeals court upholds designation of Anthropic as supply chain risk（428 分 · 742 评论）",
-          "source": "Hacker News",
-          "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-          "content": ""
-        },
-        {
-          "text": "Ollaya – Ollama for open-source, Jev-style decision models（402 分 · 109 评论）",
-          "source": "Hacker News",
-          "link": "https://ollaya.dev/",
-          "content": ""
+          "text": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114395",
+          "content": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。<a href=&#34;https://sspai.com/post/114395&#34; target=&#3"
         }
       ]
     },
@@ -136,27 +136,15 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "anthropics/claude-plugins-official：anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins.（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/anthropics/claude-plugins-official",
-          "content": ""
-        },
-        {
           "text": "vectorize-io/hindsight：vectorize-io / hindsight Hindsight: Agent Memory That Learns（Python）",
           "source": "GitHub",
           "link": "https://github.com/vectorize-io/hindsight",
           "content": ""
         },
         {
-          "text": "obra/superpowers：obra / superpowers An agentic skills framework & software development methodology that works.（Shell）",
+          "text": "NVIDIA/Model-Optimizer：NVIDIA / Model-Optimizer A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/obra/superpowers",
-          "content": ""
-        },
-        {
-          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
-          "source": "GitHub",
-          "link": "https://github.com/mattpocock/skills",
+          "link": "https://github.com/NVIDIA/Model-Optimizer",
           "content": ""
         },
         {
@@ -164,10 +152,22 @@ window.BRIEFING_DATA = {
           "source": "GitHub",
           "link": "https://github.com/dream-num/univer",
           "content": ""
+        },
+        {
+          "text": "tensorflow/tensorflow：tensorflow / tensorflow An Open Source Machine Learning Framework for Everyone（C++）",
+          "source": "GitHub",
+          "link": "https://github.com/tensorflow/tensorflow",
+          "content": ""
+        },
+        {
+          "text": "rohitg00/ai-engineering-from-scratch：rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others.（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "content": ""
         }
       ]
     }
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-09-26","2026-09-25","2026-09-24","2026-09-23","2026-09-22","2026-09-21","2026-09-20","2026-09-19"];
+window.BRIEFING_ARCHIVE = ["2026-09-27","2026-09-26","2026-09-25","2026-09-24","2026-09-23","2026-09-22","2026-09-21","2026-09-20"];
