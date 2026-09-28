@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-09-27T06:59:28.880Z
+// 由 GitHub Actions 自动生成 2026-09-28T07:27:57.585Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "Excel 的单元格将支持输入多个值",
+          "text": "美国农药中有至少 485 种化合物与乳腺癌相关",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85482",
-          "content": "微软宣布其电子表格软件 Excel 的单元格将支持输入多个值，而不是以前的只能一个值。Excel 将通过“列表”（Lists）、“单元格内数组”（arrays in cells）和“嵌套数组”（nested arrays）三个功能实现在单元格内输入多个值。微软称，某个项目可能会将“Carlos，Henrietta，Jacob”列为三位负责人，或者 Forms 调查问卷可能会将“2:00 PM；2:30 PM；3:00 PM”作为单个回复"
+          "link": "https://www.solidot.org/story?sid=85489",
+          "content": "根据发表在《Environmental Health Perspectives》期刊上的一项研究，美国农药产品中至少有 485 种化合物与乳腺癌相关。全球早发性乳腺癌发病率激增，这一发现引发了对食品及其它产品安全性的担忧。根据美国癌症协会的数据，乳腺癌发病率正以每年 1% 的速度上升，而 50 岁以下女性的增长速度甚至达到了 1.4%。这项研究所旨在调查人们在经济活动及日常生活中接触到的与乳腺癌相关化学物质。研究在常见消费商品中发现了约"
         },
         {
-          "text": "荷兰政府测试本土发行版 NixOS",
+          "text": "玫瑰也可以是蓝色的",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85481",
-          "content": "2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中荷兰政府正在本土 Linux 发行版 NixOS 基础上上构建数字工作环境 Digitaal Autonome Werkomgeving Overheid (DAWO) 。DAWO 包含了操作系统、办公套件、协作应用、云服务及管理工具。试点项目正在荷兰政府内部展开。欧洲各地的政府以前"
+          "link": "https://www.solidot.org/story?sid=85488",
+          "content": "玫瑰不只是红色的，它也可以是蓝色的。玫瑰缺乏产生蓝色色素所需的基因。日本三得利集团于 1990 年启动了研发蓝色玫瑰的工作。2004 年它通过引入了能产生蓝色色素 delphinidin 的基因，成功培育出能积累蓝色的玫瑰。三得利此后继续研发色泽更蓝的玫瑰的工作。花色并非仅由色素的种类或含量决定，还会因周围的化合物及花瓣内部环境的不同而发生显著变化，其中的关键是辅色素。辅色素本身无色，但辅色素与蓝色色素发生相互作用能使得蓝色更蓝更深邃。"
         },
         {
-          "text": "YouTube、TikTok 和 Meta 都拒绝投放马斯克纪录片的商业广告",
+          "text": "Meta 屏蔽了巴西总统的 FB 主页以及竞选广告",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85480",
-          "content": "负责发行 Alex Gibney 拍摄的马斯克（Elon Musk）纪录片《Musk》的公司 Bleecker Street 发现，主流社交平台 YouTube、TikTok 和旗下包括 Instagram 和 Facebook 的 Meta 公司，以及马斯克旗下的 X 平台都拒绝投放该纪录片的商业广告。这是一部批评马斯克的纪录片，X 平台拒绝能理解，但 YouTube、TikTok 以及 Meta 都拒绝令发行商感到意外，引发了少数几"
+          "link": "https://www.solidot.org/story?sid=85487",
+          "content": "距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发挥着核心作用，限制卢拉的广告账户损害了其开展竞选活动的能力。此举使卢拉与其他候选人相比处于不平等的地位。卢拉竞选团队以及其所属的劳工党要求 "
         },
         {
-          "text": "Velum：方便部署的CosyVoice推理程序",
+          "text": "Bitget 被盗走价值 3.875 亿美元加密货币",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85479",
-          "content": "Nala Ginrut 写道： HardenedLinux 最近发布了可用于推理CosyVoice的Velum，它用modern C++开发，编译成一个单一的可执行文件，方便部署。 CosyVoice是目前比较优秀的一款 TTS 模型，但其推理程序使用的Python体系比较老旧，需要在部署的时候做一些处理，而且Python依赖占用空间较大，不利于大量能力情况下的Agent部署。要是每个agent能力都要一堆Python十几G的依赖，每一"
+          "link": "https://www.solidot.org/story?sid=85486",
+          "content": "Bitget 交易所被盗走价值 3.875 亿美元的加密货币。攻击发生在 9 月 24 日 18:31 UTC。区块链情报公司 Arkham 发表报告称，从 18:58 至 19:16 之间的 18 分钟内，价值 2.28 亿美元的数字资产从 Bitget 钱包中转出。价值 1.53 亿美元的 XRP 从一个被识别为​​ Bitget 冷钱包的地址中转出，此外还有价值 6620 万美元的 ETH、3480 万美元的 USDT、1290 "
         },
         {
-          "text": "黑手党可能阻止了芬太尼流入意大利",
+          "text": "科学家研制出至今最精确的原子钟",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85478",
-          "content": "在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其它毒品，意大利黑手党看起来选择了拒绝芬太尼。这或许可以解释意大利芬太尼过量致死率异常低。2024 年比吗啡强效百倍的合成阿片类药物在意大利仅检测出两例致死事件。相比之下，德国 95 例，美国近 4.8 万例。意大利整体上的毒品消费水平无法解释这一现象。根据欧洲的数据，每年约有 2.1"
+          "link": "https://www.solidot.org/story?sid=85485",
+          "content": "新加坡国立大学研制出至今最精确的原子钟，运行 2600 亿年误差不到 1 秒。新设备是一台光学原子钟，靠镥离子固有而稳定的特性计时。特定频率的光，能把电子送上更高能量的激发态，而这一跃迁频率恒定不变。团队持续观测镥离子的跃迁，把激光锁定在触发跃迁的精确频率上，再以激光振荡作为计时标尺。在最新研究中，团队把镥钟频率测到小数点后 19 位，不确定度仅为 1×10^(-19)，创下所有光学原子钟的最低纪录。他们还造出两台时钟，进行了长达 20"
         },
         {
-          "text": "大象使用药用植物治疗自己",
+          "text": "龙芯 CPU 的原子加指令偶尔会丢失",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85477",
-          "content": "非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究人员得出结论，大象会使用 35 种不同的植物，其中 25 种在当地已知具有药用价值。一位野生动物巡护员看到母象使用名为 Angurweet "
+          "link": "https://www.solidot.org/story?sid=85484",
+          "content": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现，在这个过程中负责指挥 AI 调查的方向。大概两天后找到了一个稳定的复现程序，才发现事情的根源是：CPU 的原子加法指令"
         }
       ]
     },
@@ -48,46 +48,64 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "下周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报",
+          "text": "段永平又买茅台了！3万股耗资超3690万元，曾放言拿十年赌一个亿",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782598",
-          "content": "09月28日 - 10月04日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观数据方面聚焦美国非农、PCE与中国PMI。 “美联储最爱通胀指标”8月PCE与9月非农将先后公布，直接考验美联储10月加息路径。当前市场定价10月加息概率接近70%，长端美债收益率已升至2007年以来高位。若就业数据超预期，反而可能加剧紧缩担忧。国内方面，中国PMI数据出炉，市场关注经济成色。 科技产业迎来催化密集期。 OpenA"
+          "link": "https://wallstreetcn.com/articles/3782639",
+          "content": "9月28日上午，知名投资人段永平（雪球ID：大道无形我有型）在雪球平台发帖，简短写道“买了点贵州茅台”。 该帖显示，买入均价约1230元，数量3万股，合计耗资逾3690万元。 消息发出后，贵州茅台于当日下午1:30左右拉升翻红。截至收盘，股价涨0.56%，报1243元，总市值1.55万亿元。 “我今天还买了茅台啊，你会凌乱吗？” 这并非段永平近期首次出手。 今年5月7日，有投资者在雪球向他提问：“目前已经全仓茅台半年了，我在想要不要调一"
         },
         {
-          "text": "不插管的食管癌筛查，达摩院从一张肺部CT开始",
+          "text": "只有少数股在涨！高盛警告：美股广度创2000年互联网泡沫来最差，债波动率罕见背离",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782594",
-          "content": "王奇峰经常到区县医院指导工作。 这位四川省肿瘤医院放疗科主任医师，在基层见过不少让他遗憾的病例。患者来的时候已经吃不下饭，错过了根治性治疗。调出医院系统里的记录，这个人两年前因为肺炎住过院，拍过胸部CT。 把两年前的片子和现在对比，那时食管壁已经有增厚。 当时没有人注意到，患者没提到吃饭有问题，影像科医生也只看了肺部情况。 9月24日，阿里巴巴达摩院联合四川省肿瘤医院、中山大学肿瘤防治中心等机构，发布食管癌筛查AI模型DAMO EAGL"
+          "link": "https://wallstreetcn.com/articles/3782634",
+          "content": "表面平静之下，美股正在经历一场结构性撕裂。 高盛衍生品交易主管Brian Garrett发出警告： 美国股票市场&#34;拒绝为任何恐慌定价&#34;。 高盛恐慌指数（Panic Index）上周五收于1以下，VIX维持在低十几的水平，但与此同时，债券波动率指标MOVE指数却处于约100百分位的极端高位——两者之间的背离，正在向市场发出罕见的结构性预警信号。 更令人警惕的是美股内部的广度崩塌。 标普500指数成分股中，站上200日均线的"
         },
         {
-          "text": "涨价的代价！麦当劳股价半年大跌30%，将创2002年以来最差表现",
+          "text": "特朗普拒绝伊朗和谈建议，全球股债承压，油价涨超2%，黄金跌破4200",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782597",
-          "content": "一家快餐巨头正在为多年来的涨价策略付出代价。 麦当劳股价较今年2月高点已累计下跌近31%，年内跌幅达22%，若全年维持这一走势，将创下2002年以来最差年度表现。 就在本周，麦当劳在投资者日活动上预告，当前季度美国同店销售将“略为负增长”。上一季度，其销售额仅增长0.8%，为逾一年来最慢增速。 消息一出，公司随即宣布一项耗资85亿美元的多年期改善计划，涵盖技术投入、门店升级及拓展鸡肉和饮品品类。然而市场并不买账——投资者担忧资本支出大幅"
+          "link": "https://wallstreetcn.com/articles/3782633",
+          "content": "特朗普周末拒绝伊朗重开霍尔木兹海峡的最新提案，令上周五市场因外交谈判预期升温而积累的涨幅几乎全数回吐。油价随即跳涨，通胀压力升温预期再度压制债市，亚太股市普遍走低，美股期货同步下跌。 布伦特原油涨逾2%，现货黄金失守4180美元/盎司日内跌超2%，现货白银日内跌幅达4.0%逼近60美元/盎司关口。股债普遍下挫，日本、澳大利亚、新西兰国债收益率均随美债同步上行，韩国KOSPI指数收跌2.7%，纳斯达克100指数期货跌幅达1%。 Gama "
         },
         {
-          "text": "扎克伯格谈Muse：AI Agent爆发，“元宇宙、智能眼镜和大模型”三大赌注完成交汇",
+          "text": "Anthropic首席经济学家前瞻“AI未来”：“三大奇点”，“财富分配”与“Token和资本税”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782596",
-          "content": "三年前，Meta CEO扎克伯格在Joe Rogan节目上说过，有一天人们戴上眼镜、AI Agent就会随之出现。如今，这一幕或正在发生。 Meta推出的个人AI Agent——Muse上线两周用户即达数百万。扎克伯格在9月25日一档访谈节目中表示：“每隔几年我们才能遇到这种情况。”他将Muse的早期反响定性为 “一出手就是全垒打” ——这在Meta产品历史上属于少数。 与此同时， 他宣布Muse将整合至全线Ray-Ban智能眼镜， 用"
+          "link": "https://wallstreetcn.com/articles/3782627",
+          "content": "AI对宏观经济的真实冲击正在从“实验模型”走向“现实数据”，面对尚未体现在生产率上的技术红利，重塑财富分配规则与开征“Token税”正成为政策制定者必须直面的未来。 2026年9月24日，哈佛大学肯尼迪学院举办了一场焦点对话。奥巴马政府前首席经济学家、哈佛大学教授杰森·费尔曼（Jason Furman）与前沿AI实验室Anthropic首席经济学家彼得·麦克罗伊（Peter McCrory）就AI对劳动力市场、宏观经济指引及未来政策走向"
         },
         {
-          "text": "汽油价格飙升，欧洲电车销量激增，8月增速超50%",
+          "text": "长飞光纤港股重挫16%，瑞银首次覆盖给予买入：产能过剩担忧被高估，高端光纤供需紧张将延续至2027-28年",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782593",
-          "content": "油价飙升正在做到多年政策未能做到的事——让欧洲消费者大规模转向电动车。 欧洲8月纯电动汽车注册量同比激增52%，创下近年来最强劲的单月增速。这一数字背后，是汽油价格持续攀升带来的真实经济压力。 据彭博报道，欧洲汽车制造商协会（EACEA）周四公布的数据显示，德国市场增幅达75%，法国销量则同比翻倍以上。整体来看，截至8月，欧洲每三辆新车中已有逾一辆带有充电插头，而去年同期这一比例仅略高于四分之一。 Stellantis旗下雪铁龙品牌负责"
+          "link": "https://wallstreetcn.com/articles/3782632",
+          "content": "周一（9月28日）光纤概念股遭遇重挫，长飞光纤光缆港股领跌逾16%，但瑞银同期发布研报，逆势维持买入评级并大幅上调盈利预测，认为市场对产能过剩的担忧严重高估，AI驱动的数据中心需求正在从根本上重塑光纤行业的供需逻辑。 截至发稿，长飞光纤跌16.03%，报156.6港元，自6月高点以来累计回调幅度已达37%。消息面上，光纤龙头亨通光电披露定增预案，拟募资不超过66.36亿元，其中光纤预制棒及特种光纤产能扩张为核心投向，引发市场对行业供给过"
         },
         {
-          "text": "三季报在即，三星电子和海力士面临“极高预期”，考验“全球AI交易”",
+          "text": "AI需求催化台积电加速扩产，2纳米月产能年底冲刺12万片",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782590",
-          "content": "AI驱动的强劲需求和新一代存储技术的推进，韩国两大芯片巨头三星电子和SK Hynix正处于全球半导体“超级周期”的中心。随着这两家公司第三季度财报临近，其业绩表现将成为全球市场检验“AI交易”盈利持久性的关键试金石。 市场目前对两家巨头的业绩抱有极高预期。 据《首尔经济日报》引述FnGuide的数据，第三季度三星电子预计将实现199.1万亿韩元的营收和105.6万亿韩元的营业利润，而SK Hynix的营收和营业利润预计将分别达到94.1"
+          "link": "https://wallstreetcn.com/articles/3782622",
+          "content": "AI芯片军备竞赛正在重塑全球最先进晶圆产能的扩张节奏。 据中国台湾媒体《经济日报》9月28日消息，苹果、英伟达、AMD、高通、联发科等科技巨头近期集体追加台积电2纳米家族产能预订，增幅达 10%至20% 。受此驱动，台积电大幅提速2纳米扩产计划， 今年底月产能目标直指12万片 ，较市场此前预估的9万至10万片大幅超出，且相当于将原定2027年的产能目标提前两年实现。这一扩张速度已被台积电官方确认为史上最快。 台积电资深副总暨副共同营运长"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114967",
+          "content": "节后再说！<a href=&#34;https://sspai.com/post/114967&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：OpenAI 称与苹果合作效果不佳",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115079",
+          "content": "<p>OpenAI 称与苹果合作效果不佳</p><p>iPhone 4「天线门」媒体问答录像时隔十六年现身</p><p>F-Droid 2.0 发布</p><p>三星冰箱固件升级后罢工，影响韩国用户过中秋</p><p>Excel 单元格将支持数组</p><p>微软不再使用 Copilot+ PC 品牌</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=&#34;https:/"
+        },
+        {
+          "text": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115056",
+          "content": "《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险……<a href=&#34;https://sspai.com/post/115056&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
           "source": "少数派",
@@ -105,24 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/114954",
           "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=&#34;https://sspai.com/post/114954&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
-          "source": "少数派",
-          "link": "https://sspai.com/prime/story/home-made-beverages-5",
-          "content": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...<a href=&#34;https://sspai.com/prime/story/home-made-beverages-5&#34; target=&#34;_blank&#34;>查看全文</a><p>本文为会员文章，出自<"
-        },
-        {
-          "text": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
-          "source": "少数派",
-          "link": "https://sspai.com/post/113823",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/113823&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "古董电脑室十周年记：为什么我不再是收藏家（上）",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114395",
-          "content": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。<a href=&#34;https://sspai.com/post/114395&#34; target=&#3"
         }
       ]
     },
@@ -142,21 +142,9 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "NVIDIA/Model-Optimizer：NVIDIA / Model-Optimizer A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.（Python）",
+          "text": "debpalash/VoiceStudio：debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/NVIDIA/Model-Optimizer",
-          "content": ""
-        },
-        {
-          "text": "dream-num/univer：dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/dream-num/univer",
-          "content": ""
-        },
-        {
-          "text": "tensorflow/tensorflow：tensorflow / tensorflow An Open Source Machine Learning Framework for Everyone（C++）",
-          "source": "GitHub",
-          "link": "https://github.com/tensorflow/tensorflow",
+          "link": "https://github.com/debpalash/VoiceStudio",
           "content": ""
         },
         {
@@ -164,10 +152,22 @@ window.BRIEFING_DATA = {
           "source": "GitHub",
           "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "content": ""
+        },
+        {
+          "text": "InfinityLoop1308/PipePipe：InfinityLoop1308 / PipePipe An open-source Android app to let you browse YouTube and other services freely.（Shell）",
+          "source": "GitHub",
+          "link": "https://github.com/InfinityLoop1308/PipePipe",
+          "content": ""
+        },
+        {
+          "text": "vercel-labs/scriptc：vercel-labs / scriptc TypeScript-to-Native Compiler（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/vercel-labs/scriptc",
+          "content": ""
         }
       ]
     }
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-09-27","2026-09-26","2026-09-25","2026-09-24","2026-09-23","2026-09-22","2026-09-21","2026-09-20"];
+window.BRIEFING_ARCHIVE = ["2026-09-28","2026-09-27","2026-09-26","2026-09-25","2026-09-24","2026-09-23","2026-09-22","2026-09-21"];
