@@ -1,11 +1,35 @@
-// 由 GitHub Actions 自动生成 2026-10-01T07:37:55.997Z
+// 由 GitHub Actions 自动生成 2026-10-02T07:25:44.237Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "sections": [
     {
       "title": "AI发展",
       "items": [
+        {
+          "text": "PS5 模拟器的开发取得突破",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85524",
+          "content": "当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。已有 10 款游戏被标记为可玩，其中包括简单 2D 游戏如 Tetris Forever，也有复杂 3D 大作如 Astro Bot 和 Demon’"
+        },
+        {
+          "text": "二手 CPU 导致玩家被 Riot 封禁",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85523",
+          "content": "一名玩家购买了一个二手 CPU Ryzen 7 5800X3D，结果发现无法启动 Riot 工作室旗下的多款游戏，每次启动游戏就被踢出，在联络了 Riot 的客服之后才知道该 CPU 被列入了封禁黑名单，因为其前任主人有作弊行为。Riot 工作室旗下的所有游戏都受到影响，其中包括了 Valorant、League of Legends、Teamfight Tactics、Legends of Runeterra、2XKO 等。Riot "
+        },
+        {
+          "text": "新加坡推出面向公务员的约会软件 FirstDate",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85522",
+          "content": "为了提高生育率，新加坡试点推出了为公务员牵线搭桥的约会应用 FirstDate。新加坡的总和生育率已降至每名女性生育 0.87 个孩子，而十年前这一数字为 1.24。政府最近成立了一个专门研究生育率下降问题的工作组，预计该作组将在 2027 年初发表研究结果。FirstDate 面向 21-35 岁的单身人士，目前仅向公务员开放，申请截止日期为 10 月 5 日。用户无需浏览海量的个人资料，而是填写一份关于兴趣、习惯、价值观和偏好的问卷"
+        },
+        {
+          "text": "猫与幸福感正相关",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85521",
+          "content": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥有猫数量的平均值为 989 只，其中中国的幸福指数为 5.97，略高于平均水平；每万人拥有猫的数量为 376 只，显著低"
+        },
         {
           "text": "PS5 越狱取得突破",
           "source": "Solidot",
@@ -17,30 +41,6 @@ window.BRIEFING_DATA = {
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85519",
           "content": "中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及率超 50%。76.0%的 用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比分别为 47.8%、37.6% 和 32.5%。数据显示，38.7%的网民近半年在网上购买过智能硬件设备。其中可穿戴设备和3C数码产品是我国"
-        },
-        {
-          "text": "新奥声称实现氢硼聚变反应突破",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85518",
-          "content": "新奥集团发表新闻稿，称其“玄龙-50U”装置实现氢硼聚变反应。新闻稿称：氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α粒子），但相对于氘氚聚变，反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子份额，实现了大于 10^8/秒的氢硼聚变反应率，表明新奥氢硼聚变迈入燃烧等离子体相关实验阶段，是中国多路径聚变能发展的重大突破。来自全球多个"
-        },
-        {
-          "text": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85517",
-          "content": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租两块电池，租期十年，每月费用为 55 美元。该州有超过 5,500 人参与了该家庭电池网络，半数家庭还安装了太阳能电池板"
-        },
-        {
-          "text": "500 光年外的一颗巨行星探测到水、甲烷和氨",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85516",
-          "content": "文学家团队借助韦伯望远镜在距地球 500 光年的巨行星 HATS-6 b 大气中探测到水、甲烷、氨，同时发现这颗行星温度可能比标准推算温度低得多。这是透射光谱技术第二次在系外行星大气中检出水汽之外的氨信号。由于氨这类含氮分子在较冷的巨行星中本应比在炽热类木星行星中更为丰富，这一发现支持了一个判断：围绕 M 型矮星运行的行星可能在化学上构成独特群体。HATS-6 b 体积大致相当于木星，每 3 天绕一颗体积小的低温红矮星公转一周。按现有认"
-        },
-        {
-          "text": "Windows 11 原生支持 Linux 容器",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85515",
-          "content": "微软宣布 WSL Containers GA，该工具为 Windows 11 开发者提供了一种通过 Windows Subsystem for Linux 构建、运行和部署 Linux 容器的内置方案。微软同时提供了容器管理工具 wslc.exe，GPU 支持、网络改进、健康检查、存储挂载、与 Microsoft Defender for Endpoint 和 Intune 的集成。微软还声称，当 Linux 环境访问存储在 Windo"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "全球债市抛售潮加剧！美国10年期国债收益率升至2002年来最高",
+          "text": "恒指失守24000点创三月来最大跌幅，恒科指下挫超2%创2年新低，权重科网股集体下跌、腾讯阿里均跌2%，赛力斯盘中一度大涨15%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782875",
-          "content": "10月1日周四，美国10年期国债收益率升至5.33%，为2002年以来最高。 法德10年期国债收益率利差扩大4个基点，至131个基点。 英国30年期国债收益率升至6%，为1998年以来首次。 法德10年期国债收益率利差扩大4个基点，至131个基点。 持续更新中 本文来自华尔街见闻，欢迎下载APP查看更多"
+          "link": "https://wallstreetcn.com/articles/3782911",
+          "content": "周五（10月2日），A股因国庆节假期休市。受到美国国债收益率持续攀升压制，恒生指数创下近六个月最大单日跌幅。金融股首当其冲，汇丰控股领跌，市场风险偏好明显收缩。赛力斯港股盘中涨幅一度扩大至15%，消息面华为与赛力斯达成新五年合作，共同升级问界业务。 恒生指数最大跌幅达3%，为3月23日以来最大单日跌幅。汇丰控股股价急挫5.7%，成为指数最大拖累。与此同时，中国内地市场因假期休市，潜在的南向资金买盘支撑缺席，进一步加剧了市场波动。 新加坡"
         },
         {
-          "text": "外资加速撤离，印度股市面临“二十五年来最惨连跌”！",
+          "text": "机器人也来“抢”芯片！特斯拉下调 AI5/AI6 存储规格，为 Optimus 量产让路",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782873",
-          "content": "印度股市周四继续承压。截至发稿，Nifty 50下跌0.61%至22481.85点，BSE Sensex下跌0.51%至72107.63点。若本周收跌，两大指数将录得连续第八周下跌——这将是25年来最长的连续周度跌势。 与此同时，周五印度市场因当地假日休市。HST Wealth创始人兼首席执行官Hariselvan Radhakrishnan表示：“由于明天市场休市，今天的交易呈现出在长假前谨慎调仓的特征。” 外资抛售力度骤升，年内净卖"
+          "link": "https://wallstreetcn.com/articles/3782924",
+          "content": "特斯拉正在调整同时用于自动驾驶和Optimus的下一代AI芯片存储规格，以满足人形机器人量产需求。 据近日报道，特斯拉CEO马斯克宣布大幅下调AI5、AI6芯片的存储规格，以保障Optimus量产所需存储。马斯克同时称，这一调整不会影响人形机器人的性能。 具体来看，特斯拉将AI5芯片内存容量减半至72GB LP5，将AI6芯片内存容量下调三分之一至144GB LP6。马斯克称，这一调整是获得足够产量用于Optimus生产的“唯一方式”，"
         },
         {
-          "text": "AI估值分歧加剧！Anthropic IPO：狂热的硅谷喊价2万亿美元，冷静的华尔街只认1.5万亿",
+          "text": "核心通胀2.8%粘性未消、出口1209亿美元创纪录，韩国央行11月加息预期升温",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782868",
-          "content": "AI公司IPO的估值分歧正在扩大。 据科技媒体The Information 9月30日报道，在风投和私募市场，部分投行在早期沟通中讨论给予Anthropic约2万亿美元估值。但在公开市场，两家大型投资机构认为，更合适的估值应接近1.5万亿美元。 硅谷风险投资圈仍在追逐AI资产的上行空间，华尔街公开市场则更关注现金流、融资成本和下行情景。 Anthropic预计仍需数周才会启动正式IPO路演。报道称，这家AI公司原本被市场视为年内最受关"
+          "link": "https://wallstreetcn.com/articles/3782923",
+          "content": "韩国9月整体通胀如期回落，但剔除食品与能源后的核心通胀仍显粘性，叠加半导体驱动的出口单月创下历史新高，强化了市场对韩国央行11月恢复加息的预期。 周五（10月2日），韩国数据与统计部公布的数据显示， 9月消费者价格指数（CPI）同比上涨2.9%，较8月的3.1%回落 ，符合经济学家2.9%的中值预期；核心通胀录得2.8%，较8月的3.4%明显下降，但仍运行在2%区间的中高位，表明潜在价格压力并未随能源成本回落而同步消退。 与此同时，同日"
         },
         {
-          "text": "推出22天下载突破500万！Muse“火爆”超过当年ChatGPT",
+          "text": "从拒绝到加码：马斯克如何将SpaceX的AI算力变成每月数十亿美元的“云生意”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782867",
-          "content": "Meta旗下AI智能体应用Muse上线仅22天便突破500万次下载，速度超越ChatGPT、Claude等主流AI产品，成为消费级AI赛道迄今最快破圈的产品之一。 据市场调研机构Sensor Tower最新数据， Muse于9月8日在美国和加拿大上线，截至9月30日已累计下载量突破500万次。 相比之下，OpenAI的ChatGPT达到同一里程碑耗时56天，SpaceX旗下Grok耗时103天，Anthropic的Claude则耗时长达"
+          "link": "https://wallstreetcn.com/articles/3782913",
+          "content": "对外出租算力，正为SpaceXAI带来每月数十亿美元规模的收入预期。这项马斯克一度拒绝的业务，如今却成了AI企业争相锁定的稀缺资源。 据The Information近日援引知情人士报道，SpaceXAI今夏已与微软就算力租赁展开磋商；与此同时， 一笔每月11亿美元的算力租赁合同将于12月启动。 路透社还报道称，Anthropic此前已承诺在SpaceXAI算力上支出近450亿美元，随后又披露了额外近400亿美元的算力支出承诺。 马斯克"
         },
         {
-          "text": "高盛交易台主管：“油价下跌但美债收益率依旧涨”，那情况就复杂了",
+          "text": "雷曼危机以来未见的跌幅！美国市政债9月遭重创",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782842",
-          "content": "油价下跌非但没能缓解美债压力，反而暴露出能源与利率之间传统联动正在失效。高盛One-Delta交易台负责人Rich Privorotsky警告，债券收益率持续承压、信用利差走阔，而油价却在回落，这意味着市场面临的可能已不只是短期波动，而是更深层的结构性变化。 在最新内部报告中，Privorotsky将近期一个交易日形容为“本轮危机中跨资产信号最令人不安的一天”：信用利差扩大、利率继续承压，同时油价下跌。 过去，能源价格回落通常意味着通胀"
+          "link": "https://wallstreetcn.com/articles/3782912",
+          "content": "美国市政债券市场9月遭遇近二十年来最严重的单月跌幅。通胀担忧持续存在，加息风险仍未消退，固定收益市场承压，市政债券收益率快速攀升，投资者损失明显。 彭博市政债券指数9月下跌约4.4%，创2008年9月雷曼兄弟破产以来最差单月表现。 与此同时，市政债券收益率升至至少2011年以来最高水平，长久期债券价格受到明显冲击。 持续的美伊冲突加剧了市场对通胀的担忧，而美联储进一步加息的风险仍是压制债市的重要因素。 在收益率整体上行的环境下，久期较长"
         },
         {
-          "text": "体验了Muse后，我清仓了Airbnb",
+          "text": "耐克挥刀组织架构，大中华区独立时代将成历史",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782866",
-          "content": "在硅谷和华尔街，关于AI如何改变商业世界的讨论从未停止。但当理论变为现实，第一批感受到寒意的，或许是我们最熟悉的那些互联网平台巨头。 近日，在知名财经播客《The Synopsis》中，主持人Drew与拥有超15万粉丝的资深独立股票分析师Mostly Borrowed Ideas（下文简称MBI）进行了一场深度对话。 MBI讲述，Meta发布Muse约10天后，他下载了这款应用，开始测试。这次测试，最终让他做出了一个投资决定—— 清仓他"
+          "link": "https://wallstreetcn.com/articles/3782919",
+          "content": "从2028财年起，耐克的组织架构图上，将不再有单独的大中华区。 10月1日，耐克披露截至8月底的2027财年第一季度业绩。期内公司实现收入112.13亿美元，同比下降4%，剔除汇率影响下降5%；净利润7.12亿美元，同比下降2%，毛利率同比提升0.6个百分点至42.8%。 这一季度，耐克大中华区收入11.8亿美元，同比下降22%，剔除汇率影响下降26%；其中批发收入下降28%，Nike Direct下降13%。大中华区EBIT进一步下降"
         }
       ]
     },
@@ -125,49 +125,8 @@ window.BRIEFING_DATA = {
           "content": "全新 Apple Watch Series 12，有哪些可感知的升级？<a href=&#34;https://sspai.com/post/115061&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
-    },
-    {
-      "title": "GitHub 热点项目",
-      "items": [
-        {
-          "text": "NVIDIA/OpenShell：NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents.（Rust）",
-          "source": "GitHub",
-          "link": "https://github.com/NVIDIA/OpenShell",
-          "content": ""
-        },
-        {
-          "text": "debpalash/VoiceStudio：debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/debpalash/VoiceStudio",
-          "content": ""
-        },
-        {
-          "text": "mvschwarz/openrig：mvschwarz / openrig Multi-agent harness that runs Claude Code and Codex together as one system（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/mvschwarz/openrig",
-          "content": ""
-        },
-        {
-          "text": "mksglu/context-mode：mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/mksglu/context-mode",
-          "content": ""
-        },
-        {
-          "text": "DietrichGebert/ponytail：DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.（JavaScript）",
-          "source": "GitHub",
-          "link": "https://github.com/DietrichGebert/ponytail",
-          "content": ""
-        },
-        {
-          "text": "harry0703/MoneyPrinterTurbo：harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-          "content": ""
-        }
-      ]
     }
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-01","2026-09-30","2026-09-29","2026-09-28","2026-09-27","2026-09-26","2026-09-25","2026-09-24"];
+window.BRIEFING_ARCHIVE = ["2026-10-02","2026-10-01","2026-09-30","2026-09-29","2026-09-28","2026-09-27","2026-09-26","2026-09-25"];
