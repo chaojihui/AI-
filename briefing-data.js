@@ -1,7 +1,7 @@
-// 由 GitHub Actions 自动生成 2026-10-02T07:25:44.237Z
+// 由 GitHub Actions 自动生成 2026-10-03T06:59:10.910Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "sections": [
     {
       "title": "AI发展",
@@ -29,18 +29,6 @@ window.BRIEFING_DATA = {
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85521",
           "content": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥有猫数量的平均值为 989 只，其中中国的幸福指数为 5.97，略高于平均水平；每万人拥有猫的数量为 376 只，显著低"
-        },
-        {
-          "text": "PS5 越狱取得突破",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85520",
-          "content": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱。Relapse 利用了 PS5 浏览器的一个已知的 WebKit 漏洞，提权获取内核的写入访问权限，安装 ELF 加载"
-        },
-        {
-          "text": "CNNIC 称中国生成式 AI 用户超 7 亿",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85519",
-          "content": "中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及率超 50%。76.0%的 用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比分别为 47.8%、37.6% 和 32.5%。数据显示，38.7%的网民近半年在网上购买过智能硬件设备。其中可穿戴设备和3C数码产品是我国"
         }
       ]
     },
@@ -48,46 +36,52 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "恒指失守24000点创三月来最大跌幅，恒科指下挫超2%创2年新低，权重科网股集体下跌、腾讯阿里均跌2%，赛力斯盘中一度大涨15%",
+          "text": "GLP-1之后的下一张牌：礼来、诺和诺德为何同时押注胰淀素",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782911",
-          "content": "周五（10月2日），A股因国庆节假期休市。受到美国国债收益率持续攀升压制，恒生指数创下近六个月最大单日跌幅。金融股首当其冲，汇丰控股领跌，市场风险偏好明显收缩。赛力斯港股盘中涨幅一度扩大至15%，消息面华为与赛力斯达成新五年合作，共同升级问界业务。 恒生指数最大跌幅达3%，为3月23日以来最大单日跌幅。汇丰控股股价急挫5.7%，成为指数最大拖累。与此同时，中国内地市场因假期休市，潜在的南向资金买盘支撑缺席，进一步加剧了市场波动。 新加坡"
+          "link": "https://wallstreetcn.com/articles/3782962",
+          "content": "礼来本周公布的二期临床数据为GLP-1之后的肥胖药物路线图添上了关键一笔：其实验性胰淀素药物eloralintide与替尔泊肽联合用药，最高剂量组48周平均减重23.3%，远超替尔泊肽单药高剂量组的14.8%。 下一代肥胖药物的目标不是取代GLP-1，而是叠加新的减重机制。 礼来和诺和诺德正围绕胰淀素——一种与胰岛素一同在胰腺中释放、帮助调节饥饿感和饱腹感的激素——开发一系列注射剂、口服药和组合方案，为减重效果设置更高的天花板，同时为对"
         },
         {
-          "text": "机器人也来“抢”芯片！特斯拉下调 AI5/AI6 存储规格，为 Optimus 量产让路",
+          "text": "交付超预期难改盈利压力！摩根大通：特斯拉盈利或从2028年开始加速",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782924",
-          "content": "特斯拉正在调整同时用于自动驾驶和Optimus的下一代AI芯片存储规格，以满足人形机器人量产需求。 据近日报道，特斯拉CEO马斯克宣布大幅下调AI5、AI6芯片的存储规格，以保障Optimus量产所需存储。马斯克同时称，这一调整不会影响人形机器人的性能。 具体来看，特斯拉将AI5芯片内存容量减半至72GB LP5，将AI6芯片内存容量下调三分之一至144GB LP6。马斯克称，这一调整是获得足够产量用于Optimus生产的“唯一方式”，"
+          "link": "https://wallstreetcn.com/articles/3782960",
+          "content": "特斯拉三季度交付48.65万辆、超出市场共识约5%，但摩根大通在数据公布后维持中性评级和415美元目标价，摩根大通认为，特斯拉交付亮眼难掩近期盈利压力，EPS拐点要等到2028年，届时或开启50%以上的年复合增长。 投资者在此之前面对的是一段利润率压缩期。摩根大通对特斯拉2026年和2027年的调整后EPS预测分别为1.43美元和1.45美元，大幅低于彭博共识的1.65美元和2.22美元。 按当前股价354美元计算，特斯拉对应2026年"
         },
         {
-          "text": "核心通胀2.8%粘性未消、出口1209亿美元创纪录，韩国央行11月加息预期升温",
+          "text": "东芝扩产真正的风险：HDD“供应纪律”要终结了？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782923",
-          "content": "韩国9月整体通胀如期回落，但剔除食品与能源后的核心通胀仍显粘性，叠加半导体驱动的出口单月创下历史新高，强化了市场对韩国央行11月恢复加息的预期。 周五（10月2日），韩国数据与统计部公布的数据显示， 9月消费者价格指数（CPI）同比上涨2.9%，较8月的3.1%回落 ，符合经济学家2.9%的中值预期；核心通胀录得2.8%，较8月的3.4%明显下降，但仍运行在2%区间的中高位，表明潜在价格压力并未随能源成本回落而同步消退。 与此同时，同日"
+          "link": "https://wallstreetcn.com/articles/3782959",
+          "content": "东芝宣布投资600亿日元（约3.8亿美元）扩建菲律宾HDD工厂，计划在2027财年前将产能翻倍，抢占AI数据中心存储需求的增量市场。 消息传出后，希捷（STX）和西部数据（WDC）周五双双暴跌超10%——在纳斯达克指数创下历史新高的同一天，它们是全市场最醒目的输家。 今年以来，希捷累涨208%、西部数据累涨141%，远超纳斯达克100指数22%的涨幅。 支撑这轮暴涨的核心逻辑只有一句话：没有人在建新工厂。但现在，有人建了。 这是东芝约五"
         },
         {
-          "text": "从拒绝到加码：马斯克如何将SpaceX的AI算力变成每月数十亿美元的“云生意”",
+          "text": "美股要“通宵”了！12月起迈入23小时交易时代",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782913",
-          "content": "对外出租算力，正为SpaceXAI带来每月数十亿美元规模的收入预期。这项马斯克一度拒绝的业务，如今却成了AI企业争相锁定的稀缺资源。 据The Information近日援引知情人士报道，SpaceXAI今夏已与微软就算力租赁展开磋商；与此同时， 一笔每月11亿美元的算力租赁合同将于12月启动。 路透社还报道称，Anthropic此前已承诺在SpaceXAI算力上支出近450亿美元，随后又披露了额外近400亿美元的算力支出承诺。 马斯克"
+          "link": "https://wallstreetcn.com/articles/3782956",
+          "content": "12月6日起，纳斯达克（Nasdaq）、纽交所Arca等四大核心交易所将正式增设夜盘时段，华尔街全面迈入每天23小时的“通宵交易”时代。 这一历史性扩容旨在应对加密货币及预测市场“全天候交易”的跨界竞争，并加速捕获海外投资者的增量需求。美国证券交易委员会（SEC）数据显示，尽管当前夜盘仅占美股总成交量的1%左右，但其同比增速已高达358%，展现出极强的爆发力。 机构资金观望：流动性与价差成核心隐忧 交易时段的延长在全球市场引发分歧。支持"
         },
         {
-          "text": "雷曼危机以来未见的跌幅！美国市政债9月遭重创",
+          "text": "机构高呼9月非农“杀死”10月加息预期！“新美联储通讯社”：就业报告未改联储立场，9月CPI更重要",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782912",
-          "content": "美国市政债券市场9月遭遇近二十年来最严重的单月跌幅。通胀担忧持续存在，加息风险仍未消退，固定收益市场承压，市政债券收益率快速攀升，投资者损失明显。 彭博市政债券指数9月下跌约4.4%，创2008年9月雷曼兄弟破产以来最差单月表现。 与此同时，市政债券收益率升至至少2011年以来最高水平，长久期债券价格受到明显冲击。 持续的美伊冲突加剧了市场对通胀的担忧，而美联储进一步加息的风险仍是压制债市的重要因素。 在收益率整体上行的环境下，久期较长"
+          "link": "https://wallstreetcn.com/articles/3782945",
+          "content": "美国9月非农就业报告明显降温，市场对美联储近期加息的预期进一步下滑。数据显示，就业增长远逊预期，失业率小幅上升，工资增速也继续放缓。报告公布后，美债收益率一度明显下行，美股走高，利率市场迅速削弱了对美联储本月加息的押注。 美国劳工统计局（BLS）周五公布报告显示，美国9月非农就业人口仅增加2.9万，远低于市场预期的约9万；8月新增就业人数从16.2万下修至13.3万，7月则从增加2.1万人下修至减少1万人，7月和8月就业者合计下修6万人"
         },
         {
-          "text": "耐克挥刀组织架构，大中华区独立时代将成历史",
+          "text": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782919",
-          "content": "从2028财年起，耐克的组织架构图上，将不再有单独的大中华区。 10月1日，耐克披露截至8月底的2027财年第一季度业绩。期内公司实现收入112.13亿美元，同比下降4%，剔除汇率影响下降5%；净利润7.12亿美元，同比下降2%，毛利率同比提升0.6个百分点至42.8%。 这一季度，耐克大中华区收入11.8亿美元，同比下降22%，剔除汇率影响下降26%；其中批发收入下降28%，Nike Direct下降13%。大中华区EBIT进一步下降"
+          "link": "https://wallstreetcn.com/articles/3782957",
+          "content": "美国9月非农就业仅增2.9万人，远低于预期的9万，但10年期美债收益率在短暂下探后迅速反弹超10个基点至5.30%，上演V形反转。 一份爆冷的就业报告压低了短端加息预期，却未能撼动长端收益率——华尔街真正的焦虑已从下一次加息转向更棘手的问题： 如果借贷成本拒绝下降，经济还能撑多久？ 房地产冻结、消费信贷日益惩罚性、弱资质借款人融资成本高企——5%利率环境下的裂痕已经出现，只是被头部股指的光鲜所掩盖。 非农爆冷，债市只给了半天面子 美国劳"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "本周看什么 | 最近值得一看的 8 部作品",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115211",
+          "content": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...<a href=&#34;https://sspai.com/post/115211&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
           "source": "少数派",
@@ -117,16 +111,51 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/115153",
           "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=&#34;https://sspai.com/post/115153&#34; target=&#34;_blank&#34;>查看全文</a>"
+        }
+      ]
+    },
+    {
+      "title": "GitHub 热点项目",
+      "items": [
+        {
+          "text": "Panniantong/Agent-Reach：Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/Panniantong/Agent-Reach",
+          "content": ""
         },
         {
-          "text": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115061",
-          "content": "全新 Apple Watch Series 12，有哪些可感知的升级？<a href=&#34;https://sspai.com/post/115061&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "text": "JuliusBrussee/caveman：JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.（Go）",
+          "source": "GitHub",
+          "link": "https://github.com/JuliusBrussee/caveman",
+          "content": ""
+        },
+        {
+          "text": "obra/superpowers：obra / superpowers An agentic skills framework & software development methodology that works.（Shell）",
+          "source": "GitHub",
+          "link": "https://github.com/obra/superpowers",
+          "content": ""
+        },
+        {
+          "text": "DietrichGebert/ponytail：DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.（JavaScript）",
+          "source": "GitHub",
+          "link": "https://github.com/DietrichGebert/ponytail",
+          "content": ""
+        },
+        {
+          "text": "pbakaus/impeccable：pbakaus / impeccable The design language that makes your AI harness better at design.（JavaScript）",
+          "source": "GitHub",
+          "link": "https://github.com/pbakaus/impeccable",
+          "content": ""
+        },
+        {
+          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
+          "source": "GitHub",
+          "link": "https://github.com/mattpocock/skills",
+          "content": ""
         }
       ]
     }
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-02","2026-10-01","2026-09-30","2026-09-29","2026-09-28","2026-09-27","2026-09-26","2026-09-25"];
+window.BRIEFING_ARCHIVE = ["2026-10-03","2026-10-02","2026-10-01","2026-09-30","2026-09-29","2026-09-28","2026-09-27","2026-09-26"];
