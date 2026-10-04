@@ -1,7 +1,7 @@
-// 由 GitHub Actions 自动生成 2026-10-03T06:59:10.910Z
+// 由 GitHub Actions 自动生成 2026-10-04T07:19:02.082Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "sections": [
     {
       "title": "AI发展",
@@ -29,6 +29,12 @@ window.BRIEFING_DATA = {
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85521",
           "content": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥有猫数量的平均值为 989 只，其中中国的幸福指数为 5.97，略高于平均水平；每万人拥有猫的数量为 376 只，显著低"
+        },
+        {
+          "text": "PS5 越狱取得突破",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85520",
+          "content": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱。Relapse 利用了 PS5 浏览器的一个已知的 WebKit 漏洞，提权获取内核的写入访问权限，安装 ELF 加载"
         }
       ]
     },
@@ -36,46 +42,52 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "GLP-1之后的下一张牌：礼来、诺和诺德为何同时押注胰淀素",
+          "text": "白宫成立“超级智能”工作组，计划120天拿出AI监管方案",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782962",
-          "content": "礼来本周公布的二期临床数据为GLP-1之后的肥胖药物路线图添上了关键一笔：其实验性胰淀素药物eloralintide与替尔泊肽联合用药，最高剂量组48周平均减重23.3%，远超替尔泊肽单药高剂量组的14.8%。 下一代肥胖药物的目标不是取代GLP-1，而是叠加新的减重机制。 礼来和诺和诺德正围绕胰淀素——一种与胰岛素一同在胰腺中释放、帮助调节饥饿感和饱腹感的激素——开发一系列注射剂、口服药和组合方案，为减重效果设置更高的天花板，同时为对"
+          "link": "https://wallstreetcn.com/articles/3782979",
+          "content": "美国白宫成立&#34;超级智能&#34;工作组，确立美国政府在人工智能监管中的角色定位，标志着特朗普政府在AI治理上迈出实质性一步。 10月3日，据《华尔街日报》报道， 美国国家情报总监Jay Clayton将出任&#34;超级智能&#34;工作组负责人，实际上担任特朗普的AI事务总协调人。 报道指出，工作组须在120天内就AI风险与机遇提交报告，并就联邦政府的职责边界提出建议。 Clayton表示，若美国在AI领域落后于其他国家，将加"
         },
         {
-          "text": "交付超预期难改盈利压力！摩根大通：特斯拉盈利或从2028年开始加速",
+          "text": "Meta Muse爆红后遇留存瓶颈：打开率低于主流应用，长期变现面临考验",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782960",
-          "content": "特斯拉三季度交付48.65万辆、超出市场共识约5%，但摩根大通在数据公布后维持中性评级和415美元目标价，摩根大通认为，特斯拉交付亮眼难掩近期盈利压力，EPS拐点要等到2028年，届时或开启50%以上的年复合增长。 投资者在此之前面对的是一段利润率压缩期。摩根大通对特斯拉2026年和2027年的调整后EPS预测分别为1.43美元和1.45美元，大幅低于彭博共识的1.65美元和2.22美元。 按当前股价354美元计算，特斯拉对应2026年"
+          "link": "https://wallstreetcn.com/articles/3782976",
+          "content": "Meta Platforms旗下AI智能体Muse上线以来下载势头强劲，但用户留存与变现能力的双重瓶颈正引发市场关注。法国巴黎银行对其长期货币化路径持审慎态度，揭示出消费级AI应用从获客到留存这一普遍性转化难题。 据法国巴黎银行援引第三方数据，Muse自9月推出以来累计下载量已超过560万次，一度登顶苹果应用商店排行榜，上线初期在美国市场的下载表现甚至超过ChatGPT和Sora。然而，该行分析师Nick Jones指出，M use的应"
         },
         {
-          "text": "东芝扩产真正的风险：HDD“供应纪律”要终结了？",
+          "text": "美银：“AI交易”是当前美债市场“最后一道防线”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782959",
-          "content": "东芝宣布投资600亿日元（约3.8亿美元）扩建菲律宾HDD工厂，计划在2027财年前将产能翻倍，抢占AI数据中心存储需求的增量市场。 消息传出后，希捷（STX）和西部数据（WDC）周五双双暴跌超10%——在纳斯达克指数创下历史新高的同一天，它们是全市场最醒目的输家。 今年以来，希捷累涨208%、西部数据累涨141%，远超纳斯达克100指数22%的涨幅。 支撑这轮暴涨的核心逻辑只有一句话：没有人在建新工厂。但现在，有人建了。 这是东芝约五"
+          "link": "https://wallstreetcn.com/articles/3782975",
+          "content": "美国银行警告， AI叙事正在充当宏观风险的&#34;缓冲垫&#34;，一旦这一叙事出现裂痕，所有被压制的宏观风险将同步放大，股市将面临真正的冲击。 美银股票衍生品团队在最新报告中指出，在注意力资源相对有限的市场环境下，宏观风险&#34;难以与AI增长叙事争夺市场关注&#34;。 AI带来的错失恐惧（FOMO）情绪推动投资者在每次下跌时积极抄底，形成所谓的&#34;AI看跌期权&#34;效应，有效压制了股市波动。 与此同时，Meta旗下A"
         },
         {
-          "text": "美股要“通宵”了！12月起迈入23小时交易时代",
+          "text": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782956",
-          "content": "12月6日起，纳斯达克（Nasdaq）、纽交所Arca等四大核心交易所将正式增设夜盘时段，华尔街全面迈入每天23小时的“通宵交易”时代。 这一历史性扩容旨在应对加密货币及预测市场“全天候交易”的跨界竞争，并加速捕获海外投资者的增量需求。美国证券交易委员会（SEC）数据显示，尽管当前夜盘仅占美股总成交量的1%左右，但其同比增速已高达358%，展现出极强的爆发力。 机构资金观望：流动性与价差成核心隐忧 交易时段的延长在全球市场引发分歧。支持"
+          "link": "https://wallstreetcn.com/articles/3782969",
+          "content": "美国财政部长贝森特为近期国债收益率攀升进行辩护，并对人工智能泡沫论予以驳斥，同时暗示美国政府未来或将向更多盟友国家提供金融援助。 本周10年期美债收益率一度触及2002年以来最高水平，尽管如此，贝森特在接受媒体采访时表示， 当前利率走势是全球共性现象，无需过度担忧。 贝森特强调这一轮上升并非美国独有，市场没有出现抛售美债、转购德国或日本国债的迹象。 在经济层面，他认为伊朗战争带来的外部冲击掩盖了美国经济的内在韧性，消费支出强劲，中位薪资"
         },
         {
-          "text": "机构高呼9月非农“杀死”10月加息预期！“新美联储通讯社”：就业报告未改联储立场，9月CPI更重要",
+          "text": "下周重磅日程：美伊与也门局势牵动油价、美联储纪要定价加息预期、诺贝尔奖揭晓",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782945",
-          "content": "美国9月非农就业报告明显降温，市场对美联储近期加息的预期进一步下滑。数据显示，就业增长远逊预期，失业率小幅上升，工资增速也继续放缓。报告公布后，美债收益率一度明显下行，美股走高，利率市场迅速削弱了对美联储本月加息的押注。 美国劳工统计局（BLS）周五公布报告显示，美国9月非农就业人口仅增加2.9万，远低于市场预期的约9万；8月新增就业人数从16.2万下修至13.3万，7月则从增加2.1万人下修至减少1万人，7月和8月就业者合计下修6万人"
+          "link": "https://wallstreetcn.com/articles/3782971",
+          "content": "10月05日 - 10月11日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先关注货币政策与美债拍卖。 美联储9月会议纪要于10月8日公布，彭博预计“几乎所有人”支持年内至少再加息一次，内部分歧与沃什削减例会提案亦备受关注。与此同时，390亿美元10年期与220亿美元30年期国债在同一周集中拍卖，需求成色将直接检验市场对高利率的承受极限。日本央行行长植田和男周一发表主旨演讲，其措辞将牵动日元及全球套息交易方"
         },
         {
-          "text": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了",
+          "text": "中东战火恐升级！沙特炼厂突冒黑烟，据报将对胡塞武装展开大举反击",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782957",
-          "content": "美国9月非农就业仅增2.9万人，远低于预期的9万，但10年期美债收益率在短暂下探后迅速反弹超10个基点至5.30%，上演V形反转。 一份爆冷的就业报告压低了短端加息预期，却未能撼动长端收益率——华尔街真正的焦虑已从下一次加息转向更棘手的问题： 如果借贷成本拒绝下降，经济还能撑多久？ 房地产冻结、消费信贷日益惩罚性、弱资质借款人融资成本高企——5%利率环境下的裂痕已经出现，只是被头部股指的光鲜所掩盖。 非农爆冷，债市只给了半天面子 美国劳"
+          "link": "https://wallstreetcn.com/articles/3782972",
+          "content": "胡塞武装导弹袭击沙特阿美炼油厂，沙特谋划大规模反攻。 据 央视新闻 报道，也门胡塞武装当地时间10月3日晚发表声明说，为回应沙特方面对萨那及也门其他地区的空袭， 胡塞武装当天使用多枚弹道导弹和无人机，对位于沙特首都利雅得的阿美石油公司目标实施打击，并称行动&#34;成功实现目标&#34;，&#34;命中目标并引发火灾&#34;。 沙特方面暂未就袭击事件发表官方声明。社交媒体平台X上流传的未经核实画面显示，浓重黑烟从利雅得阿美炼油厂多处位"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114922",
+          "content": "不知道以后 CMF 的设计还会不会像现在一样出彩。<a href=&#34;https://sspai.com/post/114922&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "本周看什么 | 最近值得一看的 8 部作品",
           "source": "少数派",
@@ -105,36 +117,12 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/115197",
           "content": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。<a href=&#34;https://sspai.com/post/115197&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115153",
-          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=&#34;https://sspai.com/post/115153&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
     {
       "title": "GitHub 热点项目",
       "items": [
-        {
-          "text": "Panniantong/Agent-Reach：Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/Panniantong/Agent-Reach",
-          "content": ""
-        },
-        {
-          "text": "JuliusBrussee/caveman：JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.（Go）",
-          "source": "GitHub",
-          "link": "https://github.com/JuliusBrussee/caveman",
-          "content": ""
-        },
-        {
-          "text": "obra/superpowers：obra / superpowers An agentic skills framework & software development methodology that works.（Shell）",
-          "source": "GitHub",
-          "link": "https://github.com/obra/superpowers",
-          "content": ""
-        },
         {
           "text": "DietrichGebert/ponytail：DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.（JavaScript）",
           "source": "GitHub",
@@ -148,9 +136,27 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
+          "text": "affaan-m/ECC：affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.（JavaScript）",
           "source": "GitHub",
-          "link": "https://github.com/mattpocock/skills",
+          "link": "https://github.com/affaan-m/ECC",
+          "content": ""
+        },
+        {
+          "text": "Effect-TS/effect：Effect-TS / effect Build production-ready applications in TypeScript（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/Effect-TS/effect",
+          "content": ""
+        },
+        {
+          "text": "JuliusBrussee/caveman：JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.（Go）",
+          "source": "GitHub",
+          "link": "https://github.com/JuliusBrussee/caveman",
+          "content": ""
+        },
+        {
+          "text": "Panniantong/Agent-Reach：Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/Panniantong/Agent-Reach",
           "content": ""
         }
       ]
@@ -158,4 +164,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-03","2026-10-02","2026-10-01","2026-09-30","2026-09-29","2026-09-28","2026-09-27","2026-09-26"];
+window.BRIEFING_ARCHIVE = ["2026-10-04","2026-10-03","2026-10-02","2026-10-01","2026-09-30","2026-09-29","2026-09-28","2026-09-27"];
