@@ -1,7 +1,7 @@
-// 由 GitHub Actions 自动生成 2026-10-06T08:02:39.637Z
+// 由 GitHub Actions 自动生成 2026-10-07T07:38:24.424Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "sections": [
     {
       "title": "AI发展",
@@ -29,18 +29,6 @@ window.BRIEFING_DATA = {
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85536",
           "content": "一位玩家声称在购买了一块二手 CPU Ryzen 7 5800X3D 之后，因前拥有者有作弊行为这块 CPU 被列入了封禁黑名单，导致 Riot Games 旗下的所有游戏都无法启动。Riot Games 工作室负责反作弊的高管 Phillip Koskinas 通过社交媒体否认了这一说法， 他称没有找到相关记录，该公司的硬件封禁最长持续四个月，且只针对特定游戏，不会波及该公司的其它游戏，不会因为作弊者使用了一个硬件组件就将其它硬件组件"
-        },
-        {
-          "text": "太阳系可能没有以前认为的能存在千亿年",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85535",
-          "content": "太阳已有 46 亿年历史，大约 50 亿年后，随着氢燃料的耗尽，太阳外层将会膨胀转变为红巨星，它会吞噬水星和金星，甚至可能包括地球。太阳系外围的气体巨行星预计会幸免，随着太阳光芒的熄灭，太阳系的残余行星预计还能存在一千亿年。然而发表在《The Astrophysical Journal Letters》期刊上的一项研究对此提出了质疑，认为在太阳生命的末期，整个系统会进入极端不稳定状态，会陷入致命的混乱，在太阳转变成白矮星之后，残余行星可"
-        },
-        {
-          "text": "AI 聊天机器人会成为意识形态回音室",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85534",
-          "content": "巴西国立坎皮纳斯州立大学（UNICAMP）的研究人员发现，当你给聊天机器人输入不同政治观点时，机器人会改变其回答。研究人员警告称，用户可能会将这种迎合性的附和，误认为是中立的客观评估，从而可能加剧社会极化。研究人员测试了若干模型，让它们针对112项陈述进行“同意\"或者“不同意”的判断。测试内容共涉及巴西政治七大领域（包括经济、公共安全、社会福利、腐败和环境等）。测试设计的三个场景是：不提供用户政治倾向；用户持左翼观点；用户持右翼观点。在"
         }
       ]
     },
@@ -48,46 +36,58 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
+          "text": "ASIC、存储和光模块等组件的“尾部风险”：美国缺电，装上机架却通不了电",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783055",
-          "content": "DeepSeek最新一轮融资规模大幅超越原定目标，正加速驶向资本市场。 据彭博周二报道， 知情人士透露，DeepSeek本轮融资接近锁定至少800亿元人民币（约120亿美元），远超公司最初约500亿元人民币的融资目标。 宁德时代与腾讯是领投方之一，融资程序即将收官。 知情人士称，根据已签署的投资条款书，最终融资规模可能接近1000亿元人民币。本轮融资将为DeepSeek计划于2027年初进行的首次公开募股奠定基础。 本轮融资完成后，De"
+          "link": "https://wallstreetcn.com/articles/3783110",
+          "content": "美国AI基础设施的瓶颈，正从“缺芯片”转向“缺电”，而电力不足首先威胁的可能不是英伟达，而是ASIC、存储、光模块和电源管理等供应链尾部。 摩根士丹利最新报告称，美国数据中心2026年至2028年预计面临约34%的净电力缺口，相当于32GW。报告认为， 英伟达和博通的2027年业绩预测暂不受实质影响，但电力短缺可能导致芯片无法按计划部署，进而给下游组件带来订单推迟、取消和库存调整风险。 核心区别在于，英伟达GPU单位电力产出更高，且头部"
         },
         {
-          "text": "a16z深度报告：AI付费市场，已出现不需要登上大众流量榜的生意",
+          "text": "勒庞力推1400亿欧元减支与宪法公投，Citadel高管警告：法国已无犯错空间",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783052",
-          "content": "消费者AI市场正在形成一个清晰的双轨结构：流量繁荣与付费集中同时存在，而真正的商业价值藏在后者。 a16z最新一期Top 100消费者AI应用追踪报告显示，只有7家公司同时进入网页流量、移动月活和消费支出三张榜单，有29家支出排名前50的厂商根本不在任何流量榜上。 付费端呈现出极端的幂律特征。 前1%的付费用户贡献了19.5%的可观察消费，高于底部50%用户合计的16.6%； 这批重度用户平均每月在AI上花费903美元，购买的主要是编程"
+          "link": "https://wallstreetcn.com/articles/3783108",
+          "content": "法国财政困境正逼近关键节点：在大选临近、政治不确定性升温之际，市场对该国财政政策的容错空间正在快速收窄。 10月7日周三，据路透社报道，城堡投资（Citadel）固定收益与宏观经济研究主管Angel Ubide表示， 法国财政政策已经没有太多犯错空间。他认为，法国目前尚不构成欧洲系统性风险，但由于经济体量庞大，一旦法国出现系统性问题，最终可能演变为整个欧洲的问题。 与此同时，当前的市场压力也可能倒逼法国政界加快推进财政整顿。 周二，法国"
         },
         {
-          "text": "积重难返！法国站到了“欧债风暴中心”",
+          "text": "美国严重不良贷款规模已升至2020年以来最高水平",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783053",
-          "content": "法国央行行长Emmanuel Moulin警告，法国若不整顿公共财政，恐将被不断上升的利率&#34;逐步扼杀&#34;。 上周，法债抛售加剧并蔓延至整个欧洲，10年期国债收益率一度逼近5%，为2002年以来最高，法国的借贷成本已高于希腊和意大利。 衡量法债风险溢价的法德10年期国债利差，上周扩大32个基点至141个基点。德意志银行的Jim Reid称，这是彭博自1990年有数据以来最大的单周扩大，这段时期涵盖了两德统一、欧债危机和新冠疫"
+          "link": "https://wallstreetcn.com/articles/3783106",
+          "content": "美国杠杆贷款市场的信用压力持续升温，严重不良贷款规模扩大，科技行业尤其是软件领域承压最重，企业再融资压力与违约风险正在进一步积聚。 摩根大通策略师周二在报告中指出， 交易价格低于面值60%的“严重折价”贷款规模已从一年前的400亿美元增至650亿美元，创2020年3月以来新高。 与此同时，交易价格低于或等于面值80%的困境贷款总额已升至1398亿美元，较12个月前增长近90%，仅比2020年5月创下的历史峰值低40亿美元。 从发行人数量"
         },
         {
-          "text": "8.2万亿美元AI盛宴背后，银行业悄然涌入亚洲GPU融资赛道",
+          "text": "日本实际工资八连涨背后：补贴减税托底，破产潮与加息预期令央行两难",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783050",
-          "content": "银行开始涉足亚洲GPU融资，这一领域此前主要由风险偏好更高的私募信贷基金主导，AI竞赛下一阶段的资金池由此显著扩大。 近几个月，国际大行在GMI Cloud、Zankore和PaleBlueDot AI三家AI基础设施提供商合计约38亿美元的GPU贷款中扮演了关键角色。据知情人士透露，花旗、摩根大通、巴克莱、德意志银行、桑坦德银行和日本三井住友银行目前都在评估与GPU挂钩的贷款。 这笔资金至关重要。普华永道估计，到2050年亚洲数据中心"
+          "link": "https://wallstreetcn.com/articles/3783105",
+          "content": "日本8月实际工资连续第八个月上涨，创下近十年最长连涨纪录，工资-物价良性循环似乎正在成形。但拆解数据背后的支撑因素——政府补贴压低的通胀读数与即将落地的食品减税——这轮复苏的成色远比表面复杂。 日本厚生劳动省周三公布， 8月实际现金收入（剔除租金后的通胀调整值）同比增长1.5%，符合经济学家预期；基础工资增长3.8%，名义工资同样增长3.8%、连续第七个月保持在3%以上，为1992年以来最长纪录。 但这轮上涨有相当部分靠高市早苗政府的公"
         },
         {
-          "text": "港股主要股指集体走强，智谱涨超7%，日经225涨超2%，国际油价下跌",
+          "text": "谷歌AI基建主管谈：Agent重塑基建、光网络突破、终极物理瓶颈和未来10年的算力形态",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783046",
-          "content": "10月7日周一，港股主要股指上行，大模型相关个股走强；日经225指数涨超1%，韩国综合指数下跌0.89%。 港股主要股指上行，大模型相关个股走强 周二（10月6日），港股主要股指集体走强，截至发稿，恒生指数涨0.81%，恒生科技指数涨0.75%。 大模型相关个股走强。截至发稿，智谱涨超7%，minimax涨2%。 消息面上，亚马逊云科技（AWS）旗下大模型服务平台Amazon Bedrock官宣接入智谱GLM-5.3，AWS基于模型调用"
+          "link": "https://wallstreetcn.com/articles/3783104",
+          "content": "人类历史上规模最大的资本开支建设正在展开。从衡量系统真实性能的&#34;goodput&#34;指标，到光路交换网络、轨道数据中心，再到十年后的算力形态，谷歌AI基础设施负责人Amin Vahdat在近期一次深度对谈中，系统梳理了这场建设背后的技术逻辑与战略取舍。 谷歌今年资本开支预计超过2000亿美元，大部分用于数据中心建设。Vahdat在接受Sequoia Capital合伙人Sonia Huang访谈时表示，长程智能体（long-"
         },
         {
-          "text": "谷歌与Constellation酝酿十亿美元核电协议，科技巨头抢购清洁电力大幕正式开启",
+          "text": "“AI硬件第一股”IPO搁浅了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783049",
-          "content": "据知情人士透露，谷歌母公司Alphabet接近与美国最大核反应堆运营商Constellation Energy达成一项多年期核电采购协议，将向后者支付至少10亿美元，最快本周宣布。 上周，亚马逊刚与Constellation签下类似协议。若谷歌协议如期宣布，Constellation将在两周内接连与两家科技巨头签约。 Constellation和谷歌周一均拒绝置评，协议涉及的核电规模和地点尚不清楚。 巨头争抢核电 亚马逊上周的协议涉及6"
+          "link": "https://wallstreetcn.com/articles/3783098",
+          "content": "智能戒指制造商Oura上市受挫，揭示出一个投资市场的老命题：叫自己&#34;平台&#34;，不等于被市场当平台估值。 Oura上月底试图赴美上市，却因无法在预期价格区间找到足够买家而被迫搁置计划。公司将此归咎于市场动荡，但主要股指彼时仍接近历史高位。据《华尔街日报》报道， 此次IPO折戟的深层矛盾在于：Oura将自身定位为价值最高150亿美元的科技数据平台，而潜在投资者眼中看到的，不过是一款精致的健康消费品。 这一定位落差直接影响估值逻"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "罗马：永恒之城，永恒于世",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114845",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/114845&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115416",
+          "content": "密码管理服务的数据，当然要掌握在自己手里。<a href=&#34;https://sspai.com/post/115416&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "十个案例助你轻松上手 iOS 27 通知自动化",
           "source": "少数派",
@@ -111,18 +111,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/115211",
           "content": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...<a href=&#34;https://sspai.com/post/115211&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115070",
-          "content": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？<a href=&#34;https://sspai.com/post/115070&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "经典任务管理软件的现代重构：新版 2Do 详解",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115166",
-          "content": "完全重构的 2Do 是我的心目中最佳的任务管理工具。<a href=&#34;https://sspai.com/post/115166&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -136,9 +124,9 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "thedotmack/claude-mem：thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More（TypeScript）",
+          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
           "source": "GitHub",
-          "link": "https://github.com/thedotmack/claude-mem",
+          "link": "https://github.com/mattpocock/skills",
           "content": ""
         },
         {
@@ -148,21 +136,21 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "pingdotgg/t3code（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/pingdotgg/t3code",
-          "content": ""
-        },
-        {
           "text": "boykopovar/AnyPS5：boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows（C++）",
           "source": "GitHub",
           "link": "https://github.com/boykopovar/AnyPS5",
           "content": ""
         },
         {
-          "text": "Panniantong/Agent-Reach：Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.（Python）",
+          "text": "pbakaus/impeccable：pbakaus / impeccable The design language that makes your AI harness better at design.（JavaScript）",
           "source": "GitHub",
-          "link": "https://github.com/Panniantong/Agent-Reach",
+          "link": "https://github.com/pbakaus/impeccable",
+          "content": ""
+        },
+        {
+          "text": "thedotmack/claude-mem：thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/thedotmack/claude-mem",
           "content": ""
         }
       ]
@@ -170,4 +158,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-06","2026-10-05","2026-10-04","2026-10-03","2026-10-02","2026-10-01","2026-09-30","2026-09-29"];
+window.BRIEFING_ARCHIVE = ["2026-10-07","2026-10-06","2026-10-05","2026-10-04","2026-10-03","2026-10-02","2026-10-01","2026-09-30"];
