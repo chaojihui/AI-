@@ -1,34 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-08T07:54:28.213Z
+// 由 GitHub Actions 自动生成 2026-10-09T07:53:48.724Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "2026 年诺贝尔化学奖授予了日法科学家",
+          "text": "亚马逊 Prime Video 将直播艾美奖颁奖典礼",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85543",
-          "content": "2026 年诺贝尔化学奖授予了法国科学家 Henri Kagan 和日本科学家硖合宪三，以表彰他们“在不对称有机合成中发现非线性效应和自催化现象”上的贡献。生命中的化学结构被称为“手性”，就像手一样，所有氨基酸都存在两种镜像形式，但在细胞内的蛋白质中只有一种存在，而另一种在自然界中极为罕见。长期以来，化学家一直困惑于手性如何形成。当他们开始研究能生成两种镜像分子的化学反应时，实验管中总是得到等量的两种产物。然而化学家们一直努力只获得其中"
+          "link": "https://www.solidot.org/story?sid=85558",
+          "content": "在 YouTube 获得美国奥斯卡奖颁奖典礼的转播权之后，另一个流媒体平台亚马逊 Prime Video 获得了美国另一个主要奖项艾美奖的转播权。Amazon Prime Video 将从 2027 年起成为艾美奖的全球独占播放平台，这一协议将持续六年。全球逾 240 个国家和地区的观众将能免费在线观看艾美奖颁奖典礼的直播，无需订阅 Prime 会员。此前艾美奖颁奖典礼由美国四大电视网 ABC、CBS、NBC 和 Fox 轮流主办，该轮"
         },
         {
-          "text": "Anthropic 举报了与 Claude 聊天中发出威胁的佛罗里达女子",
+          "text": "定义了软件工程的计算机科学家 Margaret Hamilton 去世，享年 90 岁",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85542",
-          "content": "Anthropic 举报了一名佛罗里达女子，原因是这名女子在与 Claude 聊天中威胁要枪击 Lee 县警长办公室，并在后续聊天中提及自己正在搞一把新枪。该女子在家中被捕，法庭记录显示她于 9 月 30 日受到了一项重罪指控。逮捕报告显示，Anthropic 会监控聊天内容，查找可能被视为有威胁性的关键词句，根据威胁程度相关内容可能会被提交给人工进行审核。在本案中，审核团队决定将发现的情况报告给执法部门。她的罪名是通过书面或电子形式发"
+          "link": "https://www.solidot.org/story?sid=85557",
+          "content": "阿波罗登月计划期间担任 MIT 仪器实验室软件工程部主管的计算机科学家 Margaret Hamilton 于 9 月 30 日去世，享年 90 岁。美国总统奥巴马（Barack Obama）在 2016 年向她颁发了总统自由勋章，表扬她定义了软件工程，协助开创了一个永远改变人类历史的产业。Hamilton 于 1936 年出生在印第安纳州的 Paoli，1959 年随丈夫移居波士顿，在 MIT 气象系找到了一份临时工作，与气象学教授 "
         },
         {
-          "text": "2026 年诺贝尔物理奖授予了冰立方中微子天文台提出者 Francis Halzen",
+          "text": "微软被暂停参与允许外籍员工申请绿卡的项目",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85541",
-          "content": "2026 年诺贝尔物理奖授予了美国科学家 Francis Halzen，以表彰其“对冰立方中微子天文台的决定性贡献以及发现具有天体物理起源的高能中微子”。中微子无处不在，它们径直穿过地球，穿过人体，而我们毫无察觉。极少数情况下，一个中微子会与一个原子核发生相互作用，这使得拥有合适设备的人有可能发现它们。Francis Halzen 于 1988 年首次提出了在南极捕获中微子的构想。当中微子与原子核碰撞时，会产生一闪光，这种光可以被清澈冰"
+          "link": "https://www.solidot.org/story?sid=85556",
+          "content": "特朗普政府暂停了微软等多家公司参与一项允许外籍员工申请绿卡的项目，副总统 JD Vance 公开抨击微软滥用 H-1B 签证。微软被暂停参与的项目要求公司在向美国劳工部申请绿卡前，必须先在美国发布招聘广告，以证明由于美国工人短缺，他们需要向外籍工人发放绿卡。JD Vance 指责了微软的做法，称微软首先在小城镇的报纸上刊登招聘广告，然后以无人应聘为由宣称需要外籍员工。Vance 称微软是最频繁滥用这套制度的美国公司。微软去年裁掉了 60"
         },
         {
-          "text": "俄罗斯女研究员因感染肺鼠疫死亡",
+          "text": "Manus 成功融资逾 5 亿美元",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85540",
-          "content": "在引发广泛关注之后，俄罗斯证实一名女研究员因感染肺鼠疫死亡，否认有其他人感染。俄罗斯称，在西伯利亚和远东地区抗鼠疫科学研究所工作的 28 岁女死者希皮洛娃（Darya Shipilova），是因为意外打破试管而被流出的肺鼠疫（pneumonic plague）感染。曾跟她接触的人接受检验，发现两人感染冠病，两人感染鼻病毒（rhinovirus），但并未发现有人染上肺鼠疫或其他疫病。研究所所在的伊尔库茨克（Irkutsk）州州长科布泽夫("
+          "link": "https://www.solidot.org/story?sid=85554",
+          "content": "经历收购风波的中国 AI 企业 Manus 完成超过 5 亿美元融资，创始人肖弘也已解除边控，让这家一度卷入中美科技博弈、前途未卜的公司迎来“重启”，也彰显了中国资本市场对 AI 的热情。 Manus 的母公司蝴蝶效应，星期四（10月8日）在公众号宣布融资消息。这是中国 AI 应用领域迄今规模最大的单轮融资之一，由中国私募股权基金博裕资本和老牌美元基金 IDG 领投，老股东腾讯、红杉中国、真格基金跟投。 公司投后估值达到 40 亿美元，"
+        },
+        {
+          "text": "北欧饮食与长寿相关",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85553",
+          "content": "众所周知，地中海饮食有利于健康长寿。现在研究人员报告另一种欧洲饮食——北欧饮食也与长寿相关。丹麦、芬兰、冰岛、挪威和瑞典等国的传统饮食与地中海饮食有很多相似之处，差不多是其寒冷版本，因此又名北方的地中海饮食。北欧饮食以植物为主，主要食用富含脂肪的鱼和根茎蔬菜。研究人员分析了于 64,000 名瑞典中老年人的健康数据，发现饮食习惯更符合北欧饮食的人的全因死亡率、心血管死亡率和癌症死亡率更低。"
+        },
+        {
+          "text": "已知最早的游泳哺乳动物",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85552",
+          "content": "对一件早白垩世哺乳动物化石的分析证实约 1.25 亿年前的小型哺乳动物已经具备明确的半水生适应特征，这也是目前可确认的、最早具备游泳能力的哺乳动物。新发现的哺乳动物被命名为“板尾董尖齿兽”（Dongoconodon platycauda）。板尾董尖齿兽展现出了独特的半水生适应特征，是目前已知哺乳动物冠群中最早具有游泳能力的代表。其前后足具有发达的侧向扩展结构，与现生鸭嘴兽的蹼足高度相似，表明其生前可能具有发达的蹼膜；与此同时，董尖齿兽的"
         }
       ]
     },
@@ -36,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "美光目标价被投行大幅上调，最高3000美元",
+          "text": "Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783174",
-          "content": "在美光科技发布又一份创纪录业绩后，投行DA Davidson将其目标价从2100美元大幅上调至3000美元，成为华尔街最高预期。这一目标价隐含约176%的上行空间，背后是对存储超级周期延续至2028年、以及需求方结构变化将改写存储行业周期性的极端乐观判断。 DA Davidson科技研究主管Gil Luria的核心论点直截了当： 人工智能基础设施需要的内存比以往任何技术周期都要多，供应无法跟上，而2027年和2028年内存需求都将超过供"
+          "link": "https://wallstreetcn.com/articles/3783261",
+          "content": "英伟达投资的光学器件制造商Lumentum Holdings正面临巨大产能缺口——其CEO表示，公司产品已全面售罄至2029年初，旺盛的AI数据中心需求令其疲于追赶。 Lumentum首席执行官Michael Hurlston周五在东京接受彭博采访时透露， 部分产品明年前约70%的需求无法满足，另一些产品至2028年仍有30%的需求缺口。仅半年前，他还表示公司产能预计将于2028年售罄 ——如今这一时间表已提前近一年。&#34;我们完全"
         },
         {
-          "text": "中东冲突再升级：沙特机场遇袭、波斯湾油轮中弹，特朗普拟对伊朗再动手，布油站上102美元",
+          "text": "Pimco警告：对冲基金被迫抛售以止损，美国10年期国债收益率或突破6%！",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783182",
-          "content": "中东局势在数日内急剧恶化。胡塞武装连续袭击沙特两座主要机场，造成人员死伤；一艘油轮在卡塔尔附近海域遭弹射物击中，为近一个月来波斯湾深处首次遭袭；与此同时，白宫据报已要求五角大楼制定可在美国中期选举前执行的对伊朗打击方案。多重冲击叠加之下， 布伦特原油价格突破102美元/桶 ，市场对中东供应中断的担忧骤然升温。 据央视新闻报道，也门冲突近日显著升温。胡塞武装军事发言人叶海亚·萨雷亚7日发表声明称，过去24小时内，沙特对也门6个省份发动了1"
+          "link": "https://wallstreetcn.com/articles/3783253",
+          "content": "全球最大债券基金Pimco发出警告，美国10年期国债收益率存在突破6%的风险，这将是该指标收益率26年来首次触及这一水平。 Pimco首席投资官Dan Ivascyn在接受英国《金融时报》采访时表示， 10年期美债收益率从当前5.29%水平进一步大幅攀升是&#34;可以实现的&#34;。他指出，过去数周对冲基金等杠杆投资者在这个规模32万亿美元的市场中遭受持续亏损后被迫止损平仓，这一技术性卖压是推动收益率走高的关键因素之一。 Ivasc"
         },
         {
-          "text": "油价持续飙涨引爆通胀忧虑，全球股市承压下行、韩股收跌2.6%，美债收益率走高",
+          "text": "花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783173",
-          "content": "全球股市涨势遭到打断。国际油价因中东局势再度升温急涨逾2%，推动通胀预期升温，令投资者对全球股市刚刚接近历史高位的乐观情绪迅速降温，美债收益率同步走高。 布伦特原油周四上涨约2.5%，突破每桶102美元关口；与此同时，AI巨头新一轮大规模举债计划令市场信心出现动摇。受此冲击，美国10年期国债收益率上扬3个基点至5.31%，逼近2002年以来的高点；MSCI全球指数下跌0.2%，进一步偏离此前一度接近的历史峰值。亚洲股市跟随华尔街周三的跌"
+          "link": "https://wallstreetcn.com/articles/3783259",
+          "content": "全球电池产业链正进入第二轮产能扩张周期，需求增速放缓叠加供给追赶，传统意义上的&#34;下行周期&#34;特征正在显现。但花旗认为，与上一轮周期（2022-2024年）相比，此次供需格局更为均衡，价格战风险显著降低。市场对于此次下行周期的悲观预期存在过度，整体利用率有望保持稳定。 花旗于2026年10月7日发布报告指出，在经历2025年需求强劲反弹并带动行业全面上修盈利预测之后，产能扩张步伐正在加速追赶。自下而上的产能模型测算，2026"
         },
         {
-          "text": "估值至少达400亿美元！Alphabet旗下AI 药物研发公司Isomorphic Labs正就融资进行谈判",
+          "text": "报道：苹果削减iPhone 18 Pro订单，涨价后需求弱于预期",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783171",
-          "content": "Alphabet旗下AI驱动药物研发公司Isomorphic Labs正寻求新一轮融资， 估值至少达400亿美元 ，距其上一轮融资仅五个月。 据彭博10月8日报道，知情人士称，此次融资谈判仍处于早期阶段， 估值区间可能高达500亿美元 。知情人士表示，融资尚未完成，相关细节仍可能发生变化。Isomorphic Labs未回应置评请求。 若融资顺利落地，这将标志着Isomorphic Labs估值在短短数月内实现大幅跃升，进一步凸显资本市"
+          "link": "https://wallstreetcn.com/articles/3783257",
+          "content": "苹果公司正面临旗舰新品上市后需求不及预期的压力。 据日经亚洲周五援引多名知情人士，苹果自9月初起对出货预期趋于保守。其中两名知情人士表示， 与原始计划相比，10月iPhone 18 Pro与Pro Max的组件订单已被削减至少15%，原因是市场需求弱于预期。一名高管级别消息人士透露，10月，苹果高端机型的订单削减幅度介于15%至20%之间。 与此同时，瑞银分析师本周在研报中指出，iPhone 18 Pro在逾30个市场的交货等待时间正在"
         },
         {
-          "text": "涨逾四成后，江淮汽车跌停",
+          "text": "法兴大空头：AI热潮正在复刻亚洲金融危机，致命的是债务“定时炸弹”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783177",
-          "content": "节前走出一轮快速上涨的江淮汽车，在国庆假期后的首个交易日触及跌停。 10月8日盘中，江淮汽车下跌10.01%，报24.72元/股，成交额超36亿元。 当天，江淮与华为合作打造的尊界品牌因一则制动测试视频受到关注。懂车帝发布视频称，其对三台尊界V800进行100km/h至0的紧急制动测试，三台车在第2至第4次重刹时出现刹车踏板支架断裂。 针对上述视频，尊界客服回应称，品牌方已关注到该测试视频，相关事项目前正处于核实处理流程中，事件后续进展"
+          "link": "https://wallstreetcn.com/articles/3783252",
+          "content": "法国兴业银行首席策略师Albert Edwards发出警告：当前的AI投资热潮与1997年亚洲金融危机存在惊人相似之处—— 不是因为技术本身无用，而是因为资本流入的速度远远快于生产率改善的速度，而填补这一缺口的，历史上从来都是债权人，而非工程师。 Edwards在其最新一期《全球策略周报》中指出，衡量技术实际效益的全要素生产率（TFP）数据迄今毫无起色，但全球AI资本开支已然狂飙，高盛预计仅2026年一年全球AI投资规模就将突破1万亿美"
         },
         {
-          "text": "SpaceX债券遭抛售、CDS飙至新高，400亿借贷计划引发市场担忧",
+          "text": "AI回报疑虑缓解，亚洲股市小幅上扬，美债收益率回落，金价突破4200美元，铁矿石连跌三周",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783170",
-          "content": "SpaceX新一轮大规模举债计划令市场信心出现动摇，但分析人士认为，AI信贷繁荣周期尚未触顶。 据英国《金融时报》报道， SpaceX正寻求筹集400亿美元 用于购买英伟达芯片，消息一出随即冲击信贷市场。该公司五年期信用违约互换（CDS）利差周三升至194基点的历史高位，其2056年到期债券收益率较美国国债的价差也扩大至2.36个百分点，距今年6月的1.75个百分点已明显走阔。彭博专栏作家Shuli Ren撰文指出， 鉴于此次融资规模之"
+          "link": "https://wallstreetcn.com/articles/3783254",
+          "content": "周五，有关OpenAI营收的最新数据为市场提供喘息空间，此前因AI支出回报存疑引发的抛售压力有所缓解。铁矿石价格延续跌势，本周迎来连续第三周下跌；与此同时，美债长端收益率小幅回落，推动金银价格走高，现货黄金突破4200美元关口。 亚洲股市整体上涨0.3%，欧洲股指期货亦指向高开。美股期货方面，标普500指数期货涨0.3%，纳斯达克100指数期货涨0.5%，此前据彭博获悉，OpenAI澄清年化营收，公司9月底约500亿美元，年底目标为70"
         }
       ]
     },
@@ -77,46 +89,58 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
+          "text": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115456",
+          "content": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。<a href=&#34;https://sspai.com/post/115456&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114869",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/114869&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115532",
+          "content": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型<a href=&#34;https://sspai.com/post/115532&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "iPhone Duo：苹果，终究还是对强迫症下手了",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115282",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/115282&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
+          "source": "少数派",
+          "link": "https://sspai.com/post/113843",
+          "content": "最近我写了不少关于独立开发的思考，想着要汇总一下，就把Mole从开源CLI做到Mac付费软件这一路聊一聊：我当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。去年国庆我在三 ...<a href=&#34;https://sspai.com/post/113843&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
           "text": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
           "source": "少数派",
           "link": "https://sspai.com/post/115209",
           "content": "断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。<a href=&#34;https://sspai.com/post/115209&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115462",
-          "content": "10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ...<a href=&#34;https://sspai.com/post/115462&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115455",
-          "content": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。<a href=&#34;https://sspai.com/post/115455&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "罗马：永恒之城，永恒于世",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114845",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/114845&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115416",
-          "content": "密码管理服务的数据，当然要掌握在自己手里。<a href=&#34;https://sspai.com/post/115416&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "Margaret Hamilton has died（1342 分 · 149 评论）",
-          "source": "Hacker News",
-          "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-          "content": ""
         }
       ]
     },
     {
       "title": "GitHub 热点项目",
       "items": [
+        {
+          "text": "boykopovar/AnyPS5：boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows（C++）",
+          "source": "GitHub",
+          "link": "https://github.com/boykopovar/AnyPS5",
+          "content": ""
+        },
+        {
+          "text": "cathrynlavery/diagram-design：cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.（HTML）",
+          "source": "GitHub",
+          "link": "https://github.com/cathrynlavery/diagram-design",
+          "content": ""
+        },
         {
           "text": "morluto/rea：morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries.（TypeScript）",
           "source": "GitHub",
@@ -130,27 +154,15 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "boykopovar/AnyPS5：boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows（C++）",
+          "text": "thedotmack/claude-mem：thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/boykopovar/AnyPS5",
+          "link": "https://github.com/thedotmack/claude-mem",
           "content": ""
         },
         {
-          "text": "ayghri/i-have-adhd：ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output.（Python）",
+          "text": "EpicGames/raddebugger：EpicGames / raddebugger A native, user-mode, multi-process, graphical debugger.（C）",
           "source": "GitHub",
-          "link": "https://github.com/ayghri/i-have-adhd",
-          "content": ""
-        },
-        {
-          "text": "cathrynlavery/diagram-design：cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.（HTML）",
-          "source": "GitHub",
-          "link": "https://github.com/cathrynlavery/diagram-design",
-          "content": ""
-        },
-        {
-          "text": "addyosmani/agent-skills：addyosmani / agent-skills Production-grade engineering skills for AI coding agents.（JavaScript）",
-          "source": "GitHub",
-          "link": "https://github.com/addyosmani/agent-skills",
+          "link": "https://github.com/EpicGames/raddebugger",
           "content": ""
         }
       ]
@@ -158,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-08","2026-10-07","2026-10-06","2026-10-05","2026-10-04","2026-10-03","2026-10-02","2026-10-01"];
+window.BRIEFING_ARCHIVE = ["2026-10-09","2026-10-08","2026-10-07","2026-10-06","2026-10-05","2026-10-04","2026-10-03","2026-10-02"];
