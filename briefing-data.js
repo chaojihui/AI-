@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-09T07:53:48.724Z
+// 由 GitHub Actions 自动生成 2026-10-10T07:39:01.549Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "亚马逊 Prime Video 将直播艾美奖颁奖典礼",
+          "text": "Cloudflare 收购 Deno，Deno 停止开发",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85558",
-          "content": "在 YouTube 获得美国奥斯卡奖颁奖典礼的转播权之后，另一个流媒体平台亚马逊 Prime Video 获得了美国另一个主要奖项艾美奖的转播权。Amazon Prime Video 将从 2027 年起成为艾美奖的全球独占播放平台，这一协议将持续六年。全球逾 240 个国家和地区的观众将能免费在线观看艾美奖颁奖典礼的直播，无需订阅 Prime 会员。此前艾美奖颁奖典礼由美国四大电视网 ABC、CBS、NBC 和 Fox 轮流主办，该轮"
+          "link": "https://www.solidot.org/story?sid=85570",
+          "content": "Cloudflare 收购了开源 JS 运行时项目 Deno，Deno 宣布该项目将停止开发，但会继续维护一年时间，期间会释出 bug 修复和安全更新，但不会有新功能，一年之后终止支持。它欢迎其他人接手该项目。使用 Deno 的一个知名项目是 YouTube 视频下载工具 yt-dlp，它是在 2025 年宣布选择 Deno 作为其 JavaScript 运行时，但随着 Deno 终止支持它可能需要再次选择新的运行时。"
         },
         {
-          "text": "定义了软件工程的计算机科学家 Margaret Hamilton 去世，享年 90 岁",
+          "text": "Let's Encrypt 从 2027 年起切换到有效期为 64 天的证书",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85557",
-          "content": "阿波罗登月计划期间担任 MIT 仪器实验室软件工程部主管的计算机科学家 Margaret Hamilton 于 9 月 30 日去世，享年 90 岁。美国总统奥巴马（Barack Obama）在 2016 年向她颁发了总统自由勋章，表扬她定义了软件工程，协助开创了一个永远改变人类历史的产业。Hamilton 于 1936 年出生在印第安纳州的 Paoli，1959 年随丈夫移居波士顿，在 MIT 气象系找到了一份临时工作，与气象学教授 "
+          "link": "https://www.solidot.org/story?sid=85568",
+          "content": "Let’s Encrypt 去年宣布到 2028 年将证书有效期从现在的 90 天缩短至 45 天。此举是为了遵守 Certification Authority Browser Forum (CA/Browser Forum)通过的缩短证书有效期决议。Let’s Encrypt 将分多个阶段逐步缩短至 45 天有限期，它宣布从 2027 年 2 月 10 日起签发的证书有效期缩短为 64 天，意味着自该日期起签发或续期的任何证书，其有"
         },
         {
-          "text": "微软被暂停参与允许外籍员工申请绿卡的项目",
+          "text": "超强厄尔尼诺已经形成",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85556",
-          "content": "特朗普政府暂停了微软等多家公司参与一项允许外籍员工申请绿卡的项目，副总统 JD Vance 公开抨击微软滥用 H-1B 签证。微软被暂停参与的项目要求公司在向美国劳工部申请绿卡前，必须先在美国发布招聘广告，以证明由于美国工人短缺，他们需要向外籍工人发放绿卡。JD Vance 指责了微软的做法，称微软首先在小城镇的报纸上刊登招聘广告，然后以无人应聘为由宣称需要外籍员工。Vance 称微软是最频繁滥用这套制度的美国公司。微软去年裁掉了 60"
+          "link": "https://www.solidot.org/story?sid=85567",
+          "content": "国家气候中心表示，一次东部型超强厄尔尼诺事件已于今年 9 月正式形成。预计未来 3 个月，赤道中东太平洋海表温度将继续升高，在秋末冬初达到峰值，此次厄尔尼诺事件将成为有系统性监测以来最强厄尔尼诺事件。今年5月以来，赤道中东太平洋进入厄尔尼诺状态，关键监测区海温持续快速升高。这一区域海温指数的三个月滑动平均值已连续五个月超过 0.5℃，其中 7-9 月的平均值达 2.54℃，超过 2.5℃，达到超强事件标准。根据海温最强增暖中心位置，厄尔"
         },
         {
-          "text": "Manus 成功融资逾 5 亿美元",
+          "text": "人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85554",
-          "content": "经历收购风波的中国 AI 企业 Manus 完成超过 5 亿美元融资，创始人肖弘也已解除边控，让这家一度卷入中美科技博弈、前途未卜的公司迎来“重启”，也彰显了中国资本市场对 AI 的热情。 Manus 的母公司蝴蝶效应，星期四（10月8日）在公众号宣布融资消息。这是中国 AI 应用领域迄今规模最大的单轮融资之一，由中国私募股权基金博裕资本和老牌美元基金 IDG 领投，老股东腾讯、红杉中国、真格基金跟投。 公司投后估值达到 40 亿美元，"
+          "link": "https://www.solidot.org/story?sid=85566",
+          "content": "如果你认为性别薪酬差距不存在，或者职场中没有性别偏见，那么最好重新思考下：根据爱尔兰 Limerick 大学研究人员展开的一项研究，在一个 VR 办公室里，基于相同的底层技术但形象不同的 AI 智能体，人类参与者愿意向男性形象的智能体支付的报酬比女性形象更高。参与研究的人类共有 189 人，他们与名叫 Johan 的男性形象智能体以及名叫 Johanna 的女性形象智能体共同工作。尽管底层技术相同，对于完成相同的工作，Johanna 得"
         },
         {
-          "text": "北欧饮食与长寿相关",
+          "text": "诺贝尔和平奖授予了南非女法官 Navi Pillay",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85553",
-          "content": "众所周知，地中海饮食有利于健康长寿。现在研究人员报告另一种欧洲饮食——北欧饮食也与长寿相关。丹麦、芬兰、冰岛、挪威和瑞典等国的传统饮食与地中海饮食有很多相似之处，差不多是其寒冷版本，因此又名北方的地中海饮食。北欧饮食以植物为主，主要食用富含脂肪的鱼和根茎蔬菜。研究人员分析了于 64,000 名瑞典中老年人的健康数据，发现饮食习惯更符合北欧饮食的人的全因死亡率、心血管死亡率和癌症死亡率更低。"
+          "link": "https://www.solidot.org/story?sid=85565",
+          "content": "2026 年诺贝尔和平奖授予了南非女法官 Navi Pillay，以表彰她为促进和平和维护国际法所做出的努力，她在确保战争罪、危害人类罪和种族灭绝罪受到起诉上发挥了关键作用。Pillay 出生于南非德班，有印度泰米尔人血统，是首位获得哈佛大学法学博士学位的南非人，也是南非高等法院首位非白人法官，曾任国际刑事法院法官和卢旺达问题国际刑事法庭庭长。她于 2008 年—2014 年担任联合国人权事务高级专员，2021年—2025 年担任联合国"
         },
         {
-          "text": "已知最早的游泳哺乳动物",
+          "text": "为何大型犬衰老速度更快",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85552",
-          "content": "对一件早白垩世哺乳动物化石的分析证实约 1.25 亿年前的小型哺乳动物已经具备明确的半水生适应特征，这也是目前可确认的、最早具备游泳能力的哺乳动物。新发现的哺乳动物被命名为“板尾董尖齿兽”（Dongoconodon platycauda）。板尾董尖齿兽展现出了独特的半水生适应特征，是目前已知哺乳动物冠群中最早具有游泳能力的代表。其前后足具有发达的侧向扩展结构，与现生鸭嘴兽的蹼足高度相似，表明其生前可能具有发达的蹼膜；与此同时，董尖齿兽的"
+          "link": "https://www.solidot.org/story?sid=85563",
+          "content": "为什么大型犬往往比体型较小的犬寿命更短？根据一项针对 894 只狗所做的新研究，答案可能就写在它们的表观基因组中。这些发现表明，体型较大的狗和雄性狗会经历分子衰老过程加速，其表现为 X 染色体和转座元件（TEs）上会出现显著的 DNA 甲基化（DNAm）。研究人员从“犬类衰老项目”（Dog Aging Project）中的由 894 只狗组成的队列中生成了 1640 个甲基化组。他们将这些分子数据与详细的遗传和人口统计学数据进行了整合。"
         }
       ]
     },
@@ -48,46 +48,58 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
+          "text": "靠定增赚了数百亿的人，又把钱拍在了桌面上",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783261",
-          "content": "英伟达投资的光学器件制造商Lumentum Holdings正面临巨大产能缺口——其CEO表示，公司产品已全面售罄至2029年初，旺盛的AI数据中心需求令其疲于追赶。 Lumentum首席执行官Michael Hurlston周五在东京接受彭博采访时透露， 部分产品明年前约70%的需求无法满足，另一些产品至2028年仍有30%的需求缺口。仅半年前，他还表示公司产能预计将于2028年售罄 ——如今这一时间表已提前近一年。&#34;我们完全"
+          "link": "https://wallstreetcn.com/articles/3783322",
+          "content": "大腕出手，志在必得。 10月8日晚，新材料龙头中材科技发布定增公告：以51.40元/股向15名对象定向增发8718.19万股，合计募资44.81亿元。 消息一出，最引人注目的名字，不是易方达，不是国寿养老，而是 ——葛卫东。 这位私募大佬 ， 以全场最高报价强势入局，最终获配 1361.87万股，斥资约7亿元，一举跻身公司第五大股东。 他曾在沐熙股份、兆易创新等科技股上分别斩获上百亿元浮盈，但最终却把最新的 “重拳出击”放在了一个材料股"
         },
         {
-          "text": "Pimco警告：对冲基金被迫抛售以止损，美国10年期国债收益率或突破6%！",
+          "text": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783253",
-          "content": "全球最大债券基金Pimco发出警告，美国10年期国债收益率存在突破6%的风险，这将是该指标收益率26年来首次触及这一水平。 Pimco首席投资官Dan Ivascyn在接受英国《金融时报》采访时表示， 10年期美债收益率从当前5.29%水平进一步大幅攀升是&#34;可以实现的&#34;。他指出，过去数周对冲基金等杠杆投资者在这个规模32万亿美元的市场中遭受持续亏损后被迫止损平仓，这一技术性卖压是推动收益率走高的关键因素之一。 Ivasc"
+          "link": "https://wallstreetcn.com/articles/3783320",
+          "content": "全球最大半导体设备制造商ASML宣布对韩国客户实施零部件价格全线上调10%，三星电子与SK海力士已接受这一方案，涨价将于明年1月起正式生效。这标志着半导体设备供应链的定价权正加速向供应商一侧倾斜，行业成本压力持续扩散。 据韩国科技媒体The Lec报道，ASML总部于上月初通过韩国法人向三星和SK海力士发出涨价通知，经双方采购部门协商后确认。此次涨价覆盖EUV与DUV光刻机的全部零部件，包括定期采购的消耗性部件，以及因故障或性能下降而需"
         },
         {
-          "text": "花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观",
+          "text": "素人IP混战的2026年，TOP TOY押注的小玉能否拿到大结果？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783259",
-          "content": "全球电池产业链正进入第二轮产能扩张周期，需求增速放缓叠加供给追赶，传统意义上的&#34;下行周期&#34;特征正在显现。但花旗认为，与上一轮周期（2022-2024年）相比，此次供需格局更为均衡，价格战风险显著降低。市场对于此次下行周期的悲观预期存在过度，整体利用率有望保持稳定。 花旗于2026年10月7日发布报告指出，在经历2025年需求强劲反弹并带动行业全面上修盈利预测之后，产能扩张步伐正在加速追赶。自下而上的产能模型测算，2026"
+          "link": "https://wallstreetcn.com/articles/3783318",
+          "content": "国庆假期，上海嘉善路的一栋老洋房外排起长队，消费者往往需要等待一两个小时才能进店。 吸引人们的是一个黑发、满脸雀斑、留着狗啃刘海的小女孩——yuy玉，粉丝们更习惯叫她“小玉”。 这个从小红书走红的原创IP，国庆期间与Parlid拍立得联手打造主题空间，推出联名相纸、影像体验及创意周边。 相距不远的富民路，另一场小玉主题店同期营业。二楼阳台上，巨大的小玉形象探出身子，俯瞰着楼下排队等候的人群。 上海富民路yuy玉慢闪 10月6日下午摄 小"
         },
         {
-          "text": "报道：苹果削减iPhone 18 Pro订单，涨价后需求弱于预期",
+          "text": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783257",
-          "content": "苹果公司正面临旗舰新品上市后需求不及预期的压力。 据日经亚洲周五援引多名知情人士，苹果自9月初起对出货预期趋于保守。其中两名知情人士表示， 与原始计划相比，10月iPhone 18 Pro与Pro Max的组件订单已被削减至少15%，原因是市场需求弱于预期。一名高管级别消息人士透露，10月，苹果高端机型的订单削减幅度介于15%至20%之间。 与此同时，瑞银分析师本周在研报中指出，iPhone 18 Pro在逾30个市场的交货等待时间正在"
+          "link": "https://wallstreetcn.com/articles/3783317",
+          "content": "美股表面风平浪静，水面之下暗流涌动。十年期美债收益率本周逼近5.4%，创2002年以来新高，布伦特原油徘徊于每桶100美元上方，金融市场正在经历一场被科技巨头光环所遮蔽的广泛撤退。 标普500指数本周创下历史新高，但这一纪录背后隐藏着极度脆弱的市场基础—— 仅约30%的成分股交易于50日均线之上，是彭博自1990年有数据以来，所有创纪录交易日中市场参与度最低的一次 。 与此同时，罗素2000小盘股指数连续第五周下跌，较高点累计跌幅约8."
         },
         {
-          "text": "法兴大空头：AI热潮正在复刻亚洲金融危机，致命的是债务“定时炸弹”",
+          "text": "油轮运费创六十年新高：从美国到中国运一船油，比发射火箭还贵！",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783252",
-          "content": "法国兴业银行首席策略师Albert Edwards发出警告：当前的AI投资热潮与1997年亚洲金融危机存在惊人相似之处—— 不是因为技术本身无用，而是因为资本流入的速度远远快于生产率改善的速度，而填补这一缺口的，历史上从来都是债权人，而非工程师。 Edwards在其最新一期《全球策略周报》中指出，衡量技术实际效益的全要素生产率（TFP）数据迄今毫无起色，但全球AI资本开支已然狂飙，高盛预计仅2026年一年全球AI投资规模就将突破1万亿美"
+          "link": "https://wallstreetcn.com/articles/3783314",
+          "content": "全球油轮市场正经历一场史无前例的运费风暴。伊朗冲突重塑中东原油贸易格局，叠加船队供给严重短缺，超大型油轮运费已飙升至六十年来最高水平—— 将一船原油从美国运往中国的费用高达8000万美元，超过一枚SpaceX猎鹰9号火箭的发射成本 。 据彭博10月9日报道，本周一笔从美国出发的油轮订单， 运费折算后相当于每桶41美元的运输成本，而去年同一航线的均值仅为4.50美元。这一成本约占西德克萨斯中质原油期货价格的45%。 船舶经纪商Gibson"
         },
         {
-          "text": "AI回报疑虑缓解，亚洲股市小幅上扬，美债收益率回落，金价突破4200美元，铁矿石连跌三周",
+          "text": "跟跌不跟涨！白银陷入困境",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783254",
-          "content": "周五，有关OpenAI营收的最新数据为市场提供喘息空间，此前因AI支出回报存疑引发的抛售压力有所缓解。铁矿石价格延续跌势，本周迎来连续第三周下跌；与此同时，美债长端收益率小幅回落，推动金银价格走高，现货黄金突破4200美元关口。 亚洲股市整体上涨0.3%，欧洲股指期货亦指向高开。美股期货方面，标普500指数期货涨0.3%，纳斯达克100指数期货涨0.5%，此前据彭博获悉，OpenAI澄清年化营收，公司9月底约500亿美元，年底目标为70"
+          "link": "https://wallstreetcn.com/articles/3783312",
+          "content": "白银市场正陷入一种罕见的双重困境：利好消息无法推动价格上涨，利空消息却能精准压制。在美元走强与实际利率上行的双重夹击下，白银的工业需求逻辑正在被宏观力量系统性压制，投机资金大规模撤离，做空力量达到近年峰值。 周五亚市盘中，白银价格一度跌超2%至58.70美元/盎司，而黄金同期仅小幅下跌0.4%至4120美元。 高盛大宗商品交易台追踪Comex金属资金流向的分析师Robert Quinn在最新报告中以&#34;Silver Futures"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115237",
+          "content": "把决定使用时长的时机，放到每次打开应用之前。<a href=&#34;https://sspai.com/post/115237&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "本周看什么 | 最近值得一看的 11 部作品",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115566",
+          "content": "📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ...<a href=&#34;https://sspai.com/post/115566&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
           "source": "少数派",
@@ -111,18 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/115282",
           "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/115282&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
-          "source": "少数派",
-          "link": "https://sspai.com/post/113843",
-          "content": "最近我写了不少关于独立开发的思考，想着要汇总一下，就把Mole从开源CLI做到Mac付费软件这一路聊一聊：我当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。去年国庆我在三 ...<a href=&#34;https://sspai.com/post/113843&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115209",
-          "content": "断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。<a href=&#34;https://sspai.com/post/115209&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,21 +130,15 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "boykopovar/AnyPS5：boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows（C++）",
-          "source": "GitHub",
-          "link": "https://github.com/boykopovar/AnyPS5",
-          "content": ""
-        },
-        {
-          "text": "cathrynlavery/diagram-design：cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.（HTML）",
-          "source": "GitHub",
-          "link": "https://github.com/cathrynlavery/diagram-design",
-          "content": ""
-        },
-        {
           "text": "morluto/rea：morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries.（TypeScript）",
           "source": "GitHub",
           "link": "https://github.com/morluto/rea",
+          "content": ""
+        },
+        {
+          "text": "boykopovar/AnyPS5：boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows（C++）",
+          "source": "GitHub",
+          "link": "https://github.com/boykopovar/AnyPS5",
           "content": ""
         },
         {
@@ -154,15 +148,21 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "thedotmack/claude-mem：thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More（TypeScript）",
+          "text": "cathrynlavery/diagram-design：cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.（HTML）",
           "source": "GitHub",
-          "link": "https://github.com/thedotmack/claude-mem",
+          "link": "https://github.com/cathrynlavery/diagram-design",
           "content": ""
         },
         {
-          "text": "EpicGames/raddebugger：EpicGames / raddebugger A native, user-mode, multi-process, graphical debugger.（C）",
+          "text": "alibaba/open-code-review：alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.（Go）",
           "source": "GitHub",
-          "link": "https://github.com/EpicGames/raddebugger",
+          "link": "https://github.com/alibaba/open-code-review",
+          "content": ""
+        },
+        {
+          "text": "anthropics/knowledge-work-plugins：anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/anthropics/knowledge-work-plugins",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-09","2026-10-08","2026-10-07","2026-10-06","2026-10-05","2026-10-04","2026-10-03","2026-10-02"];
+window.BRIEFING_ARCHIVE = ["2026-10-10","2026-10-09","2026-10-08","2026-10-07","2026-10-06","2026-10-05","2026-10-04","2026-10-03"];
