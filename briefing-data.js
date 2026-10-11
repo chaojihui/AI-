@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-10T07:39:01.549Z
+// 由 GitHub Actions 自动生成 2026-10-11T07:43:56.766Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "Cloudflare 收购 Deno，Deno 停止开发",
+          "text": "曾濒临灭绝的象龟数量超过了塞舌尔人口总数",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85570",
-          "content": "Cloudflare 收购了开源 JS 运行时项目 Deno，Deno 宣布该项目将停止开发，但会继续维护一年时间，期间会释出 bug 修复和安全更新，但不会有新功能，一年之后终止支持。它欢迎其他人接手该项目。使用 Deno 的一个知名项目是 YouTube 视频下载工具 yt-dlp，它是在 2025 年宣布选择 Deno 作为其 JavaScript 运行时，但随着 Deno 终止支持它可能需要再次选择新的运行时。"
+          "link": "https://www.solidot.org/story?sid=85577",
+          "content": "在人类到来前，塞舌尔群岛曾是动物的乐园。生活在这里的陆龟 Aldabra 象龟（Aldabrachelys gigantea）没有天敌，而且寿命极长。15 世纪之后欧洲探险家开始出现，水手、海盗紧随而至，行动缓慢的象龟成为他们唾手可得的食物。到了 19 世纪象龟数量不足一千只，濒临灭绝。最新的调查显示，经过数十年的保护，象龟数量已达到历史最高水平，数量首次超过了塞舌尔群岛的总人口。塞舌尔群岛居住着大约 12 万人。象龟数量则已超过 18"
         },
         {
-          "text": "Let's Encrypt 从 2027 年起切换到有效期为 64 天的证书",
+          "text": "能访问丹麦 CPR 系统的一个管理员账号密码是 123456",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85568",
-          "content": "Let’s Encrypt 去年宣布到 2028 年将证书有效期从现在的 90 天缩短至 45 天。此举是为了遵守 Certification Authority Browser Forum (CA/Browser Forum)通过的缩短证书有效期决议。Let’s Encrypt 将分多个阶段逐步缩短至 45 天有限期，它宣布从 2027 年 2 月 10 日起签发的证书有效期缩短为 64 天，意味着自该日期起签发或续期的任何证书，其有"
+          "link": "https://www.solidot.org/story?sid=85576",
+          "content": "丹麦的国家民事登记系统 CPR 被一名未经授权的黑客访问长达近 22 天，这次入侵始于 9 月 10 日，止于 10 月 2 日，总共 21 天 17 小时。约 880 万丹麦居民的个人信息遭到泄露，其中包括姓名、地址和 CPR 身份识别号码。黑客是从一家拥有 CPR 访问权限的丹麦小公司 Pays ApS 进入 CPR 系统的。利用该公司的访问凭证，黑客共进行了约 1400 万次 CPR 查询。Pays ApS 有两名员工，该公司至少"
         },
         {
-          "text": "超强厄尔尼诺已经形成",
+          "text": "使用 AI 十分钟就会削弱你挑战难题的意志力",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85567",
-          "content": "国家气候中心表示，一次东部型超强厄尔尼诺事件已于今年 9 月正式形成。预计未来 3 个月，赤道中东太平洋海表温度将继续升高，在秋末冬初达到峰值，此次厄尔尼诺事件将成为有系统性监测以来最强厄尔尼诺事件。今年5月以来，赤道中东太平洋进入厄尔尼诺状态，关键监测区海温持续快速升高。这一区域海温指数的三个月滑动平均值已连续五个月超过 0.5℃，其中 7-9 月的平均值达 2.54℃，超过 2.5℃，达到超强事件标准。根据海温最强增暖中心位置，厄尔"
+          "link": "https://www.solidot.org/story?sid=85575",
+          "content": "一项研究发现，仅仅依赖 AI 工具十分钟就会削弱我们解决困难任务的专注力和坚持到底的意志力。研究团队于本周举行的 Conference on Language Modeling 会议上介绍了他们经过同行评审的论文。为了测试人的专注力和意志力下降的速度有多快，研究人员设计了一系列随机对照试验，在网上招募了 1222 名参与者。第一项实验将 354 名参与者分成两组，一组独立完成 15 道基础分数问题，另一组可使用 ChatGPT 辅助解题"
         },
         {
-          "text": "人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体",
+          "text": "DDR4 内存条再次回归",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85566",
-          "content": "如果你认为性别薪酬差距不存在，或者职场中没有性别偏见，那么最好重新思考下：根据爱尔兰 Limerick 大学研究人员展开的一项研究，在一个 VR 办公室里，基于相同的底层技术但形象不同的 AI 智能体，人类参与者愿意向男性形象的智能体支付的报酬比女性形象更高。参与研究的人类共有 189 人，他们与名叫 Johan 的男性形象智能体以及名叫 Johanna 的女性形象智能体共同工作。尽管底层技术相同，对于完成相同的工作，Johanna 得"
+          "link": "https://www.solidot.org/story?sid=85574",
+          "content": "由于 DDR5 内存条过于昂贵，上一代的 DDR4 内存条再次回归。技嘉宣布将于 2027 年初上市支持 DDR4 内存的新的 Intel LGA 1700 主板，而今年八月技嘉宣布推出了支持 DDR4 内存的新 AMD AM4 主板。DDR4 内存于 2014 年上市，很快被新一代的 DDR5 内存取代。由于 AI 热耗尽了主要内存厂商的内存产能，DDR5 内存的价格在一年内飙升了可能高达 10 倍。今天一套 32GB 的 Corsa"
         },
         {
-          "text": "诺贝尔和平奖授予了南非女法官 Navi Pillay",
+          "text": "特斯拉在欧洲将 Full Self-Driving 改名为 Tesla Assisted Driving",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85565",
-          "content": "2026 年诺贝尔和平奖授予了南非女法官 Navi Pillay，以表彰她为促进和平和维护国际法所做出的努力，她在确保战争罪、危害人类罪和种族灭绝罪受到起诉上发挥了关键作用。Pillay 出生于南非德班，有印度泰米尔人血统，是首位获得哈佛大学法学博士学位的南非人，也是南非高等法院首位非白人法官，曾任国际刑事法院法官和卢旺达问题国际刑事法庭庭长。她于 2008 年—2014 年担任联合国人权事务高级专员，2021年—2025 年担任联合国"
+          "link": "https://www.solidot.org/story?sid=85573",
+          "content": "特斯拉在欧洲将其辅助驾驶系统从 Full Self-Driving 改名为 Tesla Assisted Driving。德国交通部长 Steffen Bilger 本月早些时候指出，将辅助驾驶系统命名为 Full Self-Driving 具有误导性，因为它并不能真正完全自动驾驶。Bilger 与特斯拉公司进行了沟通，该公司因此提出了改名建议。Bilger 表示将会推动 Tesla Assisted Driving 在整个欧洲获得批准"
         },
         {
-          "text": "为何大型犬衰老速度更快",
+          "text": "全球 PC 出货量三季度暴跌逾 20%",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85563",
-          "content": "为什么大型犬往往比体型较小的犬寿命更短？根据一项针对 894 只狗所做的新研究，答案可能就写在它们的表观基因组中。这些发现表明，体型较大的狗和雄性狗会经历分子衰老过程加速，其表现为 X 染色体和转座元件（TEs）上会出现显著的 DNA 甲基化（DNAm）。研究人员从“犬类衰老项目”（Dog Aging Project）中的由 894 只狗组成的队列中生成了 1640 个甲基化组。他们将这些分子数据与详细的遗传和人口统计学数据进行了整合。"
+          "link": "https://www.solidot.org/story?sid=85572",
+          "content": "因 AI 热导致内存和存储器价格暴涨，全球 PC 出货量三季度暴跌逾 20%。Omdia 的最新数据显示 2026 年第三季度全球台式机、笔记本电脑和工作站的总出货量同比下降 21.2% 至 5810 万台。IDC 的数据类似估计出货量下降 20.1% 至 6270 万台。IDC 指出，全球 PC 第三季度出货量比第二季度下降了 9.1%，违背了通常的季节性规律——即开学季需求会提振 PC 市场。Omdia 估计，由于价格上涨了四倍多，"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "靠定增赚了数百亿的人，又把钱拍在了桌面上",
+          "text": "美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783322",
-          "content": "大腕出手，志在必得。 10月8日晚，新材料龙头中材科技发布定增公告：以51.40元/股向15名对象定向增发8718.19万股，合计募资44.81亿元。 消息一出，最引人注目的名字，不是易方达，不是国寿养老，而是 ——葛卫东。 这位私募大佬 ， 以全场最高报价强势入局，最终获配 1361.87万股，斥资约7亿元，一举跻身公司第五大股东。 他曾在沐熙股份、兆易创新等科技股上分别斩获上百亿元浮盈，但最终却把最新的 “重拳出击”放在了一个材料股"
+          "link": "https://wallstreetcn.com/articles/3783366",
+          "content": "市场对美国经济的主流叙事在一年内发生了根本性逆转，而真正被低估的系统性风险，或许既不在债市，也不在财政，而是潜伏于AI生态本身。 据追风交易台，德意志银行全球外汇研究主管George Saravelos在完成一轮美国东海岸密集客户拜访后发布报告指出， 去年市场的主流叙事是&#34;AI具有通缩效应、美国财政部不会允许债券抛售&#34;，而今年的叙事已彻底翻转为&#34;AI（发债融资）是推高收益率的重要驱动力，美国财政部已失去对长端利率"
         },
         {
-          "text": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延",
+          "text": "特朗普政府打击“科技工作签”，印度人慌了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783320",
-          "content": "全球最大半导体设备制造商ASML宣布对韩国客户实施零部件价格全线上调10%，三星电子与SK海力士已接受这一方案，涨价将于明年1月起正式生效。这标志着半导体设备供应链的定价权正加速向供应商一侧倾斜，行业成本压力持续扩散。 据韩国科技媒体The Lec报道，ASML总部于上月初通过韩国法人向三星和SK海力士发出涨价通知，经双方采购部门协商后确认。此次涨价覆盖EUV与DUV光刻机的全部零部件，包括定期采购的消耗性部件，以及因故障或性能下降而需"
+          "link": "https://wallstreetcn.com/articles/3783357",
+          "content": "10月8日，美国副总统万斯与劳工部长Keith Sonderling联合宣布：劳工部即日起暂停受理及处理一批知名科技公司的PERM申请。PERM，即永久劳工认证，是雇主为外籍员工申请绿卡的必经程序。没有它，H-1B工作签证持有者的永久居留之路几乎就此中断。 此次被点名的企业横跨美印两国，包括微软、Adobe、Capgemini，以及印度外包巨头塔塔咨询服务（TCS）、Infosys、Wipro、HCLTech和Cognizant。美方表"
         },
         {
-          "text": "素人IP混战的2026年，TOP TOY押注的小玉能否拿到大结果？",
+          "text": "韩国散户三季度“脱韩入美”：抛售韩股逾5.5万亿韩元，买入美股超10万亿韩元",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783318",
-          "content": "国庆假期，上海嘉善路的一栋老洋房外排起长队，消费者往往需要等待一两个小时才能进店。 吸引人们的是一个黑发、满脸雀斑、留着狗啃刘海的小女孩——yuy玉，粉丝们更习惯叫她“小玉”。 这个从小红书走红的原创IP，国庆期间与Parlid拍立得联手打造主题空间，推出联名相纸、影像体验及创意周边。 相距不远的富民路，另一场小玉主题店同期营业。二楼阳台上，巨大的小玉形象探出身子，俯瞰着楼下排队等候的人群。 上海富民路yuy玉慢闪 10月6日下午摄 小"
+          "link": "https://wallstreetcn.com/articles/3783362",
+          "content": "韩国散户投资者在今年三季度完成了一次方向鲜明的资金大迁移：净卖出KOSPI股票逾5.59万亿韩元，同期净买入美股约10.15万亿韩元，与上半年“大举买入本土、相对冷淡美股”的格局形成180度逆转。 这一转变的导火索，是KOSPI在创下历史收盘高点后的急速回调，以及美国科技股在AI基础设施扩张驱动下持续创新高所形成的强烈反差。 分析人士指出，韩元升值进一步降低了散户购买美股的换汇成本，令资金外流趋势在三季度加速。 韩国股市在第三季度遭遇大"
         },
         {
-          "text": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
+          "text": "高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783317",
-          "content": "美股表面风平浪静，水面之下暗流涌动。十年期美债收益率本周逼近5.4%，创2002年以来新高，布伦特原油徘徊于每桶100美元上方，金融市场正在经历一场被科技巨头光环所遮蔽的广泛撤退。 标普500指数本周创下历史新高，但这一纪录背后隐藏着极度脆弱的市场基础—— 仅约30%的成分股交易于50日均线之上，是彭博自1990年有数据以来，所有创纪录交易日中市场参与度最低的一次 。 与此同时，罗素2000小盘股指数连续第五周下跌，较高点累计跌幅约8."
+          "link": "https://wallstreetcn.com/articles/3783363",
+          "content": "AI投资叙事正在悄然换挡——从芯片军备竞赛，到&#34;推理经济&#34;和个人智能体， 高盛认为市场已经四年磨一剑，开始迫不及待地向前看。 高盛近期录制的《宏观对话》（The Macro Call）播客节目中，首席美股策略师Ben Schneider与TMT板块专家Pete Callahan围绕AI交易结构演变、市场广度、Q3财报季看点及年底行情展开深度讨论。 节目中，两位高盛人士均指出，当前股市在利率高企背景下展现出的韧性， 核心支"
         },
         {
-          "text": "油轮运费创六十年新高：从美国到中国运一船油，比发射火箭还贵！",
+          "text": "三星明年存储产量的80%已被长协锁定",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783314",
-          "content": "全球油轮市场正经历一场史无前例的运费风暴。伊朗冲突重塑中东原油贸易格局，叠加船队供给严重短缺，超大型油轮运费已飙升至六十年来最高水平—— 将一船原油从美国运往中国的费用高达8000万美元，超过一枚SpaceX猎鹰9号火箭的发射成本 。 据彭博10月9日报道，本周一笔从美国出发的油轮订单， 运费折算后相当于每桶41美元的运输成本，而去年同一航线的均值仅为4.50美元。这一成本约占西德克萨斯中质原油期货价格的45%。 船舶经纪商Gibson"
+          "link": "https://wallstreetcn.com/articles/3783361",
+          "content": "三星电子明年约80%的存储芯片产能已通过长期供应协议提前锁定 ，科技巨头争抢剩余产能的格局折射出AI基础设施军备竞赛的白热化程度。 据韩国经济日报本周稍早前报道， 英伟达、谷歌、微软等全球科技巨头已与三星签署覆盖逾五年的芯片供应协议，尚未完成签约的企业正在暗中角力，争夺剩余约20%的产能。 三星电子在二季度业绩电话会议上表示，&#34;几乎所有主要客户都在申请长协&#34;，并坦言&#34;难以响应所有需求&#34;。 这一趋势已从存储"
         },
         {
-          "text": "跟跌不跟涨！白银陷入困境",
+          "text": "赛力斯继续押注宁德时代",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783312",
-          "content": "白银市场正陷入一种罕见的双重困境：利好消息无法推动价格上涨，利空消息却能精准压制。在美元走强与实际利率上行的双重夹击下，白银的工业需求逻辑正在被宏观力量系统性压制，投机资金大规模撤离，做空力量达到近年峰值。 周五亚市盘中，白银价格一度跌超2%至58.70美元/盎司，而黄金同期仅小幅下跌0.4%至4120美元。 高盛大宗商品交易台追踪Comex金属资金流向的分析师Robert Quinn在最新报告中以&#34;Silver Futures"
+          "link": "https://wallstreetcn.com/articles/3783360",
+          "content": "作者 | 周智宇 电池自研升温，赛力斯则继续扩建宁德时代在自己工厂里的产线。 10月10日，赛力斯集团与宁德时代在重庆签署长期战略合作协议。双方将加快“厂中厂”二期建设，围绕超充网络与电池服务展开合作，并联合开拓欧洲、中东及中亚市场。问界将继续长期全系搭载宁德时代电池。 华尔街见闻从赛力斯方面获悉，AIVA品牌未来将采用换电模式，成为赛力斯开拓海外市场的主力，宁德时代将协同推进AIVA的换电和海外业务。 这使双方的合作有了两项具体任务："
         }
       ]
     },
@@ -142,27 +142,27 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
+          "text": "storytold/artcraft：storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers（Rust）",
           "source": "GitHub",
-          "link": "https://github.com/mattpocock/skills",
+          "link": "https://github.com/storytold/artcraft",
           "content": ""
         },
         {
-          "text": "cathrynlavery/diagram-design：cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.（HTML）",
+          "text": "cathrynlavery/diagram-design：cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.（HTML）",
           "source": "GitHub",
           "link": "https://github.com/cathrynlavery/diagram-design",
           "content": ""
         },
         {
-          "text": "alibaba/open-code-review：alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.（Go）",
+          "text": "mksglu/context-mode：mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/alibaba/open-code-review",
+          "link": "https://github.com/mksglu/context-mode",
           "content": ""
         },
         {
-          "text": "anthropics/knowledge-work-plugins：anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork（Python）",
+          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
           "source": "GitHub",
-          "link": "https://github.com/anthropics/knowledge-work-plugins",
+          "link": "https://github.com/mattpocock/skills",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-10","2026-10-09","2026-10-08","2026-10-07","2026-10-06","2026-10-05","2026-10-04","2026-10-03"];
+window.BRIEFING_ARCHIVE = ["2026-10-11","2026-10-10","2026-10-09","2026-10-08","2026-10-07","2026-10-06","2026-10-05","2026-10-04"];
