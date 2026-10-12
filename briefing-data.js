@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-11T07:43:56.766Z
+// 由 GitHub Actions 自动生成 2026-10-12T07:52:26.171Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "曾濒临灭绝的象龟数量超过了塞舌尔人口总数",
+          "text": "全球汽油汽车销量首次低于五成",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85577",
-          "content": "在人类到来前，塞舌尔群岛曾是动物的乐园。生活在这里的陆龟 Aldabra 象龟（Aldabrachelys gigantea）没有天敌，而且寿命极长。15 世纪之后欧洲探险家开始出现，水手、海盗紧随而至，行动缓慢的象龟成为他们唾手可得的食物。到了 19 世纪象龟数量不足一千只，濒临灭绝。最新的调查显示，经过数十年的保护，象龟数量已达到历史最高水平，数量首次超过了塞舌尔群岛的总人口。塞舌尔群岛居住着大约 12 万人。象龟数量则已超过 18"
+          "link": "https://www.solidot.org/story?sid=85585",
+          "content": "Mobility Global 的数据显示，2026 年上半年汽油车占全球新车销量的 49%，相比下 2021 年这一比例是 73%，有记录以来首次跌破五成。汽油汽车的份额一年内减少了 3%，52% 降至 49%；纯电汽车销量增长 12% 达到 687 万辆，市场份额升至 17%（增长 3 个百分点）。传统混动销量增长 10% 达到 727 万辆，占市场份额的 18%；其余份额则由柴油车、插电混动等构成。汽油车销售份额下降被认为由中东石"
         },
         {
-          "text": "能访问丹麦 CPR 系统的一个管理员账号密码是 123456",
+          "text": "微软在 Qwen 模型基础上推出决策模型 Microsoft-Decision-1",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85576",
-          "content": "丹麦的国家民事登记系统 CPR 被一名未经授权的黑客访问长达近 22 天，这次入侵始于 9 月 10 日，止于 10 月 2 日，总共 21 天 17 小时。约 880 万丹麦居民的个人信息遭到泄露，其中包括姓名、地址和 CPR 身份识别号码。黑客是从一家拥有 CPR 访问权限的丹麦小公司 Pays ApS 进入 CPR 系统的。利用该公司的访问凭证，黑客共进行了约 1400 万次 CPR 查询。Pays ApS 有两名员工，该公司至少"
+          "link": "https://www.solidot.org/story?sid=85584",
+          "content": "微软加入了 Jev 粉丝俱乐部，推出了自己的决策模型。Jev 针对特定问题对大模型进行调优，减少“幻觉”，适用于各种商业应用场景。微软在阿里巴巴的开放权重模型 Qwen3.5-9B 基础上推出了 Microsoft-Decision-1。软件巨人表示未来会用自研模型及 OpenAI 的模型取代 Qwen 模型。微软称，其模型在延迟测试中速度分别是 H2O-Lightning-4B 的 2.5 倍和 Jev 的 2.8 倍；在 36 项基"
         },
         {
-          "text": "使用 AI 十分钟就会削弱你挑战难题的意志力",
+          "text": "FAST 发现一个脉冲星三星系统",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85575",
-          "content": "一项研究发现，仅仅依赖 AI 工具十分钟就会削弱我们解决困难任务的专注力和坚持到底的意志力。研究团队于本周举行的 Conference on Language Modeling 会议上介绍了他们经过同行评审的论文。为了测试人的专注力和意志力下降的速度有多快，研究人员设计了一系列随机对照试验，在网上招募了 1222 名参与者。第一项实验将 354 名参与者分成两组，一组独立完成 15 道基础分数问题，另一组可使用 ChatGPT 辅助解题"
+          "link": "https://www.solidot.org/story?sid=85583",
+          "content": "中国天眼（FAST）已发现超千颗脉冲星。中国科学院国家天文台联合国内外科研人员，结合 FAST 射电观测数据与国际光学、伽马射线望远镜多波段天文数据，证实 FAST 发现的脉冲星 J0435+3233 为首例处于演化阶段的原生脉冲星三体系统，这也是第二例被确认的脉冲星三体系统。脉冲星 J0435+3233 于 2020 年由 FAST 观测发现，自转周期仅 3.2 毫秒。后续研究团队依托 FAST 开展五年连续监测，获取 192 次测量"
         },
         {
-          "text": "DDR4 内存条再次回归",
+          "text": "英国水果蔬菜营养价值下降最高五成",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85574",
-          "content": "由于 DDR5 内存条过于昂贵，上一代的 DDR4 内存条再次回归。技嘉宣布将于 2027 年初上市支持 DDR4 内存的新的 Intel LGA 1700 主板，而今年八月技嘉宣布推出了支持 DDR4 内存的新 AMD AM4 主板。DDR4 内存于 2014 年上市，很快被新一代的 DDR5 内存取代。由于 AI 热耗尽了主要内存厂商的内存产能，DDR5 内存的价格在一年内飙升了可能高达 10 倍。今天一套 32GB 的 Corsa"
+          "link": "https://www.solidot.org/story?sid=85580",
+          "content": "Deep Science Ventures 研究人员的一项研究发现，英国水果和蔬菜的营养价值自 1960 年代以来减少最高五成。英国民众现在需要食用两倍数量的蔬菜，才能摄入与 60 年前同等水平的矿物质如钾、镁或铜。许多农作物中几种关键营养素的含量减少了 20%-50%。营养和维生素含量的下降主要归因于土壤质量的退化，以及作物在育种时过度追求快速生长，而忽视了其营养价值。正使用减肥药物的人群面临的营养匮乏风险可能最大，因为减肥药会导致他"
         },
         {
-          "text": "特斯拉在欧洲将 Full Self-Driving 改名为 Tesla Assisted Driving",
+          "text": "LineageOS 24 释出",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85573",
-          "content": "特斯拉在欧洲将其辅助驾驶系统从 Full Self-Driving 改名为 Tesla Assisted Driving。德国交通部长 Steffen Bilger 本月早些时候指出，将辅助驾驶系统命名为 Full Self-Driving 具有误导性，因为它并不能真正完全自动驾驶。Bilger 与特斯拉公司进行了沟通，该公司因此提出了改名建议。Bilger 表示将会推动 Tesla Assisted Driving 在整个欧洲获得批准"
+          "link": "https://www.solidot.org/story?sid=85579",
+          "content": "Android 社区发行版项目 LineageOS 释出了基于 Android 17 的 LineageOS 24。2026 年 12 月 24 日，LineageOS 将迎来十周年纪念。开发者表示这是一个重要的里程碑，期望继续走向下一个十年。LineageOS 24 主要变化包括：合并了截至 2026 年 10 月的安全补丁，新的图像编辑器 Canvas 可满足基本的照片编辑需求，Android TV 启动器 Catapult；为移动"
         },
         {
-          "text": "全球 PC 出货量三季度暴跌逾 20%",
+          "text": "《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85572",
-          "content": "因 AI 热导致内存和存储器价格暴涨，全球 PC 出货量三季度暴跌逾 20%。Omdia 的最新数据显示 2026 年第三季度全球台式机、笔记本电脑和工作站的总出货量同比下降 21.2% 至 5810 万台。IDC 的数据类似估计出货量下降 20.1% 至 6270 万台。IDC 指出，全球 PC 第三季度出货量比第二季度下降了 9.1%，违背了通常的季节性规律——即开学季需求会提振 PC 市场。Omdia 估计，由于价格上涨了四倍多，"
+          "link": "https://www.solidot.org/story?sid=85578",
+          "content": "《星际公民(Star Citizen)》的独立单机战役《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售 。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014 年。但在 Kickstarter 众筹结束后，开发团队继续在官方网站上进行"
         }
       ]
     },
@@ -48,46 +48,64 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率”",
+          "text": "用户增速骤降62%，摩根士丹利测算Muse每用户月成本最高130美元",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783366",
-          "content": "市场对美国经济的主流叙事在一年内发生了根本性逆转，而真正被低估的系统性风险，或许既不在债市，也不在财政，而是潜伏于AI生态本身。 据追风交易台，德意志银行全球外汇研究主管George Saravelos在完成一轮美国东海岸密集客户拜访后发布报告指出， 去年市场的主流叙事是&#34;AI具有通缩效应、美国财政部不会允许债券抛售&#34;，而今年的叙事已彻底翻转为&#34;AI（发债融资）是推高收益率的重要驱动力，美国财政部已失去对长端利率"
+          "link": "https://wallstreetcn.com/articles/3783420",
+          "content": "Meta于9月8日正式推出AI智能体Muse，随即引爆市场热情—— Meta股价在12个交易日内飙升27%，峰值触及777.59美元，远期市盈率从8月底的14倍跳升至21倍 。然而，仅仅一个月后，增长裂缝已然显现。 另类数据机构TickerTrends的数据显示， Muse日均净新增用户已从9月高峰期的约19.8万人骤降至约7.4万人，降幅高达62.4% ，下载量也较峰值回落逾21%。 与此同时，摩根士丹利发布了迄今最详尽的Muse成本"
         },
         {
-          "text": "特朗普政府打击“科技工作签”，印度人慌了",
+          "text": "微软新模型底座是阿里Qwen，超六成决策模型都基于Qwen开发",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783357",
-          "content": "10月8日，美国副总统万斯与劳工部长Keith Sonderling联合宣布：劳工部即日起暂停受理及处理一批知名科技公司的PERM申请。PERM，即永久劳工认证，是雇主为外籍员工申请绿卡的必经程序。没有它，H-1B工作签证持有者的永久居留之路几乎就此中断。 此次被点名的企业横跨美印两国，包括微软、Adobe、Capgemini，以及印度外包巨头塔塔咨询服务（TCS）、Infosys、Wipro、HCLTech和Cognizant。美方表"
+          "link": "https://wallstreetcn.com/articles/3783425",
+          "content": "微软公司最新推出的决策人工智能模型，将其 底层架构锚定在阿里巴巴的开源模型之上 。 据硬AI消息，微软于10月12日正式推出全新决策模型Microsoft-Decision-1，该模型 基于阿里Qwen3.5-9B后训练而成 。微软官方透露称，该模型基于Qwen3.5-9B后训练而成，在结构化决策任务中，该模型在时延和准确性等方面均超过了LLM及Jev 1.13.0等热门决策模型。 微软Xbox研究团队已用它处理超过1万条玩家反馈，微软"
         },
         {
-          "text": "韩国散户三季度“脱韩入美”：抛售韩股逾5.5万亿韩元，买入美股超10万亿韩元",
+          "text": "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783362",
-          "content": "韩国散户投资者在今年三季度完成了一次方向鲜明的资金大迁移：净卖出KOSPI股票逾5.59万亿韩元，同期净买入美股约10.15万亿韩元，与上半年“大举买入本土、相对冷淡美股”的格局形成180度逆转。 这一转变的导火索，是KOSPI在创下历史收盘高点后的急速回调，以及美国科技股在AI基础设施扩张驱动下持续创新高所形成的强烈反差。 分析人士指出，韩元升值进一步降低了散户购买美股的换汇成本，令资金外流趋势在三季度加速。 韩国股市在第三季度遭遇大"
+          "link": "https://wallstreetcn.com/articles/3783408",
+          "content": "股债期货周一走高，油价从早盘高位回落，投资者整体选择忽视也门胡塞武装袭击沙特首都机场所带来的地缘风险。不过，霍尔木兹海峡危机悬而未决，能源市场的通胀压力或将持续，并成为本周美欧通胀数据公布前的主要不确定因素。 标普500期货上涨0.3%，欧洲斯托克50指数开盘涨0.4%，显示西方市场情绪相对稳定。亚洲市场则明显落后，MSCI亚太指数下跌0.3%，韩国综合股价指数在上周五假期休市后恢复交易，收盘重挫3.6%，报6384.24点。高盛同日宣"
         },
         {
-          "text": "高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”",
+          "text": "对冲基金减持科技股，Mag 7持仓却创历史新高！高盛：市场处处创纪录，唯独缺乏信心",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783363",
-          "content": "AI投资叙事正在悄然换挡——从芯片军备竞赛，到&#34;推理经济&#34;和个人智能体， 高盛认为市场已经四年磨一剑，开始迫不及待地向前看。 高盛近期录制的《宏观对话》（The Macro Call）播客节目中，首席美股策略师Ben Schneider与TMT板块专家Pete Callahan围绕AI交易结构演变、市场广度、Q3财报季看点及年底行情展开深度讨论。 节目中，两位高盛人士均指出，当前股市在利率高企背景下展现出的韧性， 核心支"
+          "link": "https://wallstreetcn.com/articles/3783421",
+          "content": "标普屡创新高之际，市场内部正在发生截然相反的事情。对冲基金一边抛售科技股，一边将&#34;Mag 7&#34;持仓推至历史峰值；信心指标跌至极端低位，而各类资产的仓位数据却在不断刷新纪录。高盛的最新周报揭示，表面平静之下，市场的结构性张力从未如此之大。 上周标普500指数上涨1.2%至7811点，再创历史新高。然而据高盛的数据，对冲基金净杠杆率仅为46.9%，处于过去一年的第2百分位；多空比进一步跌至1.565，位于五年回望的第1百分位"
         },
         {
-          "text": "三星明年存储产量的80%已被长协锁定",
+          "text": "创业板午后跌超2%，贵州茅台重夺“股王”宝座、赛力斯涨停，中行、工行再创新高，30年期国债升至逾一年高位",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783361",
-          "content": "三星电子明年约80%的存储芯片产能已通过长期供应协议提前锁定 ，科技巨头争抢剩余产能的格局折射出AI基础设施军备竞赛的白热化程度。 据韩国经济日报本周稍早前报道， 英伟达、谷歌、微软等全球科技巨头已与三星签署覆盖逾五年的芯片供应协议，尚未完成签约的企业正在暗中角力，争夺剩余约20%的产能。 三星电子在二季度业绩电话会议上表示，&#34;几乎所有主要客户都在申请长协&#34;，并坦言&#34;难以响应所有需求&#34;。 这一趋势已从存储"
+          "link": "https://wallstreetcn.com/articles/3783404",
+          "content": "在算力硬件、芯片半导体等科技股持续调整之际，联讯仪器今天大跌近7%，盘中最低触及1282元，贵州茅台小幅上涨，重夺“股王”宝座。新能源汽车股回暖，赛力斯涨停，得益于中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解。 10月12日，A股午后延续跌势，三大指数进一步走低，创业板指跌2%；银行股续创历史新高，短剧、AI语料、风电等方向轮动活跃，农业股则高位回落。AI硬件、芯片半导体等科技股再度承压，光通信、覆铜板等概念股全线下挫。工业富"
         },
         {
-          "text": "赛力斯继续押注宁德时代",
+          "text": "亚马逊巨额AI资本开支的回报，是否被市场低估了？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783360",
-          "content": "作者 | 周智宇 电池自研升温，赛力斯则继续扩建宁德时代在自己工厂里的产线。 10月10日，赛力斯集团与宁德时代在重庆签署长期战略合作协议。双方将加快“厂中厂”二期建设，围绕超充网络与电池服务展开合作，并联合开拓欧洲、中东及中亚市场。问界将继续长期全系搭载宁德时代电池。 华尔街见闻从赛力斯方面获悉，AIVA品牌未来将采用换电模式，成为赛力斯开拓海外市场的主力，宁德时代将协同推进AIVA的换电和海外业务。 这使双方的合作有了两项具体任务："
+          "link": "https://wallstreetcn.com/articles/3783410",
+          "content": "亚马逊的AI资本开支正在成为估值分歧的核心：市场担心投入过快、回报过慢，但AWS释放的需求信号显示，云迁移、AI推理和智能体工作流可能正在重塑其增长曲线。 据《The Information》周日报道，亚马逊目前以低于沃尔玛的预期市盈率交易，尽管其收入增速预计约为后者三倍。高企资本开支和AI投资回报的不确定性，是投资者给予折价的主要原因。 这场争论的焦点，是亚马逊约2200亿美元级别资本投入能否被未来需求吸收。在a16z最新访谈中，AW"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114821",
+          "content": "来看看一种消失已久的笔记本。<a href=&#34;https://sspai.com/post/114821&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115845",
+          "content": "<p>工信部等就进一步加强汽车产品创新设计管理征求意见</p><p>三季度全球 PC 出货量骤降</p><p>法国判决 Cloudflare 无须通过 DNS 屏蔽盗版</p><p>Anthropic 宣布切断内部评估环境的互联网访问权限</p><p>AI 助力老游戏移植到浏览器</p><p>3C 证书大面积暂停，电动自行车销售接近停滞</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a"
+        },
+        {
+          "text": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115568",
+          "content": "前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ...<a href=&#34;https://sspai.com/post/115568&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
           "source": "少数派",
@@ -105,24 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/115456",
           "content": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。<a href=&#34;https://sspai.com/post/115456&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114869",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/114869&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115532",
-          "content": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型<a href=&#34;https://sspai.com/post/115532&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115282",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/115282&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -154,15 +154,15 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "mksglu/context-mode：mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.（TypeScript）",
+          "text": "bilawalsidhu/gods-eye-view：bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.（JavaScript）",
           "source": "GitHub",
-          "link": "https://github.com/mksglu/context-mode",
+          "link": "https://github.com/bilawalsidhu/gods-eye-view",
           "content": ""
         },
         {
-          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
+          "text": "pytorch/pytorch：pytorch / pytorch Tensors and Dynamic neural networks in Python with strong GPU acceleration（Python）",
           "source": "GitHub",
-          "link": "https://github.com/mattpocock/skills",
+          "link": "https://github.com/pytorch/pytorch",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-11","2026-10-10","2026-10-09","2026-10-08","2026-10-07","2026-10-06","2026-10-05","2026-10-04"];
+window.BRIEFING_ARCHIVE = ["2026-10-12","2026-10-11","2026-10-10","2026-10-09","2026-10-08","2026-10-07","2026-10-06","2026-10-05"];
