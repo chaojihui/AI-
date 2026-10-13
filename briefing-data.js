@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-12T07:52:26.171Z
+// 由 GitHub Actions 自动生成 2026-10-13T08:17:35.669Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "全球汽油汽车销量首次低于五成",
+          "text": "巨龟乔纳森长寿的秘密",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85585",
-          "content": "Mobility Global 的数据显示，2026 年上半年汽油车占全球新车销量的 49%，相比下 2021 年这一比例是 73%，有记录以来首次跌破五成。汽油汽车的份额一年内减少了 3%，52% 降至 49%；纯电汽车销量增长 12% 达到 687 万辆，市场份额升至 17%（增长 3 个百分点）。传统混动销量增长 10% 达到 727 万辆，占市场份额的 18%；其余份额则由柴油车、插电混动等构成。汽油车销售份额下降被认为由中东石"
+          "link": "https://www.solidot.org/story?sid=85595",
+          "content": "生活在英国海外领地圣赫勒拿岛的巨龟乔纳森是已知最长寿的陆生动物，它估计是在 1832 年孵化的，目前年龄 194 岁。对其基因组的研究发现，它基因组中与线粒体功能相关的部分的活性堪比该物种 5 岁个体的水平。高效运转的线粒体可以为 DNA 修复系统供给更多能量，以对抗衰老带来的损伤。这或许就是它预估寿命达到 194 岁的原因。乔纳森是一只阿尔达布拉巨型陆龟，而阿尔达布拉巨龟的平均寿命约 80 年。研究团队将其与另外 4 只阿尔达布拉巨龟"
         },
         {
-          "text": "微软在 Qwen 模型基础上推出决策模型 Microsoft-Decision-1",
+          "text": "Firefox 158 释出，默认启用 JPEG XL 支持",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85584",
-          "content": "微软加入了 Jev 粉丝俱乐部，推出了自己的决策模型。Jev 针对特定问题对大模型进行调优，减少“幻觉”，适用于各种商业应用场景。微软在阿里巴巴的开放权重模型 Qwen3.5-9B 基础上推出了 Microsoft-Decision-1。软件巨人表示未来会用自研模型及 OpenAI 的模型取代 Qwen 模型。微软称，其模型在延迟测试中速度分别是 H2O-Lightning-4B 的 2.5 倍和 Jev 的 2.8 倍；在 36 项基"
+          "link": "https://www.solidot.org/story?sid=85594",
+          "content": "Mozilla 释出了 Firefox 158。主要变化是默认启用了 JPEG XL 图像格式的支持。JPEG XL 是一种免版税的位图文件格式，支持有损和无损压缩。默认支持 JPEG XL 表明它不再是一项实验性功能，意味着其图像格式 .jxl 成为 WebP、JPEG、PNG 和 GIF 等图像格式之外的又一选择。图像请求的默认 HTTP Accept 请求头如今也支持了 JPEG XL 图像格式 image/jxl。其它变化包括点"
         },
         {
-          "text": "FAST 发现一个脉冲星三星系统",
+          "text": "黑客加热联网的超市冰箱，导致食物变质和设备起火",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85583",
-          "content": "中国天眼（FAST）已发现超千颗脉冲星。中国科学院国家天文台联合国内外科研人员，结合 FAST 射电观测数据与国际光学、伽马射线望远镜多波段天文数据，证实 FAST 发现的脉冲星 J0435+3233 为首例处于演化阶段的原生脉冲星三体系统，这也是第二例被确认的脉冲星三体系统。脉冲星 J0435+3233 于 2020 年由 FAST 观测发现，自转周期仅 3.2 毫秒。后续研究团队依托 FAST 开展五年连续监测，获取 192 次测量"
+          "link": "https://www.solidot.org/story?sid=85593",
+          "content": "黑客远程控制了法国数百家超市的联网制冷系统，部分冷藏和冷冻设备的温度被调高至 50C，导致食品变质，甚至引发火灾。法国下令对此展开调查。欧洲其它国家如西班牙、葡萄牙、波兰、德国和比利时也报告了类似的案件。在法国，家乐福报告有 80 家门店受到影响，不二价（Monoprix）有 5% 的门店遭到攻击，Les Mousquetaires 旗下约 150 家 Intermarché 超市的制冷设备温度被调高至 50C 并持续了六小时。超市的制"
         },
         {
-          "text": "英国水果蔬菜营养价值下降最高五成",
+          "text": "美国核反应堆开始整合 AI 助手",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85580",
-          "content": "Deep Science Ventures 研究人员的一项研究发现，英国水果和蔬菜的营养价值自 1960 年代以来减少最高五成。英国民众现在需要食用两倍数量的蔬菜，才能摄入与 60 年前同等水平的矿物质如钾、镁或铜。许多农作物中几种关键营养素的含量减少了 20%-50%。营养和维生素含量的下降主要归因于土壤质量的退化，以及作物在育种时过度追求快速生长，而忽视了其营养价值。正使用减肥药物的人群面临的营养匮乏风险可能最大，因为减肥药会导致他"
+          "link": "https://www.solidot.org/story?sid=85592",
+          "content": "加州公司 Atomic Canyon 与核工业组织合作推出了针对核反应堆运营的 AI 助手 NIVA——代表 Nuclear Industry Virtual Assistant。该 AI 助手已进行试点，目前向美国全部 94 座核反应堆开放使用。另一家核能领域的 AI 初创公司 Nuclearn 表示其产品已服务于逾 65 家美国合作伙伴，其中包括传统核电站，也包括开发先进小型核反应堆的公司如 NuScale Power。Nuclea"
         },
         {
-          "text": "LineageOS 24 释出",
+          "text": "亚马逊放弃 Fire 品牌改为推出 Alexa 平板",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85579",
-          "content": "Android 社区发行版项目 LineageOS 释出了基于 Android 17 的 LineageOS 24。2026 年 12 月 24 日，LineageOS 将迎来十周年纪念。开发者表示这是一个重要的里程碑，期望继续走向下一个十年。LineageOS 24 主要变化包括：合并了截至 2026 年 10 月的安全补丁，新的图像编辑器 Canvas 可满足基本的照片编辑需求，Android TV 启动器 Catapult；为移动"
+          "link": "https://www.solidot.org/story?sid=85591",
+          "content": "亚马逊最近更新了一系列自有品牌产品线，其中自有品牌平板产品发生了重大变化。过去 15 年亚马逊一直销售 Fire 平板电脑，如今 Fire 品牌名被放弃，亚马逊改为推出 Alexa 平板，而且运行的是经过 Google 认证的 Android 操作系统。以前 Fire 平板运行的 Fire OS 是亚马逊定制的 Android 版本，亚马逊还提供了自己的应用商店，如今应用商店已经关闭，Alexa 平板运行的是完全 Google 化的 A"
         },
         {
-          "text": "《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售",
+          "text": "诺贝尔经济学奖授予了两名美国经济学家",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85578",
-          "content": "《星际公民(Star Citizen)》的独立单机战役《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售 。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014 年。但在 Kickstarter 众筹结束后，开发团队继续在官方网站上进行"
+          "link": "https://www.solidot.org/story?sid=85590",
+          "content": "2026 年诺贝尔经济学奖授予了斯坦福大学的 Robert E. Hall 和哥伦比亚大学的 Michael Woodford，以表彰两人突破传统凯恩斯主义框架，从家庭和企业等微观主体行为出发建立经济模型，证明无数家庭和企业的日常决策最终会塑造整个经济运行方向。这套理论如今已成为全球央行决策的重要基础，也成为应对衰退、通胀和能源危机的重要工具。数十年来对凯恩斯模型的应用已暴露出其局限性，包括未能有效抑制失业，反而推高通货膨胀。"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "用户增速骤降62%，摩根士丹利测算Muse每用户月成本最高130美元",
+          "text": "午后大逆转！A股三大指数探底回升，沪指重新站上3800点，PCB、覆铜板掀涨停潮，军工爆发，恒指转涨",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783420",
-          "content": "Meta于9月8日正式推出AI智能体Muse，随即引爆市场热情—— Meta股价在12个交易日内飙升27%，峰值触及777.59美元，远期市盈率从8月底的14倍跳升至21倍 。然而，仅仅一个月后，增长裂缝已然显现。 另类数据机构TickerTrends的数据显示， Muse日均净新增用户已从9月高峰期的约19.8万人骤降至约7.4万人，降幅高达62.4% ，下载量也较峰值回落逾21%。 与此同时，摩根士丹利发布了迄今最详尽的Muse成本"
+          "link": "https://wallstreetcn.com/articles/3783494",
+          "content": "AI硬件反弹，电路板、覆铜板、光模块等概念股大涨，天孚通信涨超7%、中际旭创早盘跌破700元后午后翻红，联讯仪器重夺A股&#34;股王&#34;宝座。核心逻辑是光通信公司业绩大幅预增形成&#34;业绩兑现&#34;催化。此外，江淮汽车盘中拉升9%，尊界V800检测报告出炉。 10月13日，A股三大指数探底回升，早盘持续下跌，创业板、科创50指数均一度跌超3%，临近午盘有所回升，午后三大股指持续拉升并翻红，创业板更是一度涨超1%，随后回落"
         },
         {
-          "text": "微软新模型底座是阿里Qwen，超六成决策模型都基于Qwen开发",
+          "text": "全球AI交易再重挫，美股盘前存储普跌、SK海力士跌约5%，韩股收跌5.47%，现货黄金突破4200",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783425",
-          "content": "微软公司最新推出的决策人工智能模型，将其 底层架构锚定在阿里巴巴的开源模型之上 。 据硬AI消息，微软于10月12日正式推出全新决策模型Microsoft-Decision-1，该模型 基于阿里Qwen3.5-9B后训练而成 。微软官方透露称，该模型基于Qwen3.5-9B后训练而成，在结构化决策任务中，该模型在时延和准确性等方面均超过了LLM及Jev 1.13.0等热门决策模型。 微软Xbox研究团队已用它处理超过1万条玩家反馈，微软"
+          "link": "https://wallstreetcn.com/articles/3783492",
+          "content": "全球股市抛售潮持续蔓延，市场对人工智能交易的热情急剧降温，投资者纷纷撤离这一年内最炙手可热的板块。避险需求同步推动美债价格走高。 美股盘前，存储芯片股普跌，SK海力士跌约5%，西部数据跌约4%，闪迪跌约4%，美光科技跌约3%，希捷科技跌约3%。欧洲斯托克50指数开盘跌0.1%，德国DAX指数涨0.2%。韩国KOSPI指数周二收跌5.47%，报6035.34点，成为本轮AI交易退潮中跌幅最惨烈的主要市场。与此同时，美国和欧洲股指期货亦同步"
         },
         {
-          "text": "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌",
+          "text": "大摩：存储股在周期顶部往往看似最便宜，但也最危险",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783408",
-          "content": "股债期货周一走高，油价从早盘高位回落，投资者整体选择忽视也门胡塞武装袭击沙特首都机场所带来的地缘风险。不过，霍尔木兹海峡危机悬而未决，能源市场的通胀压力或将持续，并成为本周美欧通胀数据公布前的主要不确定因素。 标普500期货上涨0.3%，欧洲斯托克50指数开盘涨0.4%，显示西方市场情绪相对稳定。亚洲市场则明显落后，MSCI亚太指数下跌0.3%，韩国综合股价指数在上周五假期休市后恢复交易，收盘重挫3.6%，报6384.24点。高盛同日宣"
+          "link": "https://wallstreetcn.com/articles/3783520",
+          "content": "AI驱动的存储芯片超级周期仍在延续，但存储股的投资逻辑正在发生变化。 摩根士丹利最新报告指出，尽管供需紧张、价格上涨和盈利改善仍为行业提供强劲支撑，但随着股价大幅上涨、盈利预期集中上修，存储股的乐观预期已得到充分定价，进一步上涨的空间面临考验。 核心矛盾在于，存储行业基本面越强，周期顶部的风险反而越容易被低估。 历史上，存储股往往在盈利达到峰值之前见顶，因为市场习惯将当期的高盈利水平外推至未来，导致股票在行业景气度最高时，估值看起来反而"
         },
         {
-          "text": "对冲基金减持科技股，Mag 7持仓却创历史新高！高盛：市场处处创纪录，唯独缺乏信心",
+          "text": "美股三季报前瞻：超预期难获“奖励”，不及预期遭“更重惩罚”，警惕三大“隐形利润杀手”！",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783421",
-          "content": "标普屡创新高之际，市场内部正在发生截然相反的事情。对冲基金一边抛售科技股，一边将&#34;Mag 7&#34;持仓推至历史峰值；信心指标跌至极端低位，而各类资产的仓位数据却在不断刷新纪录。高盛的最新周报揭示，表面平静之下，市场的结构性张力从未如此之大。 上周标普500指数上涨1.2%至7811点，再创历史新高。然而据高盛的数据，对冲基金净杠杆率仅为46.9%，处于过去一年的第2百分位；多空比进一步跌至1.565，位于五年回望的第1百分位"
+          "link": "https://wallstreetcn.com/articles/3783509",
+          "content": "美股三季报季正式拉开帷幕。整体数据看似亮眼，但繁荣表象之下暗流涌动——盈利高度集中、成本压力上升、市场对&#34;超预期&#34;的容忍度已大幅下降。 据美银证券的最新报告，本季市场共识预期标普500三季度每股盈利同比增长27%，美银自身预测更高，为32%（对应每股93.50美元）。早期报告公司中有85%超出每股盈利预期，高于71%的历史平均水平，宏观背景总体仍属有利。 然而，随着大型银行摩根大通、高盛、富国银行、花旗集团相继于本周登场"
         },
         {
-          "text": "创业板午后跌超2%，贵州茅台重夺“股王”宝座、赛力斯涨停，中行、工行再创新高，30年期国债升至逾一年高位",
+          "text": "茶百道突遭香港证监会要求停牌，上市两年半市值缩水近八成",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783404",
-          "content": "在算力硬件、芯片半导体等科技股持续调整之际，联讯仪器今天大跌近7%，盘中最低触及1282元，贵州茅台小幅上涨，重夺“股王”宝座。新能源汽车股回暖，赛力斯涨停，得益于中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解。 10月12日，A股午后延续跌势，三大指数进一步走低，创业板指跌2%；银行股续创历史新高，短剧、AI语料、风电等方向轮动活跃，农业股则高位回落。AI硬件、芯片半导体等科技股再度承压，光通信、覆铜板等概念股全线下挫。工业富"
+          "link": "https://wallstreetcn.com/articles/3783516",
+          "content": "上市两年半后，茶百道突然遭遇监管停牌。 10月13日早间，港交所发布通告称，根据《证券及期货（在证券市场上市）规则》第8(1)条，香港联交所应证券及期货事务监察委员会指令，自当日上午9时起停止茶百道（02555.HK）股份买卖。 与上市公司因筹划重大交易、等待披露内幕消息而主动申请停牌不同，此次停牌由香港证监会直接下令。截至发稿，茶百道及香港证监会尚未披露具体原因，也未公布复牌安排。 根据香港相关法规，证监会可以在四类情况下指令停牌：上"
         },
         {
-          "text": "亚马逊巨额AI资本开支的回报，是否被市场低估了？",
+          "text": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783410",
-          "content": "亚马逊的AI资本开支正在成为估值分歧的核心：市场担心投入过快、回报过慢，但AWS释放的需求信号显示，云迁移、AI推理和智能体工作流可能正在重塑其增长曲线。 据《The Information》周日报道，亚马逊目前以低于沃尔玛的预期市盈率交易，尽管其收入增速预计约为后者三倍。高企资本开支和AI投资回报的不确定性，是投资者给予折价的主要原因。 这场争论的焦点，是亚马逊约2200亿美元级别资本投入能否被未来需求吸收。在a16z最新访谈中，AW"
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
-          "text": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+          "text": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
           "source": "少数派",
-          "link": "https://sspai.com/post/114821",
-          "content": "来看看一种消失已久的笔记本。<a href=&#34;https://sspai.com/post/114821&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/115400",
+          "content": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...<a href=&#34;https://sspai.com/post/115400&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+          "text": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
           "source": "少数派",
-          "link": "https://sspai.com/post/115845",
-          "content": "<p>工信部等就进一步加强汽车产品创新设计管理征求意见</p><p>三季度全球 PC 出货量骤降</p><p>法国判决 Cloudflare 无须通过 DNS 屏蔽盗版</p><p>Anthropic 宣布切断内部评估环境的互联网访问权限</p><p>AI 助力老游戏移植到浏览器</p><p>3C 证书大面积暂停，电动自行车销售接近停滞</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a"
+          "link": "https://sspai.com/post/116028",
+          "content": "为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。<a href=&#34;https://sspai.com/post/116028&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+          "text": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
           "source": "少数派",
-          "link": "https://sspai.com/post/115568",
-          "content": "前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ...<a href=&#34;https://sspai.com/post/115568&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/114561",
+          "content": "Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。<a href=&#34;https://sspai.com/post/114561&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
+          "text": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
           "source": "少数派",
-          "link": "https://sspai.com/post/115237",
-          "content": "把决定使用时长的时机，放到每次打开应用之前。<a href=&#34;https://sspai.com/post/115237&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/116033",
+          "content": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互 ...<a href=&#34;https://sspai.com/post/116033&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "本周看什么 | 最近值得一看的 11 部作品",
+          "text": "派评 | 近期值得关注的 App",
           "source": "少数派",
-          "link": "https://sspai.com/post/115566",
-          "content": "📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ...<a href=&#34;https://sspai.com/post/115566&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/115934",
+          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/115934&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+          "text": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
           "source": "少数派",
-          "link": "https://sspai.com/post/115456",
-          "content": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。<a href=&#34;https://sspai.com/post/115456&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/115242",
+          "content": "iOS 27 对家长控制和儿童账户体系进行了进一步完善，让对儿童的设备管理从过去偏重「限制监控」，逐步转向更加系统级别的「管理保护」。<a href=&#34;https://sspai.com/post/115242&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -136,9 +136,15 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "boykopovar/AnyPS5：boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows（C++）",
+          "text": "bilawalsidhu/gods-eye-view：bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.（JavaScript）",
           "source": "GitHub",
-          "link": "https://github.com/boykopovar/AnyPS5",
+          "link": "https://github.com/bilawalsidhu/gods-eye-view",
+          "content": ""
+        },
+        {
+          "text": "mksglu/context-mode：mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/mksglu/context-mode",
           "content": ""
         },
         {
@@ -148,21 +154,15 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
+          "text": "open-webui/open-webui：open-webui / open-webui User-friendly AI Interface (Supports Ollama, OpenAI API, ...)（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/open-webui/open-webui",
+          "content": ""
+        },
+        {
           "text": "cathrynlavery/diagram-design：cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.（HTML）",
           "source": "GitHub",
           "link": "https://github.com/cathrynlavery/diagram-design",
-          "content": ""
-        },
-        {
-          "text": "bilawalsidhu/gods-eye-view：bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.（JavaScript）",
-          "source": "GitHub",
-          "link": "https://github.com/bilawalsidhu/gods-eye-view",
-          "content": ""
-        },
-        {
-          "text": "pytorch/pytorch：pytorch / pytorch Tensors and Dynamic neural networks in Python with strong GPU acceleration（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/pytorch/pytorch",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-12","2026-10-11","2026-10-10","2026-10-09","2026-10-08","2026-10-07","2026-10-06","2026-10-05"];
+window.BRIEFING_ARCHIVE = ["2026-10-13","2026-10-12","2026-10-11","2026-10-10","2026-10-09","2026-10-08","2026-10-07","2026-10-06"];
