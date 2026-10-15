@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-14T06:35:56.722Z
+// 由 GitHub Actions 自动生成 2026-10-15T06:19:04.891Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "蜜蜂的螫针如何泵送毒液",
+          "text": "研究估计到 2050 年每年新增痴呆症人数将会翻倍",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85603",
-          "content": "众所周知，工蜂蜇人之后会将螫针留在皮肤上自己飞走，而螫针会自行穿透皮肤组织泵送毒液。发表在 PNAS 期刊上的一项研究利用高速摄像技术揭示了蜜蜂螫针如何泵送毒液的过程。工蜂留下螫针的现象被称为自切（autotomy），自然界里相当罕见。螫针由三个互锁部件组成，共同构成了排毒管：一个向外扩展形成主泵室的管心针（stylet），以及两根尖锐的、可前后滑动的刺针（lancets），它们刺入组织并将毒液注入目标。研究人员利用镊子取下活工蜂的螫针"
+          "link": "https://www.solidot.org/story?sid=85615",
+          "content": "一项新研究估计，2023 年有 1140 万人患上痴呆症，到 2050 年预计这一数字将增加一倍以上，新增痴呆症人数将达到 2470 万。研究发现女性的痴呆症发病率高于男性，且低中收入国家的发病率远高于高收入国家。在校正年龄因素后，女性发病为每千人年 10.6 例，男性为 8.6 例。低中收入国家的发病率为每千人年 13.6 例，而高收入国家为 8.3 例。目前全世界有逾 5700 万人受痴呆症困扰，到 2050 年这一数字将达到 1."
         },
         {
-          "text": "气候暖化速度过去十五年加倍",
+          "text": "GTA 6 可能提前发布 PC 版本",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85602",
-          "content": "《巴黎协定》对全球气温上升幅度设定了一个比工业化前水平高 1.5°C 的阈值。现有气候模型预测这一阈值会在 2030 年代突破。但根据《npj Climate and Atmospheric Science》期刊上发表的一项研究，突破时间可能比预期的更快。对截至 2025 年的气温记录的分析显示，2011-2025 年间的全球变暖速率达到了每 10 年上升 0.40°C，比 1971-2025 年间每 10 年暖化速率 0.20°C 翻"
+          "link": "https://www.solidot.org/story?sid=85614",
+          "content": "Rockstar 尚未正式宣布，但有报道称它计划于 2027 年第一季度发布 GTA 6 的 PC 版本，与主机版本仅仅相隔几个月。GTA 6 将于 2026 年 11 月发布主机版本。据彭博报道，在 GTA 6 开发过程中 Rockstar 员工总数从开发 Red Dead Redemption II 的 2,441 人增长到 4,711 人。GTA 6 制作预算据称超过 20 亿美元，提前释出 PC 版本旨在加快回收制作费用。上一代"
         },
         {
-          "text": "ESA 想要将 voices38 列入恶名盗版市场名单",
+          "text": "苹果推出广告鼓励 Chrome 用户切换到 Safari",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85600",
-          "content": "代表美国游戏业的行业组织 Entertainment Software Association (ESA) 向美国贸易代表办公室提议将最近炙手可热的游戏破解黑客 voices38 列入恶名盗版市场名单。匿名黑客 voices38 在短时间内发布了一系列使用 Denuvo DRM 的游戏破解补丁，其中包括《霍格沃茨之遗（Hogwarts Legacy）》和《黑神话：悟空》。ESA 的理由是，游戏破解黑客在盗版生态系统中扮演着重要角色，没有"
+          "link": "https://www.solidot.org/story?sid=85613",
+          "content": "如何吸引 Chrome 的用户改用其它浏览器？Chrome 是目前市场份额最高的浏览器。苹果推出了一个广告页（无中文）：Switch to Safari。苹果列举了一系列 Safari 的优点，称在 Mac 设备上，相比 Chrome，使用 Safari 播放流视频，续航时间最长可多出 5 个小时；常用网站的页面加载速度更快；单次充电即可全天播放流视频；动画内容渲染性能更出色；复杂 Web 应用 JavaScript 运行速度更快；默认"
         },
         {
-          "text": "《RimWorld》将游戏引擎从 Unity 切换到 Waylith Engine",
+          "text": "Linus Torvalds 用 LLM 辅助开发的补丁递交接受审查",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85599",
-          "content": "著名基地建造与管理游戏《RimWorld》开发商 Ludeon Studios 宣布释出 v1.7 版本，将游戏引擎从 Unity 切换到自研的 Waylith Engine，性能提升了 2-4 倍。Ludeon Studios 称，游戏的外观和玩法完全一致。相比 v1.6 版本，v1.7 在启动速度、加载大量模组时的速度、地图生成、世界生成、每秒更新次数（TPS）以及几乎所有其它方面都有显著提升。开发商表示，一个多达 1500 个模组"
+          "link": "https://www.solidot.org/story?sid=85612",
+          "content": "Linux 作者 Linus Torvalds 在维护者峰会上透露他在大模型帮助下开发了一系列补丁解决一个长期存在的问题。现在这组 10 个补丁已递交接受审查。这些补丁主要增强 folio 的查找机制：通过识别处于热数据状态的 folio，设置一个“延迟释放该 folio 直至 RCU 周期结束”的标志。随后利用 RCU 延迟在 RCU 保护下进行常规的 folio 查找，同时在 RCU 保护下直接进行实际的 folio 数据访问..."
         },
         {
-          "text": "美国麻疹病例突破 4080 例",
+          "text": "荷兰税务与海关总署放弃部署微软公有云，采用开源替代",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85598",
-          "content": "美国曾在 2000 年宣布消灭了麻疹，但因为虚假信息和接种率下降，麻疹疫情正卷土重来，今年至今麻疹病例总数已达到 4080 例，创 1991 年以来的最高纪录。其中宾夕法尼亚州的疫情最为严重，该州今年已经累计报告 1136 例病例，六人死亡。死者包括一名新生儿、一名 6 周大的婴儿、一名 18 岁青年、一名 20 岁青年、一名 40 岁成年人以及一名 39 岁女性。所有死者都未接种疫苗，两名婴儿尚未达到接种疫苗的年龄。宾夕法尼亚州的疫情"
+          "link": "https://www.solidot.org/story?sid=85611",
+          "content": "荷兰税务与海关总署放弃了部署微软 Microsoft 365 公有云的计划，改为采用本地部署/开源替代方案。根据 Linux 基金会在欧洲开源峰会上发布的报告，94% 的欧盟组织认为数字主权重要，其中 61% 认为非常重要。除了税务机关，荷兰还在探索全面从 Windows 和私有软件转向 Linux 和开源软件。荷兰原计划于 2025 年转向 Microsoft 365，计划在 2026 年底前完成全面部署。但 Dutch Adviso"
         },
         {
-          "text": "美国准备将叠层太阳能电池板投入商用",
+          "text": "水产养殖未减轻过度捕捞问题",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85597",
-          "content": "美国太阳能板生产商表示，他们即将迎来一项技术突破，这项突破可能颠覆整个行业，甚至威胁到中国在该行业的垄断地位。这些制造商正在竞相开发新型太阳能板，其发电量比目前市面上大多数同类产品高出 25%。如果成功，这一进步将使世界能以更少的土地和屋顶面积来满足迅速增长的电力需求。新技术被称为叠层太阳能，通过像层层蛋糕一样添加第二层和第三层材料，使太阳能电池板能够将更多的太阳辐射转化为电能。研究人员多年来一直致力于完善叠层太阳能电池板，包括 Tan"
+          "link": "https://www.solidot.org/story?sid=85610",
+          "content": "过去 60 年全球鱼类消费量增加了一倍多。随着需求上升，过度捕捞也达到了危险程度：目前全球三分之一的鱼类资源正以不可持续的方式被捕捞。水产养殖原本被寄望于帮助解决这一问题，减轻海洋因过度捕捞而承受的压力。但养殖鱼最有效的喂养方法是捕捞其他体型较小的鱼类，再将其加工成营养丰富的粉末，也就是鱼粉，或者制成相应的液态产品——鱼油。结果是水产养殖非但没有减轻过度捕捞的压力，反而让问题更糟。三文鱼和虾等海鲜主要依赖使用鱼粉饲料的海外养殖场供应。而"
         }
       ]
     },
@@ -48,16 +48,22 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "SK海力士HBM4后道设备订单推迟至明年，扩产节奏低于预期",
+          "text": "通胀重燃加息预期，亚洲股市重挫，韩股跌超9%，SK海力士暴跌10%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783595",
-          "content": "SK海力士第六代高带宽内存HBM4的产能扩张步伐正在放缓，部分后道工序设备订单被推迟至明年，市场对其量产进程的预期出现分歧。 据韩国媒体Dealsite援引半导体设备行业多位知情人士透露， 原定今年下半年交付的部分HBM4后道设备订单存在延期迹象，后续发单计划亦尚未明确。 与此同时， 已交付设备的满负荷运转情况暂无数据佐证，明年投资计划也尚未向部分供应商正式传达。 上述动态引发市场对SK海力士HBM4扩产节奏的担忧，相关设备供应商股价面"
+          "link": "https://wallstreetcn.com/articles/3783663",
+          "content": "美国通胀数据意外走高，叠加人工智能估值泡沫担忧，全球科技股遭遇新一轮冲击波。亚太市场周四开盘全面下挫，韩国股市跌幅尤为惨烈，交易所被迫启动熔断机制。 周四韩国首尔综指跌幅扩大至9%，现报5467.66点。个股方面，SK海力士、三星电子跌超11%。 日经225指数跌幅超过4%，软银重挫近10%，铠侠跌幅超10%。MSCI亚太指数下跌逾1%至266点附近，创下连续第四个交易日下行。纳斯达克100期货在亚洲盘中进一步下跌约1%。 芯片股抛售蔓"
         },
         {
-          "text": "大汉上市，比亚迪向主品牌要利润",
+          "text": "能源停火破裂？泽连斯基称乌克兰将继续对俄罗斯炼油厂发动袭击",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783597",
-          "content": "作者 | 周智宇 比亚迪给大汉开的正式价，比预售时低了一截。 10月13日晚，王朝网首款D级旗舰轿车大汉EV上市，三款车型售价分别为23.59万元、24.99万元和27.59万元，比预售价下调1.4万至2.4万元。定位继续往上抬，定价仍在二十多万元的主流竞争区间。 大汉拿来争这笔预算的，是大车尺寸、长续航和底盘配置。车长5256毫米、轴距3130毫米；23.59万元的后驱入门版，CLTC纯电续航为1008公里，双腔空气悬架、后轮转向则全"
+          "link": "https://wallstreetcn.com/articles/3783686",
+          "content": "乌克兰总统泽连斯基宣布恢复对俄罗斯炼油厂的打击行动，国际油市面临新的不确定性。 据 央视新闻 报道，当地时间10月15日，央视 总台记者 获悉，乌克兰总统泽连斯基在接受采访时表示，乌方将恢复对俄罗斯炼油厂的打击。 他表示，应美国的请求，乌方已停止攻击俄罗斯能源基础设施3天。 据彭博10月15日报道，泽连斯基在接受《金融时报》采访时表示，乌克兰将恢复对俄罗斯石油炼厂的打击，理由是 莫斯科在停火期间持续袭击乌克兰能源基础设施 。他表示，乌方"
+        },
+        {
+          "text": "创业板、科创50均跌4%，白酒、创新药逆势活跃，算力硬件陷入调整，恒科指跌超3%，存储芯片走低",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783670",
+          "content": "隔夜美国通胀数据意外走高，令市场对美联储将在更长时间内维持高利率的押注骤然升温，叠加AI信贷裂缝扩大等因素，美国科技与半导体股周三下挫，亚太市场周四开盘全面下挫，韩国股市跌幅尤为惨烈，A股和港股亦低开低走，AI硬件等陷入调整。 10月15日，A股午后延续跌势，三大股指进一步下跌，创业板跌4%，科创50指数亦跌4%，算力硬件、芯片半导体下挫，先进封装、玻璃基板、玻璃纤维等概念股跌幅居前。存储芯片、光模块、覆铜板、电路板等同样遭遇调整。白酒"
         },
         {
           "text": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
@@ -66,28 +72,46 @@ window.BRIEFING_DATA = {
           "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "创业板跌近2%，“易中天”下挫，AI漫剧概念再爆发，恒科指午后拉升涨超2%，美团、阿里大涨",
+          "text": "险资加仓到了分歧点",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783588",
-          "content": "10月14日，A股午后回落，三大股指集体下跌，创业板跌超2%，科创50跌近2%，北证50转跌，盘中一度涨超2%。光模块下挫，“易中天”显著调整。AI漫剧概念掀起连板潮，PCB延续强势，煤炭油气逆势领涨。玻璃纤维、风力发电、半导体设备等概念股集体陷入调整。 港股午后进一步上涨，恒指、恒科指双双拉升，恒科指涨超2%，盘初曾跌近1%，权重科网股大反弹，美团、阿里、小米等大幅上涨，芯片半导体等整体仍然承压。债市方面，国债期货全线上涨。商品方面，"
+          "link": "https://wallstreetcn.com/articles/3783683",
+          "content": "保险资金的新一轮入市，正出现两组方向不同的信号。 截至2026年二季度末，人身险公司股票投资余额约3.86万亿元，占资金运用余额的10.47%，较上年同期提高2.14个百分点。 但在举牌这一最受市场关注的动作上，险资却放慢了脚步。 截至10月9日，年内仅有5家保险公司举牌上市公司股票9次，不足去年同期的三分之一。 更大的分歧在于，下一步是否继续提高权益比例。 平安联席首席执行官郭晓涛在中期业绩会上表示，长期看好中国经济的发展韧性及资本市"
         },
         {
-          "text": "阿斯麦Q3利润49.6亿欧元大超预期，上调全年展望，订单排至2030年并正评估扩产 | 财报见闻",
+          "text": "算力用电激增，曾毓群称储能已是“不可或缺的新型基础设施”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783594",
-          "content": "人工智能基础设施投资持续升温，正将芯片设备巨头阿斯麦（ASML）的订单需求推向更远的未来。 阿斯麦周三公布三季度业绩，净利润大幅超出市场预期，并再度上调全年业绩指引—— 这已是该公司连续第三个季度提升展望。 更值得关注的是， 部分客户已开始就2029年乃至2030年的设备采购表达订购意向，而该公司现有的2027年和2028年供应计划已无法完全满足市场需求。 面对日益紧张的供需缺口，首席执行官Christophe Fouquet表示， 公"
-        },
-        {
-          "text": "印度央行救卢比掏空家底：外储骤降500亿美元，2000亿远期美元负债成定时炸弹",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783585",
-          "content": "印度央行正在为捍卫卢比付出越来越沉重的代价。外汇储备自9月初以来已蒸发500亿美元，账面上高达2000亿美元的负美元远期头寸叠加银行体系约350亿美元的额外远期美元敞口，正将这场汇率保卫战推向可持续性的临界点。 印度央行此轮干预手段层层加码： 从动员侨民在不足三个月内借入1330亿美元，到直接开设专项窗口将国有石油公司每日高达2.5亿至4亿美元的购汇需求转移至央行资产负债表，再到重启衍生品管制、大幅压缩市场参与者的投机性购汇空间。 卢比"
+          "link": "https://wallstreetcn.com/articles/3783682",
+          "content": "作者 | 周智宇 10月15日，在2026世界储能大会上，宁德时代董事长曾毓群表示，储能正从新能源的配套设施，逐步成为电力系统不可或缺的新型基础设施。 据SNE Research数据，今年上半年，全球锂离子储能电池出货量达到461.3GWh，同比增长71%；中国以外市场占比达到56%，首次超过一半。 曾毓群提出，储能行业需要强化三项能力：一是面向多元化电网需求，打造整站级解决能力；二是坚持底层创新，提升复杂场景下的技术应对能力；三是从产"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "App+1｜Mangata：把每次散步当作一次探索旅行",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115238",
+          "content": "不一定要拍满，也不一定要发。走完看看留下了什么，就够了。<a href=&#34;https://sspai.com/post/115238&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/116193",
+          "content": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。<a href=&#34;https://sspai.com/post/116193&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "认知心理学背后的播客剪辑技巧",
+          "source": "少数派",
+          "link": "https://sspai.com/post/114861",
+          "content": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？<a href=&#34;https://sspai.com/post/114861&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115426",
+          "content": "这些新技术将如何让我们的照片和视频更好？<a href=&#34;https://sspai.com/post/115426&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "家中、这里、那里——Sonos Play 体验",
           "source": "少数派",
@@ -99,30 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/116109",
           "content": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...<a href=&#34;https://sspai.com/post/116109&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
-          "source": "少数派",
-          "link": "https://sspai.com/post/92653",
-          "content": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？<a href=&#34;https://sspai.com/post/92653&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116138",
-          "content": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。<a href=&#34;https://sspai.com/post/116138&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116068",
-          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/116068&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115400",
-          "content": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...<a href=&#34;https://sspai.com/post/115400&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -133,12 +133,6 @@ window.BRIEFING_DATA = {
           "text": "morluto/rea：morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries.（TypeScript）",
           "source": "GitHub",
           "link": "https://github.com/morluto/rea",
-          "content": ""
-        },
-        {
-          "text": "bilawalsidhu/gods-eye-view：bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.（JavaScript）",
-          "source": "GitHub",
-          "link": "https://github.com/bilawalsidhu/gods-eye-view",
           "content": ""
         },
         {
@@ -154,15 +148,21 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "cathrynlavery/diagram-design：cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.（HTML）",
+          "text": "nvm-sh/nvm：nvm-sh / nvm Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.（Shell）",
           "source": "GitHub",
-          "link": "https://github.com/cathrynlavery/diagram-design",
+          "link": "https://github.com/nvm-sh/nvm",
           "content": ""
         },
         {
-          "text": "vercel-labs/skills：vercel-labs / skills The open agent skills tool - npx skills（TypeScript）",
+          "text": "K-Dense-AI/scientific-agent-skills：K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/vercel-labs/skills",
+          "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "content": ""
+        },
+        {
+          "text": "HKUDS/CLI-Anything：HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/HKUDS/CLI-Anything",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-14","2026-10-13","2026-10-12","2026-10-11","2026-10-10","2026-10-09","2026-10-08","2026-10-07"];
+window.BRIEFING_ARCHIVE = ["2026-10-15","2026-10-14","2026-10-13","2026-10-12","2026-10-11","2026-10-10","2026-10-09","2026-10-08"];
