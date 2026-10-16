@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-15T06:19:04.891Z
+// 由 GitHub Actions 自动生成 2026-10-16T06:14:38.602Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "研究估计到 2050 年每年新增痴呆症人数将会翻倍",
+          "text": "国际计量局通过决议用闰时取代闰秒",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85615",
-          "content": "一项新研究估计，2023 年有 1140 万人患上痴呆症，到 2050 年预计这一数字将增加一倍以上，新增痴呆症人数将达到 2470 万。研究发现女性的痴呆症发病率高于男性，且低中收入国家的发病率远高于高收入国家。在校正年龄因素后，女性发病为每千人年 10.6 例，男性为 8.6 例。低中收入国家的发病率为每千人年 13.6 例，而高收入国家为 8.3 例。目前全世界有逾 5700 万人受痴呆症困扰，到 2050 年这一数字将达到 1."
+          "link": "https://www.solidot.org/story?sid=85626",
+          "content": "国际计量局在法国凡尔赛召开会议，多数成员国投票支持一项《关于确保“协调世界时”（UTC）连续性所需的技术措施》的决议，这意味着使用了半个多世纪的闰秒将被取消。根据决议，取消闰秒的举措将于 2027 年 5 月 20 日（世界计量日）生效。此前，在国际计量局 2022 年举行的会议上，成员国投票通过一项决议，呼吁制定不晚于 2035 年逐步取消闰秒的计划。决议还建议用闰时取代闰秒，即等到“原子时”（TAI）和“世界时”（UT）的时刻相差 "
         },
         {
-          "text": "GTA 6 可能提前发布 PC 版本",
+          "text": "美国银行雇佣千名合同工修复 AI 工具发现的软件漏洞",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85614",
-          "content": "Rockstar 尚未正式宣布，但有报道称它计划于 2027 年第一季度发布 GTA 6 的 PC 版本，与主机版本仅仅相隔几个月。GTA 6 将于 2026 年 11 月发布主机版本。据彭博报道，在 GTA 6 开发过程中 Rockstar 员工总数从开发 Red Dead Redemption II 的 2,441 人增长到 4,711 人。GTA 6 制作预算据称超过 20 亿美元，提前释出 PC 版本旨在加快回收制作费用。上一代"
+          "link": "https://www.solidot.org/story?sid=85625",
+          "content": "美国银行（Bank of America）CEO Brian Moynihan 透露该公司雇佣了千名合同工帮助修复 Anthropic Mythos 等 AI 工具发现的软件漏洞。他表示：“我们在第二季度聘请了 1000 名合同工协助进行修复工作。除了原本负责该领域的 3000 名员外，这些合同工至今仍留在公司内，继续提供协助。”他向分析师透露，美国银行第三季度在软件修复以及与反洗钱合规相关的监管问题上投入了数亿美元以上的资金。这是美国"
         },
         {
-          "text": "苹果推出广告鼓励 Chrome 用户切换到 Safari",
+          "text": "以色列公司通过数字广告安装零点击间谍软件",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85613",
-          "content": "如何吸引 Chrome 的用户改用其它浏览器？Chrome 是目前市场份额最高的浏览器。苹果推出了一个广告页（无中文）：Switch to Safari。苹果列举了一系列 Safari 的优点，称在 Mac 设备上，相比 Chrome，使用 Safari 播放流视频，续航时间最长可多出 5 个小时；常用网站的页面加载速度更快；单次充电即可全天播放流视频；动画内容渲染性能更出色；复杂 Web 应用 JavaScript 运行速度更快；默认"
+          "link": "https://www.solidot.org/story?sid=85624",
+          "content": "加拿大多伦多大学公民实验室发表研究报告，以色列公司 Discover-Tech 通过数字广告在半岛电视台的内部设备上安装了间谍软件。这是首次利用数字广告实施的零点击间谍软件攻击。Discover-Tech 运营着名为 Controlium 的平台，它表面上是一家合法的广告公司，但实际上是以色列间谍软件供应商的合作伙伴。Controlium 能在广告加载的瞬间，对设备进行去匿名化处理、提取设备指纹，自动植入恶意软件。对 Discover-"
         },
         {
-          "text": "Linus Torvalds 用 LLM 辅助开发的补丁递交接受审查",
+          "text": "Ubuntu 26.10 释出",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85612",
-          "content": "Linux 作者 Linus Torvalds 在维护者峰会上透露他在大模型帮助下开发了一系列补丁解决一个长期存在的问题。现在这组 10 个补丁已递交接受审查。这些补丁主要增强 folio 的查找机制：通过识别处于热数据状态的 folio，设置一个“延迟释放该 folio 直至 RCU 周期结束”的标志。随后利用 RCU 延迟在 RCU 保护下进行常规的 folio 查找，同时在 RCU 保护下直接进行实际的 folio 数据访问..."
+          "link": "https://www.solidot.org/story?sid=85623",
+          "content": "Canonical 释出了代号为 Stonking Stingray 的 Ubuntu 26.10，这是一个短期支持版本，仅支持九个月。Ubuntu 26.10 的主要变化包括：用 Rust 语言开发的版本替代了 C 语言开发的系统组件，后量子密码学软件包签名，扩展对基于 TPM 的全盘加密支持，企业级身份验证与 Microsoft Entra ID 的更深度集成，Linux kernel 7.3，新 RISC-V 桌面镜像，GNOME"
         },
         {
-          "text": "荷兰税务与海关总署放弃部署微软公有云，采用开源替代",
+          "text": "美国科技巨头警告欧洲推行数据主权将带来逾千亿欧元的成本",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85611",
-          "content": "荷兰税务与海关总署放弃了部署微软 Microsoft 365 公有云的计划，改为采用本地部署/开源替代方案。根据 Linux 基金会在欧洲开源峰会上发布的报告，94% 的欧盟组织认为数字主权重要，其中 61% 认为非常重要。除了税务机关，荷兰还在探索全面从 Windows 和私有软件转向 Linux 和开源软件。荷兰原计划于 2025 年转向 Microsoft 365，计划在 2026 年底前完成全面部署。但 Dutch Adviso"
+          "link": "https://www.solidot.org/story?sid=85622",
+          "content": "代表美国科技巨头亚马逊、Google 和 Meta 的行业组织 CCIA Europe 委托进行的一项研究声称，欧洲如果推行数据主权法案 Cloud and AI Development Act（CADA） 会在十年内带来 1150 亿欧元的成本，是欧盟委员会预估的最高值的六倍多。其中 800 亿欧元的成本是假设数字主权法扩大至私营部门关键服务四分之一的云工作负载。报告特别针对了 CADA 中的第 31 条，称其可能允许欧盟委员会将数字"
         },
         {
-          "text": "水产养殖未减轻过度捕捞问题",
+          "text": "Google 悄悄关联手机号码和所有用户登录账号",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85610",
-          "content": "过去 60 年全球鱼类消费量增加了一倍多。随着需求上升，过度捕捞也达到了危险程度：目前全球三分之一的鱼类资源正以不可持续的方式被捕捞。水产养殖原本被寄望于帮助解决这一问题，减轻海洋因过度捕捞而承受的压力。但养殖鱼最有效的喂养方法是捕捞其他体型较小的鱼类，再将其加工成营养丰富的粉末，也就是鱼粉，或者制成相应的液态产品——鱼油。结果是水产养殖非但没有减轻过度捕捞的压力，反而让问题更糟。三文鱼和虾等海鲜主要依赖使用鱼粉饲料的海外养殖场供应。而"
+          "link": "https://www.solidot.org/story?sid=85621",
+          "content": "Google 现在会自动验证用户的手机号码，将其关联至用户 Android 设备上登录的所有 Google 账户，全程不会弹出明显确认提示。该功能在 Google 设置中被称为电话号码验证(Phone number verification)，会将用户当前使用的手机号码关联至同一台设备上登录的所有 Google 账户——无论是辅助账户、工作账户，还是其它临时账户。用户通过社交媒体报告收到了 noreply-phone-verificat"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "通胀重燃加息预期，亚洲股市重挫，韩股跌超9%，SK海力士暴跌10%",
+          "text": "今年第三次！对冲基金重现“疫情以来罕见同步暴跌”，量化基金遭遇8月以来最惨一日",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783663",
-          "content": "美国通胀数据意外走高，叠加人工智能估值泡沫担忧，全球科技股遭遇新一轮冲击波。亚太市场周四开盘全面下挫，韩国股市跌幅尤为惨烈，交易所被迫启动熔断机制。 周四韩国首尔综指跌幅扩大至9%，现报5467.66点。个股方面，SK海力士、三星电子跌超11%。 日经225指数跌幅超过4%，软银重挫近10%，铠侠跌幅超10%。MSCI亚太指数下跌逾1%至266点附近，创下连续第四个交易日下行。纳斯达克100期货在亚洲盘中进一步下跌约1%。 芯片股抛售蔓"
+          "link": "https://wallstreetcn.com/articles/3783766",
+          "content": "AI信贷担忧引发的去杠杆浪潮，正在以前所未有的频率反复冲击对冲基金行业。 本周四，对冲基金再度经历&#34;疫情以来罕见的多策略同步大跌&#34;——这是2026年以来的第三次。高盛Prime经纪业务数据显示，量化基金当日遭受-3.7个标准差的重创，创下8月19日以来最惨单日跌幅。亚洲区对冲基金月度跌幅扩大至-6.8%，韩国、中国台湾AI相关仓位成为重灾区。高盛数据显示，基本面多空策略当日收跌0.5%，而系统性多空基金则大幅落后，未能在"
         },
         {
-          "text": "能源停火破裂？泽连斯基称乌克兰将继续对俄罗斯炼油厂发动袭击",
+          "text": "存量时代的双11：淘天把“找新增量”的重任交给了AI",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783686",
-          "content": "乌克兰总统泽连斯基宣布恢复对俄罗斯炼油厂的打击行动，国际油市面临新的不确定性。 据 央视新闻 报道，当地时间10月15日，央视 总台记者 获悉，乌克兰总统泽连斯基在接受采访时表示，乌方将恢复对俄罗斯炼油厂的打击。 他表示，应美国的请求，乌方已停止攻击俄罗斯能源基础设施3天。 据彭博10月15日报道，泽连斯基在接受《金融时报》采访时表示，乌克兰将恢复对俄罗斯石油炼厂的打击，理由是 莫斯科在停火期间持续袭击乌克兰能源基础设施 。他表示，乌方"
+          "link": "https://wallstreetcn.com/articles/3783769",
+          "content": "双11走到第十八年，天猫开始重新思考增长空间。 “对于淘天这样一个大的集团，我一年服务将近10亿消费者，我还有怎样的用户总量空间？” 在2026年天猫双11媒体沟通会上，天猫总裁家洛提出了这个问题。紧接着，他给出的答案是：“单个人的消费边界能够获得很大的空间。” 今年双11，家洛将消费者体验和增长列为最重要的两个指标。他明确表示，平台对全年及双11期间的增长仍有预期，既包括消费者数量，也包括购买金额。 商家对增长同样抱有期待。据家洛介绍"
         },
         {
-          "text": "创业板、科创50均跌4%，白酒、创新药逆势活跃，算力硬件陷入调整，恒科指跌超3%，存储芯片走低",
+          "text": "百余部漫剧播放破亿，阅文将IP改编起点前移至连载期",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783670",
-          "content": "隔夜美国通胀数据意外走高，令市场对美联储将在更长时间内维持高利率的押注骤然升温，叠加AI信贷裂缝扩大等因素，美国科技与半导体股周三下挫，亚太市场周四开盘全面下挫，韩国股市跌幅尤为惨烈，A股和港股亦低开低走，AI硬件等陷入调整。 10月15日，A股午后延续跌势，三大股指进一步下跌，创业板跌4%，科创50指数亦跌4%，算力硬件、芯片半导体下挫，先进封装、玻璃基板、玻璃纤维等概念股跌幅居前。存储芯片、光模块、覆铜板、电路板等同样遭遇调整。白酒"
+          "link": "https://wallstreetcn.com/articles/3783768",
+          "content": "网络文学IP的商业开发，正在突破少数头部作品的限制。 10月16日，2026阅文创作大会在杭州举行。阅文集团CEO兼总裁侯晓楠宣布，公司将深化“IP+AI”战略，围绕AI精品视频矩阵、OPC一站式平台及IP全链路运营展开新一轮布局。 这次调整背后，是网文IP开发成本和商业模式的变化。 过去，网文IP的商业开发高度依赖影视、动画和游戏等重投入项目，只有少数头部作品能够获得大规模改编，大量中腰部IP的商业价值长期停留在文字订阅和版权交易层面"
         },
         {
-          "text": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
+          "text": "2027见闻历限时预售火热进行中！连续第9年的财经“神”历，也是你第九年的陪伴",
           "source": "华尔街见闻",
           "link": "https://wallstreetcn.com/articles/3782813",
           "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "险资加仓到了分歧点",
+          "text": "卖了40年百事，美国肯德基换可口可乐了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783683",
-          "content": "保险资金的新一轮入市，正出现两组方向不同的信号。 截至2026年二季度末，人身险公司股票投资余额约3.86万亿元，占资金运用余额的10.47%，较上年同期提高2.14个百分点。 但在举牌这一最受市场关注的动作上，险资却放慢了脚步。 截至10月9日，年内仅有5家保险公司举牌上市公司股票9次，不足去年同期的三分之一。 更大的分歧在于，下一步是否继续提高权益比例。 平安联席首席执行官郭晓涛在中期业绩会上表示，长期看好中国经济的发展韧性及资本市"
+          "link": "https://wallstreetcn.com/articles/3783765",
+          "content": "当地时间10月15日，美国肯德基宣布与可口可乐公司建立新的合作伙伴关系，在美国市场结束与百事约40年的合作。从2027年1月开始，肯德基将把其美国饮料合作伙伴关系转至可口可乐公司，预计到2027年春季，可口可乐产品将在全美所有肯德基餐厅供应。 此举涉及肯德基在美国的3718家门店，交易金额未披露。 肯德基美国总裁凯瑟琳·谭-吉莱斯皮在致加盟商与员工的备忘录中称，这是“肯德基复兴的关键一步”，公司将通过与可口可乐合作推出新的饮料产品，获得"
         },
         {
-          "text": "算力用电激增，曾毓群称储能已是“不可或缺的新型基础设施”",
+          "text": "A股三大指数集体反弹，军工大爆发，存储芯片拉升、长鑫重回市值第一，恒科指涨2%，科网股、半导体普涨",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783682",
-          "content": "作者 | 周智宇 10月15日，在2026世界储能大会上，宁德时代董事长曾毓群表示，储能正从新能源的配套设施，逐步成为电力系统不可或缺的新型基础设施。 据SNE Research数据，今年上半年，全球锂离子储能电池出货量达到461.3GWh，同比增长71%；中国以外市场占比达到56%，首次超过一半。 曾毓群提出，储能行业需要强化三项能力：一是面向多元化电网需求，打造整站级解决能力；二是坚持底层创新，提升复杂场景下的技术应对能力；三是从产"
+          "link": "https://wallstreetcn.com/articles/3783750",
+          "content": "经历了此前四个交易日的连续调整，A股周五（10月16日），早盘迎来强势反攻。三大指数集体高开——沪指高开0.44%、深成指高开1.26%、创业板指高开1.75%。此后沪指高开高走，深成指、创业板指则高开回落后再度震荡拉升，盘中一度翻绿。 板块方面，国防军工、商业航天、创新药等爆发，汽车、农业、房地产等板块走高，江淮汽车涨停，此前工信部等三部门成立联合调查组开展核查网络反映的“尊界V800汽车刹车踏板支架断裂问题”。此外，AI硬件反弹，光"
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
-          "text": "App+1｜Mangata：把每次散步当作一次探索旅行",
+          "text": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
           "source": "少数派",
-          "link": "https://sspai.com/post/115238",
-          "content": "不一定要拍满，也不一定要发。走完看看留下了什么，就够了。<a href=&#34;https://sspai.com/post/115238&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/115679",
+          "content": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。<a href=&#34;https://sspai.com/post/115679&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+          "text": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
           "source": "少数派",
-          "link": "https://sspai.com/post/116193",
-          "content": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。<a href=&#34;https://sspai.com/post/116193&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/115688",
+          "content": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。<a href=&#34;https://sspai.com/post/115688&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "认知心理学背后的播客剪辑技巧",
+          "text": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
           "source": "少数派",
-          "link": "https://sspai.com/post/114861",
-          "content": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？<a href=&#34;https://sspai.com/post/114861&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/116355",
+          "content": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。<a href=&#34;https://sspai.com/post/116355&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "text": "新玩意 253｜少数派的编辑们最近买了啥？",
           "source": "少数派",
-          "link": "https://sspai.com/post/115426",
-          "content": "这些新技术将如何让我们的照片和视频更好？<a href=&#34;https://sspai.com/post/115426&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/116246",
+          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=&#34;https://sspai.com/post/116246&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "家中、这里、那里——Sonos Play 体验",
+          "text": "顺应变化，重申标准：《少数派创作手册》修订说明",
           "source": "少数派",
-          "link": "https://sspai.com/post/115382",
-          "content": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...<a href=&#34;https://sspai.com/post/115382&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/116181",
+          "content": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...<a href=&#34;https://sspai.com/post/116181&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
+          "text": "学得会的快捷指令，零基础入门苹果效率魔法",
           "source": "少数派",
-          "link": "https://sspai.com/post/116109",
-          "content": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...<a href=&#34;https://sspai.com/post/116109&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/116182",
+          "content": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...<a href=&#34;https://sspai.com/post/116182&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -136,21 +136,9 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "debpalash/VoiceStudio：debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.（Python）",
+          "text": "anthropics/claude-plugins-official：anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/debpalash/VoiceStudio",
-          "content": ""
-        },
-        {
-          "text": "mksglu/context-mode：mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/mksglu/context-mode",
-          "content": ""
-        },
-        {
-          "text": "nvm-sh/nvm：nvm-sh / nvm Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.（Shell）",
-          "source": "GitHub",
-          "link": "https://github.com/nvm-sh/nvm",
+          "link": "https://github.com/anthropics/claude-plugins-official",
           "content": ""
         },
         {
@@ -160,9 +148,21 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "HKUDS/CLI-Anything：HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/（Python）",
+          "text": "JuliusBrussee/caveman：JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.（Go）",
           "source": "GitHub",
-          "link": "https://github.com/HKUDS/CLI-Anything",
+          "link": "https://github.com/JuliusBrussee/caveman",
+          "content": ""
+        },
+        {
+          "text": "debpalash/VoiceStudio：debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/debpalash/VoiceStudio",
+          "content": ""
+        },
+        {
+          "text": "obra/superpowers：obra / superpowers An agentic skills framework & software development methodology that works.（Shell）",
+          "source": "GitHub",
+          "link": "https://github.com/obra/superpowers",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-15","2026-10-14","2026-10-13","2026-10-12","2026-10-11","2026-10-10","2026-10-09","2026-10-08"];
+window.BRIEFING_ARCHIVE = ["2026-10-16","2026-10-15","2026-10-14","2026-10-13","2026-10-12","2026-10-11","2026-10-10","2026-10-09"];
