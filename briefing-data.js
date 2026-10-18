@@ -1,11 +1,29 @@
-// 由 GitHub Actions 自动生成 2026-10-17T05:59:58.768Z
+// 由 GitHub Actions 自动生成 2026-10-18T06:28:26.089Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "sections": [
     {
       "title": "AI发展",
       "items": [
+        {
+          "text": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85638",
+          "content": "协作游戏逆向工程网站 decomp.dev 宣布将关闭，管理员称 AI 让游戏反编译变得快且易于操作，基于人工的社区协作模式实际上已经瓦解，无法再区分哪些项目是以人工为主导的，哪些是由 AI 完成的。decomp.dev 管理员 Encounter 在官网声明中表示，从历史上看，匹配反编译一直是极其困难且耗时的任务，即便是对那些有适量活跃贡献者的中等规模游戏来说，反编译要以“年”为单位计时，但 GPT-6-Astra 之类的前沿 AI "
+        },
+        {
+          "text": "天文学家发现第一颗绿色恒星",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85637",
+          "content": "天文学家可能发现了第一颗绿色恒星——名为 WD J1330+6435 的白矮星，位于地球 326 光年外。部分死亡恒星——即白矮星——在吞噬围绕其运行的行星后，可能会呈现出绿色。WD J1330+6435 一直在吸积其行星伴星上的岩石物质。这一过程使其大气中富含钙、锂和钠元素。模型表明这些元素的存在使得 WD J1330+6435 呈现绿色。WD J1330+6435 是已知首颗真正呈现绿色的恒星。研究人员称，白矮星大气中残留的钠元素吸"
+        },
+        {
+          "text": "GNOME 面向普通用户发布 GNOME OS Preview",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85636",
+          "content": "GNOME 项目已推出发行版项目 GNOME OS 一段时间，但它只提供基于最新代码的 Nightly 版本，主要面向开发者。现在它推出了面向普通用户的 GNOME OS Preview。GNOME OS Preview 基于 Nightly 版本，但去掉了 Nightly 特性，基于最新的 GNOME 51.1 构建。开发者表示该版本尚未经过充分的实际使用测试，可能会遇到问题，但稳定性肯定高于 Nightly 版本，对想要尝鲜的普通用"
+        },
         {
           "text": "英国中年男性自杀率达到历史最高水平",
           "source": "Solidot",
@@ -23,24 +41,6 @@ window.BRIEFING_DATA = {
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85633",
           "content": "日本京都大学的研究人员在 iscience 期刊上发表了一篇论文，他们在一个月内测量了 19 名主人和 29 只宠物猫的催产素和皮质醇水平，评估主人的情绪，通过蓝牙信号监视主人和猫之间的距离。结果显示，主人与猫的催产素水平呈正相关，皮质醇水平之间的关联很小。猫的催产素水平越高，与主人皮质醇水平就越低和负面情绪越少相关，主人更高的皮质醇水平与更多的负面情绪相关。主人与猫之间距离越近，主人的活力水平就越高。探索性行为测试则将猫的催产素与社会"
-        },
-        {
-          "text": "人真能活到 200 岁吗？",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85632",
-          "content": "2000 年生物学家史蒂文·奥斯塔德提出了一个颇具争议的说法：“世界上第一个将活到 150 岁的人现在很可能已经出生了。”他当时乐观地认为，科学将找到延长寿命的新方法，而且他至今仍持这一看法。似乎数不胜数的网红和未来学家也抱有同样的信心，其中一些人甚至做出了更为惊人的预测。生物医学老年学家、SENS 研究基金会创始人奥布里·德格雷声称，如今 40 岁的人有超过 50% 的可能性永远不会因衰老而死亡。但今天研究人员对于未来究竟能在多大程度"
-        },
-        {
-          "text": "微软声称 Windows 11 显著改进了 8GB 内存下的性能",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85631",
-          "content": "微软表示，Windows 11 最近的更新通过改进内存管理和减少后台资源占用，系统响应速度提升最高 20%。改进内存管理也显著改进了只有 8GB 内存的电脑的运行表现。由于内存价格飙升，越来越多的 PC 厂商重新开始推出只有 8GB 内存的电脑。微软 Windows 体验部门企业副总裁 Navjot Virk 表示：“Windows 现在可在内存中多保留多达 2GB 的活动数据，而不是把其转移到更慢的存储设备。比如在内存为 8GB 或更"
-        },
-        {
-          "text": "三季度中国手机出货量下跌 15.4%",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85630",
-          "content": "根据 IDC 的数据，三季度全球智能手机出货量同比下降 22% 至 2.553 亿部。受内存价格上涨影响，手机价格上升，出货量降幅创历史最高。IDC 预测未来智能手机市场还将进一步下滑。根据 IDC 的数据，三季度中国智能手机市场出货量约为 5790 万台，同比下降 15.4%。华为是唯一实现同比双位数增长的头部品牌。华为份额升至 21.1%，同比增长 17.3%；其次是苹果的 17.8%，同比下跌 4.3%；之后是 OPPO、vivo"
         }
       ]
     },
@@ -54,40 +54,46 @@ window.BRIEFING_DATA = {
           "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+          "text": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783832",
-          "content": "美股正在上演一场罕见的内部撕裂——指数岿然不动，但指数之下已是一片狼藉。 摩根士丹利首席股票策略师Mike Wilson在最新报告中警告， 收紧的金融条件正在悄然完成美联储的部分工作，只是这一冲击被集中吸收在普通股票身上，而非以AI为核心的少数巨头。 十年期美债收益率突破5.3%，美元升至本轮周期新高，油价居高不下，三重压力叠加之下，摩根士丹利综合金融条件指数已跳升至约1.4个标准差，这一水平在过去35年中仅被突破数次，上一次还是202"
+          "link": "https://wallstreetcn.com/articles/3783851",
+          "content": "这家专注于AI云计算的基础设施公司，正在成为本轮人工智能投资热潮中风险积聚的最集中体现。 本周，CoreWeave股价单周重挫25%，创下2025年11月以来最差表现；与此同时，其垃圾评级债券收益率飙升至15%，通常被视为债务困境的临界信号，信用违约互换定价显示其五年内违约概率超过60%。 尽管英伟达首席执行官黄仁勋在周四公开表达对CoreWeave的信心，德意志银行将此次抛售定性为&#34;买入机会&#34;，股价当日反弹5.9%，但"
         },
         {
-          "text": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
+          "text": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783831",
-          "content": "Anthropic正悄然推动一项由其主导起草的AI安全法案，试图为联邦政府干预前沿AI模型设定极高门槛，同时将监管权力严格限定于商务部和联邦法院。 据路透社17日援引Politico报道，Anthropic代表已私下向国会议员游说这份草案法规。 根据法案内容，政府只有在AI模型面临可预见的、迫在眉睫的风险——即可能造成超过10亿美元损失，或导致50人以上死亡或重伤时，方可介入阻止模型发布或使用。 这一高门槛意味着，绝大多数情形下AI模型"
+          "link": "https://wallstreetcn.com/articles/3783759",
+          "content": "10月19日 - 10月25日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观政策方面，中国三季度GDP、金融街论坛与APEC财长会多线并进。 10月19日中国公布三季度GDP及9月工业、社零、地产等经济数据。同日，金融街论坛年会开幕，吴清、朱鹤新出席，国家金融管理部门将集中发布系列改革政策。APEC财长会首度落地香港，聚焦多边贸易与可持续金融，亦是香港国际金融中心地位的主场背书。 AI方面，黄仁勋柏林演讲"
         },
         {
-          "text": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
+          "text": "精准预测大跌的美银Hartnett：“卖出信号”已经结束，投资者将“11月中旬重返科技股”，关键看“芯片价格”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783830",
-          "content": "黄金自1月高点回落逾四分之一，白银跌幅超过一半，表面上看，这不过是一场过热行情的自然冷却。但价格下跌的背后，实物市场的结构性失衡不仅未曾修复，反而持续恶化—— 央行在金价下跌14%的季度里创纪录地增持，白银连续六年录得供应赤字且缺口进一步扩大。 价格与实物供需之间的裂缝，正在变得越来越难以忽视。 黄金于2026年1月触及每盎司5608美元（现货价）的历史峰值后掉头下行，至10月中旬已跌至约4112美元，较峰值下跌约27%。白银在1月29"
+          "link": "https://wallstreetcn.com/articles/3783850",
+          "content": "美银证券策略师Michael Hartnett此前精准捕捉到科技股大跌，其&#34;卖出信号&#34;指标现已终止。但他明确提示，信号终止不等于买入信号，投资者能否在11月中旬重返科技股，将取决于半导体价格走势这一关键变量。 Hartnett在最新一期Flow Show报告中指出，美银牛熊指标（Bull & Bear Indicator）从8.1急降至7.4，跌破8.0阈值，正式结束了5月26日触发的卖出信号。但他在战术上仍维持&#34"
         },
         {
-          "text": "特斯拉高管详解新Roadster：放弃四驱、专用4680电池，目标车重不到1.7吨",
+          "text": "中东搞砸了、俄乌谈不拢、AI云暴雷、美国高通胀---市场“灾难一周”改变了什么？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783829",
-          "content": "特斯拉新款Roadster正式揭开面纱，其技术方案远超市场此前预期。这款车搭载专属4680电池、双电机后驱系统、主动吸地风扇以及源自SpaceX的冷气推进器，最激进版本宣称0至60英里/小时加速仅需0.55秒，并具备有限离地飞行能力。 特斯拉车辆工程副总裁Lars Moravy 16日在接受Hagerty频道采访时，首度系统披露了这款车的核心技术细节。他透露， 新Roadster最终放弃了四驱方案，转而采用双电机后驱布局，双电机总功率逾"
+          "link": "https://wallstreetcn.com/articles/3783849",
+          "content": "本周市场遭遇了一场罕见的多重冲击叠加：美国通胀数据超预期、中东局势持续升级、俄乌&#34;能源停火&#34;迅速破裂，以及AI云计算信用危机骤然爆发。原本主导市场的“通胀与加息”主线，迅速让位于由AI融资链条断裂所引发的经济增长恐慌。 作为本轮风暴的震中，AI基础设施提供商的核心信贷指标全面恶化，初创云服务企业的市值在五个交易日内缩水两成。 信贷市场的流动性挤压迅速蔓延至股票市场，对冲基金大举抛售，清仓了自2025年1月以来积累的所有A"
         },
         {
-          "text": "华尔街开出中期选举价码：民主党因子暴涨20%，大盘却深陷“盲区”",
+          "text": "IMF警告日本可能需要更快加息，全球债市再添压力？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783825",
-          "content": "华尔街已为即将到来的美国中期选举开出明确价码。 10月16日，知名财经分析平台ZeroHedge梳理各大投行最新研报指出，摩根大通构建的“民主党因子”自8月以来累计上涨约20%，而同期标普500指数仅微涨2.6%。这种微观与宏观的严重背离，正成为华尔街内部争论的核心焦点。 预测平台Polymarket目前对民主党横扫两院的概率定价已达64%至65%左右；高盛综合 Kalshi 与 Polymarket 的平均预测数据，也在10月8日前后"
+          "link": "https://wallstreetcn.com/articles/3783840",
+          "content": "国际货币基金组织罕见地为日本货币政策正常化背书，并警告若通胀超预期，日本央行可能需要加快加息步伐。这一表态，在全球债市已然动荡之际，令市场对日本资金撤离海外资产的担忧进一步升温。 IMF亚太部门主任Krishna Srinivasan在本周于曼谷召开的IMF年会期间接受路透社采访时表示， 日本央行&#34;正在做正确的事&#34;，并强调若通胀上升快于预期，&#34;必须更快收紧，因为你不希望通胀预期脱锚。这取决于数据。&#34; 日本"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
+          "source": "少数派",
+          "link": "https://sspai.com/post/104231",
+          "content": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。<a href=&#34;https://sspai.com/post/104231&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "本周看什么 | 最近值得一看的 13 部作品",
           "source": "少数派",
@@ -117,12 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/116355",
           "content": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。<a href=&#34;https://sspai.com/post/116355&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "新玩意 253｜少数派的编辑们最近买了啥？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116246",
-          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=&#34;https://sspai.com/post/116246&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -136,9 +136,9 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "K-Dense-AI/scientific-agent-skills：K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.（Python）",
+          "text": "MadsLorentzen/ai-job-search：MadsLorentzen / ai-job-search The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "link": "https://github.com/MadsLorentzen/ai-job-search",
           "content": ""
         },
         {
@@ -154,15 +154,15 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "mksglu/context-mode：mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.（TypeScript）",
+          "text": "K-Dense-AI/scientific-agent-skills：K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/mksglu/context-mode",
+          "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
           "content": ""
         },
         {
-          "text": "ruvnet/ruflo：ruvnet / ruflo 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated（TypeScript）",
+          "text": "akitaonrails/ai-memory：akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors（Rust）",
           "source": "GitHub",
-          "link": "https://github.com/ruvnet/ruflo",
+          "link": "https://github.com/akitaonrails/ai-memory",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-17","2026-10-16","2026-10-15","2026-10-14","2026-10-13","2026-10-12","2026-10-11","2026-10-10"];
+window.BRIEFING_ARCHIVE = ["2026-10-18","2026-10-17","2026-10-16","2026-10-15","2026-10-14","2026-10-13","2026-10-12","2026-10-11"];
