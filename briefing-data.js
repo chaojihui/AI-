@@ -1,11 +1,35 @@
-// 由 GitHub Actions 自动生成 2026-10-18T06:28:26.089Z
+// 由 GitHub Actions 自动生成 2026-10-19T06:40:21.357Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "sections": [
     {
       "title": "AI发展",
       "items": [
+        {
+          "text": "指纹显示秦始皇兵马俑的制作者有男有女有儿童",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85643",
+          "content": "考古学家长期以来认为秦始皇兵马俑全是由成年男性工匠制作的。但俑上的指纹显示，男性、女性甚至儿童都参与了这项宏大工程。秦始皇帝陵博物院的考古学家从同一发掘坑内的 36 尊兵马俑上提取出 91 枚指纹，其中 12 枚指纹被认为是个别人留下的重复指纹而剔除。研究人员分析了剩下的 79 枚指纹，它们分布在兵马俑的各个部位——头部、手臂、盔甲、手部、领口，甚至还有脚部——显然是制作过程中无意留下的。其中 73 枚指纹是在塑形、成型和组装过程中留下"
+        },
+        {
+          "text": "退休教授因阻止 Uber Eats 机器人送货被捕",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85642",
+          "content": "宾夕法尼亚大学 78 岁的荣休教授 Marvin 本周因拒绝给 Uber Eats 的送货机器人让路而被捕。她表示自己记不得多少次挡住机器人的路了，称自己在进行抗议，旨在反对“为增加自身利润而用机器人取代人类送货员的企业”。Marvin 说，她在现场停留了“相当长一段时间”，警察过来要求她让路，让机器人完成送货任务。在她多次拒绝后，警方以扰乱治安为由将她逮捕。Marvin 并未因这次逮捕而退缩，她计划以“美国宪法第一修正案赋予的抗议权利"
+        },
+        {
+          "text": "内核开发者递交代码无需声明是否 AI 辅助编写",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85641",
+          "content": "Linux 邮件列表中的一则消息披露，2026 年 10 月 8 日捷克布拉格举行的维护者峰会（Maintainers Summit）达成了一项重大决策：向内核提交代码时，无需再使用“Assisted-by”标签。这意味着内核开发者递交代码无需声明是否 AI 辅助编写。Linux 作者 Linus Torvalds 认为，禁止使用 AI 就像禁止使用文本编辑器是极其愚蠢的规定，表示他认为从事内核开发的人知道他们在做什么。他本周递交了一组"
+        },
+        {
+          "text": "Meta 新增条款允许其抓取客户内容并用于训练 AI",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85640",
+          "content": "Meta 修改了其商业服务条款，新条款将于 2026 年 10 月 30 日生效。新增条款赋予了 Meta 一项权利，允许它使用自动化软件抓取客户内容，将其用于改进包括 AI 模型在内的公司产品。所谓的自动化软件包括了网页抓取工具、机器人、爬虫及用户智能体。News/Media Alliance 总裁 Danielle Coffey 发表声明谴责 Meta 的做法，认为此举涉嫌违法。法学教授 Eric Goldman 认为，新增服务条款"
+        },
         {
           "text": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
           "source": "Solidot",
@@ -17,30 +41,6 @@ window.BRIEFING_DATA = {
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85637",
           "content": "天文学家可能发现了第一颗绿色恒星——名为 WD J1330+6435 的白矮星，位于地球 326 光年外。部分死亡恒星——即白矮星——在吞噬围绕其运行的行星后，可能会呈现出绿色。WD J1330+6435 一直在吸积其行星伴星上的岩石物质。这一过程使其大气中富含钙、锂和钠元素。模型表明这些元素的存在使得 WD J1330+6435 呈现绿色。WD J1330+6435 是已知首颗真正呈现绿色的恒星。研究人员称，白矮星大气中残留的钠元素吸"
-        },
-        {
-          "text": "GNOME 面向普通用户发布 GNOME OS Preview",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85636",
-          "content": "GNOME 项目已推出发行版项目 GNOME OS 一段时间，但它只提供基于最新代码的 Nightly 版本，主要面向开发者。现在它推出了面向普通用户的 GNOME OS Preview。GNOME OS Preview 基于 Nightly 版本，但去掉了 Nightly 特性，基于最新的 GNOME 51.1 构建。开发者表示该版本尚未经过充分的实际使用测试，可能会遇到问题，但稳定性肯定高于 Nightly 版本，对想要尝鲜的普通用"
-        },
-        {
-          "text": "英国中年男性自杀率达到历史最高水平",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85635",
-          "content": "英国中年男性自杀率达历史最高水平。英国国家统计局 2025 年的数据显示，50 岁出头的男性自杀风险最高。2025 年登记的自杀死亡人数为 6162 人，略低于 2024 年的 6190 人，总体自杀率基本不变，即每 10 万人有 11.3 人死于自杀。接近三分之一死者为 45-64 岁男性，该年龄段自杀人数比 2024 年增加 49 人，该年龄段自杀率达到每 10 万人 23.8 人，高于 2024 年的 23.2 人，为 1981 "
-        },
-        {
-          "text": "Meta 发布其开放权重模型 Muse Spark Open",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85634",
-          "content": "Meta 发布了 Muse Spark Open，称它是目前美国最强大的开放权重模型。Muse Spark Open 为多模态模型，总共有 8160 亿参数，激活参数 420 亿，支持 100 万 Token 上下文。该模型利用了苹果最新版本的开源数组框架 MLX，对苹果 Apple Silicon 的统一内存架构进行了优化，能运行在搭载 M5 Ultra 芯片的 Mac Studio 上。M5 Ultra 支持最大 512GB 内存容"
-        },
-        {
-          "text": "人与猫的催产素水平正相关",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85633",
-          "content": "日本京都大学的研究人员在 iscience 期刊上发表了一篇论文，他们在一个月内测量了 19 名主人和 29 只宠物猫的催产素和皮质醇水平，评估主人的情绪，通过蓝牙信号监视主人和猫之间的距离。结果显示，主人与猫的催产素水平呈正相关，皮质醇水平之间的关联很小。猫的催产素水平越高，与主人皮质醇水平就越低和负面情绪越少相关，主人更高的皮质醇水平与更多的负面情绪相关。主人与猫之间距离越近，主人的活力水平就越高。探索性行为测试则将猫的催产素与社会"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
+          "text": "印尼股市暴跌5%创六年新低，MSCI降级警报引爆外资出逃",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783907",
+          "content": "印尼股市遭遇重创，MSCI拟将其直接从新兴市场降至&#34;独立&#34;类别的提议，正将这一东南亚最大经济体推向被全球主要股票指数剔除的边缘。 雅加达综合指数周一跌逾5%，创2020年10月以来最低水平，延续了上周五因MSCI公告引发的暴跌 ——上周五单日跌幅为1998年以来最大，单日市值蒸发达650亿美元。印尼证券交易所已紧急将每日跌停下限减半至7%，试图遏制市场恐慌情绪。高盛警告，若MSCI最终完成降级，被动基金可能面临约56亿美"
+        },
+        {
+          "text": "蒸发近40万亿日元、市值跌剩三分之一：铠侠从日本第一跌落，AI存储叙事遭双重反噬",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783902",
+          "content": "日本NAND Flash龙头铠侠（Kioxia）正经历一场剧烈的估值重构。这家曾在一个月前以超越丰田的姿态登顶日本市值榜首的芯片企业，如今市值已从60万亿日元（3800亿美元）的历史高点蒸发近40万亿日元（2530亿美元），缩水至高峰期的三分之一左右——AI存储叙事的退潮与中国NAND厂商的崛起，正在对其形成双重夹击。 铠侠股价上周五盘中一度重挫16%，较上月高点累计下跌逾52%，市值累计蒸发至少30万亿日元（约合1850亿美元）。 公"
+        },
+        {
+          "text": "首批基金三季报亮相：四种\"长期看好\"，四种仓位动作",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783901",
+          "content": "2026年三季度首批基金季报已经披露。除同批的一只债券型指数基金外，主动权益产品共四只。 翻开这四份季报，共同的底色是对权益类资产“长期看好”的乐观表述。然而，如果把考核的标尺换成超额收益，四只产品中超额最高者＋9.71个百分点，最低−20.80个百分点，首尾表现差距高达30.51个百分点。 同一句“长期看好”，在实际操作中对应了四种截然不同的仓位与结构动作，背后也反映了相关基金经理的思路迥异。 A股与港股在三季度内行情分化 要理解这四"
+        },
+        {
+          "text": "沪指震荡上涨，银行活跃、工行再创历史新高，创业板跌超1%，PCB盘中拉升，存储芯片调整、长鑫大跌超7%",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3783895",
+          "content": "存储芯片多数下跌，长鑫科技大跌超7%，早盘一度跌近9%、股价创上市首日以来新低，拖累其市值回落——这也是工商银行得以重返A股市值第一的另一半原因。长鑫科技三季度净利润环比增幅大幅放缓至约1%—3.9%（一季度、二季度环比增速分别高达246.09%、113.4%）。 10月19日，A股三大股指集体低开，沪指在红利资产的支撑下表现偏强，工商银行、交通银行、中国神华再创新高，在GPU、PCB等概念股盘中拉升的带动下，双创指数跌幅显著收窄，整体"
+        },
+        {
           "text": "上线了！2027见闻历超值预售99元，活动火热进行中！",
           "source": "华尔街见闻",
           "link": "https://wallstreetcn.com/articles/3782813",
           "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
+          "text": "沙特“减震器”失效！能源系统重建或需10年，柴油缺口300万桶/日美国炼厂无力填补",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783851",
-          "content": "这家专注于AI云计算的基础设施公司，正在成为本轮人工智能投资热潮中风险积聚的最集中体现。 本周，CoreWeave股价单周重挫25%，创下2025年11月以来最差表现；与此同时，其垃圾评级债券收益率飙升至15%，通常被视为债务困境的临界信号，信用违约互换定价显示其五年内违约概率超过60%。 尽管英伟达首席执行官黄仁勋在周四公开表达对CoreWeave的信心，德意志银行将此次抛售定性为&#34;买入机会&#34;，股价当日反弹5.9%，但"
-        },
-        {
-          "text": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783759",
-          "content": "10月19日 - 10月25日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观政策方面，中国三季度GDP、金融街论坛与APEC财长会多线并进。 10月19日中国公布三季度GDP及9月工业、社零、地产等经济数据。同日，金融街论坛年会开幕，吴清、朱鹤新出席，国家金融管理部门将集中发布系列改革政策。APEC财长会首度落地香港，聚焦多边贸易与可持续金融，亦是香港国际金融中心地位的主场背书。 AI方面，黄仁勋柏林演讲"
-        },
-        {
-          "text": "精准预测大跌的美银Hartnett：“卖出信号”已经结束，投资者将“11月中旬重返科技股”，关键看“芯片价格”",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783850",
-          "content": "美银证券策略师Michael Hartnett此前精准捕捉到科技股大跌，其&#34;卖出信号&#34;指标现已终止。但他明确提示，信号终止不等于买入信号，投资者能否在11月中旬重返科技股，将取决于半导体价格走势这一关键变量。 Hartnett在最新一期Flow Show报告中指出，美银牛熊指标（Bull & Bear Indicator）从8.1急降至7.4，跌破8.0阈值，正式结束了5月26日触发的卖出信号。但他在战术上仍维持&#34"
-        },
-        {
-          "text": "中东搞砸了、俄乌谈不拢、AI云暴雷、美国高通胀---市场“灾难一周”改变了什么？",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783849",
-          "content": "本周市场遭遇了一场罕见的多重冲击叠加：美国通胀数据超预期、中东局势持续升级、俄乌&#34;能源停火&#34;迅速破裂，以及AI云计算信用危机骤然爆发。原本主导市场的“通胀与加息”主线，迅速让位于由AI融资链条断裂所引发的经济增长恐慌。 作为本轮风暴的震中，AI基础设施提供商的核心信贷指标全面恶化，初创云服务企业的市值在五个交易日内缩水两成。 信贷市场的流动性挤压迅速蔓延至股票市场，对冲基金大举抛售，清仓了自2025年1月以来积累的所有A"
-        },
-        {
-          "text": "IMF警告日本可能需要更快加息，全球债市再添压力？",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3783840",
-          "content": "国际货币基金组织罕见地为日本货币政策正常化背书，并警告若通胀超预期，日本央行可能需要加快加息步伐。这一表态，在全球债市已然动荡之际，令市场对日本资金撤离海外资产的担忧进一步升温。 IMF亚太部门主任Krishna Srinivasan在本周于曼谷召开的IMF年会期间接受路透社采访时表示， 日本央行&#34;正在做正确的事&#34;，并强调若通胀上升快于预期，&#34;必须更快收紧，因为你不希望通胀预期脱锚。这取决于数据。&#34; 日本"
+          "link": "https://wallstreetcn.com/articles/3783897",
+          "content": "沙特在全球石油市场扮演多年的&#34;减震器&#34;角色正在终结。知名能源分析师Karl Miller的最新评估显示，海湾能源系统的重建周期由此前的五年大幅延长至2033-2036年，所需资金高达5500亿至2.28万亿美元，而全球柴油与航空燃油的供应缺口以300万桶/日为基线，还可能进一步扩大，美国炼油体系在体量上无法填补。 Miller认为：沙特已无法继续充当缓冲国。此前霍尔木兹海峡受阻时，利雅得尚能借东西向输油管道把原油西运至红"
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
+          "text": "开源掌机的文化线索",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115125",
+          "content": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？<a href=&#34;https://sspai.com/post/115125&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：三季度全球手机出货量继续两位数下降",
+          "source": "少数派",
+          "link": "https://sspai.com/post/116641",
+          "content": "<p>三季度全球手机出货量继续两位数下降</p><p>Roadster 发布会留下诸多疑问</p><p>闰时将取代闰秒</p><p>微软声称 Windows 11 响应提速 20%，为 8GB 优化</p><p>E Ink 发布 Kaleido 4</p><p>全国铁路列车车次编排更新</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=&#34;https://sspai.c"
+        },
+        {
+          "text": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115241",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/115241&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
           "text": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
           "source": "少数派",
           "link": "https://sspai.com/post/104231",
           "content": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。<a href=&#34;https://sspai.com/post/104231&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "本周看什么 | 最近值得一看的 13 部作品",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116423",
-          "content": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...<a href=&#34;https://sspai.com/post/116423&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "text": "Namecheap just seized and disabled all my domains（533 分 · 274 评论）",
+          "source": "Hacker News",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+          "content": ""
         },
         {
-          "text": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114836",
-          "content": "当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。<a href=&#34;https://sspai.com/post/114836&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115679",
-          "content": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。<a href=&#34;https://sspai.com/post/115679&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115688",
-          "content": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。<a href=&#34;https://sspai.com/post/115688&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116355",
-          "content": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。<a href=&#34;https://sspai.com/post/116355&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "text": "Someone behind the software（392 分 · 157 评论）",
+          "source": "Hacker News",
+          "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+          "content": ""
         }
       ]
     },
@@ -130,33 +130,33 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "anthropics/claude-plugins-official：anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins.（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/anthropics/claude-plugins-official",
-          "content": ""
-        },
-        {
           "text": "MadsLorentzen/ai-job-search：MadsLorentzen / ai-job-search The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.（Python）",
           "source": "GitHub",
           "link": "https://github.com/MadsLorentzen/ai-job-search",
           "content": ""
         },
         {
-          "text": "affaan-m/ECC：affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.（JavaScript）",
+          "text": "anthropics/claude-plugins-official：anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/affaan-m/ECC",
+          "link": "https://github.com/anthropics/claude-plugins-official",
           "content": ""
         },
         {
-          "text": "HKUDS/CLI-Anything：HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/（Python）",
+          "text": "anomalyco/opencode：anomalyco / opencode The open source coding agent.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/HKUDS/CLI-Anything",
+          "link": "https://github.com/anomalyco/opencode",
           "content": ""
         },
         {
-          "text": "K-Dense-AI/scientific-agent-skills：K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.（Python）",
+          "text": "cursor/plugins：cursor / plugins Cursor plugin specification and official plugins（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "link": "https://github.com/cursor/plugins",
+          "content": ""
+        },
+        {
+          "text": "ruvnet/ruflo：ruvnet / ruflo 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/ruvnet/ruflo",
           "content": ""
         },
         {
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-18","2026-10-17","2026-10-16","2026-10-15","2026-10-14","2026-10-13","2026-10-12","2026-10-11"];
+window.BRIEFING_ARCHIVE = ["2026-10-19","2026-10-18","2026-10-17","2026-10-16","2026-10-15","2026-10-14","2026-10-13","2026-10-12"];
