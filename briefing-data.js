@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-23T06:24:06.913Z
+// 由 GitHub Actions 自动生成 2026-10-24T06:19:22.097Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "eMudhra 退出全球 CA 业务",
+          "text": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85689",
-          "content": "在曝出惊人丑闻之后，印度公司 eMudhra 宣布退出全球 CA 业务，将专注于核心企业解决方案和信任服务而非 SSL/TLS 相关业务。它是印度唯一一个被主流浏览器信任的 Root CA 机构。截至 2026 年，公司已发行逾 6000 万张证书。此前 eMudhra 的八个中间证书的私钥泄漏，而这些私钥被发现是极其简单的数字如 4。该公司在声明中称这些简单密钥是“多重人为错误”导致的。相关密钥是在 2025 年 4 月 30 日生成"
+          "link": "https://www.solidot.org/story?sid=85697",
+          "content": "梵高于 1889 年创作的名画《The Starry Night》可能描绘的是 1889 年 7 月 22 日法国真实的夜空。《The Starry Night》被普遍认为风格化地呈现了梵高在法国普罗旺斯圣雷米的窗外看到的景象。争议在于这片夜空究竟是这位后印象派画家自己的幻想，即象征性表达，还是真实的天文观察结果。此外这幅画的具体创作日期也无法确定。为解决这一问题，韩国庆熙大学的研究人员开发了一个框架，将天文学模拟结果与星象位置测量数据"
         },
         {
-          "text": "趋势科技在公开的内核邮件列表上披露内核漏洞",
+          "text": "希腊通过法案禁止 15 岁以下儿童使用社媒",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85688",
-          "content": "趋势科技的安全团队 Zero Day Initiative 向人人可访问的内核邮件列表上递交了一系列新发现的内核漏洞。按照惯例，漏洞应该递交到不对外公开的安全邮件列表。递交的部分漏洞没有补丁，部分漏洞已有补丁在测试，这些漏洞的 CVSS 风险评分最高为 9.0。稳定版内核维护者 Greg Kroah-Hartman 批评安全研究人员将漏洞报告递交到公共的邮件列表。而在 AI 辅助漏洞发现时代，此类的漏洞报告越来越多。"
+          "link": "https://www.solidot.org/story?sid=85696",
+          "content": "希腊议会周五通过了一项法案，禁止 15 岁以下的儿童使用社媒平台。此举旨在回应公众对社交媒体会对未成年人的健康与安全产生负面影响之日益增长的担忧。禁令将于 2027 年 1 月 1 日生效。澳大利亚是首个通过立法限制未成年人使用社媒的国家。法国也曾通过类似法律，但于 8 月被宪法委员会裁定无效。希腊总理基 Kyriakos Mitsotakis 表示，社媒平台有 2 个半月的时间制定方案，核实用户年龄并保护其隐私。希腊政府表示，将支持家"
         },
         {
-          "text": "科学家揭示低温延缓衰老的机制",
+          "text": "宫本茂成为首位获得日本文化勋章的游戏从业者",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85687",
-          "content": "适度低温已被证明能有效延长动物寿命，延缓与衰老相关的机能衰退。但低温延缓衰老的分子机制是什么？研究人员利用秀丽隐杆线虫（Caenorhabditis elegans ）发现，低温会触发代谢物 dihydrobiopterin (BH2)的大量产生，其中肌肉充当了中央工厂的作用，负责合成 BH2，BH2 随后输送至身体其它组织，诱导氨基酸酪氨酸（tyrosine）的合成，它有助于维持蛋白质稳态，在衰老过程中促进组织健康。论文发表在《自然》"
+          "link": "https://www.solidot.org/story?sid=85695",
+          "content": "日本文部科学省公布了 2026 年度文化勋章获得者名单，任天堂首席游戏设计师及代表董事宫本茂位列其中， 成为首位获得文化勋章的游戏从业者。文化勋章旨在表彰在文化发展方面做出特别显著贡献的人士，自 1937 年设立以来，获得者包括了画家横山大观、诺贝尔物理学奖得主汤川秀树、棒球明星王贞治和长岛茂雄等。宫本茂在记者会上表示：“游戏并非由我一人独自完成，而是与众多伙伴共同创造的成果。我是怀着代表大家的心情来接受这份荣誉的。”"
         },
         {
-          "text": "逾半数美国人认为 AI 对社会有害",
+          "text": "联合国警告厄尔尼诺可能导致数千万人粮食短缺",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85686",
-          "content": "根据 ABC News/Washington Post/Ipsos 的调查，57%的美国人认为 AI 对社会有害，42%的人认为它对社会有益。仅有 2% 的人认为它对社会极其有益，17% 的人认为它对社会极其有害。与年长者相比，年轻的美国人更有可能认为 AI 对社会有害：在 30 岁以下的美国人中，65% 的人持此观点；在 30-39 岁的群体中，这一比例为 59%。而在 40 岁及以上的美国人中，认为 AI 对社会有害的比例相对较低，"
+          "link": "https://www.solidot.org/story?sid=85694",
+          "content": "今年的厄尔尼诺事件强度可能前所未有。它将于 2026 年底前后达到峰值，但其影响在此之后仍将持续很长时间。热带太平洋（厄尔尼诺的中心区域）的海面温度在 2026 年 11 月至 2027 年 1 月期间可能比平均值高出 3.8°C。 一次非常强的厄尔尼诺会扰乱许多地区的正常温度和降水格局。它可能给一些地区带来严重干旱，给另一些地区带来强降雨和洪水，并导致世界大片地区温度升高。极端天气事件可能会成倍增多，并发生级联效应。 联合国人道主义事"
         },
         {
-          "text": "研究识别出第一位企业心理病态者",
+          "text": "mRNA 癌症疫苗将死亡复发风险减少 42%",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85685",
-          "content": "一项新研究指出，有毒企业领导人身上所见的性格特征可追溯到一位 400 年前的荷兰东印度公司的企业官员。该公司的商户部经理 Jeronimus Cornelisz 可能是最早有文献记录的企业心理病态者。研究发现，他表现出了与企业心理病态者相关的全部 10 项核心特征。这些特征包括：利用个人魅力博取信任；在身边聚集忠诚的追随者；清除潜在的挑战者；在竞争对手之间制造分裂；营造恐惧氛围；出问题时推卸责任；将追求权力、金钱和控制权置于一切之上。荷"
+          "link": "https://www.solidot.org/story?sid=85693",
+          "content": "制药公司 Merck 和 Moderna 宣布，在 III 期黑色素瘤临床试验中，基于 mRNA 技术的个性化癌症疫苗相比标准治疗，将死亡或复发风险减少 42%。黑色素瘤是最致命的皮肤癌。两家公司正与监管机构接洽争取该疫苗早日获批。有 1,137 名患者参加了 III 期临床试验，他们此前均患有 IIB-IV 期黑色素瘤，已通过手术切除肿瘤。患者被以 2:1 的比例随机分配至两组：一组接受个性化 mRNA 疫苗联合标准治疗，另一组仅接受"
         },
         {
-          "text": "毅力号行使距离超机遇号刷新历史记录",
+          "text": "浏览器 Arc 将于 12 月关闭",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85684",
-          "content": "毅力号火星车创下新的世界纪录——它在地外天体表面的行驶里程，超过了此前所有探测器。10月11日，它的里程表读数达到28.10英里（45.22公里），超越了此前由机遇号保持的28.06英里（45.16公里）纪录。机遇号于2004至2018年间在火星开展探测。机遇号耗费近15年才跑完该里程，而毅力号仅用时5年半。这一里程碑事件发生在它的第2006个火星日。毅力号能长途行进，一大核心原因是搭载了先进的自主行驶系统。这套系统名为 AutoNav"
+          "link": "https://www.solidot.org/story?sid=85692",
+          "content": "The Browser Company 宣布其浏览器 Arc 将于 12 月 22 日关闭，用户将无法再能启动应用。Arc 基于 Chromium，于 2023 年释出了 1.0 版本，但 2024 年就停止了开发，2025 年 5 月宣布它正在开发 AI 驱动的浏览器 Dia。Arc 从 10 月 22 日起无法创建新的 Arc 账号，11 月 23 日起停用部分功能，12 月 22 日无法启动应用，Arc 账户将被停用，个人数据会在"
         }
       ]
     },
@@ -48,46 +48,58 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "深V大反弹！创业板午后涨3%，长鑫大涨6%，“易中天”集体拉升，宁德时代AH股反弹，恒科指午后涨2%，小米一度涨6%",
+          "text": "远期需求旺盛！亚马逊AWS今明年产能都已被抢空，连2028年的算力都快没了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784272",
-          "content": "宁德时代A股和H股均反弹，其中A股涨超3%，H股涨4%，此前，北汽集团与宁德时代在北京签署百万换电战略合作协议。算力硬件、芯片半导体等午后反弹，光模块、存储芯片等概念股集体拉升，长鑫科技大涨6%，摩尔线程、沐曦股份均涨9%。午间中际旭创、天孚通信密集发布公告称，在手订单充足，经营正常。 10月23日，A股午后拉升，沪指一度转涨，深成指涨超1%，创业板指涨幅扩大至2%，早盘一度跌超3%、盘中失守2500点整数关口。存储芯片、算力硬件股等反"
+          "link": "https://wallstreetcn.com/articles/3784387",
+          "content": "亚马逊的云计算部门正面临前所未有的市场需求，其绝大部分核心基础设施产能已在未来数年内被抢购一空。 亚马逊首席执行官Andy Jassy最新表态称， Amazon Web Services（AWS）的大部分产能已预订至2028年。 这一动态突显了企业端对云服务和人工智能基础设施持续且强劲的投资意愿。 尽管远期订单激增，亚马逊在资本支出层面依然保持了高度的运作弹性。公司能够根据客户需求的变化在短周期内调整服务器和网络设备的采购计划，这一防御"
         },
         {
-          "text": "同行IPO集体退潮，Anthropic独闯11月中旬窗口：1.5万亿美元估值直面流动性大考",
+          "text": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784294",
-          "content": "原本热闹的秋季科技IPO档期已几近清空，仅剩Anthropic一家独撑局面。在AI基础设施板块遭遇利率冲击、估值承压、同类公司纷纷延期或撤单的背景下，这家AI实验室仍坚持按计划推进上市，以高达1.5万亿美元的潜在估值，直面当前市场的流动性考验。 据路透援引知情人士消息， Anthropic计划最快于10月底公开招股说明书，并于11月中旬完成IPO，预计将于11月9日当周启动面向机构投资者的路演。 知情人士同时提示，上述计划及时间节点仍可"
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "美国最大养老金撤退！Calpers大幅砍仓“Mag 7”转投私募",
+          "text": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784296",
-          "content": "美国最大公共养老金正在重新布局。加州公务员退休系统（Calpers）大幅削减对&#34;科技七巨头&#34;的持仓，转而加码私募股权，这一动向折射出机构投资者对美股科技板块高估值与集中度风险的深层忧虑。 据英国《金融时报》报道，Calpers副首席投资官Anton Orlich在采访中证实了这一战略转向。 该基金在2026年上半年将直接持有的&#34;Mag 7&#34;股票总数削减了26%，转而分散布局数百家公司以降低权益端集中风险。"
+          "link": "https://wallstreetcn.com/articles/3784381",
+          "content": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的&#34;正面无论如何都赢&#34;演变为当前的&#34;两害相权&#34;困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月&#34;智能体热&#3"
         },
         {
-          "text": "CPO概念午后拉升，“易中天”再密集回应：在手订单充足、经营正常",
+          "text": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784290",
-          "content": "10月23日，A股三大股指午后集体拉升，创业板涨超2%，光模块龙头“易中天”翻红：截至发稿，新易盛微跌0.11%，天孚通信涨1.13%，中际旭创涨2.20%。 消息面，中际旭创、天孚通信、源杰科技、联讯仪器等光模块产业链核心企业周三午间密集披露经营公告，异口同声确认在手订单充足、生产经营正常，并对未来需求前景给出明确正向指引。 其中，中际旭创披露的数据最为亮眼：2026年上半年营业收入达417.78亿元，同比增长182.49%；归属于上"
+          "link": "https://wallstreetcn.com/articles/3784382",
+          "content": "散户押注芯片股反弹的豪赌，以惨败收场。 上周，投资者向一只高风险半导体杠杆ETF单周注入创纪录的61亿美元，试图抄底持续下跌的芯片股。然而，这笔赌注几乎在入场的同时便开始亏损——本周芯片股非但没有反弹，跌势反而进一步加剧。 Direxion Daily Semiconductor Bull 3X ETF（SOXL）本周再跌10.8%，创下连续第三周下跌，10月以来累计跌幅已超过43%。 市场的核心压力来自人工智能投资回报的不确定性。 投"
         },
         {
-          "text": "高端美妆回暖，欧莱雅三季度销售超预期",
+          "text": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784286",
-          "content": "欧莱雅的增长正在加快。 10月22日，欧莱雅公布2026年前三季度销售业绩。其中，第三季度销售额115.61亿欧元，同比增长11.9%，超过市场预计的112.3亿欧元；剔除汇率、合并范围及IT系统切换节奏影响后，调整后可比增长7.7%。 市场此前已对复苏有所期待。瑞银在10月12日的研报摘要中，将三季度视为检验欧莱雅能否持续实现约6%增长的关键季度。实际表现超过这一水平，也让增长恢复的判断获得了更多支撑。 高档化妆品是这次超预期的重要来"
+          "link": "https://wallstreetcn.com/articles/3784380",
+          "content": "AI独角兽Anthropic正站在上市的历史关口，但市场逆风正在加剧不确定性。 据路透社报道，Claude聊天机器人的开发商Anthropic计划于 11月中旬 完成IPO，目标估值高达 2万亿美元 ，有望超越SpaceX今年早些时候1.77万亿美元的上市规模，成为史上最大科技IPO之一。然而，美国证券交易委员会（SEC）要求公司在启动路演前至少15天公开提交招股说明书，这意味着Anthropic 留给自己的窗口期正在迅速收窄 。 与此"
         },
         {
-          "text": "CoreWeave融资缺口有多大？高盛：只有230亿，买入！伯恩斯坦：760亿，危险！",
+          "text": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784281",
-          "content": "围绕同一家公司的融资缺口，华尔街两大机构给出了相差逾三倍的答案，将AI算力租赁商CoreWeave再度推至市场争议的风口浪尖。 伯恩斯坦分析师Madison Rezaei周四（10月22日）发布报告，将CoreWeave目标价从74美元下调至51美元，并估算该公司 仅为履行现有合同承诺就需筹集850亿美元，扣除已有融资安排后，净融资缺口高达760亿美元 。这与高盛三天前给出的230亿美元估算相差超过三倍。 CoreWeave股价周四再跌"
+          "link": "https://wallstreetcn.com/articles/3784379",
+          "content": "标普全球评级发出警告，数据中心行业正面临信用评级下调风险，导火索是席卷全美的地方政府禁令与公众反对浪潮。 据彭博10月24日报道，标普全球评级在周五（10月23日）发布的报告中指出，电网容量限制、环境可持续性争议以及分区规划调整引发的项目延误， “可能加大数据中心项目信用质量的下行压力” 。标普追踪了美国146个被延误或取消的数据中心项目，其中约四分之三与地方层面的反对声音直接相关。 标普同时指出， 若禁令、许可审批放缓或政策逆转导致项"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "本周看什么 | 最近值得一看的 12 部作品",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117169",
+          "content": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...<a href=&#34;https://sspai.com/post/117169&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+          "source": "少数派",
+          "link": "https://sspai.com/post/116398",
+          "content": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……<a href=&#34;https://sspai.com/post/116398&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "破与立：设计视角下的 iPhone Duo",
           "source": "少数派",
@@ -111,24 +123,18 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/116923",
           "content": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。<a href=&#34;https://sspai.com/post/116923&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115090",
-          "content": "药物不能解决所有问题，这是是我学到的重要一课。<a href=&#34;https://sspai.com/post/115090&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116953",
-          "content": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。<a href=&#34;https://sspai.com/post/116953&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
     {
       "title": "GitHub 热点项目",
       "items": [
+        {
+          "text": "cloudflare/security-audit-skill：cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings（JavaScript）",
+          "source": "GitHub",
+          "link": "https://github.com/cloudflare/security-audit-skill",
+          "content": ""
+        },
         {
           "text": "php/php-src：php / php-src The PHP Interpreter（C）",
           "source": "GitHub",
@@ -142,27 +148,21 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "DietrichGebert/ponytail：DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.（JavaScript）",
+          "text": "NVIDIA/OpenShell：NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents.（Rust）",
           "source": "GitHub",
-          "link": "https://github.com/DietrichGebert/ponytail",
+          "link": "https://github.com/NVIDIA/OpenShell",
           "content": ""
         },
         {
-          "text": "cloudflare/security-audit-skill：cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings（JavaScript）",
+          "text": "Renhuai123/ziwei-doushu：Renhuai123 / ziwei-doushu 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/cloudflare/security-audit-skill",
+          "link": "https://github.com/Renhuai123/ziwei-doushu",
           "content": ""
         },
         {
-          "text": "Graphify-Labs/graphify：Graphify-Labs / graphify Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.（Python）",
+          "text": "SnailSploit/Claude-Red：SnailSploit / Claude-Red claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/Graphify-Labs/graphify",
-          "content": ""
-        },
-        {
-          "text": "supabase/supabase：supabase / supabase The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/supabase/supabase",
+          "link": "https://github.com/SnailSploit/Claude-Red",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-23","2026-10-22","2026-10-21","2026-10-20","2026-10-19","2026-10-18","2026-10-17","2026-10-16"];
+window.BRIEFING_ARCHIVE = ["2026-10-24","2026-10-23","2026-10-22","2026-10-21","2026-10-20","2026-10-19","2026-10-18","2026-10-17"];
