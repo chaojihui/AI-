@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-24T06:19:22.097Z
+// 由 GitHub Actions 自动生成 2026-10-25T06:38:22.465Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
+          "text": "一种远古病毒可能阻碍黑猩猩演化出与人类相似的大脑",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85702",
+          "content": "人类与黑猩猩虽然差异巨大，但在与共同祖先分化并各自演化了约 500-600 万年后，双方只有 1.2% 的 DNA 不同。而一种远古病毒可能在其中扮演了重要角色，阻碍黑猩猩演化出与人类相似的大脑。大约 400 万年前，逆转录病毒 PTERV1 (Pan troglodytes endogenous retrovirus-1) 感染了黑猩猩但没有感染人类，它对黑猩猩的 DNA 进行了细微的改动，导致黑猩猩的大脑发育方式与人类出现重大差异。"
+        },
+        {
+          "text": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85701",
+          "content": "Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项目有望在中大西洋地区的 PJM 电网提供 1070 MW 的电力容量——相当于一座大型核反应堆的输出电力。很多削减用电量措施能自动执行，如利用智能恒温器在夏季用电高峰期调低空调运行强度，或者通过电池系统提供临时电力。与 Google 合作的能源服务公司 Voltus 表示，通过聚"
+        },
+        {
+          "text": "研究揭示丹尼索瓦人的长相",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85700",
+          "content": "中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系，2010 年科学家依靠西伯利亚丹尼索瓦洞化石的 DNA 证据发现了这一人群。后续分子证据显示，丹尼索瓦人曾广泛分布在亚洲多地，生存时间大约在距今 30 万年至 4.5 万年前。但他们究竟长什么样？位于河北阳原的许家窑遗址 1976—1979 年共发掘出土包括头骨、下颌骨、牙齿在内的 20 件人类化石，至少代表 16 个不同年龄阶段的个体。许家窑人化"
+        },
+        {
+          "text": "美光桃园厂工会否决奖金方案",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85699",
+          "content": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两座工厂的工会就薪酬问题谈判。两个工会共代表两厂 1 万 5000 名员工中的 1 万 2000 人。两个工会此前均要求，公司发放相当于 83 个月薪资的一次性奖金，并建立长期利润分享制度，将营业利润的 15% 用于员工奖金，按季而非按年发放。美光与规模较大的台中厂工会星期三（10"
+        },
+        {
+          "text": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85698",
+          "content": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬盘、Gmail 和 Google 相册中"
+        },
+        {
           "text": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85697",
           "content": "梵高于 1889 年创作的名画《The Starry Night》可能描绘的是 1889 年 7 月 22 日法国真实的夜空。《The Starry Night》被普遍认为风格化地呈现了梵高在法国普罗旺斯圣雷米的窗外看到的景象。争议在于这片夜空究竟是这位后印象派画家自己的幻想，即象征性表达，还是真实的天文观察结果。此外这幅画的具体创作日期也无法确定。为解决这一问题，韩国庆熙大学的研究人员开发了一个框架，将天文学模拟结果与星象位置测量数据"
-        },
-        {
-          "text": "希腊通过法案禁止 15 岁以下儿童使用社媒",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85696",
-          "content": "希腊议会周五通过了一项法案，禁止 15 岁以下的儿童使用社媒平台。此举旨在回应公众对社交媒体会对未成年人的健康与安全产生负面影响之日益增长的担忧。禁令将于 2027 年 1 月 1 日生效。澳大利亚是首个通过立法限制未成年人使用社媒的国家。法国也曾通过类似法律，但于 8 月被宪法委员会裁定无效。希腊总理基 Kyriakos Mitsotakis 表示，社媒平台有 2 个半月的时间制定方案，核实用户年龄并保护其隐私。希腊政府表示，将支持家"
-        },
-        {
-          "text": "宫本茂成为首位获得日本文化勋章的游戏从业者",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85695",
-          "content": "日本文部科学省公布了 2026 年度文化勋章获得者名单，任天堂首席游戏设计师及代表董事宫本茂位列其中， 成为首位获得文化勋章的游戏从业者。文化勋章旨在表彰在文化发展方面做出特别显著贡献的人士，自 1937 年设立以来，获得者包括了画家横山大观、诺贝尔物理学奖得主汤川秀树、棒球明星王贞治和长岛茂雄等。宫本茂在记者会上表示：“游戏并非由我一人独自完成，而是与众多伙伴共同创造的成果。我是怀着代表大家的心情来接受这份荣誉的。”"
-        },
-        {
-          "text": "联合国警告厄尔尼诺可能导致数千万人粮食短缺",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85694",
-          "content": "今年的厄尔尼诺事件强度可能前所未有。它将于 2026 年底前后达到峰值，但其影响在此之后仍将持续很长时间。热带太平洋（厄尔尼诺的中心区域）的海面温度在 2026 年 11 月至 2027 年 1 月期间可能比平均值高出 3.8°C。 一次非常强的厄尔尼诺会扰乱许多地区的正常温度和降水格局。它可能给一些地区带来严重干旱，给另一些地区带来强降雨和洪水，并导致世界大片地区温度升高。极端天气事件可能会成倍增多，并发生级联效应。 联合国人道主义事"
-        },
-        {
-          "text": "mRNA 癌症疫苗将死亡复发风险减少 42%",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85693",
-          "content": "制药公司 Merck 和 Moderna 宣布，在 III 期黑色素瘤临床试验中，基于 mRNA 技术的个性化癌症疫苗相比标准治疗，将死亡或复发风险减少 42%。黑色素瘤是最致命的皮肤癌。两家公司正与监管机构接洽争取该疫苗早日获批。有 1,137 名患者参加了 III 期临床试验，他们此前均患有 IIB-IV 期黑色素瘤，已通过手术切除肿瘤。患者被以 2:1 的比例随机分配至两组：一组接受个性化 mRNA 疫苗联合标准治疗，另一组仅接受"
-        },
-        {
-          "text": "浏览器 Arc 将于 12 月关闭",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85692",
-          "content": "The Browser Company 宣布其浏览器 Arc 将于 12 月 22 日关闭，用户将无法再能启动应用。Arc 基于 Chromium，于 2023 年释出了 1.0 版本，但 2024 年就停止了开发，2025 年 5 月宣布它正在开发 AI 驱动的浏览器 Dia。Arc 从 10 月 22 日起无法创建新的 Arc 账号，11 月 23 日起停用部分功能，12 月 22 日无法启动应用，Arc 账户将被停用，个人数据会在"
         }
       ]
     },
@@ -48,46 +48,52 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "远期需求旺盛！亚马逊AWS今明年产能都已被抢空，连2028年的算力都快没了",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784387",
-          "content": "亚马逊的云计算部门正面临前所未有的市场需求，其绝大部分核心基础设施产能已在未来数年内被抢购一空。 亚马逊首席执行官Andy Jassy最新表态称， Amazon Web Services（AWS）的大部分产能已预订至2028年。 这一动态突显了企业端对云服务和人工智能基础设施持续且强劲的投资意愿。 尽管远期订单激增，亚马逊在资本支出层面依然保持了高度的运作弹性。公司能够根据客户需求的变化在短周期内调整服务器和网络设备的采购计划，这一防御"
-        },
-        {
           "text": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
           "source": "华尔街见闻",
           "link": "https://wallstreetcn.com/articles/3782813",
           "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "AI资本开支陷入两难：加速则现金流承压，减速则增长故事失守",
+          "text": "高盛警告：美联储12月加不加息，市场可能都没准备好",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784381",
-          "content": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的&#34;正面无论如何都赢&#34;演变为当前的&#34;两害相权&#34;困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月&#34;智能体热&#3"
+          "link": "https://wallstreetcn.com/articles/3784408",
+          "content": "美债收益率从高位快速回落，AI投资热潮与能源价格冲击这两股曾共同推高利率的力量，正在出现分化。高盛警告， 市场对美联储政策路径的判断面临更大不确定性，12月加息与否都可能引发新的风险重估。 周四，10年期美债收益率单日下跌17个基点，创2023年3月以来最大单日跌幅，并重新跌破5%。高盛固定收益、货币与大宗商品部门策略师Cosimo Codacci-Pisanelli在最新报告中指出， 推动收益率回落的，恰恰是此前助推利率上行的AI交易"
         },
         {
-          "text": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了",
+          "text": "美银Hartnett：“战术避险”至11月中旬，短期判断取决于“三大条件”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784382",
-          "content": "散户押注芯片股反弹的豪赌，以惨败收场。 上周，投资者向一只高风险半导体杠杆ETF单周注入创纪录的61亿美元，试图抄底持续下跌的芯片股。然而，这笔赌注几乎在入场的同时便开始亏损——本周芯片股非但没有反弹，跌势反而进一步加剧。 Direxion Daily Semiconductor Bull 3X ETF（SOXL）本周再跌10.8%，创下连续第三周下跌，10月以来累计跌幅已超过43%。 市场的核心压力来自人工智能投资回报的不确定性。 投"
+          "link": "https://wallstreetcn.com/articles/3784407",
+          "content": "全球资金正加速涌入股票和科技板块，但美银策略师Michael Hartnett建议，11月中旬前，投资者仍应保持战术性谨慎。他认为， 市场需要消化美国中期选举、法国债市动荡以及AI融资风险三重不确定性，短期内美股、美元可能承压，30年期美债收益率则有望向5%回落。 美银最新一期《Flow Show》报告显示，本周全球股票基金吸金556亿美元，科技基金流入188亿美元，创7月以来新高。不过，美银牛熊指标从7.4降至7.2，消费品和公用事业"
         },
         {
-          "text": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
+          "text": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784380",
-          "content": "AI独角兽Anthropic正站在上市的历史关口，但市场逆风正在加剧不确定性。 据路透社报道，Claude聊天机器人的开发商Anthropic计划于 11月中旬 完成IPO，目标估值高达 2万亿美元 ，有望超越SpaceX今年早些时候1.77万亿美元的上市规模，成为史上最大科技IPO之一。然而，美国证券交易委员会（SEC）要求公司在启动路演前至少15天公开提交招股说明书，这意味着Anthropic 留给自己的窗口期正在迅速收窄 。 与此"
+          "link": "https://wallstreetcn.com/articles/3784406",
+          "content": "AI军备竞赛难以刹车，2027年存储芯片供需紧张的格局也已基本锁定。 野村全球存储器研究团队在最新报告中指出，科技巨头持续加码AI投资，即使自由现金流承压，也不愿率先退出竞争；与此同时，存储器长期供应协议已提前锁定2027年的供应量与价格，为行业景气度提供支撑。 野村将这场竞争称为“懦夫游戏”（Game of Chicken）： 任何一家企业率先削减投资，都可能在下一轮AI竞争中落后。只要竞争对手仍在加码，维持投入就成为更现实的选择，即"
         },
         {
-          "text": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
+          "text": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784379",
-          "content": "标普全球评级发出警告，数据中心行业正面临信用评级下调风险，导火索是席卷全美的地方政府禁令与公众反对浪潮。 据彭博10月24日报道，标普全球评级在周五（10月23日）发布的报告中指出，电网容量限制、环境可持续性争议以及分区规划调整引发的项目延误， “可能加大数据中心项目信用质量的下行压力” 。标普追踪了美国146个被延误或取消的数据中心项目，其中约四分之三与地方层面的反对声音直接相关。 标普同时指出， 若禁令、许可审批放缓或政策逆转导致项"
+          "link": "https://wallstreetcn.com/articles/3784405",
+          "content": "过去一周，AI交易遭遇新一轮抛售压力，美国股票、债券市场同步承压。 纳斯达克出现数月来最差单日表现，美国高收益债风险溢价升至17个月高位，CCC级垃圾债收益率则攀升至2020年以来最高水平。 股指表面波动有限，底层资产的风险重估却在加速。 引发市场担忧的焦点之一，是Meta在公布三季度业绩后释放的巨额融资计划。据巴克莱10月23日发布的研究报告，Meta选择提前融资，部分原因是AI生态内其他企业已陆续启动或计划启动融资，资本市场的吸纳能"
+        },
+        {
+          "text": "苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3784402",
+          "content": "花 2000 美元买一部新手机，结果用了不到 6 个小时，折叠不到 20 次，屏幕就裂了。 更尴尬的是，这还是苹果刚刚推出的首款折叠屏手机。 苹果原本希望凭借 iPhone Duo 正式进军折叠屏市场，没想到新机刚上市，就接连传出屏幕损坏的消息。从中国到美国，再到澳大利亚和加拿大，多个市场都有用户报告类似问题， 而且坏的地方几乎都一样：手机中间的折叠区域。 折不到 20 次，屏幕就裂了 据 Tom’s Guide 、 PhoneAren"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "在硅谷，遇见个人计算机历史",
+          "source": "少数派",
+          "link": "https://sspai.com/post/116128",
+          "content": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=&#34;https://sspai.com/post/116128&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "本周看什么 | 最近值得一看的 12 部作品",
           "source": "少数派",
@@ -117,12 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/115437",
           "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/115437&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116923",
-          "content": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。<a href=&#34;https://sspai.com/post/116923&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -136,33 +136,33 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "php/php-src：php / php-src The PHP Interpreter（C）",
-          "source": "GitHub",
-          "link": "https://github.com/php/php-src",
-          "content": ""
-        },
-        {
-          "text": "anthropics/knowledge-work-plugins：anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/anthropics/knowledge-work-plugins",
-          "content": ""
-        },
-        {
           "text": "NVIDIA/OpenShell：NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents.（Rust）",
           "source": "GitHub",
           "link": "https://github.com/NVIDIA/OpenShell",
           "content": ""
         },
         {
-          "text": "Renhuai123/ziwei-doushu：Renhuai123 / ziwei-doushu 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据（TypeScript）",
+          "text": "aws/agent-toolkit-for-aws：aws / agent-toolkit-for-aws Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS（Python）",
           "source": "GitHub",
-          "link": "https://github.com/Renhuai123/ziwei-doushu",
+          "link": "https://github.com/aws/agent-toolkit-for-aws",
           "content": ""
         },
         {
-          "text": "SnailSploit/Claude-Red：SnailSploit / Claude-Red claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.（Python）",
+          "text": "Nutlope/hallmark：Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex.（CSS）",
           "source": "GitHub",
-          "link": "https://github.com/SnailSploit/Claude-Red",
+          "link": "https://github.com/Nutlope/hallmark",
+          "content": ""
+        },
+        {
+          "text": "luongnv89/claude-howto：luongnv89 / claude-howto A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/luongnv89/claude-howto",
+          "content": ""
+        },
+        {
+          "text": "pbakaus/impeccable：pbakaus / impeccable The design language that makes your AI harness better at design.（Rust）",
+          "source": "GitHub",
+          "link": "https://github.com/pbakaus/impeccable",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-24","2026-10-23","2026-10-22","2026-10-21","2026-10-20","2026-10-19","2026-10-18","2026-10-17"];
+window.BRIEFING_ARCHIVE = ["2026-10-25","2026-10-24","2026-10-23","2026-10-22","2026-10-21","2026-10-20","2026-10-19","2026-10-18"];
