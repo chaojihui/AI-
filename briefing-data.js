@@ -1,11 +1,35 @@
-// 由 GitHub Actions 自动生成 2026-10-26T06:49:25.284Z
+// 由 GitHub Actions 自动生成 2026-10-27T06:42:42.921Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "sections": [
     {
       "title": "AI发展",
       "items": [
+        {
+          "text": "科学家重现古罗马的分色玻璃",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85713",
+          "content": "制作于公元四世纪的罗马玻璃笼子杯 Lycurgus Cup 会根据光源位置的不同而呈现不同的颜色，从前方照射呈绿色后方则呈红色。这一令人惊叹的光学工程成就数世纪以来令历史学家和玻璃工匠感到困惑。现在英国谢菲尔德大学的科学家成功复现了这一光学特性。研究人员将金和银纳米颗粒嵌入到玻璃，他们制备出高粘度熔融玻璃，当其自 1000 °C 以上的高温逐渐冷却时，金与银纳米晶体开始围绕其内部微粒结晶生长。当光线穿过玻璃时，其中的金银颗粒会阻挡蓝光和"
+        },
+        {
+          "text": "Netflix 用户观看量下降，应用打开量下降",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85711",
+          "content": "流媒体巨头 Netflix 正通过提高订阅费用去应对用户增长停滞。内部数据显示，Netflix 订户的观看量下降，应用每月打开的天数也略有下降。目前下滑幅度尚属适度，未引起订户大规模流失。为吸引新用户并留住现有用户，Netflix 增加了内容制作预算，正向播客和体育直播等领域扩展。Apptopia 的数据显示，第三季度美国订户中，未打开过 Netflix 应用的用户比例较上年同期增长了 16.6%。Netflix 最近对管理内容的领导层"
+        },
+        {
+          "text": "Systemd 支持 Rust 程序",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85710",
+          "content": "Systemd 支持用 Rust 语言开发程序。核心 systemd 代码如 systemd 库目前尚不支持 Rust 代码，但对于systemd 程序/末端组件已支持使用 Rust 语言。Systemd 开发者并不计划将现有的 C 代码移植到 Rust，所有 Rust 代码都是通过 Meson 构建的（不使用 Cargo），仅强制要求使用 C 语言链接。Systemd 的 Rust 组件体积比 C 语言略大，一个测试程序的体积为 32"
+        },
+        {
+          "text": "欧洲夏季热浪导致逾 5 万城市居民死亡",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85708",
+          "content": "今年夏天热浪席卷了欧洲大部分地区，多地气温超过 40°C。学校关闭，沥青路变形，电网不堪重负，紧急求助电话激增。多国报告死亡人数大幅增长。德国 Robert Koch 研究所统计，4-9 月有 1.6 万人死因与高温相关。西班牙报告 7-8 月期间 5100 人死于高温。英国卫生安全局数据显示，5-6月 有近 2900 人死于高温。根据英国研究人员在《Nature Health》期刊上发表的最新研究，今年欧洲夏季的热浪导致逾 5 万城市"
+        },
         {
           "text": "2025 年老年抚养比首次超过少儿抚养比",
           "source": "Solidot",
@@ -17,30 +41,6 @@ window.BRIEFING_DATA = {
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85706",
           "content": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物全都离开了，狼进村了。Google 还在另一个数据中心选址砍伐了 15 万棵树。芬兰不是唯一一个为建造数据中心而生态系统"
-        },
-        {
-          "text": "深水地平线漏油事件 16 年后海洋仍未恢复",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85705",
-          "content": "2010 年英国石油公司的深水地平线（Deepwater Horizon）深海钻油平台发生井喷并爆炸，引发了史上规模最大的石油泄漏事故。在封堵油井的 87 天内，有约 1.34 亿加仑原油和 77 亿标准立方英尺的天然气泄漏到墨西哥湾。16 年后，墨西哥湾的深海生态系统仍未从灾难中恢复。研究人员在 2011 年，2015-2023 年收集了样本，发现深海中上层物种的数量急剧下降。数据显示，鱼类数量下降了 63.5%，甲壳类动物下降了 6"
-        },
-        {
-          "text": "撸狗有助于抵抗下一次压力",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85703",
-          "content": "自古以来，人类就从抚摸狗中获得慰藉。大量研究承认养宠物对福祉的益处，但驱动这些益处的机制仍不清楚。在一项研究中，研究人员邀请了 64 名狗主人及其宠物来到实验室，研究抚摸狗是否能帮助人们更好地应对压力，以及身体接触是否是这种对大脑和身体产生影响的关键。研究人员设计了实验，以分离触摸狗如何影响人在压力期间和之后的大脑、心脏和情绪状态。51 名女性和 13 名男性，平均年龄 34 岁，带着自己的宠物狗参加了研究。狗必须至少 2 岁、健康，并"
-        },
-        {
-          "text": "一种远古病毒可能阻碍黑猩猩演化出与人类相似的大脑",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85702",
-          "content": "人类与黑猩猩虽然差异巨大，但在与共同祖先分化并各自演化了约 500-600 万年后，双方只有 1.2% 的 DNA 不同。而一种远古病毒可能在其中扮演了重要角色，阻碍黑猩猩演化出与人类相似的大脑。大约 400 万年前，逆转录病毒 PTERV1 (Pan troglodytes endogenous retrovirus-1) 感染了黑猩猩但没有感染人类，它对黑猩猩的 DNA 进行了细微的改动，导致黑猩猩的大脑发育方式与人类出现重大差异。"
-        },
-        {
-          "text": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85701",
-          "content": "Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项目有望在中大西洋地区的 PJM 电网提供 1070 MW 的电力容量——相当于一座大型核反应堆的输出电力。很多削减用电量措施能自动执行，如利用智能恒温器在夏季用电高峰期调低空调运行强度，或者通过电池系统提供临时电力。与 Google 合作的能源服务公司 Voltus 表示，通过聚"
         }
       ]
     },
@@ -48,46 +48,70 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗",
+          "text": "创业板午后跌1%，科创50跌2%，银行逆势拉升、建行再创新高，生物医药调整，恒科指跌近1%，光模块、AI大模型反弹",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784454",
-          "content": "在美伊冲突可能重启的高度紧张时刻，一场罕见的地区外交斡旋正在同步展开。 据 新华社 ，路透社26日援引两名消息人士的话报道说， 《麦加共同防务协议》三国沙特阿拉伯、土耳其和巴基斯坦高级官员将于当天晚些时候在德黑兰与伊朗官员举行会晤，讨论地区协作事宜。 报道说，沙特方面将由国防大臣哈立德·本·萨勒曼出席，巴基斯坦则由陆军参谋长赛义德·阿西姆·穆尼尔出席。土耳其情报部门负责人将与会。 这场外交会面的背景极为敏感。特朗普已多次暗示，美军可能在"
+          "link": "https://wallstreetcn.com/articles/3784531",
+          "content": "10月27日，A股午后扩大跌势，创业板跌超1%，科创50跌超2%。银行板块逆势走强，沪农商行涨近4%、股价创年内新高，建设银行再创历史新高，算力硬件有所回暖，光通信、光模块局部反弹，存储芯片部分走高，长鑫科技市值一度重返3万亿。生物医药板块陷入大幅调整，CRO、创新药等悉数下跌，人形机器人持续活跃。 港股亦高开低走，恒指、恒科指双双下跌，权重科网股多数下跌，联想集团逆势涨近6%，芯片、光模块等科技股反弹，澜起科技、海光芯正涨幅居前。AI"
         },
         {
-          "text": "沪指午后翻红，中国石油创18年高位，大消费拉升，“易中天”再跌，恒科指转涨，权重科网股反弹、美团涨4%",
+          "text": "报道：台积电拟上调先进封装价格10%-20%，英伟达、AMD成本承压",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784435",
-          "content": "10月26日，A股午后回升，在房地产、文化传媒等板块的推动下，沪指一度翻红，创业板指跌幅收窄至1%以内。算力硬件再度调整，电路板、光模块、光通信、覆铜板等概念股纷纷下挫，“易中天”领跌，贵金属同样陷入大跌，国际现货黄金进一步跌破3980美元关口。白酒、零售等大消费板块走强。油气、海运等板块拉升，中国石油涨至18年高位。 港股午后同样回升，恒指进一步扩大涨幅，恒科指跌幅持续收窄。权重科网股分化，网易逆势涨超3%，芯片股、光通信、AI大模型"
+          "link": "https://wallstreetcn.com/articles/3784544",
+          "content": "台积电计划对旗下先进封装服务大幅涨价，AI芯片需求持续旺盛带来的产能压力正向供应链成本端传导。 据中国台湾《工商時報》援引供应链消息人士报道，台积电正考虑将其先进封装工艺价格上调10%至20%。此举若落地，将直接推高英伟达、AMD等芯片大厂的生产成本，同时可能进一步拉升苹果iPhone及MacBook的终端售价——苹果产品此前已因内存芯片价格上涨承受一定压力。 CoWoS需求溢出，产能吃紧触发涨价 台积电此次拟上调价格的核心产品为CoW"
         },
         {
-          "text": "上市仅约3个月，两只SK海力士杠杆ETF即将在美国退市",
+          "text": "Anthropic IPO将至，澳洲最大银行坐拥15亿澳元浮盈",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784452",
-          "content": "与SK海力士挂钩的两只美国杠杆ETF将于11月清算退市，成为AI交易热情消退背景下的又一牺牲品。 ETF提供商Tradr ETFs宣布， 旗下两只追踪SK海力士美国存托凭证（ADR）的杠杆产品——一只做多、一只做空——将于11月12日前后完成清算。两只基金均在上市后仅数月内资产大幅缩水，目前合计规模约130万美元，较峰值下降逾60%。 SK海力士首尔上市股价已较历史高点下跌56%，市场对AI基础设施投资热潮的乐观情绪，正让位于对高融资成"
+          "link": "https://wallstreetcn.com/articles/3784543",
+          "content": "随着Anthropic上市进程临近，澳大利亚联邦银行（CBA）正站在一笔潜在巨额收益的门口。 CBA持有的Anthropic股权账面价值已从最初的1.53亿澳元飙升至15.3亿澳元 ，一年内增长近十倍。据彭博测算，若Anthropic最终以2万亿美元估值完成上市， CBA所持股份届时价值或将进一步攀升至约32亿澳元 ，使这家澳洲最大银行成为此次AI独角兽IPO中罕见的银行业赢家。 这一浮盈源于CBA在2025年3月参与Anthropic"
         },
         {
-          "text": "人形机器人大进化！SuperMimic技术让运动控制训练成本骤降1000倍",
+          "text": "高盛警告：炼油厂停产规模已超此前最坏预期，全球成品油紧张或持续至2027年",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784444",
-          "content": "一项机器人运动控制领域的重大技术突破，正在重塑人形机器人行业的竞争格局与价值分布。 据追风交易台，野村国际（香港）在最新发布的报告中表示，加州大学伯克利分校一篇名为SuperMimic的论文显示， 人形机器人全身运动控制器的训练算力消耗可压缩逾1000倍——原本需要128块GPU运行一周的任务，现在仅需一块H100 GPU运行三小时即可完成。 该论文已被机器人学习领域顶级会议CoRL 2026收录，并于10月20日发布于arXiv。 野"
+          "link": "https://wallstreetcn.com/articles/3784542",
+          "content": "全球炼油厂停产规模已超越高盛自身设定的最坏情景， 成品油供应紧张局面料延续至2027年，原油价格可以被外交头条压低，但破损的炼油厂无法靠谈判重启。 据高盛大宗商品团队10月25日发布的最新报告《石油产品追踪：供应疲软或延续至2027年》，中东炼油厂停产规模较季节性正常水平高出约160万桶/日，俄罗斯炼油厂停产规模则高出约420万桶/日，两者合计约580万桶/日的超额停产量，已超过高盛分析师Nikhil Bhandari在9月份&#34;"
         },
         {
-          "text": "为何原油供应增加，油价缺降不下来？",
+          "text": "亚洲股市反弹走高，韩国大涨4%，SK海力士涨逾6%，油价续跌",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784448",
-          "content": "经济学家、宏观分析师David Woo指出，中东石油流量已恢复至战前水平以上，但油价依然居高不下，根源在于运输成本飙升与伊朗的地缘政治杠杆—— 供应量的恢复，并不等同于供应成本的下降 。 据《华尔街日报》报道，截至10月18日当周，包括霍尔木兹海峡及替代航线在内的中东石油日均流量已超过2400万桶，高于战前的2330万桶。然而，Woo在10月25日的节目中认为，市场忽视了一个关键事实： 炼油商支付的不仅是原油价格，还包括运费、保险和融资"
+          "link": "https://wallstreetcn.com/articles/3784535",
+          "content": "Anthropic的上市申请重燃市场对人工智能赛道的信心，亚洲科技股领涨，但美股期货走势分化显示涨势后劲存疑。本周美联储利率决议与科技巨头财报将成为AI交易能否持续复苏的关键考验。 Anthropic PBC提交IPO申请，成为推动全球股市周二延续涨势的核心催化剂。亚洲股市整体上涨0.8%，韩国与日本科技股表现领先，此前华尔街主要指数周一终结了此前连续两日的跌势。AI芯片产业链核心标的SK海力士与三星电子均涨逾4%，两家公司本周稍晚将公"
         },
         {
-          "text": "趋境科技获13亿元B轮融资 “高质Token”的吸引力靠谱吗",
+          "text": "微软CEO：微软也在混用廉价模型，算力价格战不可避免，五年后企业核心资产将是“专有评测基准”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784449",
-          "content": "近日，高品质 AI Token 生产服务商趋境科技（ Approaching.AI ）完成 B 轮融资，融资金额超 13 亿元人民币；今年内已累计募得 24 亿元人民币。公司称，多项核心经营指标在半年内实现超十倍速增长。 本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小"
+          "link": "https://wallstreetcn.com/articles/3784540",
+          "content": "2026年10月26日，微软董事长兼CEO萨提亚·纳德拉做客风投播客20VC，与主持人哈里·斯特宾斯进行了一场24分钟的对话。 （ 左 ：微软董事长兼CEO萨提亚·纳德拉； 右 ：20VC主持人哈里·斯特宾斯） 这场访谈的时间点需要留意。五天前，10月21日，纳德拉在伦敦ExCeL会展中心的Microsoft Frontier Tour现场做开场演讲，6500名合作伙伴与客户到场。 他提出企业部署AI必须解决三件事：把人留在决策回路中、"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115855",
+          "content": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。<a href=&#34;https://sspai.com/post/115855&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117600",
+          "content": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...<a href=&#34;https://sspai.com/post/117600&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派评 | 近期值得关注的 App",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117529",
+          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/117529&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "秋冬换季护肤买什么，双 11 选购推荐",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117414",
+          "content": "双 11 到来之际的秋冬护肤选购与搭配建议。<a href=&#34;https://sspai.com/post/117414&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
           "source": "少数派",
@@ -99,30 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/117180",
           "content": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...<a href=&#34;https://sspai.com/post/117180&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117460",
-          "content": "<p>iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患</p><p>Spotify 将要求家庭组成员定期扫码验证</p><p>Arc 浏览器宣布下线</p><p>央广总台澄清「国补停止」说法</p><p>谷歌建设虚拟电厂，付费激励电网用户省电留给 AI</p><p>iTunes Store 重受歌手青睐</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=&"
-        },
-        {
-          "text": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
-          "source": "少数派",
-          "link": "https://sspai.com/post/114741",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/114741&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "在硅谷，遇见个人计算机历史",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116128",
-          "content": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=&#34;https://sspai.com/post/116128&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "We should be more ambitious with the software we build（780 分 · 701 评论）",
-          "source": "Hacker News",
-          "link": "https://danluu.com/ambitious/",
-          "content": ""
         }
       ]
     },
@@ -130,33 +130,9 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "makecindy/cindy：makecindy / cindy Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/makecindy/cindy",
-          "content": ""
-        },
-        {
           "text": "Nutlope/hallmark：Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex.（CSS）",
           "source": "GitHub",
           "link": "https://github.com/Nutlope/hallmark",
-          "content": ""
-        },
-        {
-          "text": "debpalash/VoiceStudio：debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/debpalash/VoiceStudio",
-          "content": ""
-        },
-        {
-          "text": "pbakaus/impeccable：pbakaus / impeccable The design language that makes your AI harness better at design.（Rust）",
-          "source": "GitHub",
-          "link": "https://github.com/pbakaus/impeccable",
-          "content": ""
-        },
-        {
-          "text": "pollen-robotics/microduck：pollen-robotics / microduck A Tiny biped duck robot 🦆（Rust）",
-          "source": "GitHub",
-          "link": "https://github.com/pollen-robotics/microduck",
           "content": ""
         },
         {
@@ -164,10 +140,34 @@ window.BRIEFING_DATA = {
           "source": "GitHub",
           "link": "https://github.com/TauricResearch/TradingAgents",
           "content": ""
+        },
+        {
+          "text": "JetBrains/thinkrail：JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/JetBrains/thinkrail",
+          "content": ""
+        },
+        {
+          "text": "makecindy/cindy：makecindy / cindy Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/makecindy/cindy",
+          "content": ""
+        },
+        {
+          "text": "affaan-m/ECC：affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.（JavaScript）",
+          "source": "GitHub",
+          "link": "https://github.com/affaan-m/ECC",
+          "content": ""
+        },
+        {
+          "text": "pbakaus/impeccable：pbakaus / impeccable The design language that makes your AI harness better at design.（Rust）",
+          "source": "GitHub",
+          "link": "https://github.com/pbakaus/impeccable",
+          "content": ""
         }
       ]
     }
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-26","2026-10-25","2026-10-24","2026-10-23","2026-10-22","2026-10-21","2026-10-20","2026-10-19"];
+window.BRIEFING_ARCHIVE = ["2026-10-27","2026-10-26","2026-10-25","2026-10-24","2026-10-23","2026-10-22","2026-10-21","2026-10-20"];
