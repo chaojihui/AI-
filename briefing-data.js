@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-27T06:42:42.921Z
+// 由 GitHub Actions 自动生成 2026-10-28T07:14:47.596Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "科学家重现古罗马的分色玻璃",
+          "text": "2025 年二氧化碳浓度创新高",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85713",
-          "content": "制作于公元四世纪的罗马玻璃笼子杯 Lycurgus Cup 会根据光源位置的不同而呈现不同的颜色，从前方照射呈绿色后方则呈红色。这一令人惊叹的光学工程成就数世纪以来令历史学家和玻璃工匠感到困惑。现在英国谢菲尔德大学的科学家成功复现了这一光学特性。研究人员将金和银纳米颗粒嵌入到玻璃，他们制备出高粘度熔融玻璃，当其自 1000 °C 以上的高温逐渐冷却时，金与银纳米晶体开始围绕其内部微粒结晶生长。当光线穿过玻璃时，其中的金银颗粒会阻挡蓝光和"
+          "link": "https://www.solidot.org/story?sid=85728",
+          "content": "世界气象组织周二表示，2025 年因燃烧化石燃料导致的大气中二氧化碳及其他主要温室气体的浓度达到创纪录高位，这将导致全球变暖趋势进一步固化。2025 年全球二氧化碳平均浓度为百万分之426.8（ppm），相当于 1750 年工业化前基准值的 153%。同样令人担忧的是，甲烷和一氧化二氮——这两种由人类活动产生的、在长寿温室气体中排名第二和第三的气体——其浓度在 2025 年也创下了新高。2004 年测得的二氧化碳年均浓度为 377.5 "
         },
         {
-          "text": "Netflix 用户观看量下降，应用打开量下降",
+          "text": "维基百科如何清理 AI 生成文本",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85711",
-          "content": "流媒体巨头 Netflix 正通过提高订阅费用去应对用户增长停滞。内部数据显示，Netflix 订户的观看量下降，应用每月打开的天数也略有下降。目前下滑幅度尚属适度，未引起订户大规模流失。为吸引新用户并留住现有用户，Netflix 增加了内容制作预算，正向播客和体育直播等领域扩展。Apptopia 的数据显示，第三季度美国订户中，未打开过 Netflix 应用的用户比例较上年同期增长了 16.6%。Netflix 最近对管理内容的领导层"
+          "link": "https://www.solidot.org/story?sid=85727",
+          "content": "2023 年维基百科志愿者发起了 WikiProject AI Cleanup 项目，旨在清理 AI 生成文本。当时的 AI 文本还很容易识别。项目创始成员 Ellia Lebleu 指出，当时的 AI 文本频繁使用奇怪短语如 stands as a testament、rich cultural heritage...甚至还喜欢插入总结性段落如 Why is this important? 但到了 2025 年 AI 生成文本特征变得"
         },
         {
-          "text": "Systemd 支持 Rust 程序",
+          "text": "数据中心搅动世界",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85710",
-          "content": "Systemd 支持用 Rust 语言开发程序。核心 systemd 代码如 systemd 库目前尚不支持 Rust 代码，但对于systemd 程序/末端组件已支持使用 Rust 语言。Systemd 开发者并不计划将现有的 C 代码移植到 Rust，所有 Rust 代码都是通过 Meson 构建的（不使用 Cargo），仅强制要求使用 C 语言链接。Systemd 的 Rust 组件体积比 C 语言略大，一个测试程序的体积为 32"
+          "link": "https://www.solidot.org/story?sid=85726",
+          "content": "很多人几年前可能还不知道什么是数据中心，它是现代互联网服务的引擎，也是今天 AI 热的核心。但数据中心数量的快速增长、巨大的电力消耗，以及环境影响，正在全球引发公众的抵制。根据 Data Center Map 的数据，目前全世界有约 12,250 个数据中心，而 2021 年这个数字是大约 8000 个，其中美国最多有 4,767 个，弗吉尼亚州密度最高。美国的数据中心装机容量为 53.73 GW，中国 31.90 GW，欧盟 11.9"
         },
         {
-          "text": "欧洲夏季热浪导致逾 5 万城市居民死亡",
+          "text": "2025 年太阳能发电量超越核能",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85708",
-          "content": "今年夏天热浪席卷了欧洲大部分地区，多地气温超过 40°C。学校关闭，沥青路变形，电网不堪重负，紧急求助电话激增。多国报告死亡人数大幅增长。德国 Robert Koch 研究所统计，4-9 月有 1.6 万人死因与高温相关。西班牙报告 7-8 月期间 5100 人死于高温。英国卫生安全局数据显示，5-6月 有近 2900 人死于高温。根据英国研究人员在《Nature Health》期刊上发表的最新研究，今年欧洲夏季的热浪导致逾 5 万城市"
+          "link": "https://www.solidot.org/story?sid=85725",
+          "content": "太阳能的发展速度超出了预期。十年前太阳能的发电量仅占全球总发电量的 1%，2026 年它的份额预计将达到 10%。根据能源智库 Ember 的数据，2025 年全球太阳能发电量略微超过了核能发电量。截至 2026 年 9 月的年度太阳能发电量则已超过核能 13%。牛津大学能源与气候政策教授 Jan Rosenow 称太阳能如今已成为能源转型的引擎。太阳能已成为历史上增长速度最快的新电力来源，2025 年全球电力需求增长量的四分之三由太阳"
         },
         {
-          "text": "2025 年老年抚养比首次超过少儿抚养比",
+          "text": "宇航员的心脏能承受飞往火星的数个月之旅",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85707",
-          "content": "根据国家统计局编著出版的《中国统计年鉴 2026》，2025 年全国 0-14 岁人口 21276 万人，占总人口比重为 15.1%；65 岁及以上人口 22365 万人，占总人口比重为15.9%。2025 年，全国总抚养比为 45.1%，其中少儿抚养比为 22%，老年抚养比为 23.1%，老年抚养比首次超过少儿抚养比。2016 年，我国老年抚养比为 15%，到 2021 年首次突破 20% 达到 20.8%。2024 年老年抚养比升至"
+          "link": "https://www.solidot.org/story?sid=85724",
+          "content": "火星之旅对人类心脏的挑战可能没有科学家曾经担忧的那么大。一项研究表明，宇航员能够很好地适应数月的失重状态。在研究中，科学家监测了 13 名在国际空间站停留了约 6 个月的宇航员的心脏状况。结果显示，尽管太空飞行最初会影响心脏功能，但宇航员会逐渐适应这种环境，而每日高强度锻炼在维持心血管健康方面发挥了重要作用。在地球上，心脏需持续对抗重力来泵血，而肌肉需要支撑体重；在太空中，这些负荷大幅降低，久而久之，肌肉乃至心脏都会出现萎缩。但重返重力"
         },
         {
-          "text": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+          "text": "广电总局发布规定限制电视开机广告",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85706",
-          "content": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物全都离开了，狼进村了。Google 还在另一个数据中心选址砍伐了 15 万棵树。芬兰不是唯一一个为建造数据中心而生态系统"
+          "link": "https://www.solidot.org/story?sid=85723",
+          "content": "广电总局周二公布了《交互式网络电视运营服务管理暂行规定》，该暂行规定将从 2026 年 11 月 27 日起施行。新规包括： 第十一条 交互式网络电视集成播控服务提供者应当坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。智能电视机应支持优先呈现直播频道功能，提供便捷设置入口。酒店等集团用户应当坚持直播优先原则，并符合国务院广播电视主管部门相关规定。 第十二条 交互式网络电视集成播控服务提供者应当向用户提供便"
         }
       ]
     },
@@ -48,46 +48,70 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "创业板午后跌1%，科创50跌2%，银行逆势拉升、建行再创新高，生物医药调整，恒科指跌近1%，光模块、AI大模型反弹",
+          "text": "需求是供应的两倍！SK海力士电话会：DRAM和HBM产能售罄至2029年，明年资本开支将“大幅增加”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784531",
-          "content": "10月27日，A股午后扩大跌势，创业板跌超1%，科创50跌超2%。银行板块逆势走强，沪农商行涨近4%、股价创年内新高，建设银行再创历史新高，算力硬件有所回暖，光通信、光模块局部反弹，存储芯片部分走高，长鑫科技市值一度重返3万亿。生物医药板块陷入大幅调整，CRO、创新药等悉数下跌，人形机器人持续活跃。 港股亦高开低走，恒指、恒科指双双下跌，权重科网股多数下跌，联想集团逆势涨近6%，芯片、光模块等科技股反弹，澜起科技、海光芯正涨幅居前。AI"
+          "link": "https://wallstreetcn.com/articles/3784653",
+          "content": "AI内存超级周期进入新阶段！SK海力士三季度营收历史性突破百万亿韩元，管理层在电话会议上宣告当前AI内存需求火爆导致“客户需求是供应量的两倍”，其核心HBM和DRAM产能更是通过长期协议“在2029年之前实际上已全部售罄”。 10月28日，SK海力士在2026年三季度业绩发布会上交出了一份历史级成绩单—— 单季营收首次突破100万亿韩元，营业利润率攀升至80%的历史峰值 。更关键的是，管理层在电话会上明确表示：结合长期供应协议（LTA）"
         },
         {
-          "text": "报道：台积电拟上调先进封装价格10%-20%，英伟达、AMD成本承压",
+          "text": "今夜美联储决议：通胀越烧越热，加息却按下暂停键？沃什迎来公信力大考",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784544",
-          "content": "台积电计划对旗下先进封装服务大幅涨价，AI芯片需求持续旺盛带来的产能压力正向供应链成本端传导。 据中国台湾《工商時報》援引供应链消息人士报道，台积电正考虑将其先进封装工艺价格上调10%至20%。此举若落地，将直接推高英伟达、AMD等芯片大厂的生产成本，同时可能进一步拉升苹果iPhone及MacBook的终端售价——苹果产品此前已因内存芯片价格上涨承受一定压力。 CoWoS需求溢出，产能吃紧触发涨价 台积电此次拟上调价格的核心产品为CoW"
+          "link": "https://wallstreetcn.com/articles/3784651",
+          "content": "通胀数据持续超预期，美联储却几乎注定要在本周按兵不动。这一矛盾局面，正将所有压力集中到今晚的新闻发布会上——沃什将如何向市场解释，在通胀明显偏离目标的情况下选择暂停加息，同时又不损伤美联储的政策公信力。 据路透最新调查， 100位受访经济学家中有94位预计美联储将在今晚维持利率在3.75%-4.00%不变， CME联邦基金期货隐含的本次加息概率仅约10%，高盛股票波动率部门估计的互换隐含概率更低至7%。 然而，通胀数据并不支持这一立场："
         },
         {
-          "text": "Anthropic IPO将至，澳洲最大银行坐拥15亿澳元浮盈",
+          "text": "Anthropic IPO最大赢家或是亚马逊：可转债账面价值达979亿美元",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784543",
-          "content": "随着Anthropic上市进程临近，澳大利亚联邦银行（CBA）正站在一笔潜在巨额收益的门口。 CBA持有的Anthropic股权账面价值已从最初的1.53亿澳元飙升至15.3亿澳元 ，一年内增长近十倍。据彭博测算，若Anthropic最终以2万亿美元估值完成上市， CBA所持股份届时价值或将进一步攀升至约32亿澳元 ，使这家澳洲最大银行成为此次AI独角兽IPO中罕见的银行业赢家。 这一浮盈源于CBA在2025年3月参与Anthropic"
+          "link": "https://wallstreetcn.com/articles/3784649",
+          "content": "Anthropic上市在即，众多风险投资机构将从中获益数十亿美元，但真正的最大赢家很可能另有其人——亚马逊。 据雅虎财经10月27日报道，凭借独特的可转债结构安排，亚马逊对Anthropic的持仓账面价值已高达979亿美元，远超任何一家风投机构，堪称这场AI独角兽上市盛宴中的头号受益者。 根据Anthropic提交的S-1招股文件，亚马逊持有本金余额62亿美元的可转债，这也是Anthropic目前的全部债务。然而，随着Anthropic"
         },
         {
-          "text": "高盛警告：炼油厂停产规模已超此前最坏预期，全球成品油紧张或持续至2027年",
+          "text": "特朗普要求政府文件弃用“AI”、改称“SI”，《华尔街日报》被点名批评",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784542",
-          "content": "全球炼油厂停产规模已超越高盛自身设定的最坏情景， 成品油供应紧张局面料延续至2027年，原油价格可以被外交头条压低，但破损的炼油厂无法靠谈判重启。 据高盛大宗商品团队10月25日发布的最新报告《石油产品追踪：供应疲软或延续至2027年》，中东炼油厂停产规模较季节性正常水平高出约160万桶/日，俄罗斯炼油厂停产规模则高出约420万桶/日，两者合计约580万桶/日的超额停产量，已超过高盛分析师Nikhil Bhandari在9月份&#34;"
+          "link": "https://wallstreetcn.com/articles/3784650",
+          "content": "特朗普再度将政治意志延伸至科技领域。他近日宣布将在所有相关政府文件中正式禁用&#34;人工智能&#34;（AI）一词，并点名批评《华尔街日报》，要求其改用&#34;超级智能&#34;（SI）这一表述。 特朗普周二在其Truth Social平台发文，直接点名《华尔街日报》，质问该媒体何时才会弃用&#34;人工智能（AI）&#34;这一他认为&#34;非常糟糕且不准确&#34;的名称，转而采用&#34;SI（超级智能）&#34;。他在帖文"
         },
         {
-          "text": "亚洲股市反弹走高，韩国大涨4%，SK海力士涨逾6%，油价续跌",
+          "text": "业绩炸裂、股东回报空前，SK海力士将反杀空头？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784535",
-          "content": "Anthropic的上市申请重燃市场对人工智能赛道的信心，亚洲科技股领涨，但美股期货走势分化显示涨势后劲存疑。本周美联储利率决议与科技巨头财报将成为AI交易能否持续复苏的关键考验。 Anthropic PBC提交IPO申请，成为推动全球股市周二延续涨势的核心催化剂。亚洲股市整体上涨0.8%，韩国与日本科技股表现领先，此前华尔街主要指数周一终结了此前连续两日的跌势。AI芯片产业链核心标的SK海力士与三星电子均涨逾4%，两家公司本周稍晚将公"
+          "link": "https://wallstreetcn.com/articles/3784645",
+          "content": "SK海力士交出史上最强季度业绩，同时抛出远超市场预期的股东回报计划，有望将此前偏空的股票情绪拉回正轨。 据追风交易台消息，据摩根大通28日发布的研究报告，SK海力士2026年第三季度营收达104.6万亿韩元，营业利润达83.3万亿韩元，均创历史同期新高，分别超出市场共识约7%和9%，超出摩根大通自身预测约11%和16%。同日，公司宣布规模高达100万亿韩元的股东回报计划，涵盖60万亿韩元回购与40万亿韩元股息，摩根大通指出，市场此前的普"
         },
         {
-          "text": "微软CEO：微软也在混用廉价模型，算力价格战不可避免，五年后企业核心资产将是“专有评测基准”",
+          "text": "高盛存储专家会：产能扩张“远水难解近渴”，DRAM涨价或持续至2028年，HBM明年均价预计暴涨122%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784540",
-          "content": "2026年10月26日，微软董事长兼CEO萨提亚·纳德拉做客风投播客20VC，与主持人哈里·斯特宾斯进行了一场24分钟的对话。 （ 左 ：微软董事长兼CEO萨提亚·纳德拉； 右 ：20VC主持人哈里·斯特宾斯） 这场访谈的时间点需要留意。五天前，10月21日，纳德拉在伦敦ExCeL会展中心的Microsoft Frontier Tour现场做开场演讲，6500名合作伙伴与客户到场。 他提出企业部署AI必须解决三件事：把人留在决策回路中、"
+          "link": "https://wallstreetcn.com/articles/3784647",
+          "content": "存储芯片市场供需格局正向头部厂商倾斜，涨价周期或比市场预期更长。 高盛于10月27日举办TrendForce存储行业专家网络研讨会。TrendForce专家在会上表示，DRAM供给将在整个2027年维持紧张态势，价格上涨周期有望延续至2028年上半年；HBM混合均价预计2027年同比大涨122%至每Gb 3.7美元，驱动HBM行业收入增长逾230%，突破2000亿美元。 产能扩张面临洁净室空间不足及设备交货期过长等结构性制约， Tren"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115533",
+          "content": "短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。<a href=&#34;https://sspai.com/post/115533&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117684",
+          "content": "小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。<a href=&#34;https://sspai.com/post/117684&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117633",
+          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/117633&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117557",
+          "content": "作为一个从小看CCTV-5体育频道下饭的「体育迷」，在互联网时代我一般都看新浪门户网站的体育板块来获取最新的体育资讯，在智能手机逐渐普及后，百度贴吧、虎扑、懂球帝等平台又是我获取体育资讯以及和网友们吹 ...<a href=&#34;https://sspai.com/post/117557&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
           "source": "少数派",
@@ -99,30 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/117600",
           "content": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...<a href=&#34;https://sspai.com/post/117600&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派评 | 近期值得关注的 App",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117529",
-          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/117529&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "秋冬换季护肤买什么，双 11 选购推荐",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117414",
-          "content": "双 11 到来之际的秋冬护肤选购与搭配建议。<a href=&#34;https://sspai.com/post/117414&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115074",
-          "content": "一起来看看 3D XPoint 这夸张的性能表现吧。<a href=&#34;https://sspai.com/post/115074&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117180",
-          "content": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...<a href=&#34;https://sspai.com/post/117180&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,21 +130,33 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
+          "text": "elayadesign/ai-design-skills",
+          "source": "GitHub",
+          "link": "https://github.com/elayadesign/ai-design-skills",
+          "content": ""
+        },
+        {
           "text": "Nutlope/hallmark：Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex.（CSS）",
           "source": "GitHub",
           "link": "https://github.com/Nutlope/hallmark",
           "content": ""
         },
         {
-          "text": "TauricResearch/TradingAgents：TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework（Python）",
+          "text": "nightly-labs/openbot：nightly-labs / openbot A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/TauricResearch/TradingAgents",
+          "link": "https://github.com/nightly-labs/openbot",
           "content": ""
         },
         {
-          "text": "JetBrains/thinkrail：JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need（TypeScript）",
+          "text": "obra/superpowers：obra / superpowers An agentic skills framework & software development methodology that works.（Shell）",
           "source": "GitHub",
-          "link": "https://github.com/JetBrains/thinkrail",
+          "link": "https://github.com/obra/superpowers",
+          "content": ""
+        },
+        {
+          "text": "pbakaus/impeccable：pbakaus / impeccable The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.（Rust）",
+          "source": "GitHub",
+          "link": "https://github.com/pbakaus/impeccable",
           "content": ""
         },
         {
@@ -152,22 +164,10 @@ window.BRIEFING_DATA = {
           "source": "GitHub",
           "link": "https://github.com/makecindy/cindy",
           "content": ""
-        },
-        {
-          "text": "affaan-m/ECC：affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.（JavaScript）",
-          "source": "GitHub",
-          "link": "https://github.com/affaan-m/ECC",
-          "content": ""
-        },
-        {
-          "text": "pbakaus/impeccable：pbakaus / impeccable The design language that makes your AI harness better at design.（Rust）",
-          "source": "GitHub",
-          "link": "https://github.com/pbakaus/impeccable",
-          "content": ""
         }
       ]
     }
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-27","2026-10-26","2026-10-25","2026-10-24","2026-10-23","2026-10-22","2026-10-21","2026-10-20"];
+window.BRIEFING_ARCHIVE = ["2026-10-28","2026-10-27","2026-10-26","2026-10-25","2026-10-24","2026-10-23","2026-10-22","2026-10-21"];
