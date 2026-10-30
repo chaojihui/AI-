@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-29T07:35:34.856Z
+// 由 GitHub Actions 自动生成 2026-10-30T07:39:22.772Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "女子信任 ChatGPT 的用药决策，结果因此猝死",
+          "text": "币安多达 30 亿美元数字货币被盗",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85737",
-          "content": "一名住在西雅图的 31 岁华人女子，因依照 ChatGPT 提供的逐日减药计划，自行将抗癫痫药物逐步减量至停药后死亡。其父母向旧金山高等法院提起不当致死诉讼，控告 OpenAI 及其 CEO Sam Altman，指 ChatGPT 无照行医、提供危险且不准确的医疗建议。OpenAI 回应称这是“令人心碎的事件”，但涉案的是已经下架的早期版本。死者名为万博文(Bowen Wan)，来自江苏，毕业于亚利桑纳州立大学信息工程系，曾在亚马逊担"
+          "link": "https://www.solidot.org/story?sid=85749",
+          "content": "黑客从全球最大加密货币交易所币安的多个热钱包里转移了价值约 55 亿美元的加密货币资产，部分加密货币已被稳定币发行方冻结，但黑客手中仍然掌握着多达 30 亿美元的加密货币。在被盗的 55 亿美元的加密货币中，Tether 冻结了被盗的 17.68 亿美元 USDT 中的至少 15.67 亿美元，Circle 冻结了被盗的 8.23 亿美元中的 8 亿美元。World Liberty Financial 冻结了 2700 万美元 USD1"
         },
         {
-          "text": "加州亿万富翁投入逾 2.93 亿美元反对亿万富翁税",
+          "text": "Google AI 搜索产生的收入低于传统搜索",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85736",
-          "content": "统计数据显示，至少 30 位加州亿万富翁累计投入逾 2.93 亿美元反对亿万富翁税。亿万富翁税将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。在反对该税的亿万富翁中，Google 联合创始人 Sergey Brin 出资最多，投入巨资的还有 Google 前 CEO Eric Sc​​hmidt、风险投资人"
+          "link": "https://www.solidot.org/story?sid=85748",
+          "content": "Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索，尽管其整体搜索业务收入同比增长 12% 达到 632.5 亿美元。搜索业务增速略低于去年第三季度的 14.5%，Alphabet 首席商务官 Philipp Schindler 称，搜索业务增长放缓的原因在于“我们观察到 AI Mode 变现能力较低”。为推动 AI 业务 Google 同时在基础设施上投入巨"
         },
         {
-          "text": "天文学家在柯伊伯带发现一颗巨大的矮行星候选天体",
+          "text": "研究发现非英语的 token 成本更高",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85735",
-          "content": "2025 年 6 月正式启动观测的 Vera C. Rubin 天文台其任务之一是绘制太阳系内小天体地图，尤其是柯伊伯带天体。现在天文学家报告利用天文台的观测设备在柯伊伯带发现了一颗巨大的矮行星候选天体。矮行星是指不完全符合行星定义但也不是卫星的行星质量天体，目前国际天文学联合会确认的太阳系矮行星共五颗：冥王星、阋神星、妊神星和鸟神星，以及谷神星，此外还有十几颗候选天体。最新发现的天体编号为 2026 ED138，其直径在 600-15"
+          "link": "https://www.solidot.org/story?sid=85747",
+          "content": "Coalition for Language Equity in AI Research 上个月发表的一项研究发现，AI 模型处理部分语言提示所需的 token 量远超英语。研究人员称之为隐性 token 税，意味着小语种用户的 AI 成本更高。研究发现，即使互联网最流行的 20 种语言，token 使用量也存在差异。最昂贵语言使用的 token 数量是最便宜语言的 1.5-5 倍。当研究人员将范围扩大到 200 种语言，差异进一步扩大"
         },
         {
-          "text": "生育后不久再次分娩可能加速衰老",
+          "text": "以色列耶路撒冷爆发麻疹疫情",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85734",
-          "content": "哈佛医学院、麻总百瀚的科学家探讨了妊娠与生物衰老之间的关联。研究者提出假设：若妊娠间隔过短，身体可能缺乏足够的恢复时间，从而导致与生物衰老相关的变化不断累积。研究者提出，两次妊娠之间的恢复时间最终可能影响母亲的长期健康。间隔较短的反复妊娠可能会阻碍身体的完全恢复，致使某些变化在连续妊娠中逐渐累积。世界卫生组织目前建议，在活产之后至少等待 24 个月再受孕，以降低母婴的健康风险。但研究者指出，若要基于生物学衰老而非妊娠结局提出具体建议，则"
+          "link": "https://www.solidot.org/story?sid=85746",
+          "content": "一项统计数字显示，以色列耶路撒冷极端正统派犹太人居住的多个社区其麻疹疫苗接种率仅为 55.0%，这些地方最近爆发了麻疹疫情，感染麻疹的人绝大多数都是5 岁以下未接种儿童，有多人死亡。耶路撒冷是以色列最大城市，2025 年人口约为 100 万，其中 60 万是犹太人，40 万是阿拉伯人。而犹太人中间 50.0% 属于极端正统派。耶路撒冷的麻疹疫苗接种率已从 2019 年的 94.7% 降至 2024 年的 78.3%。在市中心 6 个极端"
         },
         {
-          "text": "游戏行业缺乏专门为女性打造的游戏",
+          "text": "乌鸦视觉决策速度两倍于人类",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85732",
-          "content": "模拟服装制作的游戏《针影裁梦（Dressmaker）》于 9 月 21 日发售，一个月后在 Steam 平台玩家留下了逾 1.7 万评论，好评率 98%，同时在线玩家人数稳定在 1.5 万以上，对于一款小型独游而言称得上现象级了。游戏主要开发者是 Jonathan Hau-Yoon 及其伴侣 Sabrina Becker，其中 Becker 是服装设计师，她对服装制作工艺的深入理解成为游戏设计的重要依据。Becker 认为，除了游戏本身"
+          "link": "https://www.solidot.org/story?sid=85745",
+          "content": "德国蒂宾根大学开展的一项新研究显示，在进行视觉选择任务时，乌鸦的决策速度约为人类和猴子等灵长类动物的两倍。实验中，两只小嘴乌鸦平均只需 235 毫秒即可识别屏幕上点阵的运动方向并作出选择，同时保持较高准确率。为探究其机制，团队记录了乌鸦大脑中与灵长类前额叶皮层功能相当的关键区域——尾侧新纹状体的神经元活动。视觉刺激出现后约 70 毫秒，乌鸦大脑中编码不同运动方向的神经元信号便开始分化，这一变化远早于乌鸦作出实际反应。随着决策逐步形成，相"
         },
         {
-          "text": "尼安德特人发生了什么？",
+          "text": "全球最富有 0.1% 人口产生的碳污染超过全球最贫困 35 亿人口的总和",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85731",
-          "content": "在人类演化史的大部分时间里，地球同时存在多个人种。以过去 10 万年为例，尼安德特人曾活跃在欧洲和西亚，丹尼索瓦人生活在亚洲，形似霍比特人的弗洛勒斯人（Homo floresiensis）居住在印尼的弗洛勒斯岛，爪哇岛上最后的直立人刚刚灭绝。现代人类/智人只是其中之一。我们自己可能会认为如今单一的的人类世界是常态，研究远古历史的科学家则认为如今才是奇怪的时代，为什么现代人类成为最后幸存的一支人种？其他人种都经历了什么？在一种叙事中，人类"
+          "link": "https://www.solidot.org/story?sid=85744",
+          "content": "根据乐施会（Oxfam）的一份报告，全球最富有 0.1% 人口_——大约 800 万人——产生的碳污染超过全球最贫困 35 亿人口的总和。报道敦促各国政府让富有的污染者承担代价。报告称，富人对今天极端热浪的贡献几乎是最贫困的 50% 人口中个人贡献的 400 倍。这少数人所产生的碳污染总量，超过了撒哈拉以南非洲地区——13 亿人口——的总排放量。自 1990 年以来，全球最富有的 1% 人口造成了 20% 的全球变暖。私人航空主要由超级"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "创业板跌超2%，算力硬件集体调整，中金跌停，四大行总市值突破10万亿元，恒科指跌2%，科网股普跌",
+          "text": "沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅，恒指涨超1%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784738",
-          "content": "A股算力硬件和芯片半导体陷入大幅调整，光模块、光芯片、光通信等概念股集体下挫，此前 美股谷歌因业绩令人失望大跌10% ，且韩国综合指数盘中跌幅扩大至3%。三星电子跌超5%， 第三季度芯片利润不及预期 。SK海力士转跌，此前一度涨近7%。 10月29日，A股午后跌幅有所收窄，沪指跌0.4%，创业板指跌超2.8%、科创50指数跌3%，算力硬件（CPO/光模块/PCB）与半导体、存储、人形机器人等前期强势方向的集体重挫，光模块龙头股“易中天”"
+          "link": "https://wallstreetcn.com/articles/3784820",
+          "content": "A股和港股算力硬件、存储芯片等科技股承压，光模块龙头“易中天”大跌：此前受到谷歌财报重挫市场信心，隔夜美股遭遇抛售，叠加亚马逊和英特尔盘后双双大跌，亚太股市周五再度下挫，韩国KOSPI触发熔断，SK海力士、三星电子跌幅均超5%。同时新易盛和中际旭创最新财报公布显示， 新易盛 三季度净利润环比下降19%，存货大增141%； 中际旭创 Q3营收环比增24.62%，净利润环比增8.46%，控股股东减持32亿 10月30日，A股主要股指午后一度"
         },
         {
-          "text": "AI投资回报存疑，韩股下跌1.4%，三星跌超4%，油价下跌，金价走软",
+          "text": "圣诞行情、还是2000年泡沫重演？华尔街两大历史剧本正面交锋",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784748",
-          "content": "谷歌母公司Alphabet业绩令市场失望，三星电子缺席股东回报计划，两大科技巨头财报接连令投资者失望，令本周科技股涨势戛然而止，市场对人工智能海量投入能否带来足够回报的疑虑再度升温。 Alphabet盘后大跌10%，其销售额未达市场预期，进一步强化了外界对谷歌尽管在AI领域投入数千亿美元、却仍在向竞争对手失地的担忧。三星电子首尔股价一度下挫逾6%，原因是公司未能公布新的股东回报计划，令投资者感到失望。韩国综合股价指数（Kospi）——被"
+          "link": "https://wallstreetcn.com/articles/3784841",
+          "content": "当美联储暂停加息、科技巨头财报密集落地，华尔街正站在一个历史选择题面前：季节性多头规律能否再次奏效，还是2000年科技泡沫破裂的幽灵正在重现？ 德意志银行和BTIG本周相继翻出历史账本，却得出截然相反的结论。德意志银行援引近百年市场数据，指向年底圣诞行情的惯性驱动力；BTIG首席技术策略师Jonathan Krinsky则以2000年费城半导体指数崩溃为模板，警告市场正逼近一个向下的转折点。 两套叙事框架的碰撞，正在让投资者面临今年最难"
         },
         {
-          "text": "AI芯片需求爆发，韩元季度涨幅创1998年来新高",
+          "text": "全球科技股“惨遭血洗”！韩股收跌3.53%，纳指期货跌2%，黄金跌破4000美元",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784747",
-          "content": "韩元兑美元在今年第三季度大幅升值约13%，创下1998年第四季度以来最大单季涨幅。韩国央行货币政策委员会中被市场视为最鸽派的成员Hwang Kunil公开警示，韩元近期升值速度已超出预期，需要密切关注汇率波动风险。 据路透社10月29日报道，Hwang Kunil表示，“ 评估汇率，应关注的是波动性和变动速度，而非绝对水平。近期韩元的升值节奏有些超出预期，我们正在密切监测波动情况。” 他同时指出，一旦巨额经常账户顺差和外资再平衡效应消化"
+          "link": "https://wallstreetcn.com/articles/3784816",
+          "content": "科技股遭遇连续抛售，叠加亚马逊与英特尔财报令市场失望，AI交易退潮迹象加剧，避险情绪在全球市场蔓延。 周五，亚太股市首当其冲。韩国KOSPI指数收跌3.53%，三星电子与SK海力士领跌；日经225指数下挫2.1%，至63,290.11点；日本东证指数跌1%，至3965.07点。黄金跌破每盎司4000美元，现货白银失守51美元关口，日内跌幅达2.21%，创11月以来最低。布伦特原油则因中东局势紧张而上涨。 随着科技股卖压向亚洲市场蔓延，投"
         },
         {
-          "text": "上调盈利预期，福特仍要支付转型账单",
+          "text": "豆包工作加入多模型阵营，千问办公成最后的坚守者？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784746",
-          "content": "作者 | 周智宇 福特上调了全年盈利预期，管理层同时点出，Territory已经成为福特全球第二赚钱的车型。 当地时间10月28日，福特公布2026年三季报：营收495.26亿美元，同比下降约2%；调整后息税前利润26.58亿美元，同比增长约3%。公司将全年调整后息税前利润指引下限从100亿美元提高到105亿美元，上限维持110亿美元。 按美国通用会计准则计算，归属于福特的净利润为20.49亿美元，同比下降约16%。税项是其与调整后利润"
+          "link": "https://wallstreetcn.com/articles/3784847",
+          "content": "办公Agent的多模型阵营又多了一员。 10月29日，字节跳动旗下豆包工作宣布向企业客户开放第三方大模型服务，首批接入Kimi 3.1 Pro、GLM-5.3和DeepSeek V4.1 Flash等模型。 需要注意的是，此次开放仅面向团队订阅版和企业订阅版客户，普通个人版暂不支持。企业无需另行向模型厂商采购API，可以直接使用已有的AI点数调用不同模型，并由管理员按照成员、部门和群组配置模型使用权限。 此前，字节旗下TRAE Work"
         },
         {
-          "text": "新美联储通讯社：沃什暗示\"高利率压制AI热潮\"，加息路径面临双向难题",
+          "text": "从人工示教到同伴经验复用：CEL 群体经验学习新范式出现了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784743",
-          "content": "在 美联储最新宣布按兵不动 ，沃什记者会上表态 不预判12月决策 之后，素有&#34;新美联储通讯社&#34;之称的 华尔街日报 资深记者 Nick Timiraos 最新发文聚焦沃什在最新一次新闻发布会上释放的关键信号，核心议题直指一个让市场高度敏感的问题： 高利率究竟能不能压制住这一轮AI投资热潮？ Timiraos在10月29日的文章中指出，长久以来，市场普遍认为AI产业财大气粗，对利率变化免疫，但沃什明确打破了这一假设，指出借贷"
+          "link": "https://wallstreetcn.com/articles/3784846",
+          "content": "近日，清华大学、无问芯穹与智元联合提出“群体经验学习”（Collective Experience Learning，CEL）新范式，并在 96 台真实机器人组成的集群中完成规模化验证。 这套范式的核心变化在于学习对象，机器人不再主要依靠人类一遍遍示范动作，而是复用同伴在实践中积累的经验，让一台机器人踩过的坑，成为整个群体绕开的路。 这一转变针对的是具身智能落地过程中一个具体障碍。机器人可以成百上千台地批量部署，但经验丰富的操作人员无法"
         },
         {
-          "text": "拥挤、困惑、踏空：全球市场出现多重极端信号",
+          "text": "《影之刃零》走红，国产3A仍是大厂的资本游戏",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784742",
-          "content": "当前全球市场正在多个维度同步出现极端信号，华尔街投资者面临的不仅是单一风险，而是一场跨资产的结构性压力测试。 Mag 7隐含波动率相对整体科技板块异常低廉，而对冲基金对这批AI巨头的敞口却接近历史峰值；与此同时，动量策略仓位遭到近乎清零式的瓦解，韩国股市从极端低估中出现反弹，美国住房市场基本面持续恶化。这些信号并非孤立存在，而是在同一时间窗口内集中涌现。 更令市场不安的是，上述极端现象背后折射出的是定价混乱与仓位分歧——对冲基金与共同基"
+          "link": "https://wallstreetcn.com/articles/3784845",
+          "content": "继《黑神话：悟空》之后，又一款国产3A游戏迎来市场检验。 10月29日，灵游坊（S-GAME）开发的武侠动作游戏《影之刃零》正式发售，首日登顶Steam全球热销榜，截至当晚23时，峰值同时在线人数达到约72万。 据第三方市场分析机构Alinea Analytics估算，截至10月28日，游戏在Steam和PS5平台累计预购约85万份，预购收入约4300万美元，折合人民币约2.87亿元。 两年前，《黑神话：悟空》创造了国产买断制游戏的销售"
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
+          "text": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+          "source": "少数派",
+          "link": "https://sspai.com/prime/story/zhuanglesha-261030",
+          "content": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...<a href=&#34;https://sspai.com/prime/story/zhuanglesha-261030&#34; target=&#34;_blank&#34;>查看全文</a><p>本文为会员文章，出自<a h"
+        },
+        {
+          "text": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+          "source": "少数派",
+          "link": "https://sspai.com/post/116435",
+          "content": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。<a href=&#34;https://sspai.com/post/116435&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117827",
+          "content": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。<a href=&#34;https://sspai.com/post/117827&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "新玩意 254｜少数派的编辑们最近买了啥？",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117791",
+          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=&#34;https://sspai.com/post/117791&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "如何成为不吃压力的「大心脏」？",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117244",
+          "content": "适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论<a href=&#34;https://sspai.com/post/117244&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
           "text": "让 Agent 读懂你的身体：数据处理篇",
           "source": "少数派",
           "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
           "content": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...<a href=&#34;https://sspai.com/prime/story/how-to-analyze-health-data-with-agent&#34; target=&#34;_blank&#34;>查看全文</"
-        },
-        {
-          "text": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116686",
-          "content": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。<a href=&#34;https://sspai.com/post/116686&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117750",
-          "content": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。<a href=&#34;https://sspai.com/post/117750&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117725",
-          "content": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...<a href=&#34;https://sspai.com/post/117725&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "断舍离只是起点：打造能长期经营的实用主义衣柜",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116990",
-          "content": "只扔不买是没有用的，穿衣服时不多费心神才是目的。<a href=&#34;https://sspai.com/post/116990&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115533",
-          "content": "短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。<a href=&#34;https://sspai.com/post/115533&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,15 +130,9 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "JetBrains/thinkrail：JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need（TypeScript）",
+          "text": "HKUDS/DeepTutor：HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .（Python）",
           "source": "GitHub",
-          "link": "https://github.com/JetBrains/thinkrail",
-          "content": ""
-        },
-        {
-          "text": "elayadesign/ai-design-skills",
-          "source": "GitHub",
-          "link": "https://github.com/elayadesign/ai-design-skills",
+          "link": "https://github.com/HKUDS/DeepTutor",
           "content": ""
         },
         {
@@ -148,21 +142,27 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "HKUDS/DeepTutor：HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .（Python）",
+          "text": "pbakaus/impeccable：pbakaus / impeccable The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.（Rust）",
           "source": "GitHub",
-          "link": "https://github.com/HKUDS/DeepTutor",
+          "link": "https://github.com/pbakaus/impeccable",
           "content": ""
         },
         {
-          "text": "macro-inc/macro：macro-inc / macro Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.（Rust）",
+          "text": "JetBrains/thinkrail：JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/macro-inc/macro",
+          "link": "https://github.com/JetBrains/thinkrail",
           "content": ""
         },
         {
-          "text": "Nutlope/hallmark：Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex.（CSS）",
+          "text": "milind-soni/OpenMausBot：milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/Nutlope/hallmark",
+          "link": "https://github.com/milind-soni/OpenMausBot",
+          "content": ""
+        },
+        {
+          "text": "nightly-labs/openbot：nightly-labs / openbot A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/nightly-labs/openbot",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-29","2026-10-28","2026-10-27","2026-10-26","2026-10-25","2026-10-24","2026-10-23","2026-10-22"];
+window.BRIEFING_ARCHIVE = ["2026-10-30","2026-10-29","2026-10-28","2026-10-27","2026-10-26","2026-10-25","2026-10-24","2026-10-23"];
