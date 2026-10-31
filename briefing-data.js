@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-30T07:39:22.772Z
+// 由 GitHub Actions 自动生成 2026-10-31T07:25:42.352Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "币安多达 30 亿美元数字货币被盗",
+          "text": "英特尔股价暴跌 29%",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85749",
-          "content": "黑客从全球最大加密货币交易所币安的多个热钱包里转移了价值约 55 亿美元的加密货币资产，部分加密货币已被稳定币发行方冻结，但黑客手中仍然掌握着多达 30 亿美元的加密货币。在被盗的 55 亿美元的加密货币中，Tether 冻结了被盗的 17.68 亿美元 USDT 中的至少 15.67 亿美元，Circle 冻结了被盗的 8.23 亿美元中的 8 亿美元。World Liberty Financial 冻结了 2700 万美元 USD1"
+          "link": "https://www.solidot.org/story?sid=85757",
+          "content": "英特尔股价周五暴跌 29%，创芯片巨人最大单日跌幅，整个科技股市场受其影响呈现整体跌势。英特尔市值蒸发逾 1370 亿美元，PC 市场的持续低迷，抵消了该公司在 AI 领域及制造能力扩张方面的大规模投入。AMD、Arm Holdings、高通、英伟达、博通和美光等半导体公司股价跌幅在 2%-10% 之间。戴尔、HPE 和超微等服务器制造商的股价跌幅在 6%-10% 之间。英特尔预计第四季度营收将在 150-160 亿美元之间，低于分析师"
         },
         {
-          "text": "Google AI 搜索产生的收入低于传统搜索",
+          "text": "Claude Code for VS Code 官方扩展被植入后门",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85748",
-          "content": "Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索，尽管其整体搜索业务收入同比增长 12% 达到 632.5 亿美元。搜索业务增速略低于去年第三季度的 14.5%，Alphabet 首席商务官 Philipp Schindler 称，搜索业务增长放缓的原因在于“我们观察到 AI Mode 变现能力较低”。为推动 AI 业务 Google 同时在基础设施上投入巨"
+          "link": "https://www.solidot.org/story?sid=85756",
+          "content": "安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭了其服务器。Cursor 已发布安全公告，但 Claude Code 开发商 Anthropic 尚未做出任何声明。受影响的版本是 Anthropic.claude-code 2.1.313，共上线了大约 11 小时，受影响用户估计有 5,000 名，该扩展会试图植入一个持久 S"
         },
         {
-          "text": "研究发现非英语的 token 成本更高",
+          "text": "LibreOffice 项目递交的代码发现使用LLM 的明确标记",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85747",
-          "content": "Coalition for Language Equity in AI Research 上个月发表的一项研究发现，AI 模型处理部分语言提示所需的 token 量远超英语。研究人员称之为隐性 token 税，意味着小语种用户的 AI 成本更高。研究发现，即使互联网最流行的 20 种语言，token 使用量也存在差异。最昂贵语言使用的 token 数量是最便宜语言的 1.5-5 倍。当研究人员将范围扩大到 200 种语言，差异进一步扩大"
+          "link": "https://www.solidot.org/story?sid=85755",
+          "content": "开发 LibreOffice 的 The Document Foundation(TDF)此前表示这款办公软件不会内置 AI 功能，其核心开发者也不使用 LLM 等 AI 辅助编程工具。但向该项目贡献代码的社区开发者未必会遵守该规定。对今年递交到 LibreOffice 的代码的分析显示至少由三处明确提及使用 LLM。社区开发者在代码中提及他们使用了 Claude 或 GitHub Copilot 等工具。这一结果并不出人意料，大型开源"
         },
         {
-          "text": "以色列耶路撒冷爆发麻疹疫情",
+          "text": "芬兰对 Google 砍伐 25 万颗树展开调查",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85746",
-          "content": "一项统计数字显示，以色列耶路撒冷极端正统派犹太人居住的多个社区其麻疹疫苗接种率仅为 55.0%，这些地方最近爆发了麻疹疫情，感染麻疹的人绝大多数都是5 岁以下未接种儿童，有多人死亡。耶路撒冷是以色列最大城市，2025 年人口约为 100 万，其中 60 万是犹太人，40 万是阿拉伯人。而犹太人中间 50.0% 属于极端正统派。耶路撒冷的麻疹疫苗接种率已从 2019 年的 94.7% 降至 2024 年的 78.3%。在市中心 6 个极端"
+          "link": "https://www.solidot.org/story?sid=85754",
+          "content": "作为 130 亿欧元投资计划的一部分，Google 正在芬兰的 Muhos 和 Kajaani-Otanmäki 建造两座数据中心。上周芬兰监管机构以未完成必要的环评为由下令工程停工。Google 芬兰子公司 Tuike Finland 遵守了命令。应监管机构的要求，Oulu 警方针对 Muhos 数据中心建设工地的活动（Google 在当地砍伐了 25 万颗树）展开初步调查。警方表示，此案正以涉嫌环境损害这一刑事罪名进行调查。警方指出"
         },
         {
-          "text": "乌鸦视觉决策速度两倍于人类",
+          "text": "Reddit 将强制要求所有用户登录",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85745",
-          "content": "德国蒂宾根大学开展的一项新研究显示，在进行视觉选择任务时，乌鸦的决策速度约为人类和猴子等灵长类动物的两倍。实验中，两只小嘴乌鸦平均只需 235 毫秒即可识别屏幕上点阵的运动方向并作出选择，同时保持较高准确率。为探究其机制，团队记录了乌鸦大脑中与灵长类前额叶皮层功能相当的关键区域——尾侧新纹状体的神经元活动。视觉刺激出现后约 70 毫秒，乌鸦大脑中编码不同运动方向的神经元信号便开始分化，这一变化远早于乌鸦作出实际反应。随着决策逐步形成，相"
+          "link": "https://www.solidot.org/story?sid=85753",
+          "content": "在强制要求旧版本 Old Reddit(old.reddit.com)的用户必须登录之后，Reddit 宣布接下来将强制要求所有用户必须登录。Reddit 成为最新一个限制非登录用户浏览的社交平台，而它也准备推出类似其它社交平台的算法推荐信息流 For You 以及 Following 功能。CEO Steve Huffman 在致股东的信中称，此举有助于确保用户获得最佳的 Reddit 体验，对广告定向投放也更有利，能带来更高的用户参"
         },
         {
-          "text": "全球最富有 0.1% 人口产生的碳污染超过全球最贫困 35 亿人口的总和",
+          "text": "Google 创上市至今最大跌幅，市值蒸发逾 5000 亿美元",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85744",
-          "content": "根据乐施会（Oxfam）的一份报告，全球最富有 0.1% 人口_——大约 800 万人——产生的碳污染超过全球最贫困 35 亿人口的总和。报道敦促各国政府让富有的污染者承担代价。报告称，富人对今天极端热浪的贡献几乎是最贫困的 50% 人口中个人贡献的 400 倍。这少数人所产生的碳污染总量，超过了撒哈拉以南非洲地区——13 亿人口——的总排放量。自 1990 年以来，全球最富有的 1% 人口造成了 20% 的全球变暖。私人航空主要由超级"
+          "link": "https://www.solidot.org/story?sid=85752",
+          "content": "Google 在公布三季度财报之后遭遇了它自 2004 年上市以来最大的单日跌幅，市值蒸发逾 5000 亿美元。在股价最低点，Google 市值蒸发 5240 亿美元，这是美股上市公司有史以来第二大单日市值缩水。仅次于英伟达在 2025 年 1 月 27 日因 DeepSeek 模型引发的市场震荡其市值单日缩水约 5930 亿美元。此前排名第二的单日跌幅由 SpaceX 创造，该公司在 6 月 22 日经历了 4000 亿美元的市值缩水"
         }
       ]
     },
@@ -48,46 +48,70 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅，恒指涨超1%",
+          "text": "财报炸裂，但闪迪隔夜为何暴跌？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784820",
-          "content": "A股和港股算力硬件、存储芯片等科技股承压，光模块龙头“易中天”大跌：此前受到谷歌财报重挫市场信心，隔夜美股遭遇抛售，叠加亚马逊和英特尔盘后双双大跌，亚太股市周五再度下挫，韩国KOSPI触发熔断，SK海力士、三星电子跌幅均超5%。同时新易盛和中际旭创最新财报公布显示， 新易盛 三季度净利润环比下降19%，存货大增141%； 中际旭创 Q3营收环比增24.62%，净利润环比增8.46%，控股股东减持32亿 10月30日，A股主要股指午后一度"
+          "link": "https://wallstreetcn.com/articles/3784914",
+          "content": "闪迪交出全面超预期的财报，股价却在周五美股盘前一度暴跌8%。问题出在它的日本晶圆厂合作伙伴铠侠（Kioxia）：后者给出的利润指引不及预期，并警告AI推动的闪存涨价潮正在降温。 闪迪周四盘后的成绩单几乎挑不出毛病：营收和每股收益超预期，毛利率85%，指引高于华尔街预期，另追加50亿美元回购并宣布1拆8拆股。但股价盘后纹丝不动。 美东时间周五5:54，彭博报道了铠侠的指引，闪迪盘前最多跌至1197.57美元，较周三1419美元的高点回落1"
         },
         {
-          "text": "圣诞行情、还是2000年泡沫重演？华尔街两大历史剧本正面交锋",
+          "text": "AI股重挫而等权标普逆势涨1.2%，必需消费领涨并一度创新高",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784841",
-          "content": "当美联储暂停加息、科技巨头财报密集落地，华尔街正站在一个历史选择题面前：季节性多头规律能否再次奏效，还是2000年科技泡沫破裂的幽灵正在重现？ 德意志银行和BTIG本周相继翻出历史账本，却得出截然相反的结论。德意志银行援引近百年市场数据，指向年底圣诞行情的惯性驱动力；BTIG首席技术策略师Jonathan Krinsky则以2000年费城半导体指数崩溃为模板，警告市场正逼近一个向下的转折点。 两套叙事框架的碰撞，正在让投资者面临今年最难"
+          "link": "https://wallstreetcn.com/articles/3784912",
+          "content": "周五早盘，AI股再遭重挫，纳斯达克100指数下跌3%，等权重标普500指数却逆势上涨约1.2%。指数之下的分化表明，跌幅高度集中在大型科技股和AI相关股票上。 标普500指数当时下跌1.5%。英特尔录得有记录以来最大日内跌幅，AI主导的抛售让本周的科技股跌势进一步加深；高盛追踪美国上市AI概念股的GS Broad AI US Index下跌4.7%。 防御板块则受到追捧。必需消费是标普500表现最好的板块，上涨1.64%，板块指数在纽约"
         },
         {
-          "text": "全球科技股“惨遭血洗”！韩股收跌3.53%，纳指期货跌2%，黄金跌破4000美元",
+          "text": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784816",
-          "content": "科技股遭遇连续抛售，叠加亚马逊与英特尔财报令市场失望，AI交易退潮迹象加剧，避险情绪在全球市场蔓延。 周五，亚太股市首当其冲。韩国KOSPI指数收跌3.53%，三星电子与SK海力士领跌；日经225指数下挫2.1%，至63,290.11点；日本东证指数跌1%，至3965.07点。黄金跌破每盎司4000美元，现货白银失守51美元关口，日内跌幅达2.21%，创11月以来最低。布伦特原油则因中东局势紧张而上涨。 随着科技股卖压向亚洲市场蔓延，投"
+          "link": "https://wallstreetcn.com/articles/3784910",
+          "content": "过去几年，AI公司轻松筹得数千亿美元，华尔街竞相出资、很少过问，主打一个“钱多事少”。如今，贷款机构和投资者开始变得挑剔起来，条款也愈发苛刻。 本周，AI行业最受追捧的两家头部玩家在资本市场上相继碰壁：黑石告诉投资者，Anthropic上市后恐怕只能拿到垃圾级评级；OpenAI则把新一轮融资目标从300亿美元砍到约200亿美元。 两件事指向同一个变化：对美国AI行业来说，廉价资金越来越难拿了。 太平洋投资管理公司（Pimco）首席投资官"
         },
         {
-          "text": "豆包工作加入多模型阵营，千问办公成最后的坚守者？",
+          "text": "长鑫科技业绩交流会：LPDDR6瞄准汽车新场景，20亿回购获通过，强劲现金流支撑再投入",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784847",
-          "content": "办公Agent的多模型阵营又多了一员。 10月29日，字节跳动旗下豆包工作宣布向企业客户开放第三方大模型服务，首批接入Kimi 3.1 Pro、GLM-5.3和DeepSeek V4.1 Flash等模型。 需要注意的是，此次开放仅面向团队订阅版和企业订阅版客户，普通个人版暂不支持。企业无需另行向模型厂商采购API，可以直接使用已有的AI点数调用不同模型，并由管理员按照成员、部门和群组配置模型使用权限。 此前，字节旗下TRAE Work"
+          "link": "https://wallstreetcn.com/articles/3784905",
+          "content": "长鑫科技2026年三季度交出一份强劲成绩单，同时以LPDDR6首发旗舰手机为标志，正式宣示跻身全球高端存储第一梯队。 华尔街见闻提及 ，2026年第三季度，长鑫科技实现 营业收入 1187亿元，环比增长19%； 利润总额 990亿元，环比增长21%； 净利润 890亿元，环比增长19%； 毛利率 达89.53%，较二季度提升1.94个百分点， 营业利润率 83.43%再创历史高位。 前三季度 累计营收2690亿元，同比增长739%，净利"
         },
         {
-          "text": "从人工示教到同伴经验复用：CEL 群体经验学习新范式出现了",
+          "text": "2008再现！一文读懂华尔街最热门交易：AI CDS",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784846",
-          "content": "近日，清华大学、无问芯穹与智元联合提出“群体经验学习”（Collective Experience Learning，CEL）新范式，并在 96 台真实机器人组成的集群中完成规模化验证。 这套范式的核心变化在于学习对象，机器人不再主要依靠人类一遍遍示范动作，而是复用同伴在实践中积累的经验，让一台机器人踩过的坑，成为整个群体绕开的路。 这一转变针对的是具身智能落地过程中一个具体障碍。机器人可以成百上千台地批量部署，但经验丰富的操作人员无法"
+          "link": "https://wallstreetcn.com/articles/3784900",
+          "content": "巴克莱银行（Barclays）发布了一份针对人工智能相关企业信用违约互换（CDS）市场的综合报告，指出 随着资本支出的大幅扩张，AI相关企业的信贷风险已出现显著的重新定价，其CDS交易量及利差均呈现急剧上升趋势。 10月29日，巴克莱银行报告指出，包括谷歌、亚马逊、Meta、微软、甲骨文等超大规模云计算服务商，以及AMD、博通、英伟达等芯片制造商在内的 10家核心AI企业，目前仅占CDX投资级指数成分的8%，但已占到该指数隐含信贷风险的"
         },
         {
-          "text": "《影之刃零》走红，国产3A仍是大厂的资本游戏",
+          "text": "国泰海通发布三季报：一个头部券商的“侧身过弯”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784845",
-          "content": "继《黑神话：悟空》之后，又一款国产3A游戏迎来市场检验。 10月29日，灵游坊（S-GAME）开发的武侠动作游戏《影之刃零》正式发售，首日登顶Steam全球热销榜，截至当晚23时，峰值同时在线人数达到约72万。 据第三方市场分析机构Alinea Analytics估算，截至10月28日，游戏在Steam和PS5平台累计预购约85万份，预购收入约4300万美元，折合人民币约2.87亿元。 两年前，《黑神话：悟空》创造了国产买断制游戏的销售"
+          "link": "https://wallstreetcn.com/articles/3784908",
+          "content": "国内证券业的“TOP”2之一，总资产规模领先者国泰海通发布三季报。 这是证券业在今年3季度整体面临调整市道时的一次关键业绩报告，其中的数据和细分行业表现更能反映一家公司的底层实力，而国泰海通显然跑出了自己的“姿势”。 体量登顶，业绩继续努力 2026年10月30日晚，合并后的国泰海通交出2026年的三季报。季报显示，公司前三季度营收 589.76亿元，同比 +28.51%；归母净利润 248.85亿元，同比 +12.73%；扣非归母净利"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "本月玩什么｜影之刃零、战争机器：事变日等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117960",
+          "content": "欢迎你在评论区分享 10 月新作的游玩体验。<a href=&#34;https://sspai.com/post/117960&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "一图流 | 一张图看懂中国版 Apple 智能",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117953",
+          "content": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。<a href=&#34;https://sspai.com/post/117953&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "本周看什么 | 最近值得一看的 9 部作品",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117867",
+          "content": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...<a href=&#34;https://sspai.com/post/117867&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
+          "source": "少数派",
+          "link": "https://sspai.com/post/116047",
+          "content": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。<a href=&#34;https://sspai.com/post/116047&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
           "source": "少数派",
@@ -99,30 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/116435",
           "content": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。<a href=&#34;https://sspai.com/post/116435&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117827",
-          "content": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。<a href=&#34;https://sspai.com/post/117827&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "新玩意 254｜少数派的编辑们最近买了啥？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117791",
-          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=&#34;https://sspai.com/post/117791&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "如何成为不吃压力的「大心脏」？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117244",
-          "content": "适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论<a href=&#34;https://sspai.com/post/117244&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "让 Agent 读懂你的身体：数据处理篇",
-          "source": "少数派",
-          "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
-          "content": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...<a href=&#34;https://sspai.com/prime/story/how-to-analyze-health-data-with-agent&#34; target=&#34;_blank&#34;>查看全文</"
         }
       ]
     },
@@ -130,27 +130,9 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "HKUDS/DeepTutor：HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .（Python）",
+          "text": "thedotmack/claude-mem：thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/HKUDS/DeepTutor",
-          "content": ""
-        },
-        {
-          "text": "obra/superpowers：obra / superpowers An agentic skills framework & software development methodology that works.（Shell）",
-          "source": "GitHub",
-          "link": "https://github.com/obra/superpowers",
-          "content": ""
-        },
-        {
-          "text": "pbakaus/impeccable：pbakaus / impeccable The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.（Rust）",
-          "source": "GitHub",
-          "link": "https://github.com/pbakaus/impeccable",
-          "content": ""
-        },
-        {
-          "text": "JetBrains/thinkrail：JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/JetBrains/thinkrail",
+          "link": "https://github.com/thedotmack/claude-mem",
           "content": ""
         },
         {
@@ -160,9 +142,27 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "nightly-labs/openbot：nightly-labs / openbot A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.（TypeScript）",
+          "text": "pbakaus/impeccable：pbakaus / impeccable The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.（Rust）",
           "source": "GitHub",
-          "link": "https://github.com/nightly-labs/openbot",
+          "link": "https://github.com/pbakaus/impeccable",
+          "content": ""
+        },
+        {
+          "text": "CopilotKit/OpenBot：CopilotKit / OpenBot Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/CopilotKit/OpenBot",
+          "content": ""
+        },
+        {
+          "text": "Renhuai123/ziwei-doushu：Renhuai123 / ziwei-doushu 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/Renhuai123/ziwei-doushu",
+          "content": ""
+        },
+        {
+          "text": "expo/skills：expo / skills A collection of AI agent skills for working with Expo projects and Expo Application Services（Shell）",
+          "source": "GitHub",
+          "link": "https://github.com/expo/skills",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-30","2026-10-29","2026-10-28","2026-10-27","2026-10-26","2026-10-25","2026-10-24","2026-10-23"];
+window.BRIEFING_ARCHIVE = ["2026-10-31","2026-10-30","2026-10-29","2026-10-28","2026-10-27","2026-10-26","2026-10-25","2026-10-24"];
