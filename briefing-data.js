@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-10-31T07:25:42.352Z
+// 由 GitHub Actions 自动生成 2026-11-01T07:58:32.146Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
+          "text": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85764",
+          "content": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只需一个两人团队就能重写思科的遗留代码。他"
+        },
+        {
+          "text": "Sam Altman 认为 PC 内存闲置太糟糕",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85763",
+          "content": "OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块 DRAM 晶圆都直接流向数据中心，用于运行 AI 模型。他表示：“从全球资源配置角度看，让全球有限的 DRAM 供应分散在每个人的 PC 里且利用率可能仅有 5% 左右，这是非常糟糕的。在当前这种供应"
+        },
+        {
+          "text": "中国首次载人登月计划由三人组成其中两人将着陆月球表面",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85762",
+          "content": "第七届载人航天学术大会星期六（10月31日）在北京航空航天大学举行。中国载人航天工程副总设计师兼月球探测工程总设计师王翔在会上介绍了中国首次载人月球探测任务乘组计划。中国计划在 2030 年前实现中国人登陆月球，首次载人月球探测计划采用环月轨道对接飞行模式，通过“两次发射，一次登月”的方式实现载人登月。这种模式将采用两枚长征十号运载火箭，先将着陆器送往月球轨道，然后再发射载人飞船与着陆器实现交会对接，航天员进入着陆器并与载人飞船分离着陆"
+        },
+        {
+          "text": "黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85761",
+          "content": "在一场被称为史上规模最大的加密货币窃案中，黑客仅用 20 分钟就从币安盗取了价值 63 亿美元的加密货币。币安随后暂停了提款和提现。约一半的被盗资金——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是无法被冻结的比特币、以太币和 XRP，可能难以追回了，币安的损失可能超过 30 亿美元。加密货币追踪公司 TRM Labs 的分析显示，币安在以太坊、比特币、波场和 Solana 等 10 个区块链上的钱包全部被"
+        },
+        {
+          "text": "Kogui 族人谈 AI",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85760",
+          "content": "生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地球之子。他们认为，人类为获取资源而进行的开采、破坏和掠夺行为正在削弱万物之母的力量，这最终会导致人类的毁灭。对于最近几年生成式 AI 的发展，Kogui 族人也有类似的观点。他们认为：AI 无法与其背后的思想分离。如果这种思想源于对生命的关切，那么这项技术便有助于保护生命。 如果"
+        },
+        {
           "text": "英特尔股价暴跌 29%",
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85757",
           "content": "英特尔股价周五暴跌 29%，创芯片巨人最大单日跌幅，整个科技股市场受其影响呈现整体跌势。英特尔市值蒸发逾 1370 亿美元，PC 市场的持续低迷，抵消了该公司在 AI 领域及制造能力扩张方面的大规模投入。AMD、Arm Holdings、高通、英伟达、博通和美光等半导体公司股价跌幅在 2%-10% 之间。戴尔、HPE 和超微等服务器制造商的股价跌幅在 6%-10% 之间。英特尔预计第四季度营收将在 150-160 亿美元之间，低于分析师"
-        },
-        {
-          "text": "Claude Code for VS Code 官方扩展被植入后门",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85756",
-          "content": "安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭了其服务器。Cursor 已发布安全公告，但 Claude Code 开发商 Anthropic 尚未做出任何声明。受影响的版本是 Anthropic.claude-code 2.1.313，共上线了大约 11 小时，受影响用户估计有 5,000 名，该扩展会试图植入一个持久 S"
-        },
-        {
-          "text": "LibreOffice 项目递交的代码发现使用LLM 的明确标记",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85755",
-          "content": "开发 LibreOffice 的 The Document Foundation(TDF)此前表示这款办公软件不会内置 AI 功能，其核心开发者也不使用 LLM 等 AI 辅助编程工具。但向该项目贡献代码的社区开发者未必会遵守该规定。对今年递交到 LibreOffice 的代码的分析显示至少由三处明确提及使用 LLM。社区开发者在代码中提及他们使用了 Claude 或 GitHub Copilot 等工具。这一结果并不出人意料，大型开源"
-        },
-        {
-          "text": "芬兰对 Google 砍伐 25 万颗树展开调查",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85754",
-          "content": "作为 130 亿欧元投资计划的一部分，Google 正在芬兰的 Muhos 和 Kajaani-Otanmäki 建造两座数据中心。上周芬兰监管机构以未完成必要的环评为由下令工程停工。Google 芬兰子公司 Tuike Finland 遵守了命令。应监管机构的要求，Oulu 警方针对 Muhos 数据中心建设工地的活动（Google 在当地砍伐了 25 万颗树）展开初步调查。警方表示，此案正以涉嫌环境损害这一刑事罪名进行调查。警方指出"
-        },
-        {
-          "text": "Reddit 将强制要求所有用户登录",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85753",
-          "content": "在强制要求旧版本 Old Reddit(old.reddit.com)的用户必须登录之后，Reddit 宣布接下来将强制要求所有用户必须登录。Reddit 成为最新一个限制非登录用户浏览的社交平台，而它也准备推出类似其它社交平台的算法推荐信息流 For You 以及 Following 功能。CEO Steve Huffman 在致股东的信中称，此举有助于确保用户获得最佳的 Reddit 体验，对广告定向投放也更有利，能带来更高的用户参"
-        },
-        {
-          "text": "Google 创上市至今最大跌幅，市值蒸发逾 5000 亿美元",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85752",
-          "content": "Google 在公布三季度财报之后遭遇了它自 2004 年上市以来最大的单日跌幅，市值蒸发逾 5000 亿美元。在股价最低点，Google 市值蒸发 5240 亿美元，这是美股上市公司有史以来第二大单日市值缩水。仅次于英伟达在 2025 年 1 月 27 日因 DeepSeek 模型引发的市场震荡其市值单日缩水约 5930 亿美元。此前排名第二的单日跌幅由 SpaceX 创造，该公司在 6 月 22 日经历了 4000 亿美元的市值缩水"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "财报炸裂，但闪迪隔夜为何暴跌？",
+          "text": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784914",
-          "content": "闪迪交出全面超预期的财报，股价却在周五美股盘前一度暴跌8%。问题出在它的日本晶圆厂合作伙伴铠侠（Kioxia）：后者给出的利润指引不及预期，并警告AI推动的闪存涨价潮正在降温。 闪迪周四盘后的成绩单几乎挑不出毛病：营收和每股收益超预期，毛利率85%，指引高于华尔街预期，另追加50亿美元回购并宣布1拆8拆股。但股价盘后纹丝不动。 美东时间周五5:54，彭博报道了铠侠的指引，闪迪盘前最多跌至1197.57美元，较周三1419美元的高点回落1"
+          "link": "https://wallstreetcn.com/articles/3784943",
+          "content": "被人工智能淘汰的工人，正在陷入一场难以自救的循环。高盛最新研究显示， AI冲击劳动力市场的迹象已从科技行业蔓延至金融、保险、房地产和专业服务等更广泛领域，而失业工人不仅比其他被裁员者更难找到新工作，重新就业后往往又落入AI下一轮替代的射程之内。 高盛经济学家Pierfrancesco Mei在最新报告中写道，在非制造业领域，AI采用率较高的行业如今已呈现出更弱的就业增长和更高的失业率。数据显示，被AI高度暴露岗位淘汰的工人，再就业平均需"
         },
         {
-          "text": "AI股重挫而等权标普逆势涨1.2%，必需消费领涨并一度创新高",
+          "text": "谁能阻止科技股下跌？野村：中选没有用，只有美联储！",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784912",
-          "content": "周五早盘，AI股再遭重挫，纳斯达克100指数下跌3%，等权重标普500指数却逆势上涨约1.2%。指数之下的分化表明，跌幅高度集中在大型科技股和AI相关股票上。 标普500指数当时下跌1.5%。英特尔录得有记录以来最大日内跌幅，AI主导的抛售让本周的科技股跌势进一步加深；高盛追踪美国上市AI概念股的GS Broad AI US Index下跌4.7%。 防御板块则受到追捧。必需消费是标普500表现最好的板块，上涨1.64%，板块指数在纽约"
+          "link": "https://wallstreetcn.com/articles/3784939",
+          "content": "全球科技股深陷调整泥潭，市场普遍寄望于美国中期选举后的政策明朗化带来反弹契机，但野村证券策略师Naka Matsuzawa泼了一盆冷水。他明确指出， 中期选举结果对股市的影响远低于市场预期，当前唯一能够真正终结科技股跌势的催化剂，是美联储停止加息。 Matsuzawa在10月30日的宏观策略周报中预判，11月2日中选当周，美股将偏软，债市将偏强，美元偏弱，日元偏强。他认为， 科技股的疲弱根源并不在于选举不确定性，而在于AI投资前景承压与"
         },
         {
-          "text": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
+          "text": "决定下周市场走势！美国中选“最大悬念”：共和党意外守住参院 vs 民主党取得53席以上",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784910",
-          "content": "过去几年，AI公司轻松筹得数千亿美元，华尔街竞相出资、很少过问，主打一个“钱多事少”。如今，贷款机构和投资者开始变得挑剔起来，条款也愈发苛刻。 本周，AI行业最受追捧的两家头部玩家在资本市场上相继碰壁：黑石告诉投资者，Anthropic上市后恐怕只能拿到垃圾级评级；OpenAI则把新一轮融资目标从300亿美元砍到约200亿美元。 两件事指向同一个变化：对美国AI行业来说，廉价资金越来越难拿了。 太平洋投资管理公司（Pimco）首席投资官"
+          "link": "https://wallstreetcn.com/articles/3784933",
+          "content": "距离投票日不足一周，参议院控制权归属成为美股走势最关键变量。 花旗认为，蓝色横扫预期已基本被市场消化，真正的市场风险在于两个尾部情景：共和党意外守住参院，或民主党超预期拿下53席以上。 花旗研究（Citi Research）在10月30日发布的美股策略报告中指出，民主党横扫两院的概率已是当前最高情景，并在近期持续攀升，这一预期很大程度上已被纳入美股当前估值。然而，多个关键参院席位的民调结果仍处于误差范围之内，共和党守住参院并非没有可能。"
         },
         {
-          "text": "长鑫科技业绩交流会：LPDDR6瞄准汽车新场景，20亿回购获通过，强劲现金流支撑再投入",
+          "text": "已进入第二版！傅里叶帮Meta研发机器人原型，打造“Muse物理化身”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784905",
-          "content": "长鑫科技2026年三季度交出一份强劲成绩单，同时以LPDDR6首发旗舰手机为标志，正式宣示跻身全球高端存储第一梯队。 华尔街见闻提及 ，2026年第三季度，长鑫科技实现 营业收入 1187亿元，环比增长19%； 利润总额 990亿元，环比增长21%； 净利润 890亿元，环比增长19%； 毛利率 达89.53%，较二季度提升1.94个百分点， 营业利润率 83.43%再创历史高位。 前三季度 累计营收2690亿元，同比增长739%，净利"
+          "link": "https://wallstreetcn.com/articles/3784932",
+          "content": "Meta正在将其AI战略向物理世界延伸。 据The Information 1日援引知情人士透露， Meta Platforms已与中国机器人公司傅里叶（Fourier）联合研发出一款人形机器人原型，内部代号为&#34;Max&#34;，并已启动第二代版本的开发工作。 这是Meta自成立机器人业务部门以来最具实质性的进展，标志着这家社交媒体巨头在消费级机器人领域的布局正在加速落地。 Meta首席技术官Andrew Bosworth在公司"
         },
         {
-          "text": "2008再现！一文读懂华尔街最热门交易：AI CDS",
+          "text": "AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784900",
-          "content": "巴克莱银行（Barclays）发布了一份针对人工智能相关企业信用违约互换（CDS）市场的综合报告，指出 随着资本支出的大幅扩张，AI相关企业的信贷风险已出现显著的重新定价，其CDS交易量及利差均呈现急剧上升趋势。 10月29日，巴克莱银行报告指出，包括谷歌、亚马逊、Meta、微软、甲骨文等超大规模云计算服务商，以及AMD、博通、英伟达等芯片制造商在内的 10家核心AI企业，目前仅占CDX投资级指数成分的8%，但已占到该指数隐含信贷风险的"
+          "link": "https://wallstreetcn.com/articles/3784930",
+          "content": "美国AI扩张正在进入一个更严苛阶段：资本不再只为增长叙事买单，债市、财报和政治风险同时逼近，投资者开始要求AI投资证明其回报能力。 贷款人和投资者正变得更挑剔，并要求更严格条款。即便是SpaceX和Meta等大型科技相关发行人的债券也在大幅折价交易，CoreWeave，Nebius和Nscale等AI云公司近期实际上已被挡在债券市场门外。 财报季未能缓和疑虑，反而放大了市场对AI资本开支和自由现金流的担忧。Nasdaq 100指数10月"
         },
         {
-          "text": "国泰海通发布三季报：一个头部券商的“侧身过弯”",
+          "text": "下周重磅日程：非农、AMD和苹果财报齐至，但焦点都在美国中选",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784908",
-          "content": "国内证券业的“TOP”2之一，总资产规模领先者国泰海通发布三季报。 这是证券业在今年3季度整体面临调整市道时的一次关键业绩报告，其中的数据和细分行业表现更能反映一家公司的底层实力，而国泰海通显然跑出了自己的“姿势”。 体量登顶，业绩继续努力 2026年10月30日晚，合并后的国泰海通交出2026年的三季报。季报显示，公司前三季度营收 589.76亿元，同比 +28.51%；归母净利润 248.85亿元，同比 +12.73%；扣非归母净利"
+          "link": "https://wallstreetcn.com/articles/3784849",
+          "content": "11月02日 - 11月08日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 本周五，英特尔暴跌29%创历史最大单日跌幅，纳指录得一年多来最差月份。亚马逊资本支出创纪录、谷歌自由现金流转负、英特尔毛利率指引骤，AI交易信心遭重创，科技股全线血洗。 财报：下周苹果与AMD将是这轮AI抛售潮后接受检验的科技巨头 ——苹果共识营收约1130亿美元，系新任CEO特努斯首秀；AMD指引约130亿美元，Helios机柜与M"
         }
       ]
     },
@@ -136,21 +136,21 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "milind-soni/OpenMausBot：milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use（TypeScript）",
+          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
           "source": "GitHub",
-          "link": "https://github.com/milind-soni/OpenMausBot",
+          "link": "https://github.com/mattpocock/skills",
           "content": ""
         },
         {
-          "text": "pbakaus/impeccable：pbakaus / impeccable The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.（Rust）",
+          "text": "Donchitos/Claude-Code-Game-Studios：Donchitos / Claude-Code-Game-Studios Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.（Shell）",
           "source": "GitHub",
-          "link": "https://github.com/pbakaus/impeccable",
+          "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
           "content": ""
         },
         {
-          "text": "CopilotKit/OpenBot：CopilotKit / OpenBot Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.（TypeScript）",
+          "text": "pingdotgg/t3code（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/CopilotKit/OpenBot",
+          "link": "https://github.com/pingdotgg/t3code",
           "content": ""
         },
         {
@@ -160,9 +160,9 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "expo/skills：expo / skills A collection of AI agent skills for working with Expo projects and Expo Application Services（Shell）",
+          "text": "milind-soni/OpenMausBot：milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/expo/skills",
+          "link": "https://github.com/milind-soni/OpenMausBot",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-10-31","2026-10-30","2026-10-29","2026-10-28","2026-10-27","2026-10-26","2026-10-25","2026-10-24"];
+window.BRIEFING_ARCHIVE = ["2026-11-01","2026-10-31","2026-10-30","2026-10-29","2026-10-28","2026-10-27","2026-10-26","2026-10-25"];
