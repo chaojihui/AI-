@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-01T07:58:32.146Z
+// 由 GitHub Actions 自动生成 2026-11-02T08:05:35.274Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码",
+          "text": "Linux 7.4-rc1 释出",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85764",
-          "content": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只需一个两人团队就能重写思科的遗留代码。他"
+          "link": "https://www.solidot.org/story?sid=85770",
+          "content": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.4-rc1，关闭合并窗口，正式版本预计在圣诞节前发布。Linux 7.4 共包含了 18,591 个非合并（non-merge）变更集，这一数字创下了纪录；有 2,678 名开发者为 v7.4 贡献了代码，其中 625 人为首次。Torvalds 表示他乐见 AI 相关工作在合并窗口期间大量涌入，Linux 7.4 合并窗口合并的补丁规模高于通常的版本，显示 AI "
         },
         {
-          "text": "Sam Altman 认为 PC 内存闲置太糟糕",
+          "text": "Stack Overflow 表示它还活着",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85763",
-          "content": "OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块 DRAM 晶圆都直接流向数据中心，用于运行 AI 模型。他表示：“从全球资源配置角度看，让全球有限的 DRAM 供应分散在每个人的 PC 里且利用率可能仅有 5% 左右，这是非常糟糕的。在当前这种供应"
+          "link": "https://www.solidot.org/story?sid=85769",
+          "content": "Stack Overflow 自己的统计数据显示，它一个月内的新增问题数已经低于 1000。此事再次在社交媒体上引发了编程问答社区即将死亡的讨论。Stack Overflow 官方博客回应说，死亡预测夸大其词，混淆了获取知识方式的改变与知识本身——以及背后的公司——消失两个概念。AI 改变了开发者的行为。在 Stack Overflow 近期发布的《2026 年开发者调查》中，64% 的受访者表示，对于简单问题他们减少了访问 Stack"
         },
         {
-          "text": "中国首次载人登月计划由三人组成其中两人将着陆月球表面",
+          "text": "币安恢复提现后净流出 36.4 亿美元资产",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85762",
-          "content": "第七届载人航天学术大会星期六（10月31日）在北京航空航天大学举行。中国载人航天工程副总设计师兼月球探测工程总设计师王翔在会上介绍了中国首次载人月球探测任务乘组计划。中国计划在 2030 年前实现中国人登陆月球，首次载人月球探测计划采用环月轨道对接飞行模式，通过“两次发射，一次登月”的方式实现载人登月。这种模式将采用两枚长征十号运载火箭，先将着陆器送往月球轨道，然后再发射载人飞船与着陆器实现交会对接，航天员进入着陆器并与载人飞船分离着陆"
+          "link": "https://www.solidot.org/story?sid=85768",
+          "content": "在因黑客攻击短暂暂停提现之后，币安于周日恢复了提现功能。11 月 1 日上午 6 点 - 下午 3:30 UTC 之间，币安处理了 46.65 亿美元的提现和 10.1 亿美元的充值，净流出 36.4 亿美元。根据截至 10 月 28 日的最新储备金证明（Proof of Reserves）数据，币安总资产为 1710 亿美元，此次净流出占其总资产的 2.1%。币安创始人兼前 CEO 赵长鹏在社交媒体上表示，“98% 的用户选择留下！”"
         },
         {
-          "text": "黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币",
+          "text": "Google AI Mode 未给网站带来流量",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85761",
-          "content": "在一场被称为史上规模最大的加密货币窃案中，黑客仅用 20 分钟就从币安盗取了价值 63 亿美元的加密货币。币安随后暂停了提款和提现。约一半的被盗资金——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是无法被冻结的比特币、以太币和 XRP，可能难以追回了，币安的损失可能超过 30 亿美元。加密货币追踪公司 TRM Labs 的分析显示，币安在以太坊、比特币、波场和 Solana 等 10 个区块链上的钱包全部被"
+          "link": "https://www.solidot.org/story?sid=85767",
+          "content": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman 表示：“用户依然需要 Reddit，只是 Google 不再像过去那样将他们引导到 Reddit。”上季度来自 Google 搜索的引荐流"
         },
         {
-          "text": "Kogui 族人谈 AI",
+          "text": "数据中心抵消了过去 15 年美国的减排努力",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85760",
-          "content": "生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地球之子。他们认为，人类为获取资源而进行的开采、破坏和掠夺行为正在削弱万物之母的力量，这最终会导致人类的毁灭。对于最近几年生成式 AI 的发展，Kogui 族人也有类似的观点。他们认为：AI 无法与其背后的思想分离。如果这种思想源于对生命的关切，那么这项技术便有助于保护生命。 如果"
+          "link": "https://www.solidot.org/story?sid=85766",
+          "content": "Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将抵消过去 15 年电力行业在减排上取得的成果。随着数据中心对资源的需求持续增长，AI 基础设施的电力需求正以清洁能源电网无法跟上的速度快速增长。为绕过缓慢的公用电网接入排队流程，部分科技公司建设了主要依赖化石燃料的自备发电设施。到 2030 年由数据中心开发商建设或委托建设的离网发电"
         },
         {
-          "text": "英特尔股价暴跌 29%",
+          "text": "NASA 征询拯救哈勃望远镜的方案",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85757",
-          "content": "英特尔股价周五暴跌 29%，创芯片巨人最大单日跌幅，整个科技股市场受其影响呈现整体跌势。英特尔市值蒸发逾 1370 亿美元，PC 市场的持续低迷，抵消了该公司在 AI 领域及制造能力扩张方面的大规模投入。AMD、Arm Holdings、高通、英伟达、博通和美光等半导体公司股价跌幅在 2%-10% 之间。戴尔、HPE 和超微等服务器制造商的股价跌幅在 6%-10% 之间。英特尔预计第四季度营收将在 150-160 亿美元之间，低于分析师"
+          "link": "https://www.solidot.org/story?sid=85765",
+          "content": "哈勃望远镜在轨运行 36 年之后仍然极具价值，但它的轨道高度已经大幅下降，如果不采取行动它将于 2030 年代中期前重返大气层。NASA 本周公布了一份 Request For Information(RFI)，向商业公司征询提升哈勃的轨道、进行维护或对其进行受控重返大气层的方案。方案递交截至日期 11 月 30 日。NASA 未承诺是否资助一次哈勃拯救任务，它想知道有多少公司对此有兴趣，以及成本多少。哈勃的轨道高度已从 2002 年的"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场",
+          "text": "BTIG警告：美股已进入“陌生地带”，黄金或进一步下探至3500美元",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784943",
-          "content": "被人工智能淘汰的工人，正在陷入一场难以自救的循环。高盛最新研究显示， AI冲击劳动力市场的迹象已从科技行业蔓延至金融、保险、房地产和专业服务等更广泛领域，而失业工人不仅比其他被裁员者更难找到新工作，重新就业后往往又落入AI下一轮替代的射程之内。 高盛经济学家Pierfrancesco Mei在最新报告中写道，在非制造业领域，AI采用率较高的行业如今已呈现出更弱的就业增长和更高的失业率。数据显示，被AI高度暴露岗位淘汰的工人，再就业平均需"
+          "link": "https://wallstreetcn.com/articles/3784985",
+          "content": "美股指数表面平静之下，内部正经历2000年以来罕见的剧烈撕裂。BTIG Research在11月1日发布的报告中警告，当前这场剧烈的板块轮动尚未结束，市场远未触及真正意义上的底部。 在过去五个交易日里，五个板块涨幅超过2%，同时两个板块跌幅超过5%， 但VIX始终未能收于20上方——这一看似矛盾的组合，恰恰揭示了问题所在：波动率被横截面轮动所吸收，指数层面的平静掩盖了内部结构的脆弱。BTIG认为，这种低VIX状态并不构成安全垫，相关性在"
         },
         {
-          "text": "谁能阻止科技股下跌？野村：中选没有用，只有美联储！",
+          "text": "美股现“隐形熊市”？10月AI股大跌13%、“标普500剔除AI”后创下新高",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784939",
-          "content": "全球科技股深陷调整泥潭，市场普遍寄望于美国中期选举后的政策明朗化带来反弹契机，但野村证券策略师Naka Matsuzawa泼了一盆冷水。他明确指出， 中期选举结果对股市的影响远低于市场预期，当前唯一能够真正终结科技股跌势的催化剂，是美联储停止加息。 Matsuzawa在10月30日的宏观策略周报中预判，11月2日中选当周，美股将偏软，债市将偏强，美元偏弱，日元偏强。他认为， 科技股的疲弱根源并不在于选举不确定性，而在于AI投资前景承压与"
+          "link": "https://wallstreetcn.com/articles/3784984",
+          "content": "纳斯达克100指数25天内蒸发逾4万亿美元，但美股的另一面却在悄然创出纪录——这一罕见分裂正在重塑市场格局。 据美国独立宏观研究机构The Kobeissi Letter 1日发布的研究报告，AI相关股票10月累计下跌超13%，与此同时，剔除AI成分后的&#34;标普500&#34;指数却上涨8%，并于上周五刷新历史高点。这一历史性背离表明，美股内部正在上演一场结构性轮动。 该机构将这一现象定义为&#34;隐形熊市&#34;——标普50"
         },
         {
-          "text": "决定下周市场走势！美国中选“最大悬念”：共和党意外守住参院 vs 民主党取得53席以上",
+          "text": "高盛：美股出现七大“修复”信号，但投资者得先熬过2026年",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784933",
-          "content": "距离投票日不足一周，参议院控制权归属成为美股走势最关键变量。 花旗认为，蓝色横扫预期已基本被市场消化，真正的市场风险在于两个尾部情景：共和党意外守住参院，或民主党超预期拿下53席以上。 花旗研究（Citi Research）在10月30日发布的美股策略报告中指出，民主党横扫两院的概率已是当前最高情景，并在近期持续攀升，这一预期很大程度上已被纳入美股当前估值。然而，多个关键参院席位的民调结果仍处于误差范围之内，共和党守住参院并非没有可能。"
+          "link": "https://wallstreetcn.com/articles/3784976",
+          "content": "美股10月以一轮剧烈震荡收官，高盛衍生品策略师Brian Garrett在最新周报中梳理出七大市场&#34;修复&#34;信号，认为当前定位与情绪已释放出逆向买入依据——但他同时坦言，真正的考验还没结束：&#34;我们只需要先熬过2026年。&#34; 纳斯达克100指数10月累计下跌约7%，为AI行情2023年启动以来表现第二差的月份，并陷入年内第三次调整。芯片股周五单日重挫7%至8%，创逾15年来第三大单日相对跌幅；费城半导体指数在"
         },
         {
-          "text": "已进入第二版！傅里叶帮Meta研发机器人原型，打造“Muse物理化身”",
+          "text": "午后拉升！创业板大涨近3%，金融科技ETF午后批量涨停，传媒、券商爆发，恒科指涨3%，权重科网股集体大涨",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784932",
-          "content": "Meta正在将其AI战略向物理世界延伸。 据The Information 1日援引知情人士透露， Meta Platforms已与中国机器人公司傅里叶（Fourier）联合研发出一款人形机器人原型，内部代号为&#34;Max&#34;，并已启动第二代版本的开发工作。 这是Meta自成立机器人业务部门以来最具实质性的进展，标志着这家社交媒体巨头在消费级机器人领域的布局正在加速落地。 Meta首席技术官Andrew Bosworth在公司"
+          "link": "https://wallstreetcn.com/articles/3784968",
+          "content": "11月2日，A股三大股指午后维持涨势，三大股指均涨超1%，创业板涨近3%。AI应用、AI办公、短剧游戏等概念股集体爆发，券商、白酒等板块拉升，国金证券、太平洋证券涨停，水井坊、皇台酒业等涨停，物理AI、机器人概念股早盘调整之后强势拉升，宇树科技涨超3%，此前一度跌9%。贵金属、煤炭、军工等板块回落。国际现货黄金上周五遭遇猛烈抛售，击穿3900美元关口，拖累贵金属和贵金属期货走势。 据上海证券报，&#34;有证券公司、基金公司接到通知，1"
         },
         {
-          "text": "AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？",
+          "text": "报道：美方推动俄气经乌克兰管道恢复对欧销售，拟促成俄乌能源停火",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784930",
-          "content": "美国AI扩张正在进入一个更严苛阶段：资本不再只为增长叙事买单，债市、财报和政治风险同时逼近，投资者开始要求AI投资证明其回报能力。 贷款人和投资者正变得更挑剔，并要求更严格条款。即便是SpaceX和Meta等大型科技相关发行人的债券也在大幅折价交易，CoreWeave，Nebius和Nscale等AI云公司近期实际上已被挡在债券市场门外。 财报季未能缓和疑虑，反而放大了市场对AI资本开支和自由现金流的担忧。Nasdaq 100指数10月"
+          "link": "https://wallstreetcn.com/articles/3784980",
+          "content": "美国正寻求重启经由乌克兰管道输送俄罗斯天然气至欧洲的方案。 据 CCTV国际时讯 ，据《华尔街日报》当地时间11月1日援引美国、欧洲及乌克兰官员的话报道称，美国正支持通过过境乌克兰的管道，恢复俄罗斯对欧洲的天然气出口。报道称，此举是有关各方为在入冬前达成“能源停火”而进行的谈判的一部分。 该计划由美国特使Jared Kushner和Steve Witkoff在今年9月访问莫斯科和基辅期间提出，方案核心是通过美国中间商销售俄罗斯天然气，以"
         },
         {
-          "text": "下周重磅日程：非农、AMD和苹果财报齐至，但焦点都在美国中选",
+          "text": "数据中心监管压力加剧！美国多州州长候选人支持暂停建设",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3784849",
-          "content": "11月02日 - 11月08日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 本周五，英特尔暴跌29%创历史最大单日跌幅，纳指录得一年多来最差月份。亚马逊资本支出创纪录、谷歌自由现金流转负、英特尔毛利率指引骤，AI交易信心遭重创，科技股全线血洗。 财报：下周苹果与AMD将是这轮AI抛售潮后接受检验的科技巨头 ——苹果共识营收约1130亿美元，系新任CEO特努斯首秀；AMD指引约130亿美元，Helios机柜与M"
+          "link": "https://wallstreetcn.com/articles/3784963",
+          "content": "美国数据中心行业正面临来自政治层面的系统性压力。在本轮州长选举中，支持暂停数据中心建设的候选人遍布全美多个关键州，无论选举结果如何，该行业可建设空间将进一步收窄，运营成本也将随之上升。 科技媒体The Information 11月1日报道，据对候选人政纲及公开表态的分析， 在本周二（11月3日）举行州长选举的36个州中，有21个州至少有一位主要政党候选人支持对数据中心实施暂停令 。其中，5个州的两位候选人均支持暂停（密歇根、新罕布什尔"
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
-          "text": "本月玩什么｜影之刃零、战争机器：事变日等",
+          "text": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
           "source": "少数派",
-          "link": "https://sspai.com/post/117960",
-          "content": "欢迎你在评论区分享 10 月新作的游玩体验。<a href=&#34;https://sspai.com/post/117960&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/118122",
+          "content": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=&#34;https://sspai.com/post/118122&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "一图流 | 一张图看懂中国版 Apple 智能",
+          "text": "Xnip 十周年：长截图的新生，也是新的起点",
           "source": "少数派",
-          "link": "https://sspai.com/post/117953",
-          "content": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。<a href=&#34;https://sspai.com/post/117953&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/115662",
+          "content": "十年是一个里程碑，也是新的起点。<a href=&#34;https://sspai.com/post/115662&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "本周看什么 | 最近值得一看的 9 部作品",
+          "text": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
           "source": "少数派",
-          "link": "https://sspai.com/post/117867",
-          "content": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...<a href=&#34;https://sspai.com/post/117867&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/118191",
+          "content": "<p>Apple 智能将随 iOS 27.3 登陆中国</p><p>苹果对闪存的议价权受到压制</p><p>Claude Code 官方扩展被植入后门</p><p>美国 FCC 禁止中国实验室认证输美电子产品</p><p>百度网盘通过磁力计数据规避「摇一摇」广告权限</p><p>币安 63 亿美元资产被盗</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=&#34;https"
         },
         {
-          "text": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
+          "text": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
           "source": "少数派",
-          "link": "https://sspai.com/post/116047",
-          "content": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。<a href=&#34;https://sspai.com/post/116047&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "link": "https://sspai.com/post/116991",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/116991&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
-          "source": "少数派",
-          "link": "https://sspai.com/prime/story/zhuanglesha-261030",
-          "content": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...<a href=&#34;https://sspai.com/prime/story/zhuanglesha-261030&#34; target=&#34;_blank&#34;>查看全文</a><p>本文为会员文章，出自<a h"
+          "text": "HackerTube: YouTube built from videos recommended by HN（2500 分 · 557 评论）",
+          "source": "Hacker News",
+          "link": "https://karpathy.bearblog.dev/hacker-tube/",
+          "content": ""
         },
         {
-          "text": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
-          "source": "少数派",
-          "link": "https://sspai.com/post/116435",
-          "content": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。<a href=&#34;https://sspai.com/post/116435&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "text": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN（1291 分 · 223 评论）",
+          "source": "Hacker News",
+          "link": "https://hackerbooks.org",
+          "content": ""
         }
       ]
     },
@@ -136,15 +136,15 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
+          "text": "lightpanda-io/browser：lightpanda-io / browser Lightpanda: the headless browser designed for AI and automation（Zig）",
           "source": "GitHub",
-          "link": "https://github.com/mattpocock/skills",
+          "link": "https://github.com/lightpanda-io/browser",
           "content": ""
         },
         {
-          "text": "Donchitos/Claude-Code-Game-Studios：Donchitos / Claude-Code-Game-Studios Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.（Shell）",
+          "text": "shiyu-coder/Kronos：shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets（Python）",
           "source": "GitHub",
-          "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "link": "https://github.com/shiyu-coder/Kronos",
           "content": ""
         },
         {
@@ -154,15 +154,15 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "Renhuai123/ziwei-doushu：Renhuai123 / ziwei-doushu 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/Renhuai123/ziwei-doushu",
-          "content": ""
-        },
-        {
           "text": "milind-soni/OpenMausBot：milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use（TypeScript）",
           "source": "GitHub",
           "link": "https://github.com/milind-soni/OpenMausBot",
+          "content": ""
+        },
+        {
+          "text": "public-apis/public-apis：public-apis / public-apis A collective list of free APIs（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/public-apis/public-apis",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-01","2026-10-31","2026-10-30","2026-10-29","2026-10-28","2026-10-27","2026-10-26","2026-10-25"];
+window.BRIEFING_ARCHIVE = ["2026-11-02","2026-11-01","2026-10-31","2026-10-30","2026-10-29","2026-10-28","2026-10-27","2026-10-26"];
