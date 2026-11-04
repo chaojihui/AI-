@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-03T08:27:01.256Z
+// 由 GitHub Actions 自动生成 2026-11-04T07:54:43.741Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "全球加速发展核电",
+          "text": "币安称黑客通过虚假工作面试入侵工程师笔记本电脑",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85782",
-          "content": "全球在建核电站已增至 79 个机组，达到 40 年来的高水平。据世界核协会统计，2026 年全球有 11 个新核电机组开工建设，截至 10 月 16 日，在建核电机组数量达到 79 个。这是 1986 年（91 个）以来的高位。1986 年是切尔诺贝利核电站事故发生的年份，此后全球新建核电机组数量有所减少。如果将预计未来 15 年内投入运营的正在规划的核电机组也计算在内，数量将达到 201 个。目前全球在运核电机组共有 443 个。即使"
+          "link": "https://www.solidot.org/story?sid=85789",
+          "content": "币安官方博客披露了黑客如何窃取价值 63 亿美元加密货币的初步调查报告。报告称，攻击始于今年六月： 2026 年 6 月——供应链攻击。钱包开发运维团队的工程师 A 为安装一款热门 AI 编程工具，通过搜索引擎查找并下载了一个遭篡改的 Homebrew 安装程序。我们的安全团队主动检测到了这一异常，更换了该设备，同时轮换了所有相关凭证。尽管如此，工程师 A 的岗位信息，以及其钱包基础设施团队中的相关同事信息，仍已暴露给攻击者。 9月——"
         },
         {
-          "text": "Tor Browser 16.0 释出",
+          "text": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85781",
-          "content": "Tor Browser 16.0 释出，它是首个基于 Firefox ESR 153 的稳定版本。主要变化包括：Linux 版本支持 64 位 ARM 架构，重新设计设置，名为通用窗口标题（generic window titles）的功能有助于防止其它应用窥探用户的浏览器活动，Android 版本使用 Google 的 Material Design 3 更新了界面，停止支持 32 位 x86 Linux 系统，等等。更多变化可浏览更"
+          "link": "https://www.solidot.org/story?sid=85788",
+          "content": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。《纽约时报》发言人 Gr"
         },
         {
-          "text": "Swift 天文台将于 11 月 4 日重返大气层",
+          "text": "Google 将对拒绝 AI 的美国学校关闭搜索",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85780",
-          "content": "拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年活跃的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。10 月 2"
+          "link": "https://www.solidot.org/story?sid=85787",
+          "content": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phillips 表示，搜索与 AI 已深度融合，如果学校禁用了 AI，那么学生将无法使用搜索。美国 K-12 学校广泛使用 Google 的软件"
         },
         {
-          "text": "北欧将可能出现 40°C 高温",
+          "text": "Fedora Linux 45 释出",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85779",
-          "content": "挪威、瑞典和芬兰等北欧国家传统上经历的热浪强度低于欧洲大陆的其它地区。然而在近年的极端天气事件中，例如 2026 年的热浪，欧洲大部分地区都观测到了异常高温，40 °C 的高温天气也出现在比以往更靠北的地区。根据发表在《npj Natural Hazards》期刊上的一项研究，芬兰科学家报告，北欧出现 40°C 高温不再像以前认为的那样不可能发生。研究人员估算，2025 年北欧某个地点 40 °C 的年发生率为 0.53%，比 1981"
+          "link": "https://www.solidot.org/story?sid=85786",
+          "content": "Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma Desktop、Fedora Server、Fedora Cloud、Fedora CoreOS 和 Fedora IoT，以及 Atomic Desktops 等众多衍生版本。Fedora Linux 45 的主要变化包括：支持通过 Anaconda 或 Kickstart "
         },
         {
-          "text": "国际空间站 PrK 模块因漏气被关闭",
+          "text": "科学家发现 1.15 亿年前的恐龙红细胞",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85778",
-          "content": "专注于报道俄罗斯太空新闻的媒体 Russianspacewe 称，位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块已被永久关闭。NASA 以及俄罗斯航天局尚未正式宣布这一消息，但早在 6 月就有消息称俄罗斯计划退役漏气的国际空间站 PrK 模块。PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但 6 月报告漏气再次加剧，该模块的裂缝总数达到 16 "
+          "link": "https://www.solidot.org/story?sid=85785",
+          "content": "血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。然而澳大利亚科廷大学的研究团队在 PNAS 上发表论文称，凭借多条证据，他们在巴西一只 1.15 亿年前的恐龙遗骸中发现了最古老的红细胞化石。这项研究的对象是巴西恐龙“阿拉塔龙”的骨骼化石。研究人员估计，这只恐龙体长约 3 米、重约 34 公斤，死亡后遗体沉入水底，微生物生长并将其掩埋，从而保存了下来。在显微镜下，研究人员在这只恐"
         },
         {
-          "text": "鳄鱼为何免受毁灭恐龙的小行星的影响？",
+          "text": "Enlightenment 0.28.0 释出，初步支持 BSD",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85777",
-          "content": "小行星灭绝了恐龙，鳄鱼为何幸存？科学家或许解开了这个困扰6600万年的谜团。一项大规模化石与古气候分析表明，鳄鱼偏爱温暖环境的习性，让它们在小行星撞击后仍能栖身于条件尚可的热带“避难所”。研究团队发现，鳄鱼及其远古近亲在长达 2.5 亿年的演化史中，始终“追着温暖气候走”，而非适应剧烈变化的温度。地球变暖时，它们扩散到新区域，最远抵达南极洲；气温回落时，它们再退回热带。研究分析了 7000 多块化石、400 多种现存与灭绝物种的记录，并"
+          "link": "https://www.solidot.org/story?sid=85783",
+          "content": "轻量级桌面环境 Enlightenment 项目释出了 v0.28.0。主要变化包括：初步支持 NetBSD，支持 Network Manager，原生支持 PipeWire，新的剪贴板管理器，电池管理、AC 轮询等相关代码进行重写，新增设置电池阈值和支持 ACPI 电源配置等等，以及大量 bug 修复和更改。"
         }
       ]
     },
@@ -48,46 +48,70 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "沪指尾盘险守3600点，多只宽基ETF尾盘“爆量”，科创50跌近4%，“易中天”集体大跌，电池产业链逆势拉升",
+          "text": "民主党大胜，全球股市“先崩后拉”、金银大涨，市场在交易什么？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785042",
-          "content": "11月3日，A股全天震荡下跌，三大指数午后进一步下跌，沪指盘中再度失守3600点，尾盘跌幅收窄至1%以内，上证50尾盘翻红，得益于多只宽基ETF的放量，创业板跌超2%，科创50指数暴跌近4%。算力硬件集体调整，光通信、光模块、光芯片、GPU、电路板、覆铜板等概念股全线下跌，电池产业链拉升，宁德时代盘中一度涨超5%。AI漫剧、军工、贵金属、食品饮料等板块活跃。 值得注意的是，午后，多只宽基ETF突然大幅放量。截至收盘，共有6只产品成交额破"
+          "link": "https://wallstreetcn.com/articles/3785154",
+          "content": "民主党在美国中期选举中实现历史性横扫，不仅夺回国会众参两院控制权，更在得克萨斯、南卡罗来纳、堪萨斯等传统共和党票仓实现意外翻转。这一结果重塑了市场对美国财政路径、AI监管前景与利率走势的预期，全球资产价格随之剧烈重定价。 全球市场经历了典型的&#34;利空出尽&#34;行情。纳斯达克100指数期货一度跌超2%，标普500期货跌逾1%，VIX恐慌指数期货冲破20关口；随后多空易位，美股期货逐步收窄跌幅，韩国综合股价指数由跌4%转为翻涨，黄"
         },
         {
-          "text": "世界黄金协会：下调全年黄金投资需求增长预期至200吨，全球央行购金提速、ETF持仓创新高",
+          "text": "共和党中选失利、4.5亿美元泡汤？“大金主”马斯克发声",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785076",
-          "content": "受金价自历史高点大幅回落影响，全球实物黄金市场呈现明显分化：机构需求持续强劲，散户买盘则显著降温。世界黄金协会（WGC）周二将2026年全年黄金投资需求增长预测由400吨下调至200吨，原因是金条和金币需求明显放缓——尽管实物黄金ETF的表现超出此前预期。 根据WGC最新发布的2026年三季度《全球黄金需求趋势》报告， 三季度全球黄金总需求（含场外交易）同比下降1%， 至1369吨，与2025年创纪录水平基本持平。 与此同时， 全球央行"
+          "link": "https://wallstreetcn.com/articles/3785153",
+          "content": "共和党中选失利、民主党大获全胜，马斯克押注共和党的近4.5亿美元政治豪赌或就此落空，其旗下特斯拉与SpaceX股价承压，科技股与AI基础设施板块亦遭到波及。 11月4日，马斯克在社交媒体上以自嘲口吻发声：“我干预选举的激光通信这次可能没起作用。”现有申报记录显示， 为帮助美国共和党在中期选举中胜出，马斯克已向联邦政治委员会捐赠4.45亿美元，他也因此成为此次中期选举最大的个人金主。 然而，民主党不仅夺回众议院控制权，更在多个关键参议院席"
         },
         {
-          "text": "美国中选“最可能剧本”，将是美股“最危险剧本”？",
+          "text": "24家券商确认中标，第三批SFISF落地千亿元",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785069",
-          "content": "预测市场显示民主党中选横扫两院的概率接近三分之二，而这恰恰是华尔街预测模型中对美股最不友好的选举结果。 摩根大通援引预测市场数据，截至11月1日，民主党同时夺取众议院和参议院的概率为66%。而在摩根大通的区间预测中， &#34;蓝色浪潮&#34;（民主党大胜）是唯一一个涵盖指数下跌可能性的情景。其余所有结果——无论是民主党仅拿下众议院、共和党守住两院，还是分裂国会——均指向股市上涨。 对AI板块而言，民主党横扫国会的影响尤为直接。 高盛"
+          "link": "https://wallstreetcn.com/articles/3785157",
+          "content": "央行第三批证券、基金、保险公司互换便利（SFISF）操作结果陆续出炉，目前已有31家机构申报需求，意向申报额度超过1000亿元，远超前两批单轮规模。 根据披露信息已有24家券商确认中标。其中，中信证券、国泰海通、东吴证券等券商官宣中标额度，招商证券、平安证券等多家披露中标信息，广发、国信证券确认连续三批参与投标。 已披露中标额度合计超400亿元 11月3日，中信证券、国泰海通证券、东吴证券、国投证券、长城证券、华福证券、浙商证券、财通证"
         },
         {
-          "text": "报告：红果用户数量超越豆包，移动互联网用户加速流向短剧和AI",
+          "text": "大买家撤了！“稳定币老大”Tether也开始卖黄金了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785073",
-          "content": "移动互联网流量红利已近尾声，用户时长争夺成为新主战场。QuestMobile最新发布的2026中国移动互联网秋季大报告显示，在用户规模增速跌回1%以内的背景下，短剧视频与AI应用正以截然不同的路径重构行业格局——前者吞噬传统内容时长，后者加速渗透用户决策链路。 报告数据显示，截至2026年9月，移动互联网月活用户规模达12.81亿，同比增长仅0.9%；但月人均使用时长维持高增速，9月达189.8小时，同比增长6.5%，显示出存量竞争下时"
+          "link": "https://wallstreetcn.com/articles/3785124",
+          "content": "全球最大稳定币发行商Tether在2026年三季度小幅减持了黄金储备，结束了此前数个季度持续增持的势头。 据追风交易台消息，Jefferies在11月3日发布的研究报告中称， Tether截至2026年9月30日的披露黄金持仓合计约165吨（约合219亿美元），较二季度末的约168吨减少约3吨 ，为近期首次出现环比下降。这一减少完全来自USDT储备中黄金持仓的收缩，XAU₮对应的黄金储备则维持不变。 对于Tether三季度的减持，Jef"
         },
         {
-          "text": "美科技巨头加速发欧元债，AI相关供给或推高欧洲企业与主权融资成本",
+          "text": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，芯片半导体强势飙升，恒指、恒科指齐涨超1%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785064",
-          "content": "美国科技巨头正将融资触角伸向欧元债券市场，由此引发的大规模债券供给浪潮，正在对欧洲信用市场构成新压力。 Meta正筹划首次发行欧元债券，作为其规模至少达200亿美元跨境融资计划的一部分；谷歌同期推进一笔60亿欧元的债券交易，且须向投资者提供明显高于年初同类交易的收益率，方能完成认购。 密集的科技巨头供给涌入，令市场对欧洲企业乃至主权发行人融资成本是否因此承压的担忧持续升温。 这一趋势折射出AI基础设施建设浪潮对全球资本市场的深远影响。摩"
+          "link": "https://wallstreetcn.com/articles/3785133",
+          "content": "11月4日，A股午后直线拉升，三大股指集体大涨，沪指涨近2%，创业板暴涨超6%。科创综指和科创50延续涨势，均飙涨超9%，得益于物理AI和半导体、算力硬件等科技股拉升。半导体板块反弹，托伦斯、恒玄科技涨幅居前。机器人、物理AI概念拉升，索辰科技、征和工业、福莱新材等涨停。文化传媒、生物科技等活跃。地产、大消费陷入调整。光模块发反弹，“易中天”集体拉升。 港股午后亦拉升，恒指、恒科指盘初双双上涨，恒指涨近1%，恒科指涨近1%，盘中一度跌近"
         },
         {
-          "text": "前美国陆军部长加入OpenAI，出任国家安全与现代化事务高级顾问",
+          "text": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货V型反弹，韩股转涨，美债上涨，黄金站上4000美元",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785063",
-          "content": "OpenAI正在加速布局国家安全领域。 这家全球领先的人工智能公司周一（11月2日）宣布，前美国陆军部长Dan Driscoll将以“国家安全现代化高级顾问”（Senior Counselor for National Security Modernization）身份加盟，专注于推动先进AI在国家安全和网络安全领域的实际应用。 这是OpenAI专为此目的新设的职位。 Dan Driscoll将与政府、产业界、学术界及盟友机构的领导层紧"
+          "link": "https://wallstreetcn.com/articles/3785134",
+          "content": "民主党在美国中期选举中取得压倒性胜利，不仅夺回国会参众两院控制权，更在多个传统共和党票仓实现历史性突破。 全球市场经历了剧烈的“先跌后涨”行情：美股期货一度跳水、纳指期货跌超2%，随后逐步收窄跌幅；美债全线走强，黄金重回4000美元上方，韩股由跌4%转为翻涨。 据 新华社 援引美国媒体3日预测，民主党不仅将在中期选举中夺得国会众议院控制权，还连续在多个关键州击败共和党获得国会参议院席位。 据 央视新闻 ， 美东时间11月3日深夜，特朗普"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115819",
+          "content": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。<a href=&#34;https://sspai.com/post/115819&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "国行 Apple 智能上手：这些功能已经准备好",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118404",
+          "content": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。<a href=&#34;https://sspai.com/post/118404&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118402",
+          "content": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。<a href=&#34;https://sspai.com/post/118402&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118263",
+          "content": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。<a href=&#34;https://sspai.com/post/118263&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
           "source": "少数派",
@@ -99,30 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/118211",
           "content": "把喜欢的图烧进 CD 里，你也可以。<a href=&#34;https://sspai.com/post/118211&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118232",
-          "content": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。<a href=&#34;https://sspai.com/post/118232&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派评 | 近期值得关注的 App",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118240",
-          "content": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。<a href=&#34;https://sspai.com/post/118240&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118122",
-          "content": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=&#34;https://sspai.com/post/118122&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "Xnip 十周年：长截图的新生，也是新的起点",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115662",
-          "content": "十年是一个里程碑，也是新的起点。<a href=&#34;https://sspai.com/post/115662&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,39 +130,39 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "vercel-labs/agent-desktop：vercel-labs / agent-desktop Computer use CLI for AI agents（Rust）",
-          "source": "GitHub",
-          "link": "https://github.com/vercel-labs/agent-desktop",
-          "content": ""
-        },
-        {
           "text": "thedotmack/claude-mem：thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More（TypeScript）",
           "source": "GitHub",
           "link": "https://github.com/thedotmack/claude-mem",
           "content": ""
         },
         {
-          "text": "D4Vinci/Scrapling：D4Vinci / Scrapling 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev（Python）",
+          "text": "vercel-labs/agent-desktop：vercel-labs / agent-desktop Computer use CLI for AI agents（Rust）",
           "source": "GitHub",
-          "link": "https://github.com/D4Vinci/Scrapling",
+          "link": "https://github.com/vercel-labs/agent-desktop",
           "content": ""
         },
         {
-          "text": "hyprwm/Hyprland：hyprwm / Hyprland Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.（C++）",
+          "text": "max-sixty/worktrunk：max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows（Rust）",
           "source": "GitHub",
-          "link": "https://github.com/hyprwm/Hyprland",
+          "link": "https://github.com/max-sixty/worktrunk",
           "content": ""
         },
         {
-          "text": "Donchitos/Claude-Code-Game-Studios：Donchitos / Claude-Code-Game-Studios Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.（Shell）",
+          "text": "JustVugg/colibri：JustVugg / colibri A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.（C）",
           "source": "GitHub",
-          "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "link": "https://github.com/JustVugg/colibri",
           "content": ""
         },
         {
-          "text": "FlashML-org/FreeToken：FlashML-org / FreeToken FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.（Python）",
+          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
           "source": "GitHub",
-          "link": "https://github.com/FlashML-org/FreeToken",
+          "link": "https://github.com/mattpocock/skills",
+          "content": ""
+        },
+        {
+          "text": "p-e-w/heretic：p-e-w / heretic Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/p-e-w/heretic",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-03","2026-11-02","2026-11-01","2026-10-31","2026-10-30","2026-10-29","2026-10-28","2026-10-27"];
+window.BRIEFING_ARCHIVE = ["2026-11-04","2026-11-03","2026-11-02","2026-11-01","2026-10-31","2026-10-30","2026-10-29","2026-10-28"];
