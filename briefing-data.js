@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-04T07:54:43.741Z
+// 由 GitHub Actions 自动生成 2026-11-05T08:21:10.009Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "币安称黑客通过虚假工作面试入侵工程师笔记本电脑",
+          "text": "Swift 天文台从印尼上空重返大气层",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85789",
-          "content": "币安官方博客披露了黑客如何窃取价值 63 亿美元加密货币的初步调查报告。报告称，攻击始于今年六月： 2026 年 6 月——供应链攻击。钱包开发运维团队的工程师 A 为安装一款热门 AI 编程工具，通过搜索引擎查找并下载了一个遭篡改的 Homebrew 安装程序。我们的安全团队主动检测到了这一异常，更换了该设备，同时轮换了所有相关凭证。尽管如此，工程师 A 的岗位信息，以及其钱包基础设施团队中的相关同事信息，仍已暴露给攻击者。 9月——"
+          "link": "https://www.solidot.org/story?sid=85802",
+          "content": "NASA Neil Gehrels Swift 天文台于 11 月 4 日 7:39 a.m. EST 从印尼苏门答腊上空再入大气层，坐标为北纬 3.4 度、东经 98.6 度。天文台的大部分组件在重返大气层过程中烧毁，可能有部分组件幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年的太阳活动加速了其坠落。今"
         },
         {
-          "text": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
+          "text": "任天堂最大 ROM 芯片供应商准备退出",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85788",
-          "content": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。《纽约时报》发言人 Gr"
+          "link": "https://www.solidot.org/story?sid=85801",
+          "content": "任天堂 Switch 游戏机实体游戏卡带使用的 ROM 芯片供应也受到了 AI 热的影响。任天堂最大 ROM 芯片供应商旺宏电子在其第三季度财报中宣布它准备终止 ROM 芯片生产，脱离游戏行业。旺宏电子表示，ROM 芯片的产量在过去一年中缩减了 39%，目前仅占其业务总量的 5%。ROM 芯片正逐渐被利润更高、需求更旺盛的其它存储芯片所取代。这意味着任天堂未来只能依靠其它 ROM 芯片供应商如罗姆（Rohm）和蓝碧半导体（Lapis S"
         },
         {
-          "text": "Google 将对拒绝 AI 的美国学校关闭搜索",
+          "text": "新型牙刷通过产生电对抗牙菌斑病原体",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85787",
-          "content": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phillips 表示，搜索与 AI 已深度融合，如果学校禁用了 AI，那么学生将无法使用搜索。美国 K-12 学校广泛使用 Google 的软件"
+          "link": "https://www.solidot.org/story?sid=85800",
+          "content": "一款新型牙刷可通过刷毛移动产生电能，进而可对抗产生牙菌斑的病原体。在为期 3 个月、涉及 115 名志愿者的试验中，牙刷在减少口腔中导致龋齿和牙周炎的细菌方面的效果优于常规的机械刷牙法。牙刷是人类对抗牙菌斑的最强战士，它每晚都能物理性地清除牙齿上的细菌生物膜。然而细菌总会卷土重来，因此每天早晨都会重新开始这场战斗。北京大学口腔医学院的研究人员研发出一种牙刷，其压电单丝刷毛在刷牙过程中弯曲时会产生电荷。这一过程会产生活性氧，进而能破坏牙齿"
         },
         {
-          "text": "Fedora Linux 45 释出",
+          "text": "AMD 营收预计将首次超过英特尔",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85786",
-          "content": "Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma Desktop、Fedora Server、Fedora Cloud、Fedora CoreOS 和 Fedora IoT，以及 Atomic Desktops 等众多衍生版本。Fedora Linux 45 的主要变化包括：支持通过 Anaconda 或 Kickstart "
+          "link": "https://www.solidot.org/story?sid=85799",
+          "content": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿美元，其增长几乎停滞。相比下 AMD 预计下一季度营收将达到约 170 亿美元。如果达到这一目标，这将标志着 AMD 营收首次超过英特尔。"
         },
         {
-          "text": "科学家发现 1.15 亿年前的恐龙红细胞",
+          "text": "韩国游戏 PC 启动器被植入恶意代码",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85785",
-          "content": "血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。然而澳大利亚科廷大学的研究团队在 PNAS 上发表论文称，凭借多条证据，他们在巴西一只 1.15 亿年前的恐龙遗骸中发现了最古老的红细胞化石。这项研究的对象是巴西恐龙“阿拉塔龙”的骨骼化石。研究人员估计，这只恐龙体长约 3 米、重约 34 公斤，死亡后遗体沉入水底，微生物生长并将其掩埋，从而保存了下来。在显微镜下，研究人员在这只恐"
+          "link": "https://www.solidot.org/story?sid=85798",
+          "content": "韩国游戏《胜利女神：新的希望（NIKKE）》的 PC 启动器被植入恶意代码。恶意代码是通过纂改 Level Infinite CDN 分发的四个官方 JavaScript 文件实现的，篡改发生于 2026 年 9 月 27 日前后，攻击则始于 2026 年 10 月 23 日到 11 月 3 日，在此期间打开 PC 启动器的用户可能会被植入木马。恶意程序会窃取浏览器保存的密码、Windows 凭据管理器信息、SSH 密钥以及云服务或 A"
         },
         {
-          "text": "Enlightenment 0.28.0 释出，初步支持 BSD",
+          "text": "法国银行被盗走 1.18 亿欧元",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85783",
-          "content": "轻量级桌面环境 Enlightenment 项目释出了 v0.28.0。主要变化包括：初步支持 NetBSD，支持 Network Manager，原生支持 PipeWire，新的剪贴板管理器，电池管理、AC 轮询等相关代码进行重写，新增设置电池阈值和支持 ACPI 电源配置等等，以及大量 bug 修复和更改。"
+          "link": "https://www.solidot.org/story?sid=85797",
+          "content": "法国国民互助信贷银行（Crédit Mutuel Arkéa）被黑客通过欺诈性交易盗走 1.18 亿欧元。被盗走的钱随后被转移到多个加密货币账号。该银行证实遭到网络攻击，但尚未证实 1.18 亿欧元的数字，只是表示攻击已得到控制，客户不会遭受任何经济损失。国民互助信贷银行暂停了其应用的部分转账功能。"
         }
       ]
     },
@@ -48,46 +48,70 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "民主党大胜，全球股市“先崩后拉”、金银大涨，市场在交易什么？",
+          "text": "创业板冲高回落涨0.87%，AI硬件股分化、“易中天”再度大跌，光伏掀起涨停潮，恒科指暴涨5%，科网股全线攀升",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785154",
-          "content": "民主党在美国中期选举中实现历史性横扫，不仅夺回国会众参两院控制权，更在得克萨斯、南卡罗来纳、堪萨斯等传统共和党票仓实现意外翻转。这一结果重塑了市场对美国财政路径、AI监管前景与利率走势的预期，全球资产价格随之剧烈重定价。 全球市场经历了典型的&#34;利空出尽&#34;行情。纳斯达克100指数期货一度跌超2%，标普500期货跌逾1%，VIX恐慌指数期货冲破20关口；随后多空易位，美股期货逐步收窄跌幅，韩国综合股价指数由跌4%转为翻涨，黄"
+          "link": "https://wallstreetcn.com/articles/3785230",
+          "content": "光伏全链涨停潮成为当日最强主线。驱动来自三重共振：三季度光伏装机同比增长约38%、逆变器行业掀起集体涨价潮、美国中期选举落地强化绿色补贴延续预期。AI硬件内部分裂，CPO与PCB下挫，“易中天”集体大跌，昔日股王联讯仪器盘中跌破800元。 11月5日，A股全天冲高回落，午后沪指、创业板一度翻绿，尾盘小幅回升，创业板指此前一度涨超3%。AI硬件内部分化，电路板、光模块、存储芯片等概念股走低，“易中天”再度大跌，半导体设备、半导体材料等活跃"
         },
         {
-          "text": "共和党中选失利、4.5亿美元泡汤？“大金主”马斯克发声",
+          "text": "微软接连撤单Nscale：先砍30亿英国合同，再弃德州扩容订单",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785153",
-          "content": "共和党中选失利、民主党大获全胜，马斯克押注共和党的近4.5亿美元政治豪赌或就此落空，其旗下特斯拉与SpaceX股价承压，科技股与AI基础设施板块亦遭到波及。 11月4日，马斯克在社交媒体上以自嘲口吻发声：“我干预选举的激光通信这次可能没起作用。”现有申报记录显示， 为帮助美国共和党在中期选举中胜出，马斯克已向联邦政治委员会捐赠4.45亿美元，他也因此成为此次中期选举最大的个人金主。 然而，民主党不仅夺回众议院控制权，更在多个关键参议院席"
+          "link": "https://wallstreetcn.com/articles/3785260",
+          "content": "英国最具价值的AI初创公司Nscale在IPO冲刺阶段再遭重挫。 继年初被微软取消英国30亿美元租约后，这家公司又失去了后者在德克萨斯州数据中心扩容选项上的承接意向，双重挫折令其高达350亿美元的上市计划面临新的考验。 据英国《金融时报》援引三名知情人士透露，微软已决定放弃将其在德州现有算力租赁合同规模翻倍以上的选项。这一决定意味着Nscale必须为该站点寻找新客户，否则将损失数十亿美元的潜在收入。微软和Nscale均拒绝就此置评。 此"
         },
         {
-          "text": "24家券商确认中标，第三批SFISF落地千亿元",
+          "text": "指数重挫、“存储双雄”暴跌，韩国财长：准备应对金融市场波动加剧",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785157",
-          "content": "央行第三批证券、基金、保险公司互换便利（SFISF）操作结果陆续出炉，目前已有31家机构申报需求，意向申报额度超过1000亿元，远超前两批单轮规模。 根据披露信息已有24家券商确认中标。其中，中信证券、国泰海通、东吴证券等券商官宣中标额度，招商证券、平安证券等多家披露中标信息，广发、国信证券确认连续三批参与投标。 已披露中标额度合计超400亿元 11月3日，中信证券、国泰海通证券、东吴证券、国投证券、长城证券、华福证券、浙商证券、财通证"
+          "link": "https://wallstreetcn.com/articles/3785256",
+          "content": "韩国股市周四遭遇剧烈震荡，KOSPI指数盘中跌幅一度逼近5%，程序化交易触发熔断机制被迫暂停，科创板KOSDAQ亦因期货暴跌同步触发熔断。美国中期选举民主党获胜引发市场对人工智能数据中心监管收紧的担忧，成为此轮抛售的直接导火索。 韩国财政部长随后发表声明， 表示将密切关注中期选举后美国人工智能政策走向，并持续监测美国关税政策动向及中东局势，强调已为金融市场波动进一步加剧的可能性做好应对准备。 以三星电子、SK海力士为代表的&#34;存储"
         },
         {
-          "text": "大买家撤了！“稳定币老大”Tether也开始卖黄金了",
+          "text": "松下覆铜板工厂爆炸起火，全球高端CCL供给约4%面临中断风险",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785124",
-          "content": "全球最大稳定币发行商Tether在2026年三季度小幅减持了黄金储备，结束了此前数个季度持续增持的势头。 据追风交易台消息，Jefferies在11月3日发布的研究报告中称， Tether截至2026年9月30日的披露黄金持仓合计约165吨（约合219亿美元），较二季度末的约168吨减少约3吨 ，为近期首次出现环比下降。这一减少完全来自USDT储备中黄金持仓的收缩，XAU₮对应的黄金储备则维持不变。 对于Tether三季度的减持，Jef"
+          "link": "https://wallstreetcn.com/articles/3785259",
+          "content": "中国台湾松下多层材料（PIDMTW）新竹湖口厂11月4日凌晨发生重大爆炸火灾，这场事故给全球AI服务器高端铜箔基板（CCL）供应链带来实质性冲击。业界初步评估，受损产能约占全球高端CCL供给的4%，中国台湾其他CCL厂商有望在短期内承接转单。 据中国台湾《经济日报》报道，松下湖口厂是其旗舰MEGTRON系列超低损耗材料的核心生产基地，涵盖M6、M7、M8等高端产品线。工商时报援引供应链消息人士称， 松下MEGTRON系列约占全球高端CC"
         },
         {
-          "text": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，芯片半导体强势飙升，恒指、恒科指齐涨超1%",
+          "text": "又熔断了！美国中选掀起市场风暴，韩国股市为何首当其冲？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785133",
-          "content": "11月4日，A股午后直线拉升，三大股指集体大涨，沪指涨近2%，创业板暴涨超6%。科创综指和科创50延续涨势，均飙涨超9%，得益于物理AI和半导体、算力硬件等科技股拉升。半导体板块反弹，托伦斯、恒玄科技涨幅居前。机器人、物理AI概念拉升，索辰科技、征和工业、福莱新材等涨停。文化传媒、生物科技等活跃。地产、大消费陷入调整。光模块发反弹，“易中天”集体拉升。 港股午后亦拉升，恒指、恒科指盘初双双上涨，恒指涨近1%，恒科指涨近1%，盘中一度跌近"
+          "link": "https://wallstreetcn.com/articles/3785257",
+          "content": "美国中期选举民主党横扫两院，由此引发的AI数据中心监管收紧忧虑如同一块石头投入平静湖面，冲击波迅速传导至首尔股市。韩国两大基准指数同日触发卖出熔断机制，半导体龙头股遭遇重挫，这场&#34;蓝色海啸&#34;正考验着韩国经济最核心的出口引擎。 11月5日，韩国综合股价指数（KOSPI）开盘即跌1.82%，随后跌幅持续扩大，当日午前触发卖出侧车（Sell-Sidecar）机制，程序化卖盘被临时中止。截至当日下午2时25分，KOSPI较前一交"
         },
         {
-          "text": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货V型反弹，韩股转涨，美债上涨，黄金站上4000美元",
+          "text": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785134",
-          "content": "民主党在美国中期选举中取得压倒性胜利，不仅夺回国会参众两院控制权，更在多个传统共和党票仓实现历史性突破。 全球市场经历了剧烈的“先跌后涨”行情：美股期货一度跳水、纳指期货跌超2%，随后逐步收窄跌幅；美债全线走强，黄金重回4000美元上方，韩股由跌4%转为翻涨。 据 新华社 援引美国媒体3日预测，民主党不仅将在中期选举中夺得国会众议院控制权，还连续在多个关键州击败共和党获得国会参议院席位。 据 央视新闻 ， 美东时间11月3日深夜，特朗普"
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+          "source": "少数派",
+          "link": "https://sspai.com/prime/story/30-easy-steamed-dishes",
+          "content": "蒸锅真是懒人做饭好帮手。<a href=&#34;https://sspai.com/prime/story/30-easy-steamed-dishes&#34; target=&#34;_blank&#34;>查看全文</a><p>本文为会员文章，出自<a href=&#34;https://sspai.com/prime/precog/single&#34; target=&#34;_blank&#34;>《单篇文章》</a >，"
+        },
+        {
+          "text": "Apple 官网排版细节鉴赏",
+          "source": "少数派",
+          "link": "https://sspai.com/post/115399",
+          "content": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。<a href=&#34;https://sspai.com/post/115399&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118498",
+          "content": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=&#34;https://sspai.com/post/118498&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117713",
+          "content": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=&#34;https://sspai.com/post/117713&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
           "source": "少数派",
@@ -99,36 +123,36 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/118404",
           "content": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。<a href=&#34;https://sspai.com/post/118404&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118402",
-          "content": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。<a href=&#34;https://sspai.com/post/118402&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118263",
-          "content": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。<a href=&#34;https://sspai.com/post/118263&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118317",
-          "content": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=&#34;https://sspai.com/post/118317&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "Disc Image Studio：你想不想在光盘上「画」点什么？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118211",
-          "content": "把喜欢的图烧进 CD 里，你也可以。<a href=&#34;https://sspai.com/post/118211&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
     {
       "title": "GitHub 热点项目",
       "items": [
+        {
+          "text": "NVIDIA/auto-ontology：NVIDIA / auto-ontology Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/NVIDIA/auto-ontology",
+          "content": ""
+        },
+        {
+          "text": "max-sixty/worktrunk：max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows（Rust）",
+          "source": "GitHub",
+          "link": "https://github.com/max-sixty/worktrunk",
+          "content": ""
+        },
+        {
+          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
+          "source": "GitHub",
+          "link": "https://github.com/mattpocock/skills",
+          "content": ""
+        },
+        {
+          "text": "floci-io/floci：floci-io / floci Light, fluffy, and always free - The AWS Local Emulator alternative（Java）",
+          "source": "GitHub",
+          "link": "https://github.com/floci-io/floci",
+          "content": ""
+        },
         {
           "text": "thedotmack/claude-mem：thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More（TypeScript）",
           "source": "GitHub",
@@ -140,34 +164,10 @@ window.BRIEFING_DATA = {
           "source": "GitHub",
           "link": "https://github.com/vercel-labs/agent-desktop",
           "content": ""
-        },
-        {
-          "text": "max-sixty/worktrunk：max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows（Rust）",
-          "source": "GitHub",
-          "link": "https://github.com/max-sixty/worktrunk",
-          "content": ""
-        },
-        {
-          "text": "JustVugg/colibri：JustVugg / colibri A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.（C）",
-          "source": "GitHub",
-          "link": "https://github.com/JustVugg/colibri",
-          "content": ""
-        },
-        {
-          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
-          "source": "GitHub",
-          "link": "https://github.com/mattpocock/skills",
-          "content": ""
-        },
-        {
-          "text": "p-e-w/heretic：p-e-w / heretic Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/p-e-w/heretic",
-          "content": ""
         }
       ]
     }
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-04","2026-11-03","2026-11-02","2026-11-01","2026-10-31","2026-10-30","2026-10-29","2026-10-28"];
+window.BRIEFING_ARCHIVE = ["2026-11-05","2026-11-04","2026-11-03","2026-11-02","2026-11-01","2026-10-31","2026-10-30","2026-10-29"];
