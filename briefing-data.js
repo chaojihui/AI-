@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-05T08:21:10.009Z
+// 由 GitHub Actions 自动生成 2026-11-06T08:24:04.153Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "Swift 天文台从印尼上空重返大气层",
+          "text": "Salon 宣布终止出版",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85802",
-          "content": "NASA Neil Gehrels Swift 天文台于 11 月 4 日 7:39 a.m. EST 从印尼苏门答腊上空再入大气层，坐标为北纬 3.4 度、东经 98.6 度。天文台的大部分组件在重返大气层过程中烧毁，可能有部分组件幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年的太阳活动加速了其坠落。今"
+          "link": "https://www.solidot.org/story?sid=85815",
+          "content": "有 31 年历史的 Salon 于 2026 年 11 月 5 日宣布从即日起停止出版。Salon 创办于 1995 年 11 月 5 日，当时的互联网与今天截然不同。一小群记者开始尝试创造一些与众不同的东西：他们希望创办一种具有鲜明风格、对世界充满好奇，并且坚信互联网能以全新的方式将新闻报道与读者连接起来的出版物。他们开创了一种全新的新闻报道形式，这种形式后来成为定义了一个全新的出版时代。"
         },
         {
-          "text": "任天堂最大 ROM 芯片供应商准备退出",
+          "text": "摩托罗拉宣布第一款支持 GrapheneOS 的旗舰手机",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85801",
-          "content": "任天堂 Switch 游戏机实体游戏卡带使用的 ROM 芯片供应也受到了 AI 热的影响。任天堂最大 ROM 芯片供应商旺宏电子在其第三季度财报中宣布它准备终止 ROM 芯片生产，脱离游戏行业。旺宏电子表示，ROM 芯片的产量在过去一年中缩减了 39%，目前仅占其业务总量的 5%。ROM 芯片正逐渐被利润更高、需求更旺盛的其它存储芯片所取代。这意味着任天堂未来只能依靠其它 ROM 芯片供应商如罗姆（Rohm）和蓝碧半导体（Lapis S"
+          "link": "https://www.solidot.org/story?sid=85814",
+          "content": "摩托罗拉宣布了第一款支持安全加固发行版 GrapheneOS 的旗舰手机 Signature 27，但售价高达 1600 美元。Signature 27 配备了高通目前最强大的移动芯片骁龙 8 Elite Extreme Gen 6，内存只有 12GB 没有 16GB 版本（目前内存供应紧张而且价格昂贵），存储空间为 512G​​B (UFS 4.1）；显示屏为 6.8英寸 Extreme AMOLED Duo，120Hz刷新率，12,"
         },
         {
-          "text": "新型牙刷通过产生电对抗牙菌斑病原体",
+          "text": "微软画图应用曝出远程代码执行漏洞",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85800",
-          "content": "一款新型牙刷可通过刷毛移动产生电能，进而可对抗产生牙菌斑的病原体。在为期 3 个月、涉及 115 名志愿者的试验中，牙刷在减少口腔中导致龋齿和牙周炎的细菌方面的效果优于常规的机械刷牙法。牙刷是人类对抗牙菌斑的最强战士，它每晚都能物理性地清除牙齿上的细菌生物膜。然而细菌总会卷土重来，因此每天早晨都会重新开始这场战斗。北京大学口腔医学院的研究人员研发出一种牙刷，其压电单丝刷毛在刷牙过程中弯曲时会产生电荷。这一过程会产生活性氧，进而能破坏牙齿"
+          "link": "https://www.solidot.org/story?sid=85813",
+          "content": "微软画图应用曝出了一个越界读取导致的远程代码执行漏洞，受影响版本从 11.0.0.0 到 11.2605.91.0 之前。画图应用被预装在每一台 Windows PC 上，最近一段时间微软为画图应用引入了越来越多的新功能，其中包括 AI 生成功能，它同时也给画图引入了新 bug。微软用户目前可能需要通过 Microsoft Store 官方应用商店下载修正后的版本，Windows Update 尚未推送新版本。"
         },
         {
-          "text": "AMD 营收预计将首次超过英特尔",
+          "text": "Kagi 开放搜索",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85799",
-          "content": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿美元，其增长几乎停滞。相比下 AMD 预计下一季度营收将达到约 170 亿美元。如果达到这一目标，这将标志着 AMD 营收首次超过英特尔。"
+          "link": "https://www.solidot.org/story?sid=85812",
+          "content": "付费无广告搜索引擎 Kagi 宣布了最新更新，向所有人开放搜索，但免费用户搜索次数有限额。现在任何人无需注册账号可搜索 50 次，注册账号之后再增加 100 次。Kagi 还抨击了 Google 最近的一项决定：如果美国学校选择禁用 AI 那么它的搜索引擎也将会对学校关闭。Kagi 认为：教育不应沦为广告公司的人质，应当停止将企业利润置于教育学生这一核心使命之上。它呼吁美国学校可选择包括 Kagi 在内的其它搜索引擎。"
         },
         {
-          "text": "韩国游戏 PC 启动器被植入恶意代码",
+          "text": "《尼尔：自动人形》释出更新游戏容量从 50GB 暴涨至 366GB",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85798",
-          "content": "韩国游戏《胜利女神：新的希望（NIKKE）》的 PC 启动器被植入恶意代码。恶意代码是通过纂改 Level Infinite CDN 分发的四个官方 JavaScript 文件实现的，篡改发生于 2026 年 9 月 27 日前后，攻击则始于 2026 年 10 月 23 日到 11 月 3 日，在此期间打开 PC 启动器的用户可能会被植入木马。恶意程序会窃取浏览器保存的密码、Windows 凭据管理器信息、SSH 密钥以及云服务或 A"
+          "link": "https://www.solidot.org/story?sid=85811",
+          "content": "2017 年发售的《尼尔：自动人形（Nier: Automata）》释出了最新更新，加入了对简繁体中文以及韩文的支持，但游戏的打包显然存在 bug，整个游戏文件的容量从 50GB 暴涨至 366GB。《尼尔：自动人形》共有八个 DLC，每增加一个 DLC，游戏的容量就会增加 40GB，也就是每个 DLC 都包含了主游戏文件。现在想要玩《尼尔》的中韩玩家最好先等待游戏开发商释出修正，除非你的 SSD 有几百 GB 的可用空间。"
         },
         {
-          "text": "法国银行被盗走 1.18 亿欧元",
+          "text": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85797",
-          "content": "法国国民互助信贷银行（Crédit Mutuel Arkéa）被黑客通过欺诈性交易盗走 1.18 亿欧元。被盗走的钱随后被转移到多个加密货币账号。该银行证实遭到网络攻击，但尚未证实 1.18 亿欧元的数字，只是表示攻击已得到控制，客户不会遭受任何经济损失。国民互助信贷银行暂停了其应用的部分转账功能。"
+          "link": "https://www.solidot.org/story?sid=85809",
+          "content": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款用于入侵的工具，分别是 ARTEX、PentAGI、Cairn 和 CyberStrikeAI。ARTEX 此前曾被用于攻击韩国银行。印度计"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "创业板冲高回落涨0.87%，AI硬件股分化、“易中天”再度大跌，光伏掀起涨停潮，恒科指暴涨5%，科网股全线攀升",
+          "text": "第三批互换便利操作落地，中金、银河等券商已完成首批买入",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785230",
-          "content": "光伏全链涨停潮成为当日最强主线。驱动来自三重共振：三季度光伏装机同比增长约38%、逆变器行业掀起集体涨价潮、美国中期选举落地强化绿色补贴延续预期。AI硬件内部分裂，CPO与PCB下挫，“易中天”集体大跌，昔日股王联讯仪器盘中跌破800元。 11月5日，A股全天冲高回落，午后沪指、创业板一度翻绿，尾盘小幅回升，创业板指此前一度涨超3%。AI硬件内部分化，电路板、光模块、存储芯片等概念股走低，“易中天”再度大跌，半导体设备、半导体材料等活跃"
+          "link": "https://wallstreetcn.com/articles/3785366",
+          "content": "中国央行互换便利工具（SFISF）第三批操作加速落地，中金、中国银河证券等多家券商已率先完成入市买入动作。 据证券时报最新报道， 中金公司 于11月6日在第三批“证券、基金、保险公司互换便利”项下完成股票买入。中金公司相关负责人表示，下一步，中金公司将继续使用互换便利业务获得的资金进一步增持股票，助力资本市场健康稳定发展。 与此同时，同一天， 银河证券 亦完成第三批互换便利操作下的第一笔回购融资及首批投资买入。两家机构均表示， 后续将持"
         },
         {
-          "text": "微软接连撤单Nscale：先砍30亿英国合同，再弃德州扩容订单",
+          "text": "AI交易回撤，最佳对冲工具是日元？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785260",
-          "content": "英国最具价值的AI初创公司Nscale在IPO冲刺阶段再遭重挫。 继年初被微软取消英国30亿美元租约后，这家公司又失去了后者在德克萨斯州数据中心扩容选项上的承接意向，双重挫折令其高达350亿美元的上市计划面临新的考验。 据英国《金融时报》援引三名知情人士透露，微软已决定放弃将其在德州现有算力租赁合同规模翻倍以上的选项。这一决定意味着Nscale必须为该站点寻找新客户，否则将损失数十亿美元的潜在收入。微软和Nscale均拒绝就此置评。 此"
+          "link": "https://wallstreetcn.com/articles/3785357",
+          "content": "全球芯片股的集体重挫，再度将AI交易的尾部风险推至台前。市场热议是否应当减仓AI相关头寸，却鲜有人回答&#34;减完之后去哪里对冲&#34;。高盛外汇策略研究给出的答案指向同一个方向： 做空美元/日元 。 隔夜，美科技股重挫，芯片指数跳水12%，周五（11月6日）亚太股市亦下跌，SK海力士跌超10%，三星电子跌7%，韩国综合指数下挫超7%，并一度触发卖盘暂停机制。 这一轮芯片股集体重挫，为AI交易的对冲需求提供了最新注脚。据高盛《GS "
         },
         {
-          "text": "指数重挫、“存储双雄”暴跌，韩国财长：准备应对金融市场波动加剧",
+          "text": "美股暴跌冲击：对冲基金10月撤仓创十余年最快，多家机构裁员",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785256",
-          "content": "韩国股市周四遭遇剧烈震荡，KOSPI指数盘中跌幅一度逼近5%，程序化交易触发熔断机制被迫暂停，科创板KOSDAQ亦因期货暴跌同步触发熔断。美国中期选举民主党获胜引发市场对人工智能数据中心监管收紧的担忧，成为此轮抛售的直接导火索。 韩国财政部长随后发表声明， 表示将密切关注中期选举后美国人工智能政策走向，并持续监测美国关税政策动向及中东局势，强调已为金融市场波动进一步加剧的可能性做好应对准备。 以三星电子、SK海力士为代表的&#34;存储"
+          "link": "https://wallstreetcn.com/articles/3785346",
+          "content": "美股史上最惨烈的抛售之一，正将对冲基金行业推入一场罕见的系统性压力测试。 据摩根士丹利客户报告，10月份是逾十年来股票型对冲基金主动平仓规模最大的月份，其市场敞口自6月以来已缩减约9%。纳斯达克100指数周四单日暴跌6.4%，蒸发市值约2.3万亿美元，VIX&#34;恐慌指数&#34;飙升70%，进一步加剧了此前已持续数月的行业困境。与此同时，Samlyn Capital、Engineers Gate、Walleye Capital等多"
         },
         {
-          "text": "松下覆铜板工厂爆炸起火，全球高端CCL供给约4%面临中断风险",
+          "text": "撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785259",
-          "content": "中国台湾松下多层材料（PIDMTW）新竹湖口厂11月4日凌晨发生重大爆炸火灾，这场事故给全球AI服务器高端铜箔基板（CCL）供应链带来实质性冲击。业界初步评估，受损产能约占全球高端CCL供给的4%，中国台湾其他CCL厂商有望在短期内承接转单。 据中国台湾《经济日报》报道，松下湖口厂是其旗舰MEGTRON系列超低损耗材料的核心生产基地，涵盖M6、M7、M8等高端产品线。工商时报援引供应链消息人士称， 松下MEGTRON系列约占全球高端CC"
+          "link": "https://wallstreetcn.com/articles/3785351",
+          "content": "美国10月非农就业报告将于周五（11月6日）美东时间8:30发布。市场普遍预期数据将从9月低点反弹，但这份报告到来的时机极为棘手——就在数据公布前一日，科技股遭遇重创，纳斯达克100指数单日暴跌6.36%，创下自2020年3月以来最惨烈的一天，AI交易全面瓦解。 周四的市场剧震已经深刻改变了就业报告的解读框架。标普500指数单日下跌4.36%，费城半导体指数重挫12%，VIX恐慌指数跳升11.5点至28，市场流动性急剧收缩。 在此背景下"
         },
         {
-          "text": "又熔断了！美国中选掀起市场风暴，韩国股市为何首当其冲？",
+          "text": "科技股抛售潮席卷亚太，韩股暴跌近9%触发熔断，日经跌破6万点、步入技术性熊市，油价上涨",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785257",
-          "content": "美国中期选举民主党横扫两院，由此引发的AI数据中心监管收紧忧虑如同一块石头投入平静湖面，冲击波迅速传导至首尔股市。韩国两大基准指数同日触发卖出熔断机制，半导体龙头股遭遇重挫，这场&#34;蓝色海啸&#34;正考验着韩国经济最核心的出口引擎。 11月5日，韩国综合股价指数（KOSPI）开盘即跌1.82%，随后跌幅持续扩大，当日午前触发卖出侧车（Sell-Sidecar）机制，程序化卖盘被临时中止。截至当日下午2时25分，KOSPI较前一交"
+          "link": "https://wallstreetcn.com/articles/3785315",
+          "content": "全球股市在AI监管恐慌中持续重挫。受美国民主党大选获胜、市场担忧科技与人工智能行业面临更严格监管影响，亚太股市周五跌势加剧，日本基准指数创出逾一年来最大单日跌幅，韩国股市一度触发熔断机制。 MSCI亚太指数重挫3.8%，日经225指数下跌5.8%，创下自2025年4月以来最大单日跌幅。韩国综合股价指数盘中一度暴跌8.8%，触发熔断，三星电子和SK海力士均跌逾5%；中国台湾加权指数收跌4.5%，较10月高点回调逾20%，进入技术性熊市。受"
         },
         {
-          "text": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
+          "text": "高盛大砍黄金目标价！央行购金抵不过美联储转鹰，当前格局像极了2022年",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782813",
-          "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
+          "link": "https://wallstreetcn.com/articles/3785345",
+          "content": "高盛大幅下调黄金价格预测，美联储鹰派转向压制投资者需求，尽管央行购金潮依然强劲，黄金短期上行空间仍受到显著压缩。 据追风交易台消息，高盛大宗商品研究团队11月5日发布最新贵金属研究报告， 大幅下调黄金价格预测 ：2026年底目标价从4650美元/盎司下调至 4150美元/盎司 ，2027年底目标价从5400美元/盎司下调至 4800美元/盎司 。 高盛指出，尽管近期债券市场回暖使市场定价更接近其经济学家对美联储终端利率的预测，但 基准情"
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
+          "text": "iPhone 变强了，但我没有",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118250",
+          "content": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。<a href=&#34;https://sspai.com/post/118250&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118570",
+          "content": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。<a href=&#34;https://sspai.com/post/118570&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118587",
+          "content": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。<a href=&#34;https://sspai.com/post/118587&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118546",
+          "content": "全新 MacBook Pro，开启 Mac 的下一个世代。<a href=&#34;https://sspai.com/post/118546&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "新玩意 255｜少数派的编辑们最近买了啥？",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118541",
+          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=&#34;https://sspai.com/post/118541&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
           "text": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
           "source": "少数派",
           "link": "https://sspai.com/prime/story/30-easy-steamed-dishes",
           "content": "蒸锅真是懒人做饭好帮手。<a href=&#34;https://sspai.com/prime/story/30-easy-steamed-dishes&#34; target=&#34;_blank&#34;>查看全文</a><p>本文为会员文章，出自<a href=&#34;https://sspai.com/prime/precog/single&#34; target=&#34;_blank&#34;>《单篇文章》</a >，"
-        },
-        {
-          "text": "Apple 官网排版细节鉴赏",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115399",
-          "content": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。<a href=&#34;https://sspai.com/post/115399&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118498",
-          "content": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=&#34;https://sspai.com/post/118498&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
-          "source": "少数派",
-          "link": "https://sspai.com/post/117713",
-          "content": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=&#34;https://sspai.com/post/117713&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
-          "source": "少数派",
-          "link": "https://sspai.com/post/115819",
-          "content": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。<a href=&#34;https://sspai.com/post/115819&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "国行 Apple 智能上手：这些功能已经准备好",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118404",
-          "content": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。<a href=&#34;https://sspai.com/post/118404&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -136,27 +136,27 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "max-sixty/worktrunk：max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows（Rust）",
-          "source": "GitHub",
-          "link": "https://github.com/max-sixty/worktrunk",
-          "content": ""
-        },
-        {
           "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
           "source": "GitHub",
           "link": "https://github.com/mattpocock/skills",
           "content": ""
         },
         {
-          "text": "floci-io/floci：floci-io / floci Light, fluffy, and always free - The AWS Local Emulator alternative（Java）",
+          "text": "garrytan/gstack：garrytan / gstack Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/floci-io/floci",
+          "link": "https://github.com/garrytan/gstack",
           "content": ""
         },
         {
-          "text": "thedotmack/claude-mem：thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More（TypeScript）",
+          "text": "Usagi-org/ai-goofish-monitor：Usagi-org / ai-goofish-monitor 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。（Python）",
           "source": "GitHub",
-          "link": "https://github.com/thedotmack/claude-mem",
+          "link": "https://github.com/Usagi-org/ai-goofish-monitor",
+          "content": ""
+        },
+        {
+          "text": "D4Vinci/Scrapling：D4Vinci / Scrapling 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/D4Vinci/Scrapling",
           "content": ""
         },
         {
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-05","2026-11-04","2026-11-03","2026-11-02","2026-11-01","2026-10-31","2026-10-30","2026-10-29"];
+window.BRIEFING_ARCHIVE = ["2026-11-06","2026-11-05","2026-11-04","2026-11-03","2026-11-02","2026-11-01","2026-10-31","2026-10-30"];
