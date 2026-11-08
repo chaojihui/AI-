@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-07T07:40:43.104Z
+// 由 GitHub Actions 自动生成 2026-11-08T07:50:38.871Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
+          "text": "ESA Hera 探测器发回 DART 撞击的小行星照片",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85825",
+          "content": "ESA Hera 探测器拍下了 Didymos 双小行星系统的首张近距离照片。这个系统由两颗小行星组成，直径 780 米的 Didymos 是主星，直径 151 米的 Dimorphos 则绕着它运行。2022 年 9 月 26 日，NASA DART 探测器直接撞上较小的 Dimorphos，再测量它绕行主星 Didymos 的时间改变了多少。为了进一步了解这次撞击的影响，Hera 于 2024 年 10 月 7 日发射，历经两年飞行"
+        },
+        {
+          "text": "FAA 计划到 2028 年淘汰软盘",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85824",
+          "content": "FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information Display System 将取代可上溯至 1980 年代的旧系统。逾 25 年前软盘就基本停止使用，2011 年起不再大规模生产。去年美国国会批准了 125 亿美元资金用于更新陈旧的空管系统。FAA 目前还面临诸多技术难题，交通部长 Sean Duffy 正寻求额外 30 亿美元的资金。FAA 局长 Br"
+        },
+        {
+          "text": "抗议者闯入微软在欧洲的一处数据中心工地",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85823",
+          "content": "逾百名活动人士闯入了阿姆斯特丹的一处微软 AI 数据中心施工现场，他们爬上起重机，悬挂气球并跳起舞，部分人则举着 Screw your datacenter 的标语。此次行动是针对 AI 基础设施迅速扩张所开展的一系列抗议活动之一。抗议者 Sam van der Beek 表示：“这些数据中心正摧毁我们的世界。它们消耗了海量资源，导致地球变得不再适宜居住。这就是我们今天来到这里的原因。”Stop Dirty Data Centers 联"
+        },
+        {
+          "text": "天宫即将迎来首位巴基斯坦宇航员",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85822",
+          "content": "一名巴基斯坦宇航员将加入神舟二十四号载人飞行任务的乘组。他是一位载荷专家。任务成行后，他将成为首位进入中国空间站的外国公民。这也将是中国载人航天工程历史上，首次由中国与外国宇航员共同执行太空飞行任务。今年早些时候，两名巴基斯坦预备宇航员——穆罕默德·泽尚·阿里（Muhammad Zeeshan Ali）和胡拉姆·达乌德（Khurram Daud），已经在北京开始与中国宇航员共同接受训练。按照计划，两人在中国完成各项训练并通过考核后，“其"
+        },
+        {
+          "text": "广电总局整治 AI 低俗微短剧",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85821",
+          "content": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自 11 月 1 日起至 12 月底。新一轮专项治理聚焦两个方面的突出问题，内容创作方面，深化治理儿童类不良、软色情擦边、极端对立、拜金主义、严重违背家庭伦理道德等低俗不良内容；治理未按要求备案审核的特殊题材内容；治理“盗脸”“偷声”问题，规范 AI "
+        },
+        {
           "text": "从 Linux 到维基百科：志愿者如何构建互联网",
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85820",
           "content": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用员工并支付报酬，而员工则通过合同承担义务，按照管理者分配的任务开展工作。员工劳动所创造的产品归公司所有，公司负责为产品定价、管理销售交易，支"
-        },
-        {
-          "text": "特斯拉将停产 Cyber​​truck",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85819",
-          "content": "特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck。生产电动皮卡的工厂很可能转为生产电动出租车 Cybercabs。马斯克于 2019 年末宣布了外形奇特的 Cyber​​truck，预计售价低于 4 万美元，宣称它会和其主力电动汽车 Model 3 和 Model Y 一样随处可见。然而 Cyber​​truck 研发比特斯拉的其它车型更坎坷，为量产还修改了底盘结构，而 25 "
-        },
-        {
-          "text": "NASA 通过 AI 生成图像宣布 X-70 试验机",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85818",
-          "content": "NASA 宣布了新试验机 X-70 Fractal，它展示了一幅生成图像——即并非实图，而是 AI 生成的。NASA 称，X-70 是载人飞行器，设计巡航速度为 0.75 马赫，最大飞行高度约 13700 米，航程 2778 公里。X-70 起飞重量为 4536 公斤，设计可容纳 900 公斤的机内外试验载荷。NASA 局长 Jared Isaacman 表示，这架试验机有望在两年内首飞。关于其具体设计细节和研发时间表目前知之甚少。NA"
-        },
-        {
-          "text": "中国三季度 CO2 排放下降 3%",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85817",
-          "content": "根据 Carbon Brief 的分析，中国第三季度 7-9 月的 CO2 排放量同比下降 3.1%，为 2022 年以来最大降幅。今年至今中国碳排放量累计下降 0.5%。数据显示，中国第三季度石油消费量同比下降 4%，煤炭使用量同比下降 3%。第三季度 CO2 排放量下降的关键因素之一是燃煤发电量减少 3.3%。背后的原因是电力需求增长放缓，同时风能和太阳能未被利用的发电量也有所减少。太阳能、风能和核能的发电量同比增加了 110 TW"
-        },
-        {
-          "text": "Silver Lake 和 PIF 磋商收购 Unity Software",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85816",
-          "content": "私募股权公司 Silver Lake 和沙特主权财富基金 PIF 在今年八月完成以 550 亿美元收购 EA 之后正在磋商收购游戏引擎提供商 Unity Software。Silver Lake 持有 8% 的 Unity 股权。在 Unity 发布最新财报前，收购财团论过约 250 亿美元的估值；财报发布后 Unity 市值升至约 215 亿美元。如果交易达成，Unity 将和 EA 一样私有化。Unity 的游戏引擎和开发者工具在游"
-        },
-        {
-          "text": "Salon 宣布终止出版",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85815",
-          "content": "有 31 年历史的 Salon 于 2026 年 11 月 5 日宣布从即日起停止出版。Salon 创办于 1995 年 11 月 5 日，当时的互联网与今天截然不同。一小群记者开始尝试创造一些与众不同的东西：他们希望创办一种具有鲜明风格、对世界充满好奇，并且坚信互联网能以全新的方式将新闻报道与读者连接起来的出版物。他们开创了一种全新的新闻报道形式，这种形式后来成为定义了一个全新的出版时代。"
         }
       ]
     },
@@ -48,46 +48,58 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "预示反弹？高盛美股恐慌指数已达“极端水平”",
+          "text": "为未来两年“激烈斗争”做准备！特朗普邀请“格斗联盟”UFC总裁出任白宫发言人",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785438",
-          "content": "高盛的恐慌指标触及历史极端区间，历史数据显示这往往预示着中期反弹机会，但交易员提示市场仍在寻底过程中。 周六高盛集团交易员表示，美股剧烈抛售已将市场恐慌程度推至极端水平。 该行的波动率恐慌指数周四飙升至9.57（满分10分），突破9.5的&#34;恐慌区间&#34;临界值，单日涨幅为有记录以来第三大。 结合周三的大幅下挫，两日合计波动幅度创下历史最大纪录。 高盛历史数据显示， 每当该指数此前15次突破9.5阈值后，标普500指数在随后三"
+          "link": "https://wallstreetcn.com/articles/3785475",
+          "content": "特朗普正在为一场更具对抗性的政治战做准备。在白宫新闻秘书一职连续出现人事动荡之后，他将目光投向了一个出人意料的人选——UFC终极格斗冠军赛总裁达纳·怀特（Dana White）。 据 新华社 报道，美国总统特朗普7日在社交媒体上发文说，他已邀请美国终极格斗冠军赛总裁达纳·怀特担任白宫新闻秘书一职。特朗普说，达纳·怀特将会是一名“与众不同”的新闻秘书。美媒报道说，目前尚不清楚达纳·怀特是否接受了特朗普的邀请。 据媒体报道，特朗普周六在帖文"
         },
         {
-          "text": "中选只不过是最后一根稻草？市场终于正视AI“循环融资”的雷",
+          "text": "共和党中选大败，币圈“好事到头”了？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785435",
-          "content": "AI繁荣叙事的裂缝正在扩大。中选次日，纳斯达克遭遇新冠疫情以来最大单日跌幅，科技基金年内涨幅悉数抹去，而这场震荡此前长期被市场刻意忽视的一个结构性隐患浮出水面——AI循环融资。 摩根大通现金交易全球联席主管Ron Adler在最新市场反思中直言，AI始终是当前市场的核心支点，而随着超大规模云计算企业（hyperscaler）开始转向资本市场为自身野心融资，交易员们顺势沿风险曲线走得更远，大举买入上游零部件和瓶颈资产。 然而，这条逻辑链条"
+          "link": "https://wallstreetcn.com/articles/3785476",
+          "content": "加密货币行业在华盛顿享受了两年的政治红利，如今随着民主党横扫国会中期选举，这一局面戛然而止。 据彭博11月7日报道，民主党赢得国会控制权后，加密行业将面临更严苛的立法条件、更密集的国会调查，以及对特朗普家族加密利益的深度审查。行业此前押注共和党换来的政策红利，正面临被重新定价的风险。 这一转折来得并不突然。今年9月，参议院未能推进《清晰法案》（Clarity Act）——这项本可为交易所和数字资产企业确立监管框架的立法，因特朗普的加密利"
         },
         {
-          "text": "AI基建融资新裂痕！一批数据中心贷款被打包甩卖，星际之门项目也在其中",
+          "text": "俄美乌三方会谈在即、特朗普会前密集斡旋，这次会迎来“大和解”吗？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785434",
-          "content": "荷兰国际集团ING正寻求一次性出售约5亿美元的数据中心贷款组合，其中包括与OpenAI、软银及甲骨文联合推进的&#34;星际之门&#34;（Stargate）AI基础设施项目相关的融资，此举令本已承压的AI基建融资市场再添变数。 据彭博周六报道，ING通过竞价出售流程（bids-wanted-in-competition）挂牌约12笔贷款，出价截止日期为11月19日，单笔出价门槛不低于1000万美元。 此次抛售发生在美国中期选举民主党大"
+          "link": "https://wallstreetcn.com/articles/3785474",
+          "content": "据 新华社 报道，俄罗斯总统新闻秘书佩斯科夫11月3日确认， 俄美乌三方围绕乌克兰问题的会谈将于11月10日至11日在阿联酋阿布扎比举行 。这是迄今为止各方就此次会谈时间和地点最为明确的官方表态。 据媒体报道，会谈前夕，特朗普展开密集外交斡旋。他在白宫单独会见了俄罗斯总统普京特使Kirill Dmitriev，并表示，乌克兰战争“接近解决”，预计即将达成的协议将是一份“大协议”（very big settlement），影响范围可能涵盖"
         },
         {
-          "text": "英伟达“催单”，台积电也要造存储芯片了！",
+          "text": "“蓝色浪潮”重创科技信仰，AI交易何时企稳？未来如何演变？华尔街密集研判",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785433",
-          "content": "全球芯片短缺持续加剧，台积电正考虑跨入存储芯片领域，此举将深刻重塑AI硬件供应链格局。 据The Information周五报道，台积电正在评估生产先进存储芯片的可行性，此举系应英伟达要求而起。若计划落地， 这家全球最大晶圆代工商将在AI硬件供应链中扮演更核心的角色，不仅能为英伟达等AI客户提供更清晰的芯片供应前景，也有望在中长期缓解当前的供应紧张局面。 此轮芯片短缺已对全球主要设备制造商的利润率构成明显压力，并推高了从苹果iPhone"
+          "link": "https://wallstreetcn.com/articles/3785473",
+          "content": "选举夜的结果，比多数人预期的更彻底。 民主党不仅拿下众议院和参议院，还在堪萨斯州（自1932年以来首次翻蓝）、南卡罗来纳州（自1998年以来首次）、得克萨斯州（自1994年以来首次）赢得参议院席位。这个胜利幅度，尤其是参议院的表现，“比预期更为显著”。 市场的反应是直接的。 巴克莱在11月6日的股票市场周报中写道：“历史性的蓝色浪潮加速了‘特朗普交易（ Trump交易 ）’的平仓，监管担忧重创AI板块。” 周三，标普500上涨1.6%，"
         },
         {
-          "text": "特斯拉Cybertruck：从车窗开裂到停产，三年半画上句号",
+          "text": "中选之后“美国新增算力被锁死”，马斯克成为“AI格局胜负手”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785416",
-          "content": "特斯拉这款充满争议的不锈钢皮卡，正以一种与其诞生同样戏剧性的方式退出历史舞台。 华尔街见闻提及 ，马斯克周五在X平台发文称，特斯拉将于明年年中左右在德克萨斯超级工厂逐步&#34;收尾&#34;Cybertruck的生产，转而扩大自动驾驶出租车Cybercab的产能。 Cybertruck自2019年发布时便以未来感设计和防弹性能宣传吸引大量眼球，但随之而来的是持续延误、不断攀升的售价以及密集的召回记录，始终未能摆脱争议。 这意味着这款车"
+          "link": "https://wallstreetcn.com/articles/3785472",
+          "content": "美国中期选举民主党大胜，多州新当选州长随即对数据中心开出强硬条件，宣布在新法规出台前全面暂停发放新建许可。这一政策转向直接引爆市场，英伟达、特斯拉、AMD、Micron等科技股在选后遭遇史上单日最大市值蒸发，涉及金额接近4万亿美元。 知名博客All-In Podcast联合主持人、硅谷投资人Chamath Palihapitiya在11月8日播出的节目中披露， 真正的“核弹级”变量隐藏在SpaceX与Anthropic的算力供应合同之中"
         },
         {
-          "text": "投降式抛售后，大摩反思AI交易：从“建设”转向“应用”",
+          "text": "下周重磅日程：中美CPI、俄美乌三方会谈、CoreWeave财报与Anthropic路演",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785432",
-          "content": "美股遭遇重挫后，摩根士丹利警告，AI投资逻辑正在发生结构性转变——押注数据中心建设加速的单一叙事已难以为继，市场重心将从基础设施供应商转向能够直接提升盈利能力的应用层。 据摩根士丹利研究报告，标普500指数于11月5日录得自&#34;关税日&#34;以来最大单日跌幅，纳斯达克综合指数较10月高点回调逾10%进入技术性调整区间，费城半导体指数（SOX）单日重挫逾12%。摩根士丹利认为，此轮抛售的核心驱动力是对冲基金仓位调整蔓延至大盘指数，"
+          "link": "https://wallstreetcn.com/articles/3785467",
+          "content": "11月09日 - 11月15日当周重磅财经事件一览，以下均为北京时间： 本周美国中选结果陆续出炉、民主党横扫参众两院，市场逻辑随即变天。民主党限制数据中心建设的当选承诺触发AI抛售，周四费半单日跌逾12%、纳指进入技术性回调。金银反弹，黄金重返4000以上。周五非农新增16.5万、失业率降至4.1%，又把美联储12月加息的期货定价推回约八成。行情过山车后，中选后的定价重塑进入新一轮的验证周。 见闻财经日历提醒下周重点关注： 中美通胀与货"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "苹果产品那些不够颠覆，却值得被学习的细节",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118114",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/118114&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "一个 05 后的个人数码编年史",
+          "source": "少数派",
+          "link": "https://sspai.com/post/116750",
+          "content": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。<a href=&#34;https://sspai.com/post/116750&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "本周看什么 | 最近值得一看的 9 部作品",
           "source": "少数派",
@@ -111,18 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/118587",
           "content": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。<a href=&#34;https://sspai.com/post/118587&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118546",
-          "content": "全新 MacBook Pro，开启 Mac 的下一个世代。<a href=&#34;https://sspai.com/post/118546&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "新玩意 255｜少数派的编辑们最近买了啥？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118541",
-          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=&#34;https://sspai.com/post/118541&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,39 +130,39 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "zed-industries/zed：zed-industries / zed Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.（Rust）",
+          "text": "vercel-labs/agent-browser：vercel-labs / agent-browser Browser automation CLI for AI agents（Rust）",
           "source": "GitHub",
-          "link": "https://github.com/zed-industries/zed",
+          "link": "https://github.com/vercel-labs/agent-browser",
           "content": ""
         },
         {
-          "text": "NVIDIA/auto-ontology：NVIDIA / auto-ontology Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.（Python）",
+          "text": "cloudflare/security-audit-skill：cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings（JavaScript）",
           "source": "GitHub",
-          "link": "https://github.com/NVIDIA/auto-ontology",
+          "link": "https://github.com/cloudflare/security-audit-skill",
           "content": ""
         },
         {
-          "text": "rails/rails：rails / rails Ruby on Rails（Ruby）",
+          "text": "google/skills：google / skills Agent Skills for Google products and technologies（Python）",
           "source": "GitHub",
-          "link": "https://github.com/rails/rails",
+          "link": "https://github.com/google/skills",
           "content": ""
         },
         {
-          "text": "mpv-player/mpv：mpv-player / mpv 🎥 Command line media player（C）",
+          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
           "source": "GitHub",
-          "link": "https://github.com/mpv-player/mpv",
+          "link": "https://github.com/mattpocock/skills",
           "content": ""
         },
         {
-          "text": "rust-lang/rust：rust-lang / rust Empowering everyone to build reliable and efficient software.（Rust）",
+          "text": "anthropics/skills：anthropics / skills Public repository for Agent Skills（Python）",
           "source": "GitHub",
-          "link": "https://github.com/rust-lang/rust",
+          "link": "https://github.com/anthropics/skills",
           "content": ""
         },
         {
-          "text": "react/react：react / react The library for web and native user interfaces.（JavaScript）",
+          "text": "meta/astryx：meta / astryx An open source design system that's fully customizable and agent ready（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/react/react",
+          "link": "https://github.com/meta/astryx",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-07","2026-11-06","2026-11-05","2026-11-04","2026-11-03","2026-11-02","2026-11-01","2026-10-31"];
+window.BRIEFING_ARCHIVE = ["2026-11-08","2026-11-07","2026-11-06","2026-11-05","2026-11-04","2026-11-03","2026-11-02","2026-11-01"];
