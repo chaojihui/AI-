@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-08T07:50:38.871Z
+// 由 GitHub Actions 自动生成 2026-11-09T08:33:49.720Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "ESA Hera 探测器发回 DART 撞击的小行星照片",
+          "text": "脚本 Ram Altman 监视 PC 闲置内存然后发邮件给 Sam Altman",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85825",
-          "content": "ESA Hera 探测器拍下了 Didymos 双小行星系统的首张近距离照片。这个系统由两颗小行星组成，直径 780 米的 Didymos 是主星，直径 151 米的 Dimorphos 则绕着它运行。2022 年 9 月 26 日，NASA DART 探测器直接撞上较小的 Dimorphos，再测量它绕行主星 Didymos 的时间改变了多少。为了进一步了解这次撞击的影响，Hera 于 2024 年 10 月 7 日发射，历经两年飞行"
+          "link": "https://www.solidot.org/story?sid=85834",
+          "content": "OpenAI CEO Sam Altman 因为一句 PC 内存浪费的评论而成为无数梗图的讽刺对象，他甚至为此自嘲，在社交媒体上将用户名改名为“Ram Altman”。现在开发者 Iain Kay 为 Linux 系统开发了一个 BASH 脚本 Ram Altman，旨在监测 PC 的闲置内存容量。闲置内存的百分比会被发送邮件给 Sam Altman。当然只是说说，具体取决于用户的设置。默认情况下脚本未预先配置电邮服务器。如果闲置内存超"
         },
         {
-          "text": "FAA 计划到 2028 年淘汰软盘",
+          "text": "苹果将工程师的每日 AI 预算限制在 200 美元",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85824",
-          "content": "FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information Display System 将取代可上溯至 1980 年代的旧系统。逾 25 年前软盘就基本停止使用，2011 年起不再大规模生产。去年美国国会批准了 125 亿美元资金用于更新陈旧的空管系统。FAA 目前还面临诸多技术难题，交通部长 Sean Duffy 正寻求额外 30 亿美元的资金。FAA 局长 Br"
+          "link": "https://www.solidot.org/story?sid=85833",
+          "content": "世界市值最高的公司也开始对 AI 预算设限。苹果据报道将部分工程师的每日 AI 预算从 300 美元削减至 200 美元。苹果市值最近再次超过英伟达跃居第一。苹果此举并非是因为缺乏现金支持内部研发，而是因为在企业级规模下生成式 AI 存在着无法回避的经济规律。如果对先进模型的使用不加限制，成本曲线将呈指数级增长，这足以摧毁任何企业的利润空间，即便苹果也不例外。"
         },
         {
-          "text": "抗议者闯入微软在欧洲的一处数据中心工地",
+          "text": "Asahi Linux 从 MIT 许可证切换到 GPL 许可证",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85823",
-          "content": "逾百名活动人士闯入了阿姆斯特丹的一处微软 AI 数据中心施工现场，他们爬上起重机，悬挂气球并跳起舞，部分人则举着 Screw your datacenter 的标语。此次行动是针对 AI 基础设施迅速扩张所开展的一系列抗议活动之一。抗议者 Sam van der Beek 表示：“这些数据中心正摧毁我们的世界。它们消耗了海量资源，导致地球变得不再适宜居住。这就是我们今天来到这里的原因。”Stop Dirty Data Centers 联"
+          "link": "https://www.solidot.org/story?sid=85832",
+          "content": "旨在将 Linux 移植到运行 Apple Silicon 芯片的 Mac 电脑的发行版项目 Asahi Linux 宣布从 MIT 许可证切换到 GPLv2 或以上版本的许可证。原因是有人将开发者分支尚在开发中的代码未注明出处发表，甚至利用 AI 重写代码以掩盖来源意图取代原项目和进行牟利。AI 出现前，代码洗白（Code laundering）通常涉及逐行手动重写代码、修改变量名，通过调整函数结构，使代码看起来与原版截然不同。LLM"
         },
         {
-          "text": "天宫即将迎来首位巴基斯坦宇航员",
+          "text": "中国讨论征收糖税",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85822",
-          "content": "一名巴基斯坦宇航员将加入神舟二十四号载人飞行任务的乘组。他是一位载荷专家。任务成行后，他将成为首位进入中国空间站的外国公民。这也将是中国载人航天工程历史上，首次由中国与外国宇航员共同执行太空飞行任务。今年早些时候，两名巴基斯坦预备宇航员——穆罕默德·泽尚·阿里（Muhammad Zeeshan Ali）和胡拉姆·达乌德（Khurram Daud），已经在北京开始与中国宇航员共同接受训练。按照计划，两人在中国完成各项训练并通过考核后，“其"
+          "link": "https://www.solidot.org/story?sid=85831",
+          "content": "随着肥胖与糖尿病风险上升，专家及媒体提议借当下消费税改革契机，对含糖饮料进行分级征税，促使民众减少糖分摄入。《健康时报》称，中国超重和肥胖者的比例已超 50%，精制糖摄入过量是重要诱因。文章指出，征收含糖税或许是大势所趋，并建议中国从审慎研究并有序试点开始，按含糖量设置阶梯税率，高糖高税、低糖轻税、无糖免税，并将税收定向用于校园健康饮食项目等。截至 2024 年 7 月，全球至少有 116 个国家对至少一种含糖饮料征收国家级消费税。世界"
         },
         {
-          "text": "广电总局整治 AI 低俗微短剧",
+          "text": "LG 因其智能电视监视用户面临法律诉讼",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85821",
-          "content": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自 11 月 1 日起至 12 月底。新一轮专项治理聚焦两个方面的突出问题，内容创作方面，深化治理儿童类不良、软色情擦边、极端对立、拜金主义、严重违背家庭伦理道德等低俗不良内容；治理未按要求备案审核的特殊题材内容；治理“盗脸”“偷声”问题，规范 AI "
+          "link": "https://www.solidot.org/story?sid=85829",
+          "content": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 对该报告予以否认。消费者保护组织对此并不买账。葡萄牙的 Citizens Voice 请求葡萄牙法院对 LG 的声明进行审查，它希望法院介"
         },
         {
-          "text": "从 Linux 到维基百科：志愿者如何构建互联网",
+          "text": "太平洋垃圾带海水变得更蓝更绿",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85820",
-          "content": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用员工并支付报酬，而员工则通过合同承担义务，按照管理者分配的任务开展工作。员工劳动所创造的产品归公司所有，公司负责为产品定价、管理销售交易，支"
+          "link": "https://www.solidot.org/story?sid=85828",
+          "content": "2002-2022 年间，在太平洋垃圾带内，部分太平洋海域的颜色发生了变化，部分区域明显变得更蓝、更绿。一项新研究表明，这可能是海水中微塑料浓度增加所致。直径小于 300 微米的微塑料颗粒造成的海洋污染难以直接测量，实验室研究表明，这一尺寸的微塑料具有特定的光学特性，或许能让人们通过遥感手段测量其在海水中的浓度。太平洋垃圾带适合用来检验这一方法，因为2016年的原位测量显示，该区域近表层海水中较大微塑料颗粒的含量可能超过每立方米 17 "
         }
       ]
     },
@@ -48,46 +48,64 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "为未来两年“激烈斗争”做准备！特朗普邀请“格斗联盟”UFC总裁出任白宫发言人",
+          "text": "西部证券：AI可能迎来“东升西落”的叙事窗口",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785475",
-          "content": "特朗普正在为一场更具对抗性的政治战做准备。在白宫新闻秘书一职连续出现人事动荡之后，他将目光投向了一个出人意料的人选——UFC终极格斗冠军赛总裁达纳·怀特（Dana White）。 据 新华社 报道，美国总统特朗普7日在社交媒体上发文说，他已邀请美国终极格斗冠军赛总裁达纳·怀特担任白宫新闻秘书一职。特朗普说，达纳·怀特将会是一名“与众不同”的新闻秘书。美媒报道说，目前尚不清楚达纳·怀特是否接受了特朗普的邀请。 据媒体报道，特朗普周六在帖文"
+          "link": "https://wallstreetcn.com/articles/3785564",
+          "content": "美国中期选举民主党大胜，一系列海外&#34;输入型风险&#34;随之落地，全球资产定价逻辑正在悄然切换。 西部证券曹柳龙团队认为，中选结果落地后，市场对美国AI数据中心（AIDC）建设节奏受阻的担忧升温，叠加美伊关系缓和预期，美债利率与美元同步走弱。民主党的胜选议题——终结美伊冲突、延缓AIDC建设——均指向弱美元中期趋势，年末临时拨款到期与明年初债务上限博弈，进一步强化了这一窗口。 海外AI降速预期的背后，隐藏着科技公司与民众、政府之"
         },
         {
-          "text": "共和党中选大败，币圈“好事到头”了？",
+          "text": "沪指缩量涨0.3%，创业板午后转跌，煤炭掀起涨停潮，物理AI爆发，恒科指跌超1%，美团大跌6%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785476",
-          "content": "加密货币行业在华盛顿享受了两年的政治红利，如今随着民主党横扫国会中期选举，这一局面戛然而止。 据彭博11月7日报道，民主党赢得国会控制权后，加密行业将面临更严苛的立法条件、更密集的国会调查，以及对特朗普家族加密利益的深度审查。行业此前押注共和党换来的政策红利，正面临被重新定价的风险。 这一转折来得并不突然。今年9月，参议院未能推进《清晰法案》（Clarity Act）——这项本可为交易所和数字资产企业确立监管框架的立法，因特朗普的加密利"
+          "link": "https://wallstreetcn.com/articles/3785511",
+          "content": "11月9日，A股早盘集体上涨，三大股指盘初上涨，深成指、创业板涨超1%，盘中冲高回落，午后深成指、创业板纷纷转跌。太空算力、物理AI、电路板等概念股爆发，AI硬件股内部分化，国产芯片拉升，支撑科创50指数。煤炭、燃气、能源设备等板块活跃，其中煤炭掀起涨停潮。 港股全天震荡下跌，恒指、恒科指午后双双下跌，恒科指跌幅超过1%，科网股多数走低，美团大跌超6%，AI硬件、芯片午后亦多数回落，中际旭创跌超4%，东山精密逆势涨6%。债市方面，国债期"
         },
         {
-          "text": "俄美乌三方会谈在即、特朗普会前密集斡旋，这次会迎来“大和解”吗？",
+          "text": "黄仁勋丑闻搅动市场，英伟达夜盘承压下跌6%，亚洲股市强势反弹、日经收涨2.3%，油价下跌",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785474",
-          "content": "据 新华社 报道，俄罗斯总统新闻秘书佩斯科夫11月3日确认， 俄美乌三方围绕乌克兰问题的会谈将于11月10日至11日在阿联酋阿布扎比举行 。这是迄今为止各方就此次会谈时间和地点最为明确的官方表态。 据媒体报道，会谈前夕，特朗普展开密集外交斡旋。他在白宫单独会见了俄罗斯总统普京特使Kirill Dmitriev，并表示，乌克兰战争“接近解决”，预计即将达成的协议将是一份“大协议”（very big settlement），影响范围可能涵盖"
+          "link": "https://wallstreetcn.com/articles/3785518",
+          "content": "亚洲股市周一大幅反弹，从上周美国中期选举引发的科技股抛售中企稳。与此同时，英伟达首席执行官黄仁勋承认婚外情并公开致歉，令这家芯片巨头股价再度承压。 欧洲斯托克50指数开盘跌0.2%，德国DAX指数平开，英国富时100指数跌0.1%，法国CAC 40指数跌0.3%。中国台湾证券交易所加权股价指数收涨4.9%，报41,661.70点，结束七连跌。日经225指数收涨2.3%，报58,775.50点；东证指数收涨3%，报3818.16点；韩国首"
         },
         {
-          "text": "“蓝色浪潮”重创科技信仰，AI交易何时企稳？未来如何演变？华尔街密集研判",
+          "text": "比亚迪杀向迈巴赫的腹地",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785473",
-          "content": "选举夜的结果，比多数人预期的更彻底。 民主党不仅拿下众议院和参议院，还在堪萨斯州（自1932年以来首次翻蓝）、南卡罗来纳州（自1998年以来首次）、得克萨斯州（自1994年以来首次）赢得参议院席位。这个胜利幅度，尤其是参议院的表现，“比预期更为显著”。 市场的反应是直接的。 巴克莱在11月6日的股票市场周报中写道：“历史性的蓝色浪潮加速了‘特朗普交易（ Trump交易 ）’的平仓，监管担忧重创AI板块。” 周三，标普500上涨1.6%，"
+          "link": "https://wallstreetcn.com/articles/3785569",
+          "content": "比亚迪向超豪华市场发起新一轮冲击。 11月7日，比亚迪旗下的行政旗舰轿车仰望鼎曜在阿布扎比全球首发。在被问及鼎曜会不会在海外卖到劳斯莱斯、宾利的价位时。仰望方面没有报数，只说先从限量版做起。 一天后，仰望在国内公布了“山河鼎韵”限量版的预选价，208万元，定金30万元。该版本预计2027年二季度交付。 今年9月在中国上市的新款迈巴赫S级，S 480指导价139.8万元，S 580是252.7万元，鼎曜限量版恰好落在两者之间。同期亮相的鼎"
         },
         {
-          "text": "中选之后“美国新增算力被锁死”，马斯克成为“AI格局胜负手”",
+          "text": "报道：软银或重新考虑其在美国的NeoCloud业务，并转向其他地区",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785472",
-          "content": "美国中期选举民主党大胜，多州新当选州长随即对数据中心开出强硬条件，宣布在新法规出台前全面暂停发放新建许可。这一政策转向直接引爆市场，英伟达、特斯拉、AMD、Micron等科技股在选后遭遇史上单日最大市值蒸发，涉及金额接近4万亿美元。 知名博客All-In Podcast联合主持人、硅谷投资人Chamath Palihapitiya在11月8日播出的节目中披露， 真正的“核弹级”变量隐藏在SpaceX与Anthropic的算力供应合同之中"
+          "link": "https://wallstreetcn.com/articles/3785567",
+          "content": "软银正就美国数据中心业务潜在放缓制定应对预案，或将重新评估其NeoCloud业务在美国的布局，并考虑向其他地区转移。 据彭博9日报道， 软银可能重新考虑其在美国的NeoCloud业务，并将目光转向其他地区。 这是美国中期选举后科技行业政策环境骤然收紧背景下，又一家头部科技投资机构发出的明确信号。 上述消息进一步加剧市场对美国数据中心投资前景的担忧。日前，All-In Podcast联合主持人、硅谷投资人Chamath Palihapit"
         },
         {
-          "text": "下周重磅日程：中美CPI、俄美乌三方会谈、CoreWeave财报与Anthropic路演",
+          "text": "马斯克Terafab目标曝光：瞄准月产70万片存储芯片晶圆，接近三星DRAM总产能",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785467",
-          "content": "11月09日 - 11月15日当周重磅财经事件一览，以下均为北京时间： 本周美国中选结果陆续出炉、民主党横扫参众两院，市场逻辑随即变天。民主党限制数据中心建设的当选承诺触发AI抛售，周四费半单日跌逾12%、纳指进入技术性回调。金银反弹，黄金重返4000以上。周五非农新增16.5万、失业率降至4.1%，又把美联储12月加息的期货定价推回约八成。行情过山车后，中选后的定价重塑进入新一轮的验证周。 见闻财经日历提醒下周重点关注： 中美通胀与货"
+          "link": "https://wallstreetcn.com/articles/3785534",
+          "content": "马斯克旗下半导体合资企业Terafab正将触角伸向全球存储芯片产能的核心地带。据日经新闻报道，Terafab已向半导体设备供应商透露，计划于2032年实现月产100万片晶圆的产能目标，其中70万片用于存储芯片、30万片用于逻辑芯片。 这一目标的震撼之处在于其存储芯片规模：三星目前DRAM月产能约为65万至70万片晶圆， Terafab的存储芯片目标与之相当。对于一家尚处起步阶段的新进入者而言，能否在约六年内复制三星现有规模，将是对整个行"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "天花板上的白色盒子，是怎样保护我们的安全的？",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118029",
+          "content": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。<a href=&#34;https://sspai.com/post/118029&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118612",
+          "content": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...<a href=&#34;https://sspai.com/post/118612&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：特斯拉将停产 Cybertruck",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118805",
+          "content": "<p>特斯拉将停产 Cybertruck</p><p>深圳在 APEC 前夕整顿非法市场</p><p>美国数据中心股持续遭抛售，大量建设项目被取消</p><p>京津冀三地消协组织敦促航司、平台规范机票退改签</p><p>FBI 警告冰柜网络安全攻击风险</p><p>广电总局部署开展新一轮微短剧专项治理工作</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=&#34;https"
+        },
         {
           "text": "苹果产品那些不够颠覆，却值得被学习的细节",
           "source": "少数派",
@@ -101,28 +119,10 @@ window.BRIEFING_DATA = {
           "content": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。<a href=&#34;https://sspai.com/post/116750&#34; target=&#34;_blank&#34;>查看全文</a>"
         },
         {
-          "text": "本周看什么 | 最近值得一看的 9 部作品",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118623",
-          "content": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...<a href=&#34;https://sspai.com/post/118623&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "iPhone 变强了，但我没有",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118250",
-          "content": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。<a href=&#34;https://sspai.com/post/118250&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118570",
-          "content": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。<a href=&#34;https://sspai.com/post/118570&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118587",
-          "content": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。<a href=&#34;https://sspai.com/post/118587&#34; target=&#34;_blank&#34;>查看全文</a>"
+          "text": "Goodbye Claude, hello Pi（754 分 · 464 评论）",
+          "source": "Hacker News",
+          "link": "https://caleb.software/posts/claude-to-pi.html",
+          "content": ""
         }
       ]
     },
@@ -130,33 +130,33 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
+          "text": "sherlock-project/sherlock：sherlock-project / sherlock Hunt down social media accounts by username across social networks（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/sherlock-project/sherlock",
+          "content": ""
+        },
+        {
+          "text": "dsx-ai-factory/nvke：dsx-ai-factory / nvke NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.（Go）",
+          "source": "GitHub",
+          "link": "https://github.com/dsx-ai-factory/nvke",
+          "content": ""
+        },
+        {
+          "text": "milind-soni/OpenMausBot：milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/milind-soni/OpenMausBot",
+          "content": ""
+        },
+        {
+          "text": "anthropics/claude-quickstarts：anthropics / claude-quickstarts A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API（Python）",
+          "source": "GitHub",
+          "link": "https://github.com/anthropics/claude-quickstarts",
+          "content": ""
+        },
+        {
           "text": "vercel-labs/agent-browser：vercel-labs / agent-browser Browser automation CLI for AI agents（Rust）",
           "source": "GitHub",
           "link": "https://github.com/vercel-labs/agent-browser",
-          "content": ""
-        },
-        {
-          "text": "cloudflare/security-audit-skill：cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings（JavaScript）",
-          "source": "GitHub",
-          "link": "https://github.com/cloudflare/security-audit-skill",
-          "content": ""
-        },
-        {
-          "text": "google/skills：google / skills Agent Skills for Google products and technologies（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/google/skills",
-          "content": ""
-        },
-        {
-          "text": "mattpocock/skills：mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.（Shell）",
-          "source": "GitHub",
-          "link": "https://github.com/mattpocock/skills",
-          "content": ""
-        },
-        {
-          "text": "anthropics/skills：anthropics / skills Public repository for Agent Skills（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/anthropics/skills",
           "content": ""
         },
         {
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-08","2026-11-07","2026-11-06","2026-11-05","2026-11-04","2026-11-03","2026-11-02","2026-11-01"];
+window.BRIEFING_ARCHIVE = ["2026-11-09","2026-11-08","2026-11-07","2026-11-06","2026-11-05","2026-11-04","2026-11-03","2026-11-02"];
