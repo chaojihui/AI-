@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-10T08:45:39.340Z
+// 由 GitHub Actions 自动生成 2026-11-11T08:11:59.394Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "科学家在碲化锰观察到交替磁性证据",
+          "text": "AMD 公布 Zen 6 CPU 细节",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85844",
-          "content": "科学家在碲化锰中观测到一种被称为“手性交替磁振子”的集体自旋运动，为交替磁性这一新型磁态提供了关键实验证据，也意味着未来芯片和信息存储技术有了新的可能。交替磁性被认为是介于铁磁与反铁磁之间的第三类磁有序。普通磁铁内部电子自旋像一排同向排列的小磁针，整体产生明显磁场；反铁磁体中相邻自旋方向相反，磁性彼此抵消。交替磁体同样没有明显外磁场，却因原子空间排列方式特殊，保留了一些通常只在铁磁体里出现的电子自旋特性，因此被寄望于开发干扰更小、更紧凑"
+          "link": "https://www.solidot.org/story?sid=85852",
+          "content": "AMD 披露了 Zen 6 CPU 家族的细节。从表面看，Zen 6 是 Zen 5 的自然演进，核心扩展了乱序执行结构以及其它方面的迭代改进。但深入内部会发现 AMD 对核心的多个方面进行了重构，其改进类似从 Zen 1 到 Zen 2。 Zen 6 分支预测错误开销从 Zen 5 的 3.5-4 纳秒缩短到了 3-3.5 纳秒，降低了分支预测错误延迟。Zen 6 能在 L1 指令缓存内实现每周期处理 2 个分支，指令足迹超出 L1 "
         },
         {
-          "text": "FDA 警告 GLP-1 减肥药可能增加突然失明风险",
+          "text": "微软宣布 .NET 11",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85843",
-          "content": "FDA 周一表示，GLP-1 药物生产商须在产品标签上增加一项可能导致突然失明的警示。被称为非动脉炎性前部缺血性视神经病变(nonarteritic anterior ischemic optic neuropathy，NAION)的眼部疾病会影响视神经——负责将信号从眼睛传输至大脑的神经。当流向视神经的血液减少或受阻时，可能导致视力突然丧失，这种损伤是永久性的，目前无已知疗法。2024 年《JAMA Ophthalmology》期刊发"
+          "link": "https://www.solidot.org/story?sid=85851",
+          "content": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。.NET 11 改进 C# 15、ASP.NET Core、.NET MAUI 以及 Windows，缩短了应用构建时间，主要变化包括：C# 15 引入了联合类型和封闭类层次结构；Native AOT CLI；ASP.NET Core 支持异步验证和 OpenAPI 3.2，以及 Blazor 和 SignalR "
         },
         {
-          "text": "法国称伊朗黑客组织攻击了超市的制冷控制器",
+          "text": "2026 年全球化石燃料碳排放量预计下降 0.4%",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85842",
-          "content": "法国网络危机协调中心周一发表报告，称上个月对逾 700 家超市制冷控制器发动网络攻击的黑客组织是伊朗的 Shahid Kaveh aka Cyber​​Av3ngers。报告称，受影响的零售集团包括了 Casino、Leclerc、Coopérative U、Metro、Carrefour 和 Intermarché，攻击引发了至少 15 起火灾，造成了数千万欧元的食品损失。法国欧洲与外交部在一份声明中表示：“就规模和攻击强度而言，这是"
+          "link": "https://www.solidot.org/story?sid=85850",
+          "content": "根据 Global Carbon Project 发表的报告《2026 Global Carbon Budget》，因太阳能风能扩张以及冲突导致的石油供应问题，2026 年全球化石燃料碳排放量预计下降 0.4%。今年全球化石燃料二氧化碳（CO2）排放量预计为 382 亿吨，其中石油相关排放量预计下降 1.9%。尽管全球能源需求持续增长，但三分之二增量已被太阳能、风能以及电动汽车的发展所抵消或满足。报告同时指出清洁能源的增长速度尚不足以促"
         },
         {
-          "text": "火星发现存在活火山的证据",
+          "text": "波士顿动力为其人形机器人加入了轮子",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85841",
-          "content": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。科学家已发现火星在过去几百万年间存在火山活动的证据，地震活动也暗示其中一些火山可能仍然活跃，但此前从未发现过熔岩流动或喷发的证据。2019 年，欧空局“微量气体火星轨道器”在火星大气中探测到了氯化氢的存在。这种气体在地球上通常与岩浆喷口相关联，因此，研"
+          "link": "https://www.solidot.org/story?sid=85849",
+          "content": "波士顿动力通过官方 YouTube 频道公布了一则新视频，展示了其人形机器人 Atlas 改用轮子在地面上移动。视频展示了 Atlas 能通过足部的轮子用脚尖旋转，以及做出其它高强度的动作。Atlas 能在平坦地面上的快速滚动与应对障碍物或不规则地面的关节式腿部运动之间实现平滑切换。Atlas 项目控制工程师 Andy Wu 称，系统在模拟环境中进行了训练，在模拟环境中学会所有动作后能在现实世界中以高准确度执行出来。Atlas 转换到移"
         },
         {
-          "text": "世界大城市都在沉降",
+          "text": "中国 Android 厂商开始要求开发者身份验证",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85840",
-          "content": "北大 Lijun Wang 等人在《Nature Cities》期刊上发表了一篇论文，利用卫星雷达对地面微小位移的测量分析了全世界人口超过百万的 465 座城市的地面沉降。数据显示，10 座地面沉降最严重的城市分别是：墨西哥的托雷翁、墨西哥城和托卢卡，巴西的弗洛里亚诺波利斯、伊朗的伊斯法罕、孟加拉国的吉大港、缅甸的仰光、印尼的棉兰和万隆，以及中国的天津。地面沉降现象在东南亚、西亚、中亚和北美地区最为严重，南美洲和非洲也出现了类似问题。地"
+          "link": "https://www.solidot.org/story?sid=85848",
+          "content": "Google 从今年 9 月起要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用未来将无法在 Android 设备上安装（sideload）。Google 官方博客声称它是出于安全理由要求验证开发者身份，理由是其分析显示来自第三方源的恶意应用数量是 Google Play 的 90 多倍。现在，中国主要 Android 厂商也启动了开发者身份验证：OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者"
         },
         {
-          "text": "30 公斤的巨鼠曾在三千万年前生活在今天的泰国",
+          "text": "生成式 AI 过度美化现实",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85839",
-          "content": "科学家根据两枚化石牙齿识别出一种体重约 30 公斤的巨型啮齿动物曾在 3300 万至 3500 万年前活跃于今天的泰国南部地区。泰国矿产资源部地质学家于 2004 年在甲米省一处煤矿中发现的一枚臼齿和一枚门齿。甲米盆地此前曾出土过古代灵长类、食肉动物和有蹄类哺乳动物的化石。当时研究团队缺乏足够的证据和技术手段确定该物种的身份。二十多年后泰国、法国和加拿大的研究人员对牙齿进行详细分析，确定该动物的体重约为 30 公斤——大约相当于现存世界"
+          "link": "https://www.solidot.org/story?sid=85847",
+          "content": "生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研究已揭示出 AI 在涉及人类特征的内容上存在偏见，例如肤色、性别以及地理文化背景等。为减轻文本生成图像（Text-to-Image）生成式模型中的偏见，OpenAI 等公司引入了提示词修订（Prompt Revision）机制。一种隐性的处理过程，即通过重写用户输入的提示词，添加更多"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "创业板涨近1.5%，AI硬件活跃，机器人爆发、宇树市值重回3000亿，恒科指涨超1%，AI大模型股双雄大涨10%",
+          "text": "37亿美元“数据中心发电设备预付款”不要了！“燃气轮机最积极买家”软银看到了什么？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785617",
-          "content": "隔夜美股科技股大涨，纳斯达克100指数涨3.4%，芯片股指数单日飙升近7%。亚太股市周二跟随上涨，韩国和日本股市收涨，韩国股市盘初一度涨至熔断，A股和港股的AI硬件全天活跃。 11月10日，A股全天震荡上涨，三大股指集体上涨，盘中震荡回落，午后基本维持涨势，创业板涨超1%，盘初一度涨超2%，AI短剧、机器人再度爆发，宇树科技涨超6%，市值重回3000亿上方。AI硬件拉升，电路板、光模块、光芯片、光电路交换机等概念股齐涨，“易中天”、沪电"
+          "link": "https://wallstreetcn.com/articles/3785724",
+          "content": "软银集团2026财年第二季度（截至9月）净亏损1.12万亿日元（约71亿美元），为近两年来首次季度亏损。 市场此前预期的是1290亿日元的利润。结果和预期方向完全相反。 亏损的直接导火索，是一笔37亿美元的资产减值——据彭博报道，这笔钱原本是为锁定AI数据中心发电设备而提前支付的预付款，如今大部分已无法追回。 软银CFO Yoshimitsu Goto在业绩发布会上承认， 公司此前“抢在长期规划敲定之前，就急于锁定所需设备”，如今正对整"
         },
         {
-          "text": "软银两年来首次季度亏损！AI暴跌重创愿景基金，美国数据中心项目遭巨额减值",
+          "text": "“照常上班”、“照常开例会”，婚外情曝光后黄仁勋重返工作岗位",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785648",
-          "content": "软银集团近两年来首次录得季度净亏损，核心原因是其美国数据中心项目产生了巨额减值，叠加科技股估值普跌拖累投资组合，AI热潮能否持续的疑虑正以实实在在的财务代价呈现。 软银周二公布， 截至9月30日的财年第二季度净亏损达1.12万亿日元（约71亿美元）， 与市场预期盈利1290亿日元形成鲜明反差，去年同期则录得2.5万亿日元的净利润。 亏损主要源于一笔折合约37亿美元（597.25亿日元）的损失——公司因调整美国俄亥俄州数据中心园区供电设备"
+          "link": "https://wallstreetcn.com/articles/3785714",
+          "content": "英伟达首席执行官黄仁勋在公开承认婚外情后迅速回归工作岗位，试图向外界传递&#34;一切如常&#34;的信号。然而，这家全球最重要的AI芯片制造商内部情绪趋于低落，董事会调查也在同步推进。 据CNBC11日援引知情人士透露，黄仁勋于周一返回英伟达位于加利福尼亚州圣克拉拉的总部，主持了与高层管理人员的例行晨会。就在前一天，这位63岁的CEO刚刚向员工披露了自己的婚外情。 据报道，黄仁勋在会议伊始就提及此事，向员工表达歉意，随后迅速将议程转向"
         },
         {
-          "text": "全球科技股反弹，欧洲斯托克600创新高，英飞凌涨4.6%，韩股收涨4.4%，油价下跌",
+          "text": "见闻历11.11大促最后3天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785613",
-          "content": "全球股市周二延续反弹势头，有望录得逾三个月来最佳两日涨幅，科技股回暖与油价持续回落共同提振市场情绪。亚洲市场领涨，韩国综指涨幅居前，美股期货小幅走高。 欧洲斯托克600指数上涨0.8%，突破收盘历史最高纪录。MSCI全球股票指数周二上涨0.4%，叠加周一2.2%的涨幅，全球股市正朝着三个月来最强两日表现迈进。在亚洲市场，韩国综合股价指数大涨4.4%，以芯片股为主的权重结构助推其成为当日表现最佳的主要市场，日本日经225指数和东证指数分别"
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "魏牌二代蓝山换代，瞄准豪华“方盒子”市场",
+          "text": "市场“新军”进入快速建仓期？首批主动ETF落地运作",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785186",
-          "content": "魏牌二代蓝山转向豪华 “ 方盒子 ” ，瞄准的是 30 万元左右 SUV 市场里的新客户。 11 月 9 日，魏牌二代蓝山开启预售，提供五座、六座共四款车型，预售价 28.98 万 —32.98 万元 ，新换代的车型 也承担起魏牌寻找新增客户的任务。 这款车推出时，魏牌正面临增长压力。长城汽车产销快报显示， 10 月魏牌销量为 8648 辆，同比下降 31.90% ；前十个月累计销量 75230 辆，同比下降 1.39% 。对于已经布局"
+          "link": "https://wallstreetcn.com/articles/3785716",
+          "content": "备受瞩目的首批主动 ETF ，已经开始正式下场运作。 根据最新公布的基金净值，首批 18 只 主动管理 ET 的 16 只产品，日前公布了最新净值（截至 11 月 6 日）。其中不少产品净值已开始明显波动，后者意味着基金经理已在考虑建仓。 此外，另外两只产品也已完成募集，所有基金的原始份额均已售罄，后续 360 亿资金将会次第入市。 各家动作不一 从已披露的净值报告看， 16 家公布净值的产品收益率略有差异。 其中，永赢景气均衡以 +1"
         },
         {
-          "text": "马自达扭亏，下半财年要完成909亿日元营业利润",
+          "text": "2028年——美国中选给AI上游供应链“挖的一个坑”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785554",
-          "content": "恢复盈利的马自达，接下来要靠新车型和降本，在下半年完成更重的利润任务。 11 月 9 日，马自达发布 2027 财年上半年业绩。 2026 年 4 月至 9 月，公司营收 2.6881 万亿日元，同比增长 20.1% ；营业利润 591 亿日元，上年同期为亏损 539 亿日元；归母净利润 442 亿日元，同样实现扭亏。 公司维持截至 2027 年 3 月的全年 1500 亿日元营业利润目标，预计下半财年完成 909 亿日元。与此同时，全"
+          "link": "https://wallstreetcn.com/articles/3785713",
+          "content": "一场选举，让华尔街重新审视AI建设节奏。 2026年11月，美国中期选举结果出炉。民主党不仅拿下国会两院，还在德州、俄亥俄州赢得州长席位——这两个州恰好是美国数据中心建设最密集的地区。 摩根士丹利最新研报 《Buy the Drop: AI Investment Opportunities Post the US Midterms》 判断，美国蓝色浪潮后，美国数据中心建设将有约5GW容量从2028年推迟至2029年，相当于美国当年新增容"
         },
         {
-          "text": "美联储12月会加息吗？今晚CPI一锤定音！",
+          "text": "国联民生的整合实验：“双向法人切换”如何重塑业务分工",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785630",
-          "content": "今晚公布的10月CPI数据，将成为美联储年内最后一次加息决策的关键依据。在强劲就业数据已为鹰派打开大门的背景下，通胀数据的走向，将直接决定联储主席Warsh是否在12月9日扣动加息扳机。 市场目前对12月加息的定价已高达约86%。上周五非农就业人数大幅超预期，新增16.5万人，远超市场预估的7万人，失业率回落至4.1%，劳动力市场已为鹰派提供了充分支撑。上次FOMC会议以10比2的投票结果维持利率不变，但Cook和Hammack两位官员"
+          "link": "https://wallstreetcn.com/articles/3785715",
+          "content": "国联民生证券历时近两年的业务整合，迎来新的进展。 11月9日，国联民生证券完成财富管理业务法人切换后的首个交易日，各项交易及清算交收业务运行平稳。 据公司披露，此次切换涉及215万名经纪客户、483个交易单元、沪深北三地结算路径，以及19家存管银行的银证签约关系。 对于投资者而言，账户号码、交易软件及持仓资产保持不变。后台则完成了业务主体的调整，相关客户的交易代理、结算交收等服务由民生证券承接。 这也是国联民生此次整合的一项特殊安排。 "
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
+          "text": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118175",
+          "content": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？<a href=&#34;https://sspai.com/post/118175&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118458",
+          "content": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。<a href=&#34;https://sspai.com/post/118458&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118905",
+          "content": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。<a href=&#34;https://sspai.com/post/118905&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "社区速递 165 | 透明工牌与派友十月购物清单",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118861",
+          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/118861&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118824",
+          "content": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...<a href=&#34;https://sspai.com/post/118824&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
           "text": "今年双十一，这些鼠标值得一看",
           "source": "少数派",
           "link": "https://sspai.com/post/111065",
           "content": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。<a href=&#34;https://sspai.com/post/111065&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118854",
-          "content": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=&#34;https://sspai.com/post/118854&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派评 | 近期值得关注的 App",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118833",
-          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/118833&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118799",
-          "content": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。<a href=&#34;https://sspai.com/post/118799&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验&#xA;",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118227",
-          "content": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...<a href=&#34;https://sspai.com/post/118227&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "天花板上的白色盒子，是怎样保护我们的安全的？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118029",
-          "content": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。<a href=&#34;https://sspai.com/post/118029&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,27 +130,21 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "anthropics/skills：anthropics / skills Public repository for Agent Skills（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/anthropics/skills",
-          "content": ""
-        },
-        {
           "text": "meta/astryx：meta / astryx An open source design system that's fully customizable and agent ready（TypeScript）",
           "source": "GitHub",
           "link": "https://github.com/meta/astryx",
           "content": ""
         },
         {
-          "text": "sherlock-project/sherlock：sherlock-project / sherlock Hunt down social media accounts by username across social networks（Python）",
+          "text": "anthropics/skills：anthropics / skills Public repository for Agent Skills（Python）",
           "source": "GitHub",
-          "link": "https://github.com/sherlock-project/sherlock",
+          "link": "https://github.com/anthropics/skills",
           "content": ""
         },
         {
-          "text": "google-deepmind/mujoco：google-deepmind / mujoco Multi-Joint dynamics with Contact. A general purpose physics simulator.（C++）",
+          "text": "addyosmani/agent-skills：addyosmani / agent-skills Production-grade engineering skills for AI coding agents.（JavaScript）",
           "source": "GitHub",
-          "link": "https://github.com/google-deepmind/mujoco",
+          "link": "https://github.com/addyosmani/agent-skills",
           "content": ""
         },
         {
@@ -160,9 +154,15 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "garrytan/gbrain：garrytan / gbrain Garry's Opinionated OpenClaw/Hermes Agent Brain（TypeScript）",
+          "text": "google-deepmind/mujoco：google-deepmind / mujoco Multi-Joint dynamics with Contact. A general purpose physics simulator.（C++）",
           "source": "GitHub",
-          "link": "https://github.com/garrytan/gbrain",
+          "link": "https://github.com/google-deepmind/mujoco",
+          "content": ""
+        },
+        {
+          "text": "we-promise/sure：we-promise / sure The personal finance app for everyone (by everyone)（Ruby）",
+          "source": "GitHub",
+          "link": "https://github.com/we-promise/sure",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-10","2026-11-09","2026-11-08","2026-11-07","2026-11-06","2026-11-05","2026-11-04","2026-11-03"];
+window.BRIEFING_ARCHIVE = ["2026-11-11","2026-11-10","2026-11-09","2026-11-08","2026-11-07","2026-11-06","2026-11-05","2026-11-04"];
