@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-11T08:11:59.394Z
+// 由 GitHub Actions 自动生成 2026-11-12T08:45:14.985Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "AMD 公布 Zen 6 CPU 细节",
+          "text": "电视厂商回应有关监视的提问",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85852",
-          "content": "AMD 披露了 Zen 6 CPU 家族的细节。从表面看，Zen 6 是 Zen 5 的自然演进，核心扩展了乱序执行结构以及其它方面的迭代改进。但深入内部会发现 AMD 对核心的多个方面进行了重构，其改进类似从 Zen 1 到 Zen 2。 Zen 6 分支预测错误开销从 Zen 5 的 3.5-4 纳秒缩短到了 3-3.5 纳秒，降低了分支预测错误延迟。Zen 6 能在 L1 指令缓存内实现每周期处理 2 个分支，指令足迹超出 L1 "
+          "link": "https://www.solidot.org/story?sid=85866",
+          "content": "在 LG 电视监视用户的报道引发广泛关注之后，The Verge 联系了亚马逊、苹果、Google、海信、LG、松下、Roku、三星、索尼、TCL 和 Vizio 等机顶盒和电视厂商，询问了相同的问题，其中海信、松下等无任何回应，TCL 等厂商很多问题也没有直接回应，而 LG 即便被发现监视用户但其代表在回应时基本上完全予以否认。举例来说，电视是否会在用户观看内容时收集屏幕截图、录制视频或音频——即使用自动内容识别（Automatic "
         },
         {
-          "text": "微软宣布 .NET 11",
+          "text": "腾讯计划将半数员工部署到 AI 原生业务",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85851",
-          "content": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。.NET 11 改进 C# 15、ASP.NET Core、.NET MAUI 以及 Windows，缩短了应用构建时间，主要变化包括：C# 15 引入了联合类型和封闭类层次结构；Native AOT CLI；ASP.NET Core 支持异步验证和 OpenAPI 3.2，以及 Blazor 和 SignalR "
+          "link": "https://www.solidot.org/story?sid=85865",
+          "content": "腾讯创始人马化腾称，他愿意将半数员工投入到 AI 原生业务，并敦促公司逾 10 万名员工拥抱这项定义时代的技术。 马化腾本周在年度演讲中告诉员工，行业已进入“大航海时代”，他将腾讯的核心业务比作陆军，将新的 AI 业务比作海军。马化腾称，50% 的人要像陆军一样，守土有责，通过提效去做好现有的核心业务；另外 50% 的人像海军一样，拥抱浪潮，探索 AI Native、拓展新的发展空间。近期有传言称腾讯计划裁员50%，对此知情人士称，公司"
         },
         {
-          "text": "2026 年全球化石燃料碳排放量预计下降 0.4%",
+          "text": "罗技给所有员工放假一天玩 GTA 6",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85850",
-          "content": "根据 Global Carbon Project 发表的报告《2026 Global Carbon Budget》，因太阳能风能扩张以及冲突导致的石油供应问题，2026 年全球化石燃料碳排放量预计下降 0.4%。今年全球化石燃料二氧化碳（CO2）排放量预计为 382 亿吨，其中石油相关排放量预计下降 1.9%。尽管全球能源需求持续增长，但三分之二增量已被太阳能、风能以及电动汽车的发展所抵消或满足。报告同时指出清洁能源的增长速度尚不足以促"
+          "link": "https://www.solidot.org/story?sid=85864",
+          "content": "游戏外设制造商罗技推出了罗技游戏日（Logi Game Day），为公司全部 7000 名员工提供了额外的一天带薪假期，让他们能在 11 月 19 日《GTA 6》发布时尽情畅玩。员工和实习生可在未来一年内的任意时间使用这一假期。罗技认为应当摒弃玩游戏是浪费时间的旧观念。作为一家生产游戏外设的企业，罗技持有这种观点并不令人意外，但首席执行官 Hanneke Faber 指出，公司观察到“在某一领域的投入，能促进在另一领域的表现”。罗技希"
         },
         {
-          "text": "波士顿动力为其人形机器人加入了轮子",
+          "text": "假如地球没有诞生生命？",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85849",
-          "content": "波士顿动力通过官方 YouTube 频道公布了一则新视频，展示了其人形机器人 Atlas 改用轮子在地面上移动。视频展示了 Atlas 能通过足部的轮子用脚尖旋转，以及做出其它高强度的动作。Atlas 能在平坦地面上的快速滚动与应对障碍物或不规则地面的关节式腿部运动之间实现平滑切换。Atlas 项目控制工程师 Andy Wu 称，系统在模拟环境中进行了训练，在模拟环境中学会所有动作后能在现实世界中以高准确度执行出来。Atlas 转换到移"
+          "link": "https://www.solidot.org/story?sid=85862",
+          "content": "假如地球没有诞生生命，它会变成什么模样？华盛顿大学团队进行了计算机模拟，他们将生命的因素彻底抽离，但完整保留了地核、地函、大气、海洋以及太阳辐射等 19 项关键物理变数，模拟这颗没有生命的地球从 45 亿年前诞生至今、乃至未来 5 亿年的演化史。在长达数十亿年的岁月里，这颗死寂的地球除了因为没有植物进行光合作用而极度缺乏氧气外，其地表温度与液态水量竟然与我们今天的真实地球相差无几。在天文学的定义中，宜居的核心标准并非空气中是否有氧气，而"
         },
         {
-          "text": "中国 Android 厂商开始要求开发者身份验证",
+          "text": "Firefox 内置 VPN 服务在三个月内不限制流量",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85848",
-          "content": "Google 从今年 9 月起要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用未来将无法在 Android 设备上安装（sideload）。Google 官方博客声称它是出于安全理由要求验证开发者身份，理由是其分析显示来自第三方源的恶意应用数量是 Google Play 的 90 多倍。现在，中国主要 Android 厂商也启动了开发者身份验证：OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者"
+          "link": "https://www.solidot.org/story?sid=85861",
+          "content": "Mozilla 宣布，为迎接年底的假期 Firefox 内置的 VPN 服务从 11 月 10 日到 2027 年 1 月 31 日之间不限制流量。Firefox 内置的 VPN 不同于 Mozilla VPN，前者设计通过 Mozilla 管理的服务器路由浏览器的流量隐藏用户的真实 IP 地址；后者则是独立的付费订阅服务，可同时在五台设备上使用。Firefox 内置 VPN 服务尚未向全球推广，目前仅限于美国、法国、德国和英国等国的用"
         },
         {
-          "text": "生成式 AI 过度美化现实",
+          "text": "苹果关闭支持社区",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85847",
-          "content": "生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研究已揭示出 AI 在涉及人类特征的内容上存在偏见，例如肤色、性别以及地理文化背景等。为减轻文本生成图像（Text-to-Image）生成式模型中的偏见，OpenAI 等公司引入了提示词修订（Prompt Revision）机制。一种隐性的处理过程，即通过重写用户输入的提示词，添加更多"
+          "link": "https://www.solidot.org/story?sid=85860",
+          "content": "苹果突然宣布关闭其支持社区 Support Community：它将于 2026 年 11 月 20 日永久关闭，即日起进入只读模式，用户无法再发新帖。想要获得帮助的苹果用户可访问 Apple Support 网站，但他们将无法互相交流。苹果支持社区创建于 1998 年，是一个用户互相交流和讨论问题的论坛，它的关闭标志着三十年积累的建议、故障排查经验以及未获解答问题都戛然而止，苹果未说明支持社区存档是否还能访问。"
         }
       ]
     },
@@ -48,46 +48,70 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "37亿美元“数据中心发电设备预付款”不要了！“燃气轮机最积极买家”软银看到了什么？",
+          "text": "创业板冲高回落跌超2%，算力硬件龙头午后下跌，GPU活跃、寒武纪一度重返千元，恒科指跌超2%，阿里大跌逾6%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785724",
-          "content": "软银集团2026财年第二季度（截至9月）净亏损1.12万亿日元（约71亿美元），为近两年来首次季度亏损。 市场此前预期的是1290亿日元的利润。结果和预期方向完全相反。 亏损的直接导火索，是一笔37亿美元的资产减值——据彭博报道，这笔钱原本是为锁定AI数据中心发电设备而提前支付的预付款，如今大部分已无法追回。 软银CFO Yoshimitsu Goto在业绩发布会上承认， 公司此前“抢在长期规划敲定之前，就急于锁定所需设备”，如今正对整"
+          "link": "https://wallstreetcn.com/articles/3785781",
+          "content": "据媒体报道，英伟达董事会于周三召开内部会议以决定黄仁勋的去留，并已与外部机构合作遴选新任CEO候选人，其中包括考虑任命一位过渡时期首席执行官。寒武纪、燧原科技等国产GPU集体拉升，带动科创50大幅走强。虽然隔夜美股存储板块强力上扬，但英伟达负面不断，叠加韩股存储双雄涨势有限，A股存储器、光通信板块相对克制。 11月12日，A股三大指数午后集体转跌，创业板跌幅扩大至超2%，早盘一度涨超1%，科创50亦冲高回落，午后涨幅回落至1%下方，此前"
         },
         {
-          "text": "“照常上班”、“照常开例会”，婚外情曝光后黄仁勋重返工作岗位",
+          "text": "AI服务器+iPhone Duo双驱动，鸿海Q3净利润大增34%超预期",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785714",
-          "content": "英伟达首席执行官黄仁勋在公开承认婚外情后迅速回归工作岗位，试图向外界传递&#34;一切如常&#34;的信号。然而，这家全球最重要的AI芯片制造商内部情绪趋于低落，董事会调查也在同步推进。 据CNBC11日援引知情人士透露，黄仁勋于周一返回英伟达位于加利福尼亚州圣克拉拉的总部，主持了与高层管理人员的例行晨会。就在前一天，这位63岁的CEO刚刚向员工披露了自己的婚外情。 据报道，黄仁勋在会议伊始就提及此事，向员工表达歉意，随后迅速将议程转向"
+          "link": "https://wallstreetcn.com/articles/3785799",
+          "content": "鸿海精密工业第三季度净利润大幅超越市场预期，创下历史新高，AI服务器业务的强劲增长与苹果折叠屏手机iPhone Duo的旺盛需求共同构成双轮驱动。 鸿海周四（11月12日）公布的数据显示， 截至9月的三个月内，净利润同比增长34%至775亿新台币（约24亿美元），高于分析师平均预期的703亿新台币。 此前，公司已披露同期营收季增47%，达到创纪录的3.03万亿新台币。AI服务器组装已成为鸿海增长的最大引擎，推动公司加速突破对消费电子业务"
         },
         {
-          "text": "见闻历11.11大促最后3天！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
+          "text": "机构预计Anthropic上市首日散户净买入约2.5亿美元，或达SpaceX纪录两倍",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3782813",
-          "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
+          "link": "https://wallstreetcn.com/articles/3785801",
+          "content": "Vanda Research预计，Anthropic上市首日有望录得约 2.5亿美元散户净买入 ，若成真，将是SpaceX所创1.18亿美元纪录的两倍，并可能跻身历史上规模最大的单日散户买入之列。 据媒体11月12日报道，Vanda Research周三（11月11日）公布的报告显示，这一测算基于该机构对历次新股上市首日散户交易行为的分析，以及Hyperliquid平台上Anthropic IPO前永续期货的成交规模。该机构全球宏观策略"
         },
         {
-          "text": "市场“新军”进入快速建仓期？首批主动ETF落地运作",
+          "text": "国内首个！礼来口服GLP-1减重药，获国家药监局批准上市",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785716",
-          "content": "备受瞩目的首批主动 ETF ，已经开始正式下场运作。 根据最新公布的基金净值，首批 18 只 主动管理 ET 的 16 只产品，日前公布了最新净值（截至 11 月 6 日）。其中不少产品净值已开始明显波动，后者意味着基金经理已在考虑建仓。 此外，另外两只产品也已完成募集，所有基金的原始份额均已售罄，后续 360 亿资金将会次第入市。 各家动作不一 从已披露的净值报告看， 16 家公布净值的产品收益率略有差异。 其中，永赢景气均衡以 +1"
+          "link": "https://wallstreetcn.com/articles/3785798",
+          "content": "11月12日，礼来的口服GLP-1减重药奥氟格列隆钙片（商品名穆优达）获国家药监局批准上市， 成为国内首个获批的口服GLP-1类减重药物。 市场规模达百亿元级的减重赛道由此从注射剂单线竞争，转入口服与注射双线并行。 国家药监局官网显示，该药为1类创新药，由Eli Lilly Nederland B.V.申报，适用于在控制饮食和增加运动基础上，用于初始体重指数（BMI）≥30 kg/m²（肥胖），或≥27 kg/m²至<30 kg/m²（"
         },
         {
-          "text": "2028年——美国中选给AI上游供应链“挖的一个坑”",
+          "text": "豆包工作全面开放多模型 ，办公Agent“路由大战”再升级",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785713",
-          "content": "一场选举，让华尔街重新审视AI建设节奏。 2026年11月，美国中期选举结果出炉。民主党不仅拿下国会两院，还在德州、俄亥俄州赢得州长席位——这两个州恰好是美国数据中心建设最密集的地区。 摩根士丹利最新研报 《Buy the Drop: AI Investment Opportunities Post the US Midterms》 判断，美国蓝色浪潮后，美国数据中心建设将有约5GW容量从2028年推迟至2029年，相当于美国当年新增容"
+          "link": "https://wallstreetcn.com/articles/3785800",
+          "content": "字节跳动旗下的豆包工作，开始让用户使用更多竞争对手的大模型。 11月12日，豆包工作宣布更新模型阵容，在原有豆包2.1 Lite和Pro两款自研模型之外，正式接入Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等第三方模型。 这次更新还伴随着一轮价格调整。 豆包工作将在模型选择页面标注不同模型的额度消耗倍率，用户可以根据任务复杂程度、响应速度及使用成本，自主选择模型。同时，平台还推出限时优惠计划，下调豆"
         },
         {
-          "text": "国联民生的整合实验：“双向法人切换”如何重塑业务分工",
+          "text": "报道：英伟达部分董事倾向由CFO Kress担任过渡期CEO",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785715",
-          "content": "国联民生证券历时近两年的业务整合，迎来新的进展。 11月9日，国联民生证券完成财富管理业务法人切换后的首个交易日，各项交易及清算交收业务运行平稳。 据公司披露，此次切换涉及215万名经纪客户、483个交易单元、沪深北三地结算路径，以及19家存管银行的银证签约关系。 对于投资者而言，账户号码、交易软件及持仓资产保持不变。后台则完成了业务主体的调整，相关客户的交易代理、结算交收等服务由民生证券承接。 这也是国联民生此次整合的一项特殊安排。 "
+          "link": "https://wallstreetcn.com/articles/3785797",
+          "content": "英伟达董事会正准备罢免创始人兼CEO黄仁勋，部分董事倾向由首席财务官Colette Kress出任过渡期CEO，同时公司已委托外部猎头机构启动新CEO搜寻工作。 消息传出后，英伟达股价盘后跌逾8%，触及52周低点。 据美国媒体Semafor 12日援引知情人士透露，英伟达董事会定于美东时间本周三晚间召开会议，讨论是否最快于当天罢免黄仁勋。据Semafor报道，此次危机的导火索是媒体披露黄仁勋存在第二段婚外情。据一名美国政府高级官员透露，"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "Mac 选购指南 2026 冬季版",
+          "source": "少数派",
+          "link": "https://sspai.com/post/85735",
+          "content": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。<a href=&#34;https://sspai.com/post/85735&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118921",
+          "content": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...<a href=&#34;https://sspai.com/post/118921&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118935",
+          "content": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。<a href=&#34;https://sspai.com/post/118935&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "城市漫步指南 | 安特卫普，时尚就在生活中",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118781",
+          "content": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...<a href=&#34;https://sspai.com/post/118781&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "从优胜美地到金门大桥：跟着 macOS 游览加州",
           "source": "少数派",
@@ -99,30 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/118458",
           "content": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。<a href=&#34;https://sspai.com/post/118458&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118905",
-          "content": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。<a href=&#34;https://sspai.com/post/118905&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "社区速递 165 | 透明工牌与派友十月购物清单",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118861",
-          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/118861&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118824",
-          "content": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...<a href=&#34;https://sspai.com/post/118824&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "今年双十一，这些鼠标值得一看",
-          "source": "少数派",
-          "link": "https://sspai.com/post/111065",
-          "content": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。<a href=&#34;https://sspai.com/post/111065&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -136,9 +136,21 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "anthropics/skills：anthropics / skills Public repository for Agent Skills（Python）",
+          "text": "ZhuLinsen/daily_stock_analysis：ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/anthropics/skills",
+          "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "content": ""
+        },
+        {
+          "text": "GoogleChrome/modern-web-guidance-src（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "content": ""
+        },
+        {
+          "text": "shadcn/improve：shadcn / improve Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+          "source": "GitHub",
+          "link": "https://github.com/shadcn/improve",
           "content": ""
         },
         {
@@ -148,21 +160,9 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "anthropics/claude-quickstarts：anthropics / claude-quickstarts A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API（Python）",
+          "text": "vercel-labs/agent-browser：vercel-labs / agent-browser Browser automation CLI for AI agents（Rust）",
           "source": "GitHub",
-          "link": "https://github.com/anthropics/claude-quickstarts",
-          "content": ""
-        },
-        {
-          "text": "google-deepmind/mujoco：google-deepmind / mujoco Multi-Joint dynamics with Contact. A general purpose physics simulator.（C++）",
-          "source": "GitHub",
-          "link": "https://github.com/google-deepmind/mujoco",
-          "content": ""
-        },
-        {
-          "text": "we-promise/sure：we-promise / sure The personal finance app for everyone (by everyone)（Ruby）",
-          "source": "GitHub",
-          "link": "https://github.com/we-promise/sure",
+          "link": "https://github.com/vercel-labs/agent-browser",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-11","2026-11-10","2026-11-09","2026-11-08","2026-11-07","2026-11-06","2026-11-05","2026-11-04"];
+window.BRIEFING_ARCHIVE = ["2026-11-12","2026-11-11","2026-11-10","2026-11-09","2026-11-08","2026-11-07","2026-11-06","2026-11-05"];
