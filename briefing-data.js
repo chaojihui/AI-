@@ -1,11 +1,35 @@
-// 由 GitHub Actions 自动生成 2026-11-14T07:55:42.946Z
+// 由 GitHub Actions 自动生成 2026-11-15T08:18:58.674Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "sections": [
     {
       "title": "AI发展",
       "items": [
+        {
+          "text": "美国失去麻疹消除地位",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85889",
+          "content": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录。今年报告的病例几乎所有患者此前都未接种"
+        },
+        {
+          "text": "天问四号将尝试登陆木卫四",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85887",
+          "content": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件。"
+        },
+        {
+          "text": "微软云服务宕机持续逾 24 小时",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85886",
+          "content": "微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数十个国家出现通信问题。微软表示，“没有发现”任何可能导致这次服务中断的外部干扰，并将问题归咎于服务器故障。这次中断是微软"
+        },
+        {
+          "text": "美国历史上第三次航班大停飞",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85884",
+          "content": "美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的仍是几十年前的模拟设备，已完全无法满足 21 世纪的需求。但也有报道称此次事件与软件升级失败有关：由 L3Harris "
+        },
         {
           "text": "旅行者 1 号距离地球的距离达到一光日",
           "source": "Solidot",
@@ -17,30 +41,6 @@ window.BRIEFING_DATA = {
           "source": "Solidot",
           "link": "https://www.solidot.org/story?sid=85882",
           "content": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures L"
-        },
-        {
-          "text": "台积电内部员工数据泄露",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85881",
-          "content": "台积电在递交到 SEC 的一份声明中称，部分现任及前任员工的个人数据在未经授权的情况下出现在了一个外网上。相关信息与存储在某云服务提供商系统服务中的数据相吻合。台积电表示，目前尚未发现其自身系统遭到入侵的证据，且这些数据与其业务运营或客户信息无关。公司正通知受影响的员工，与该云服务商、相关调查机构以及一家外部网络安全公司合作，以查明事件真相。据报道，黑客在 DarkForums、BreachForums 等地下论坛上拍卖 6.9GB 容"
-        },
-        {
-          "text": "地球冰冻圈不再处于安全运行空间内",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85880",
-          "content": "地球上的冰冻部分——包括冰盖、冰川、海冰、积雪和永久冻土——在调节地球气候、水资源供应和碳循环等诸多生态系统服务中发挥着至关重要的作用。但根据中外研究人员的一项新分析，冰冻圈的基本功能已不再处于安全运行空间（SOS）之内；其被推越界限的程度将给地球人口带来长期挑战。作为地球界限（planetary boundaries）方法的一部分，安全运行空间（SOS）定义了地球系统保持稳定与韧性、并使人类及生态系统能够繁荣发展的环境界限。研究人员对"
-        },
-        {
-          "text": "《幻兽帕鲁》开发商给员工五天假期畅玩 GTA 6",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85879",
-          "content": "《幻兽帕鲁（Palworld）》开发商 Pocketpair 宣布了五天特别假期，让员工可以畅玩即将发售的 GTA 6。GTA 6 将于 11 月 19 日上市，有望创下游戏销售新记录，预计首周销量将高达数千万份拷贝。Pocketpair 表示，所有想要玩 GTA 6 的员工都可以利用这一特别假期。它同时表示《Palworld》和《Craftopia》的开发顺利，会按计划推进。此前游戏外设制造商罗技也宣布给所有员工放假一天去畅玩 GTA"
-        },
-        {
-          "text": "英伟达员工请愿让黄仁勋复职",
-          "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85878",
-          "content": "英伟达创始人黄仁勋辞职后公司内部员工发起请愿让他复职。一名员工在内部意见系统上写道：我们都是人、都会犯错，黄仁勋办了那么多好事，理应得到第二次机会。黄仁勋担任英伟达 CEO 长达 33 年，领导公司成为世界市值最高的公司之一，很多员工都认为他对公司的贡献巨大，不应因此遭到抹杀。英伟达员工还通过 LinkedIn 公开表达对他的支持，且无人公开支持罢免他。"
         }
       ]
     },
@@ -48,46 +48,52 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "高盛2027年全球股市展望：AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”",
+          "text": "AI资本开支见顶=美元见顶？高盛2027展望：美元即将迎来“最后一涨”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785935",
-          "content": "随着AI资本开支热潮接近顶点，全球股市盈利增长引擎正在降速。高盛在最新发布的2027年全球股票策略展望中指出，尽管盈利增速将大幅放缓，当前被市场抛售的成长股——尤其是美国超大规模云计算企业反而具备了布局价值。 高盛首席全球股票策略师Peter Oppenheimer在最新《Finding Value in Growth》的报告中指出， AI相关企业估值已大幅回调，反映出市场对AI资本开支见顶及回报放缓的担忧，这为投资者提供了具有吸引力的"
+          "link": "https://wallstreetcn.com/articles/3785958",
+          "content": "美元与AI资本开支预期深度绑定，高盛警告：当AI叙事退潮，美元将随之承压。 高盛外汇策略团队在《2027全球外汇展望》报告中指出， 美元短期内仍有上行空间，但2027年将迎来实质性逆转。 在历经2025年的大规模抛售与多元化配置后，美元于2026年悄然收复失地——欧元兑美元回落至&#34;解放日&#34;以来低位，美元指数（DXY）触及2025年4月以来最高点，美元兑日元逼近160关口。 高盛认为，支撑这轮涨势的核心驱动力正是AI相关投"
         },
         {
-          "text": "坐拥1350亿美元英伟达股票，黄仁勋会抛售套现吗？",
+          "text": "本周市场的“意外”：美债收益率与科技股债同涨",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785938",
-          "content": "执掌英伟达33年后，黄仁勋的离职令外界将目光投向他手中价值逾千亿美元的股票。这批筹码的命运，已成为悬在英伟达股价上方的一块巨石。 黄仁勋目前持有约8.12亿股英伟达股票 ，市值约1350亿美元，是公司最大的个人股东。据William Blair分析师本周表示， 这一庞大持仓在近期对英伟达股价构成&#34;重大压制&#34;。 市场普遍关注的问题在于，黄仁勋何时能够、以及是否会选择开始大规模减持。哈佛大学公司治理专家Jesse Fried"
+          "link": "https://wallstreetcn.com/articles/3785953",
+          "content": "美债收益率大幅跳升的同时，科技股与信用债同步反弹。这一&#34;异常共振&#34;打破了市场对高利率压制风险资产的传统预期，也令投资者对这一组合能否持续心存疑虑。 追风交易台消息，11月13日，野村证券策略师Naka Matsuzawa研报指出， 科技股的反弹更可能只是此前大幅下跌后的技术性修复 ，对AI投资回报能够覆盖当前利率水平的信心实际上并未重建。 分析认为，这一组合的可持续性，将是未来一周市场的核心议题。 若美联储官员未能纠正市"
         },
         {
-          "text": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”",
+          "text": "芯片股刚刚创下4月以来最大单周涨幅，对冲基金却又“逢高减持”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785936",
-          "content": "英伟达CEO黄仁勋的离职令科技股前景蒙上阴影，著名空头Michael Burry借势加码做空押注，断言AI热潮正在上演一场&#34;牛市陷阱&#34;。 Burry在其Substack上撰文， 将纳斯达克100指数今年10月6日触及的高点比作2000年3月互联网泡沫破裂前夕的顶部，并表示已于11月12日利用指数反弹至27000点之际，将纳斯达克100指数的看跌期权仓位翻倍——行权日期定于2027年初，当前虚值幅度约20%。 与此同时，他"
+          "link": "https://wallstreetcn.com/articles/3785954",
+          "content": "芯片股强劲反弹，对冲基金却选择加码做空。这一反常信号，正在成为市场能否持续走高的核心悬念。 费城半导体指数上周单周涨幅逾8%，创下4月以来最佳表现，标普500指数同期上涨2.5%。然而据高盛最新Prime Brokerage周报，对冲基金连续第二周净卖出美股，且本周的卖出以新建空头为主，与上周的多头平仓性质截然不同。换言之，机构投资者利用芯片股最强反弹周之一，大举押注个股下行。 在标普500单周回报达3.27%的情况下，美国选股型基金的"
         },
         {
-          "text": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器",
+          "text": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785933",
-          "content": "SpaceX雄心勃勃的&#34;双回收&#34;首秀在第一个环节便遭遇挫折，但飞船任务仍在继续。 美国当地时间11月13日下午， 星舰完成第十五次综合飞行测试发射，然而在级间分离后，V3版本超重型助推器Booster 22未能按计划返回发射场，最终溅落墨西哥湾并发生爆炸，错失由发射塔机械臂捕获的机会。 与此同时，上级飞船Ship 42继续执行轨道任务，部署26颗星链V3卫星，并计划于次日下午尝试返回发射场，由机械臂完成捕获。 星舰超重型"
+          "link": "https://wallstreetcn.com/articles/3785932",
+          "content": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先，关注APEC领导人非正式会议。 峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。 其次，AI行情胜负手在英伟达。 黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话会，数据中心收入与下季指引若能扛住，AI"
         },
         {
-          "text": "传统的圣诞行情，今年的美股还有吗？",
+          "text": "2027见闻历，财经人的桌面必备“神历”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785929",
-          "content": "美股在经历一轮剧烈抛售后，技术面与仓位面同步修复，高盛等华尔街主要机构相继发出年末反弹信号。但这场潜在的&#34;圣诞行情&#34;背后，潜伏着一个更难忽视的风险：通胀压力正以超越新冠疫情时期的速度积聚，账单将在明年一月如期呈上。 11月13日，高盛策略师Cosimo Codacci-Pisanelli在最新宏观报告中开门见山地问道：&#34;圣诞节能提前到来吗？&#34;他给出的答案是肯定的。 近期股市大幅回调、估值倍数下移、市场仓位"
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”",
+          "text": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿估值最关键一步",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785931",
-          "content": "Anthropic正在冲刺史上最大规模IPO之一，其首席执行官Dario Amodei在上市前路演中展现出刻意低调的姿态——他表示公司希望&#34;少承诺、多兑现&#34;，并对上市时机的市场波动表现出相当的淡定。 据《华尔街日报》报道，Amodei于周五在摩根大通纽约总部与摩根大通CEO Jamie Dimon进行了一场直播炉边对话，现有和潜在投资者、Anthropic首席财务官Krishna Rao及Amodei的妻子均在场。 Am"
+          "link": "https://wallstreetcn.com/articles/3785950",
+          "content": "SpaceX首次成功用发射塔机械臂在空中接住星舰（Starship）的上级飞船，这是全球航天史上第一次从轨道返回的飞船被塔架“夹”住回收 ，也让马斯克公司距离“快速复用”的目标近了一大步，而分析师认为，这正是支撑其数万亿美元估值叙事的关键一环。 北京时间11月15日周日，星舰上级在完成14圈绕地飞行后重返大气层，被得克萨斯州 Starbase 基地发射塔上“Mechazilla”巨型机械臂稳稳夹住。直播画面显示，超过500万人观看了这次"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118276",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/118276&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "本周看什么 | 最近值得一看的 10 部作品",
           "source": "少数派",
@@ -117,12 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/118366",
           "content": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...<a href=&#34;https://sspai.com/post/118366&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "FAA issues national ground stop – lifted 4.5 hours later（1505 分 · 1149 评论）",
-          "source": "Hacker News",
-          "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-          "content": ""
         }
       ]
     },
@@ -130,9 +130,9 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "alibaba/open-code-review：alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.（Go）",
+          "text": "backnotprop/plannotator：backnotprop / plannotator The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/alibaba/open-code-review",
+          "link": "https://github.com/backnotprop/plannotator",
           "content": ""
         },
         {
@@ -142,27 +142,27 @@ window.BRIEFING_DATA = {
           "content": ""
         },
         {
-          "text": "openai/codex-security：openai / codex-security OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security（TypeScript）",
+          "text": "tradermonty/claude-trading-skills：tradermonty / claude-trading-skills Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/openai/codex-security",
+          "link": "https://github.com/tradermonty/claude-trading-skills",
           "content": ""
         },
         {
-          "text": "ZhuLinsen/daily_stock_analysis：ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.（Python）",
+          "text": "ChromeDevTools/chrome-devtools-mcp：ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
           "content": ""
         },
         {
-          "text": "we-promise/sure：we-promise / sure The personal finance app for everyone (by everyone)（Ruby）",
+          "text": "alibaba/open-code-review：alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.（Go）",
           "source": "GitHub",
-          "link": "https://github.com/we-promise/sure",
+          "link": "https://github.com/alibaba/open-code-review",
           "content": ""
         },
         {
-          "text": "backnotprop/plannotator：backnotprop / plannotator The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.（TypeScript）",
+          "text": "QwenLM/qwen-code：QwenLM / qwen-code An open-source AI coding agent that lives in your terminal.（TypeScript）",
           "source": "GitHub",
-          "link": "https://github.com/backnotprop/plannotator",
+          "link": "https://github.com/QwenLM/qwen-code",
           "content": ""
         }
       ]
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-14","2026-11-13","2026-11-12","2026-11-11","2026-11-10","2026-11-09","2026-11-08","2026-11-07"];
+window.BRIEFING_ARCHIVE = ["2026-11-15","2026-11-14","2026-11-13","2026-11-12","2026-11-11","2026-11-10","2026-11-09","2026-11-08"];
