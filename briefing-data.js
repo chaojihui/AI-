@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-15T08:18:58.674Z
+// 由 GitHub Actions 自动生成 2026-11-16T08:28:14.319Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "美国失去麻疹消除地位",
+          "text": "Tor 中继节点遭遇大规模 DDoS 攻击",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85889",
-          "content": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录。今年报告的病例几乎所有患者此前都未接种"
+          "link": "https://www.solidot.org/story?sid=85896",
+          "content": "Tor 中继节点遭遇大规模 DDoS 攻击，Tor 项目释出更新 v0.4.9.17，加强中继节点对 IPv6 处理相关的 DoS 防御能力。中继节点运营者需要尽快升级。这次 DDoS 攻击影响到了大多数中继节点运营者。有运营者称其家庭网络受攻击影响而被堵塞，下载速度比正常水平下降了 99%。Tor 项目表示在评估更多的防御措施，会在未来发布后续更新。"
         },
         {
-          "text": "天问四号将尝试登陆木卫四",
+          "text": "Microsoft 365 宕机导致 15 名酒店客人氯气中毒",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85887",
-          "content": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件。"
+          "link": "https://www.solidot.org/story?sid=85895",
+          "content": "微软 Microsoft 365 服务上周发生了持续逾 24 小时的宕机事故，受影响的应用之一是电子邮件 Outlook。德国 Brühl 的梦幻乐园（Phantasialand）周六证实，由于 Outlook 下线，当自动加药系统向泳池内注入过量的氯，触发安全监控系统发出警报时，相关人员未能收到通过电子邮件发送的警报。结果导致 15 名入住乐园酒店 Hotel Ling Bao 的客人在使用泳池后遭遇氯气中毒。在接到酒店客人的投诉后，"
         },
         {
-          "text": "微软云服务宕机持续逾 24 小时",
+          "text": "比特币币值一个半月下跌四分之一",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85886",
-          "content": "微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数十个国家出现通信问题。微软表示，“没有发现”任何可能导致这次服务中断的外部干扰，并将问题归咎于服务器故障。这次中断是微软"
+          "link": "https://www.solidot.org/story?sid=85894",
+          "content": "10 月 3 日比特币币值是 84,680 美元，今天是 64,337.00 美元，一个半月币值下跌四分之一。加密货币分析公司 CryptoQuant 指出，投资者对比特币的兴趣也在减弱，其需求指标降至 2023 年 12 月以来的最低水平，而比特币交易所交易基金再次出现净卖出。导致比特币币值下跌的因素包括了美国出现通胀，以及 AI 的大规模支出吸走了资金。分析师称，比特币与科技股紧密捆绑。这使得比特币处于一种尴尬的境地：当市场对 AI"
         },
         {
-          "text": "美国历史上第三次航班大停飞",
+          "text": "SpaceX 成功回收火箭上面级",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85884",
-          "content": "美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的仍是几十年前的模拟设备，已完全无法满足 21 世纪的需求。但也有报道称此次事件与软件升级失败有关：由 L3Harris "
+          "link": "https://www.solidot.org/story?sid=85893",
+          "content": "SpaceX 再次创造了历史，首次成功回收 Starship 火箭的上面级，此前它已经成功回收了 Starship 的推进器。此次代号为 Flight 15/Starlink Group 31-2 的任务原计划同时回收火箭上面级和推进器，但推进器 Booster 22 在发射后不久启动了终止程序，在海面上受控爆炸。上面级 Ship 42 则绕地球飞行 14 圈历经 22.5 小时后于周六在 Starbase 被 2 号发射台的筷子臂成功"
         },
         {
-          "text": "旅行者 1 号距离地球的距离达到一光日",
+          "text": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85883",
-          "content": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是“一光日”。如果将一光年划分为 365 个刻度，每格代表一个光日，那么 1977 年 9 月 5 日启程的旅行者 1 号，经过近半个世纪的飞行，终于抵达了第一格。今年 10 月，旅行者 1 号曾经历一场短暂的通信中断。NASA JPL 称，18 日和 19 日，NASA 深空网络连"
+          "link": "https://www.solidot.org/story?sid=85892",
+          "content": "因 Meta 的 Android 版 Facebook 应用未经用户明确同意或充分披露的情况下访问用户的手机相册和视频，意大利监管机构对其处以 8.05 亿欧元罚款。调查人员发现，该功能默认开启，而 Facebook 在申请访问用户相册权限时，将该权限与多种不同用途的应用功能捆绑在一起，通过单一授权请求获取访问权。意大利要求 Meta 在 60 天内禁用该功能，对该功能的启用额外征求用户同意。意大利约有 2000 万 Android 用"
         },
         {
-          "text": "非洲加速发展太阳能",
+          "text": "香港迪士尼乐园 1.7 万张电子门票被盗",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85882",
-          "content": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures L"
+          "link": "https://www.solidot.org/story?sid=85891",
+          "content": "香港迪士尼乐园约 1.7 万张电子门票在票务系统中被盗，园方已报警并暂停网上售票及酒店预订服务。官网声明，旅客需要购票，欢迎到合作旅行社及平台或正门入口售票处。报道称，乐园门票由 Cityline 负责网上票务售卖，园方资讯科技部于 11 月 12 日晚侦测到公司电脑系统有异常活动，发现一万七千个二维码在网上票务系统被盗。香港资讯科技商会荣誉会长方保侨称：以往黑客是写程序或手动追漏洞，现在 AI 发展令黑客用 AI 寻找网络漏洞，从而攻"
         }
       ]
     },
@@ -48,28 +48,16 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "AI资本开支见顶=美元见顶？高盛2027展望：美元即将迎来“最后一涨”",
+          "text": "黄仁勋要回归？很难！",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785958",
-          "content": "美元与AI资本开支预期深度绑定，高盛警告：当AI叙事退潮，美元将随之承压。 高盛外汇策略团队在《2027全球外汇展望》报告中指出， 美元短期内仍有上行空间，但2027年将迎来实质性逆转。 在历经2025年的大规模抛售与多元化配置后，美元于2026年悄然收复失地——欧元兑美元回落至&#34;解放日&#34;以来低位，美元指数（DXY）触及2025年4月以来最高点，美元兑日元逼近160关口。 高盛认为，支撑这轮涨势的核心驱动力正是AI相关投"
+          "link": "https://wallstreetcn.com/articles/3786008",
+          "content": "黄仁勋辞职不到一周，硅谷“救黄运动”已迅速升温。 呼吁黄仁勋回归的公开请愿书签名已超过16万，马斯克、Garry Tan等科技大佬公开站台，并计划游说董事会和白宫。 然而，美国财政部长贝森特明确要求引入外部CEO，并限期10天就芯片出口合规问题作出答复；董事会自身则面临调查未完成即复职的法律风险。当下，黄仁勋回归面临白宫施压、董事会独立调查、国会闭门问询三重障碍，且本人仅持有英伟达3.6%股权，无法凌驾于董事会之上。 此外，多方分析指出"
         },
         {
-          "text": "本周市场的“意外”：美债收益率与科技股债同涨",
+          "text": "豆包开放多模型4天后，千问也改回来了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785953",
-          "content": "美债收益率大幅跳升的同时，科技股与信用债同步反弹。这一&#34;异常共振&#34;打破了市场对高利率压制风险资产的传统预期，也令投资者对这一组合能否持续心存疑虑。 追风交易台消息，11月13日，野村证券策略师Naka Matsuzawa研报指出， 科技股的反弹更可能只是此前大幅下跌后的技术性修复 ，对AI投资回报能够覆盖当前利率水平的信心实际上并未重建。 分析认为，这一组合的可持续性，将是未来一周市场的核心议题。 若美联储官员未能纠正市"
-        },
-        {
-          "text": "芯片股刚刚创下4月以来最大单周涨幅，对冲基金却又“逢高减持”",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785954",
-          "content": "芯片股强劲反弹，对冲基金却选择加码做空。这一反常信号，正在成为市场能否持续走高的核心悬念。 费城半导体指数上周单周涨幅逾8%，创下4月以来最佳表现，标普500指数同期上涨2.5%。然而据高盛最新Prime Brokerage周报，对冲基金连续第二周净卖出美股，且本周的卖出以新建空头为主，与上周的多头平仓性质截然不同。换言之，机构投资者利用芯片股最强反弹周之一，大举押注个股下行。 在标普500单周回报达3.27%的情况下，美国选股型基金的"
-        },
-        {
-          "text": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
-          "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785932",
-          "content": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先，关注APEC领导人非正式会议。 峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。 其次，AI行情胜负手在英伟达。 黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话会，数据中心收入与下季指引若能扛住，AI"
+          "link": "https://wallstreetcn.com/articles/3786007",
+          "content": "办公 Agent的多模型阵营，终于等来了阿里。 11月16日，阿里旗下千问办公宣布新增10款大模型，包括最新发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多家厂商的第三方模型。 此次更新后，千问办公个人版和企业标准版用户均可自主选择模型，根据任务复杂度、响应速度和 Token成本，决定使用哪款模型完成工作。 这距离字节跳动旗下豆包工作向个人用户全面开放第三方模型，仅过去四天。 至此，腾讯 W"
         },
         {
           "text": "2027见闻历，财经人的桌面必备“神历”",
@@ -78,16 +66,46 @@ window.BRIEFING_DATA = {
           "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿估值最关键一步",
+          "text": "阿里、腾讯新模型齐登场：Qwen4-Max单任务成本降58%，Hy4 flash降至竞品1/8",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3785950",
-          "content": "SpaceX首次成功用发射塔机械臂在空中接住星舰（Starship）的上级飞船，这是全球航天史上第一次从轨道返回的飞船被塔架“夹”住回收 ，也让马斯克公司距离“快速复用”的目标近了一大步，而分析师认为，这正是支撑其数万亿美元估值叙事的关键一环。 北京时间11月15日周日，星舰上级在完成14圈绕地飞行后重返大气层，被得克萨斯州 Starbase 基地发射塔上“Mechazilla”巨型机械臂稳稳夹住。直播画面显示，超过500万人观看了这次"
+          "link": "https://wallstreetcn.com/articles/3786003",
+          "content": "11月16日，阿里和腾讯在同一天各自推出新模型。阿里发布Qwen4系列首款旗舰Qwen4-Max，腾讯混元推出轻量化模型Hy4 flash。 据阿里官方公布的Work360评测数据，Qwen4-Max单任务平均费用从26.58元降至11.16元，降幅达58%。腾讯方面则称，Hy4 flash在WorkIndex评测中的单任务成本仅为Hy4的1/20，也仅为DeepSeek-V4.1-Flash-1017（max档位忙时价格）的1/8。 "
+        },
+        {
+          "text": "原油战争溢价归零，高盛：这正是买入大宗商品对冲的最佳时机",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3786004",
+          "content": "原油地缘政治溢价的骤然消退，非但没有令高盛转向看空，反而令其视之为逢低建立大宗商品对冲头寸的最佳窗口。 高盛大宗商品团队在最新发布的2027年展望报告中指出，布伦特原油中的地缘政治风险溢价已从中期选举前夕的每桶27美元骤降至仅剩数美元。团队负责人Daan Struyven认为，驱动11月能源及铜价下跌的主因是市场情绪与中东短期升级风险的变化，而非实物供需基本面的恶化。高盛由此得出结论： 风险溢价的收缩反而提升了大宗商品作为投资组合对冲工"
+        },
+        {
+          "text": "创业板跌4%，科创50跌近5%，“易中天”再大跌，银行逆势拉升，30年期国债跌0.8%，恒科指午后转跌",
+          "source": "华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3785986",
+          "content": "11月16日，A股午后扩大跌幅，三大指数集体走低，沪指再度跌破3600点，早盘在银行、电力、家电等红利板块的逆势拉升下，沪指跌幅显著收窄，创业板跌超4%，存储、算力集体陷入调整，科创50跌近5%，光模块龙头“易中天”、工业富联等集体下跌，物理AI、人形机器人等概念股同样下挫，航天军工、基本金属、半导体板块下跌。银行、白色家电、煤炭、油气等板块逆势走强。 港股早盘震荡上涨，恒指、恒科指盘初集体拉升，恒指一度涨1%，权重科网股多数反弹，光模"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119012",
+          "content": "能切换老设备音质的媒体播放器。<a href=&#34;https://sspai.com/post/119012&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：逾十万人次联署要求黄仁勋复职",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119119",
+          "content": "<p>逾十万人次联署要求黄仁勋复职</p><p>Microsoft 365 服务在 19 小时全球宕机后恢复</p><p>国产前沿模型携带 Blackwell GPU 特征</p><p>线缆更换导致全美飞机停飞</p><p>流媒体用户抱怨更难找到想看作品</p><p>特斯拉 Cybercab 订阅协议包含苛刻条款</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=&#34;h"
+        },
+        {
+          "text": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118392",
+          "content": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？<a href=&#34;https://sspai.com/post/118392&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
           "source": "少数派",
@@ -105,24 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/118153",
           "content": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。<a href=&#34;https://sspai.com/post/118153&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118512",
-          "content": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...<a href=&#34;https://sspai.com/post/118512&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118966",
-          "content": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。<a href=&#34;https://sspai.com/post/118966&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118366",
-          "content": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...<a href=&#34;https://sspai.com/post/118366&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,21 +130,27 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
+          "text": "dream-num/univer：dream-num / univer Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/dream-num/univer",
+          "content": ""
+        },
+        {
+          "text": "ag-ui-protocol/ag-ui：ag-ui-protocol / ag-ui AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/ag-ui-protocol/ag-ui",
+          "content": ""
+        },
+        {
+          "text": "google-labs-code/stitch-skills：google-labs-code / stitch-skills A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.（TypeScript）",
+          "source": "GitHub",
+          "link": "https://github.com/google-labs-code/stitch-skills",
+          "content": ""
+        },
+        {
           "text": "backnotprop/plannotator：backnotprop / plannotator The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.（TypeScript）",
           "source": "GitHub",
           "link": "https://github.com/backnotprop/plannotator",
-          "content": ""
-        },
-        {
-          "text": "GoogleChrome/modern-web-guidance-src：GoogleChrome / modern-web-guidance-src Keep your coding agent up to date with the latest web best practices（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
-          "content": ""
-        },
-        {
-          "text": "tradermonty/claude-trading-skills：tradermonty / claude-trading-skills Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/tradermonty/claude-trading-skills",
           "content": ""
         },
         {
@@ -158,16 +164,10 @@ window.BRIEFING_DATA = {
           "source": "GitHub",
           "link": "https://github.com/alibaba/open-code-review",
           "content": ""
-        },
-        {
-          "text": "QwenLM/qwen-code：QwenLM / qwen-code An open-source AI coding agent that lives in your terminal.（TypeScript）",
-          "source": "GitHub",
-          "link": "https://github.com/QwenLM/qwen-code",
-          "content": ""
         }
       ]
     }
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-15","2026-11-14","2026-11-13","2026-11-12","2026-11-11","2026-11-10","2026-11-09","2026-11-08"];
+window.BRIEFING_ARCHIVE = ["2026-11-16","2026-11-15","2026-11-14","2026-11-13","2026-11-12","2026-11-11","2026-11-10","2026-11-09"];
