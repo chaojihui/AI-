@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-17T09:40:11.748Z
+// 由 GitHub Actions 自动生成 2026-11-18T08:58:55.134Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "富岳运行系统遭非法访问",
+          "text": "文明系列游戏开发商裁员三分之一",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85911",
-          "content": "日本理化学研究所超算富岳的运行系统遭到外部非法访问，用户信息可能已经外泄。除大学等研究机构外，产业界也可使用“富岳”。因遭到非法访问，理研已暂停富岳运行，据悉恢复时间未定。遭到非法访问的是用户申请使用“富岳”时需连接的系统。受害范围取决于用户登记了多少个人信息。目前正在调查非法访问发生的时间以及被发现的经过。"
+          "link": "https://www.solidot.org/story?sid=85919",
+          "content": "《文明》系列和《XCOM》系列策略游戏开发商 Firaxis Games 工作室裁员三分之一约 60 名员工，其中包括工作室负责人 Heather Hazen。据彭博社报道，原因是《XCOM》系列最新作开发不顺。这意味着 Firaxis Games 与最近被 EA 关闭的 BioWare 工作室一样连续三款作品出现问题。Firaxis Games 最近发布的两款作品《文明 VII》销量尚可但评价褒贬不一，《Marvel’s Midnig"
         },
         {
-          "text": "FBI 警告黑客利用 Artex 能在三小时内入侵网络",
+          "text": "美国最近接连发生的技术故障源自为修复 AI 发现的漏洞",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85910",
-          "content": "FBI 发出警告，黑客正在利用名为 Artex 的 AI 驱动渗透测试工具，在部分情况下不到三个小时即可成功入侵网络。该工具已被发现与针对韩国金融机构、至少 2250 家 ConnectWise 客户以及 Barracuda 公司的攻击事件有关。Artex 最初是一个开源工具，开发者已将其转为闭源，但其开源版本在互联网上仍然很容易找到。Artex 会通过快速扫描受害者的网络寻找弱点，随后利用简单的安全漏洞如防护薄弱、密码泄露或被盗等建立"
+          "link": "https://www.solidot.org/story?sid=85918",
+          "content": "过去几天美国经历了一系列技术故障，全国航班停飞、银行在线服务中断，甚至 NSA 的一个机密通信网络瘫痪。华尔街高管和 NSA 告诉美国国会议员，一系列技术故障的起因是试图修复 AI 发现的系统漏洞。AI 模型在系统中识别了大量漏洞，为尽快修复漏洞而一次性推送了大量补丁，超出了系统的设计承载能力。摩根大通周一将其银行服务中断归咎于软件相关 bug，NSA 周二将其部分网络短暂性能下降归咎于例行维护。"
         },
         {
-          "text": "Canonical 向订阅用户提供可选的 AI 生成安全补丁",
+          "text": "英伟达董事会拒绝黄仁勋复职",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85909",
-          "content": "在 AI 辅助漏洞发现时代，漏洞发现的数量越来越多，补丁开发的速度都跟不上了。Linux 发行版 Ubuntu 开发商 Canonical 向其付费订阅用户提供了一个选项：用 AI 生成的安全补丁修复 AI 发现的漏洞。Canonical 为 Ubuntu Pro 用户提供了 AI 安全补丁库 Edge archive。Canonical 表示，它不会在稳定版本中自动合并 AI 生成的补丁，但 Ubuntu Pro 用户可以选择使用。E"
+          "link": "https://www.solidot.org/story?sid=85917",
+          "content": "尽管有美国总统和多位硅谷名人的支持，黄仁勋本人也发表声明准备重返岗位，但公司董事长 Harvey Jones 在财报电话会议上明确表示，董事会不打算让他复任首席执行官，“英伟达董事会已一致接受了他的辞呈，并不打算让黄仁勋恢复首席执行官的职务。”周二早些时候，黄仁勋在社交媒体上发文称，如果董事会认为他回归符合股东、员工、公司以及国家的最佳利益，他将很荣幸响应这一呼吁。他同时也承认自己在个人生活中犯下了严重错误。"
         },
         {
-          "text": "Windows 收集用户计算机安装的编程智能体和开发工具",
+          "text": "Google AI Overviews 导致搜索流量下降四成",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85908",
-          "content": "一位开发者利用 AI 工具寻找 Windows 未记录的功能，结果发现了一个 DLL 文件记录了用户使用的编程智能体如 codex.exe、claude.exe、copilot.exe 和 cursor.exe 等，以及开发者工具如 python.exe、dotnet.exe、 gcc.exe 和 code.exe 等。该 DLL 文件是 MissionControlAggregator.dll，是一个运行中的 Windows 组件，它"
+          "link": "https://www.solidot.org/story?sid=85916",
+          "content": "Google 的 AI Overviews 服务导致流向网站的搜索流量下降大约四成。在一项随机实验中，研究人员对部分美国桌面端用户隐藏了 AI Overviews。通过对比正常看到 AI Overviews 的美国用户的搜索行为，研究发现 AI Overviews 使流向外部网站的点击量减少 40%。在 DataForSEO 跟踪美国搜索关键词中，逾五成会显示 AI Overviews，而一年前仅为 6%。用户在看到 AI 答案之后通常"
         },
         {
-          "text": "美国超大规模数据中心的用电量与部分州的总用电量相当",
+          "text": "学校禁止手机有助于提高学生成绩",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85907",
-          "content": "根据发表在《Nature Sustainability》期刊上的一项研究，美国超大规模数据中心的用电量与部分州的总用电量相当。超大规模数据中心为云计算、大模型训练以及 AI 工具的全球部署等服务提供支撑，它们主要依赖化石燃料提供电力。研究人员利用卫星图像分析了美国 403 座超大规模数据中心，估算了它们在 2024 年 5 月至 2025 年 4 月期间不同运行负荷下的年度耗电量，根据数据中心所在地区电网的能源构成估算出其碳排放量。结果"
+          "link": "https://www.solidot.org/story?sid=85915",
+          "content": "美国学生的成绩从十多年前开始下滑，这一时间趋势与智能手机的流行基本一致，引发了对智能手机在学生成绩下滑中所扮演角色的疑问。很多美国州和学校开始执行手机禁令。最新研究显示，手机禁令略微提升了学生成绩。研究调查了 2021-2026 年间就读于 4600 所学校的 330 万名三至十年级的美国学生，使用 MAP 测试成绩，比较了实施严格手机禁令的学校与未实施禁令学校的学生的学业表现。研究发现，手机禁令学校学生至少部分考试成绩略有提高——少许"
         },
         {
-          "text": "Robert Pattinson 成为第七任 007",
+          "text": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85905",
-          "content": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的演员，Robert Pattinson 已经是一位知名度极高的明星，大多数人都听说过他的名字。亚马逊显然是希望由一名有强"
+          "link": "https://www.solidot.org/story?sid=85914",
+          "content": "加州理工教授 Yi Ni 教的是学校每一位学生都必须修的数学必修课，他仍然采用传统的授课方法，没有用笔记本电脑和投影仪，而是在黑板上写满粉笔字。在加州理工任教 17 年的 Ni 教授表示不再根据作业题目做的是否正确打分，因为学生可以使用 AI 完成作业。他现在只根据作业是否完成打分。他说，如今教育的一大问题是所有大学数学作业都可以用 AI 完成。一名数学专业学生表示自己不使用 AI，因为一旦参加线下考试就会暴露自己对 AI 的依赖。Ni"
         }
       ]
     },
@@ -48,40 +48,40 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "创业板冲高回落跌超1%，半导体活跃，四大行集体上涨，“易中天”继续打压AI硬件，30年期国债大涨0.9%，恒指、恒科指均跌超1%",
+          "text": "腾讯Q3营收同比增7.5%至2073.4亿元，资本开支814.3亿元大超预期，自由现金流降至-691亿元｜财报见闻",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786073",
-          "content": "今天，A股半导体产业链盘中活跃——灵晟超算蝉联世界第一、中芯国际三季报超预期叠加设备紧缺，科创50一度涨超3%，光刻机、光刻胶涨幅居前；家电、消费电子延续活跃，AI漫剧、文化传媒重挫领跌。午后，资金重新转入银行板块，工商银行、建设银行、中国银行带领一众银行股继续批量创出新高。 11月17日，A股全天震荡盘整，三大指数午后回落，创业板跌超1%，早盘一度涨1%。科创50涨幅收窄至1%下方，早盘一度涨超3%，AI硬件测核心标的午后走低，光模块"
+          "link": "https://wallstreetcn.com/articles/3786186",
+          "content": "腾讯第三季度营收保持增长，但略低于市场预期，营销服务和企业服务业务表现较为亮眼，游戏业务也延续增长。与此同时，随着AI技术加速融入产品与业务，腾讯持续加大模型研发和算力基础设施投入，本季度资本开支显著高于预期。 财报显示， 腾讯第三季度实现营收2073.4亿元，同比增长7.5%，低于市场预估的2105.3亿元；IFRS归母净利润636亿元，同比增长0.8%，非IFRS经营盈利681亿元，同比下降6%。 管理层表示，若剔除Hy、元宝、Co"
         },
         {
-          "text": "巴菲特感恩节再捐股55亿美元，这次的信只写了250字",
+          "text": "黄金什么时候对实际利率脱敏？",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786089",
-          "content": "96岁的巴菲特以最简短的篇幅，完成了迄今最大规模的一次感恩节捐赠。 据周一发布的新闻稿， 沃伦·巴菲特向其家族旗下四家基金会捐赠了价值约55亿美元的伯克希尔·哈撒韦股票，捐赠规模较去年同期大幅跃升。这 是他加速财富分配计划的最新一步——他已公开承诺，将在2034年前通过三名子女将逾1600亿美元的伯克希尔资产悉数用于公益事业。 与上述捐赠规模形成鲜明对比的，是这封感恩节信的篇幅：不足250字，仅为去年逾3500字信件的零头。巴菲特在信中"
+          "link": "https://wallstreetcn.com/articles/3786181",
+          "content": "2026年，黄金与实际利率的传统负相关关系重新显现。自3月以来，随着10年期美债实际利率持续走高，金价明显回落。而在2024—2025年，这一关系曾一度失效，黄金甚至在实际利率上行期间持续走强。黄金为何会阶段性摆脱实际利率的约束？又在什么条件下，实际利率不再是主导金价的核心因素？ 财通证券在11月15日发布的报告中，复盘了2003年以来黄金与10年期美债实际利率的关系。报告认为， 央行购金和黄金ETF资金流向是影响这种关系的重要变量，通"
         },
         {
-          "text": "声网营收增长19%，但对话式AI尚未形成规模效应拖累毛利率",
+          "text": "“AI央行”开启量化紧缩！英伟达新CEO收紧投资闸门，Neocloud融资命脉告急",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786095",
-          "content": "声网的AI业务开始贡献更多收入，盈利改善仍需等待规模效应。 北京时间11月17日，声网（NASDAQ：API）发布2026年第三季度财报，营收4210万美元，同比增长19%；净利润约300万美元，同比增长10.4%。 同期，毛利率由上年同期的66%降至63.4%，经营亏损约150万美元，上年同期为160万美元。公司将毛利率下降归因于产品结构变化，其中对话式AI产品仍处于规模化前期。 这家实时音视频服务商正在将业务从人与人的通话，扩展至人"
+          "link": "https://wallstreetcn.com/articles/3786182",
+          "content": "英伟达正在重新定义自己在AI生态中扮演的金融角色。 这家芯片巨头的临时CEO Colette Kress在本周财报电话会上明确表示， 公司将对未来的投资、承诺和财务担保进行&#34;严格评估&#34;。 这意味着，黄仁勋时代那种对AI生态&#34;大手笔、广撒网&#34;的金融支持风格，或将正式画上句号。 受冲击最大的是新兴的Neocloud赛道。CoreWeave的股价已较历史高点暴跌逾70%，美债亦跌至困境级别，行业整体因高杠杆运营"
         },
         {
-          "text": "AI答案越来越多，知乎继续押注专业作者",
+          "text": "A股三大股指午后齐涨，科创50涨超2%，算力硬件、算力租赁大反弹，恒指跌1%，京东大跌7%",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786094",
-          "content": "知乎把论文阅读与社区讨论连接了起来。 近日，2026知乎科学季收官。除了邀请科研人员参与线下交流，知乎还在科学季期间推出“Paper开源计划”，将论文关联、讨论入口和研究者身份绑定纳入社区功能。 基于这项计划。用户阅读论文时，可以通过插件查看知乎上的相关讨论；社区问题可以关联论文卡片，方便读者查阅原始研究；科研创作者则可绑定研究者标识ORCID，关联自己的学术身份。这些功能让论文、作者和讨论之间有了更直接的联系。 知乎也在尝试改变科学内"
+          "link": "https://wallstreetcn.com/articles/3786152",
+          "content": "11月18日，A股三大股指早盘高开回落，午后探底回升，三大指数最终集体收红。午后A股科技线突然加速，算力租赁、华为算力、PCB、半导体芯片四个方向几乎同时点火，推动科创50指数盘中一度涨超3%。油气、海运、电信等板块走强。贵金属、生物医药、AI短剧等再度陷入调整，其中AI短剧重挫领跌。 临近尾盘，市场再次出现大资金抄底的迹象。部分宽基ETF尾盘放量，创业板ETF易方达、沪深300ETF华泰柏瑞、沪深300ETF华夏、沪深300ETF易方"
         },
         {
-          "text": "全球股市四连跌，英伟达绩前跌幅加深，韩股收跌2.6%，油价下跌",
+          "text": "2027见闻历，财经人的桌面必备“神历”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786084",
-          "content": "全球股市跌势蔓延至第四个交易日，英伟达财报前夕的避险情绪令亚太市场首当其冲。油价同步下挫，市场风险偏好持续受压。 标普500指数期货下跌0.2%，而纳斯达克100指数在连续三天下跌后涨幅不大。MSCI亚太股票指数盘中最大跌幅达1.5%，逼近4月初以来最低收盘位，韩国股市领跌。与此同时，英伟达股价周一下跌4.1%，本周将公布的季度财报及首席执行官黄仁勋去留问题，共同构成近期AI交易方向的两大关键变量。MSCI全球股票指数周二小幅下滑0.2"
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "AI暴跌前，华尔街大佬分道扬镳：桥水、索罗斯Q3大砍英伟达持仓，“木头姐”、Tepper逆势加码，德鲁肯米勒清仓闪迪、台积电",
+          "text": "5450亿美元！高盛大幅上调AI项目融资预测，但关键担保人英伟达正在退场",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786088",
-          "content": "随着2026年三季度13F文件集中披露，全球顶级投资机构的持仓调整路径浮出水面——英伟达遭遇机构史上罕见的大分流，桥水转向AI硬件产业链，索罗斯完成&#34;芯片内部换仓&#34;，Druckenmiller大举清仓半导体并转向黄金与SpaceX，伯克希尔则继续远离科技追逐，坚守地产与航空。 这批截至9月30日的持仓报告， 恰好卡在一个高度敏感的时间节点： 英伟达CEO黄仁勋于11月12日被董事会解除职务，股价随之剧烈波动。而这一切，均"
+          "link": "https://wallstreetcn.com/articles/3786146",
+          "content": "高盛将2027年全球AI项目融资规模预测从3000亿美元大幅上调至5450亿美元，但这一雄心勃勃的预测面临一个核心矛盾： 支撑其中最大增长部分的关键担保人——英伟达——正在收缩其金融承诺。 根据高盛信贷团队11月17日发布的报告，5450亿美元 预测中有3200亿美元来自芯片融资，这一规模较今年迄今完成的480亿美元增长近七倍。 然而，据《华尔街日报》报道，英伟达临时CEO Colette Kress 预计将收紧该公司此前为客户提供的担"
         }
       ]
     },
@@ -89,40 +89,40 @@ window.BRIEFING_DATA = {
       "title": "其他",
       "items": [
         {
+          "text": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118732",
+          "content": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。<a href=&#34;https://sspai.com/post/118732&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119193",
+          "content": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……<a href=&#34;https://sspai.com/post/119193&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+          "source": "少数派",
+          "link": "https://sspai.com/post/118975",
+          "content": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。<a href=&#34;https://sspai.com/post/118975&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119210",
+          "content": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。<a href=&#34;https://sspai.com/post/119210&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119184",
+          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/119184&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
           "text": "TDS REVIEW｜Bose 有线消噪耳塞体验",
           "source": "少数派",
           "link": "https://sspai.com/post/118976",
           "content": "这篇文章是TDSStudio在少数派上的第35篇文章，依然是全平台首发。早先我们评价过绯乐的虹，当时在评论区曾经有一些读者好奇它和BoseQC20的区别。有线降噪入耳耳机，在TWS时代到来之前曾经是一 ...<a href=&#34;https://sspai.com/post/118976&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118442",
-          "content": "当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。<a href=&#34;https://sspai.com/post/118442&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/119160",
-          "content": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=&#34;https://sspai.com/post/119160&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派评 | 近期值得关注的 App",
-          "source": "少数派",
-          "link": "https://sspai.com/post/119148",
-          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=&#34;https://sspai.com/post/119148&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "Rosetta 2 即将退役，Mac 老应用何去何从？",
-          "source": "少数派",
-          "link": "https://sspai.com/post/118100",
-          "content": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...<a href=&#34;https://sspai.com/post/118100&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
-          "source": "少数派",
-          "link": "https://sspai.com/post/119012",
-          "content": "能切换老设备音质的媒体播放器。<a href=&#34;https://sspai.com/post/119012&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,33 +130,33 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "ag-ui-protocol/ag-ui：ag-ui-protocol / ag-ui AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.（TypeScript）",
+          "text": "elementalsouls/Claude-BugHunter：elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（Python）",
           "source": "GitHub",
-          "link": "https://github.com/ag-ui-protocol/ag-ui",
+          "link": "https://github.com/elementalsouls/Claude-BugHunter",
           "content": ""
         },
         {
-          "text": "backnotprop/plannotator：backnotprop / plannotator The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.（TypeScript）",
+          "text": "mvanhorn/last30days-skill：mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary（Python）",
           "source": "GitHub",
-          "link": "https://github.com/backnotprop/plannotator",
+          "link": "https://github.com/mvanhorn/last30days-skill",
+          "content": ""
+        },
+        {
+          "text": "alibaba/open-code-review：alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.（Go）",
+          "source": "GitHub",
+          "link": "https://github.com/alibaba/open-code-review",
+          "content": ""
+        },
+        {
+          "text": "Tencent/LoopForge：Tencent / LoopForge Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.（Go）",
+          "source": "GitHub",
+          "link": "https://github.com/Tencent/LoopForge",
           "content": ""
         },
         {
           "text": "dream-num/univer：dream-num / univer Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.（TypeScript）",
           "source": "GitHub",
           "link": "https://github.com/dream-num/univer",
-          "content": ""
-        },
-        {
-          "text": "tradermonty/claude-trading-skills：tradermonty / claude-trading-skills Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/tradermonty/claude-trading-skills",
-          "content": ""
-        },
-        {
-          "text": "elementalsouls/Claude-BugHunter：elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（Python）",
-          "source": "GitHub",
-          "link": "https://github.com/elementalsouls/Claude-BugHunter",
           "content": ""
         },
         {
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-17","2026-11-16","2026-11-15","2026-11-14","2026-11-13","2026-11-12","2026-11-11","2026-11-10"];
+window.BRIEFING_ARCHIVE = ["2026-11-18","2026-11-17","2026-11-16","2026-11-15","2026-11-14","2026-11-13","2026-11-12","2026-11-11"];
