@@ -1,46 +1,46 @@
-// 由 GitHub Actions 自动生成 2026-11-25T10:18:18.709Z
+// 由 GitHub Actions 自动生成 2026-11-26T09:57:11.799Z
 // 生成模式：原始标题
 window.BRIEFING_DATA = {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "sections": [
     {
       "title": "AI发展",
       "items": [
         {
-          "text": "男性肥胖者服用 GLP-1 药物后改善了精子质量",
+          "text": "图库平台充斥着生成式 AI 图像",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85987",
-          "content": "根据发表在《Biomedicines》期刊上的一项研究，男性肥胖者在服用 GLP-1 药物之后改善了精子质量和睾酮水平。研究针对了 108 名有肥胖症和/或 2 型糖尿病男性，服用 GLP-1 药物一年后他们的精子浓度显著增加。在服用 GLP-1 前样本中仅有略超 3% 的精子形状正常，12 个月的治疗后这一比例上升至 4.5%。具有前向运动能力的精子比例也从 23% 提高到了 38%。服用者平均睾酮水平上升 30%，雌二醇水平则有所下"
+          "link": "https://www.solidot.org/story?sid=85999",
+          "content": "根据发表在《The Quarterly Journal of Economics》期刊上的一项研究，今天的大型图库平台充斥着生成式 AI 图像。研究针对了一个在 2022 年 12 月允许创作者销售 GenAI 生成图像的大型图库。该图库要求 GenAI 图像必须标记，允许特定市场禁止 GenAI。研究人员分析了这一政策产生的影响。结果发现：图像产量增长了 136%，活跃创作者数量增加了 47%；但传统非 GenAI 图像的产量下降了 "
         },
         {
-          "text": "CIA 部分非机密信息泄漏",
+          "text": "FCC 批准 SpaceX 发射 100 万颗轨道数据中心卫星",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85986",
-          "content": "中央情报局（CIA）和国家情报总监办公室（ODNI）最近发现了一起网络入侵事件，导致部分非机密信息遭到泄露。此次入侵影响了一个开源情报分析系统，机密信息未泄漏。开源情报旨在利用公开非机密信息搜寻情报线索，其涵盖范围广泛，包括可商业获取的数据集、社交媒体内容、卫星图像以及其它网络数据。开源情报结合其它数据源，经常能揭示出极具价值的情报。情报机构常将此类数据与其它情报来源综合使用以辅助分析判断。"
+          "link": "https://www.solidot.org/story?sid=85998",
+          "content": "FCC 批准了 SpaceX 发射 100 万颗轨道数据中心卫星 Starmind 的申请。SpaceX 发射申请遭到了亚马逊、Viasat、美国天文学会等的反对。亚马逊认为该计划不切实际，SpaceX 建成 Starmind 星座将需要数百年的时间。FCC 主席 Brendan Carr 则反驳说亚马逊的宽带卫星星座 Kuiper 的进度也并不顺利。根据批准要求，SpaceX 必须在 2033 年 11 月 25 日前将首批 Star"
         },
         {
-          "text": "梅奥诊所向每天用自己的时间启动电脑的员工补发工资",
+          "text": "System76 释出 Pop!_OS 26.04 LTS",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85985",
-          "content": "梅奥诊所（Mayo Clinic）同意向负责安排患者预约的员工支付逾 90.6万美元的补发工资。明尼苏达州总检察长 Keith Ellison 的调查发现，这些员工在正式上班前和下班后都承担了无偿工作，包括启动电脑以及患者电话沟通。根据和解协议，梅奥诊所将停止对员工的工作时间进行四舍五入处理，在每个班次开始时额外支付 5 分钟工资，以补偿员工启动电脑所花费的时间。梅奥诊所在一份声明中表示，达成这项协议是为了解决涉及部分专科工作人员的工时"
+          "link": "https://www.solidot.org/story?sid=85997",
+          "content": "System76 释出了基于 Ubuntu 26.04 LTS 的 Pop!_OS 26.04 LTS。主要变化包括：支持绘图板；初始设置或通过设置 Settings > System & accounts > System & application 启用自动更新；新增原生应用 COSMIC Viewer 和 COSMIC System Monitor，完全重新设计 COSMIC Store；支持远程桌面，改进辅助功能，等等。Pop!"
         },
         {
-          "text": "Kagi 推出邮件服务",
+          "text": "欧几里得望远镜发现最遥远类星体",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85984",
-          "content": "付费搜索引擎（有免费试用）Kagi 推出了其邮件服务 Kagi Mail 的公开 beta 版本。Kagi 承诺该服务无监控、无广告、支持开放标准，不会锁定。Kagi 表示：“这个世界还需要另一个电子邮件服务吗？我们不止一次地问过自己。市场上已有很出色的产品了，我们也十分欣赏 Fastmail 和 Tuta 所做的工作。但我们还是决定开发自己的服务，理由与打造其它 Kagi 产品相同：技术应当做好自己的工作，尽量不干扰用户的使用。使用 "
+          "link": "https://www.solidot.org/story?sid=85996",
+          "content": "ESA 欧几里得空间望远镜发现迄今观测到的距离最远的类星体。这个遥远天体的中心黑洞质量约为太阳的 3.6 亿倍。它发出的光来自宇宙大爆炸后仅 6.3 亿年的时期，为研究宇宙早期超大质量黑洞的形成与演化提供了新线索。类星体是由超大质量黑洞驱动的星系核心。当星系核心附近的气体在引力作用下向黑洞聚集，并逐渐落入黑洞时，会释放出巨大能量，使星系核心发出极其明亮的光芒。这个新发现的类星体编号为 J1504+6252，红移值达到 8.13，是首个红"
         },
         {
-          "text": "多样性影响鸟类对天敌的反应",
+          "text": "1Password 源代码以及部分客户数据泄漏",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85983",
-          "content": "此前有研究显示，本地生物多样性会影响授粉、害虫防治等重要的生态功能。发表在 PLOS Biology 期刊上的一项研究转向了另一个问题：多样性如何影响生态信息的传递——具体而言，就是鸟类用于防御的叫声。研究团队在中国东部的十个自然保护区开展了数百次实验。第一轮实验中，研究人员用飞行姿态的鹰模型和停歇姿态的猫头鹰模型来“挑衅”猎物鸟，观察它们的反应：是发出警戒叫声提醒同伴赶快逃离，还是发出围攻召集声，招呼其他鸟儿聚集到天敌周围，合力把威胁"
+          "link": "https://www.solidot.org/story?sid=85995",
+          "content": "密码管理器 1Password 披露了一起安全事件：2026 年 11 月 19 日黑客入侵了该公司一名员工的企业 GitHub 账户，访问了源代码，向后端服务推送恶意代码，下载了客户相关的管理数据。泄漏的数据包括了客户姓名和电子邮件地址；账户及用户标识符、账户创建时间和最后登录时间；公钥（本身就是公开的），Secure Remote Password 协议参数；邀请、配置及账户恢复邮件链接中的令牌，以及其它非机密账户元数据。1Pass"
         },
         {
-          "text": "东北积雪天数预计将会显著减少",
+          "text": "纽约时报警告摄影师不要升级到内置 AI 功能的 Photoshop",
           "source": "Solidot",
-          "link": "https://www.solidot.org/story?sid=85982",
-          "content": "根据两项研究，未来东北地积雪覆盖天数将普遍减少。与 2001 年—2020 年相比，到本世纪末，中等排放情景下区域平均积雪覆盖天数预计减少约 64 天，低排放和高排放情景下分别减少约 42天 和 85 天。高排放情景下，年积雪覆盖不足 50 天的区域占比预计由 19% 增至 99%，表明大范围地区可能向短暂、间歇性积雪状态转变。研究进一步指出，未来雪季缩短具有明显的季节非对称性。雪季前期积雪变化主要与降雪条件相关，而冬末至春季积雪持续性"
+          "link": "https://www.solidot.org/story?sid=85994",
+          "content": "《纽约时报》要求自由摄影师不要升级到内置 AI 功能的最新版本 Adob​​e Photoshop，理由是 AI 可能会以用户难以察觉的方式改变照片。《时报》摄影部门负责人 Meaghan Looram 和 Josh Haner 在邮件里指出，结果就是根据照片的元数据照片可能会被标记为 AI 生成。Adobe 过去几年在 Photoshop 等应用中集成了越来越多的 AI 功能，11 月释出的最新版本提供了 AI Assisted Ed"
         }
       ]
     },
@@ -48,46 +48,70 @@ window.BRIEFING_DATA = {
       "title": "财经",
       "items": [
         {
-          "text": "今晚，美联储12月决议前最后一份重磅通胀报告出炉！",
+          "text": "2027见闻历，财经人的桌面必备“神历”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786680",
-          "content": "美联储12月议息会议临近，市场正等待一份关键通胀报告，以判断下一阶段货币政策走向。美国劳工部将于当地时间11月25日上午8时30分（北京时间21时30分）公布10月个人消费支出（PCE）物价指数。这将是美联储12月8日至9日议息会议前最后一份重磅通胀报告，而11月CPI数据要到议息会议结束后的第二天才会公布。 市场普遍预计， 10月整体PCE同比增速将从9月的3.6%升至3.8%，核心PCE同比增速将从3.1%升至3.2%。 在市场已经"
+          "link": "https://wallstreetcn.com/articles/3782813",
+          "content": "本文来自华尔街见闻，欢迎下载APP查看更多"
         },
         {
-          "text": "10万亿不够“救市”，韩国酝酿扩大股市稳定基金！",
+          "text": "存储芯片短缺冲击美国年末购物季：苹果、微软集体涨价，消费者为AI热潮买单",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786681",
-          "content": "韩国产业银行已向各大券商发函，摸底其对证券市场稳定基金（证安基金）的追加出资能力。 距离政府宣布启动证安基金运作准备仅三天，相关行动已从机制启动转向资金能力摸底，市场据此猜测，基金扩容可能正在酝酿。 据《韩国经济》报道，产业银行在公文中要求各家券商确认可向证安基金追加出资的资金额度。 该基金目前的出资承诺总额为10.76万亿韩元，但尚未发生实际缴款。 扩容压力主要来自基金规模与韩国股市体量之间的严重失衡。以2020年3月约定出资时KOS"
+          "link": "https://wallstreetcn.com/articles/3786766",
+          "content": "AI数据中心的爆发式扩张正引发一场席卷全球的内存芯片供应危机，短缺冲击已从服务器机房蔓延至普通消费者的购物车。 据《华尔街日报》近日报道，此轮短缺已导致部分内存芯片价格在过去一年内飙升至原来的10倍。随着黑色星期五购物季临近，苹果、微软、亚马逊、Meta等科技巨头相继上调旗下产品售价，消费电子市场面临更大涨价压力。 苹果CEO蒂姆·库克甚至将此次芯片短缺比作一场“百年一遇的洪灾”。 供应紧张的核心在于，三星电子、SK海力士和美光科技三大"
         },
         {
-          "text": "降价不再带来更多消费？Ramp CEO警告：AI增长的杰文斯悖论已经失灵，企业AI支出开始放缓",
+          "text": "何小鹏的物理AI野心藏不住了",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786679",
-          "content": "AI模型价格不断下降，原本被认为将刺激企业大幅增加使用量，如今这一增长逻辑却开始遭遇挑战。 企业信用卡公司Ramp联合首席执行官Eric Glyman警告， 过去两个月，AI行业赖以支撑增长预期的“杰文斯悖论”似乎已经失灵：token价格持续下降，但企业并未相应增加消费，AI支出增长明显放缓。 Ramp数据显示，7月客户token支出增长42%，但8月和9月合计仅增长1.5%，10月增速也只有1.65%。OpenAI和Anthropic"
+          "link": "https://wallstreetcn.com/articles/3786769",
+          "content": "“我们是协作关系，而不是主从关系。” 11月25日，在小鹏科技日发布会后的媒体群访中，IRON被问及“如果机器人在产线上‘自己生产自己’，会不会产生别样的情感”？这款人形机器人给出了上述回答。 又被问及“如果我和何小鹏同时掉进水里，你会救谁？”IRON作答后，它又把问题抛回去。听到对方说会救何小鹏，IRON回应：“看来你是个很仗义的人。” 提问不断切换，IRON用中英文作答，也不时向提问者反问。小鹏集团董事长兼CEO何小鹏在一旁看着，神"
         },
         {
-          "text": "“新债王”：美国债务危机将在2029-2030年启动，只有三条路化债“重组、印钞和通胀”",
+          "text": "AI交易大跌后，汇丰：科技股已在定价“最坏情景”，2027年或迎“现金流翻身仗”",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786673",
-          "content": "美国联邦债务在2025年8月18日突破40万亿美元。此后两个月，债务规模又增加了6000亿美元。DoubleLine Capital创始人、CEO兼CIO杰弗里·冈拉克（Jeffrey Gundlach）预计，美国2027财年的财政赤字可能达到3万亿美元，相当于GDP的9%。 按照他的测算，美国债务增长的年化速度，已经从2万亿美元上升至3万亿美元。 在洛杉矶的一场对谈中，这位被称为“新债王”的投资人将美国债务危机的时间点“提前至”202"
+          "link": "https://wallstreetcn.com/articles/3786767",
+          "content": "汇丰认为，全球股市尤其是AI板块在2026年的深度回撤，已经把估值压到“最坏情景”的水平。随着超大规模云厂商自由现金流在2027年一季度或二季度见底回升、债券收益率见顶以及美联储紧缩力度不及预期，2027年股市的风险回报比已显著改善。 据追风交易台消息，这家投行的全球股票策略主管Alastair Pinder在11月24日发布的《2027年全球股票展望》中表示，标普500指数每股盈利2027年预计增长17%，全球科技股当前估值所隐含的中"
         },
         {
-          "text": "比互联网泡沫更危险？AI已撑起美国25%的经济增长，一旦泡沫破裂，美国经济恐遭重创",
+          "text": "AI估值被严重误判！贝莱德基金经理驳斥“见顶论”：Anthropic上市标志着应用层大爆发",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786675",
-          "content": "美国经济已深度依赖AI投资。据巴克莱估计，过去一年AI投资贡献了美国经济增长的25%。经济学家警告，一旦AI泡沫破裂，其冲击可能超过2000年前后的互联网泡沫危机，而美国政府的财政空间已大不如前。 过去两周，美股剧烈震荡，英伟达董事会出现动荡，从硅谷到白宫，所有人都在追问同一个问题：如果AI繁荣戛然而止，美国经济会怎样？ 据《华尔街日报》报道，经济学家的共识是，美国经济将遭受痛苦打击，但冲击的严重程度仍存在激烈争论。即便AI市场避免崩盘"
+          "link": "https://wallstreetcn.com/articles/3786755",
+          "content": "管理着约140亿美元贝莱德AI主题ETF的Tony Kim，对当下华尔街最流行的一个判断给出了截然相反的答案。 他在彭博《Trillions》播客中认为， 市场正在为&#34;AI资本开支2027年见顶、2028年走平甚至下滑&#34;定价，直接后果是——芯片与硬件公司的盈利在成倍增长，股价却在跌，估值已经低于标普500整体水平。 &#34;我确实认为市场在向下超调。&#34; 在他看来，这不是估值分歧，而是对&#34;变化速率&#34"
         },
         {
-          "text": "沪指失守3500点，医药、消费逆势走强，创业板跌超43%，“宁王”大跌8%，半导体产业链下跌，恒科指午后跌超2%",
+          "text": "避险资产全线失灵！RenMac警告：真实收益率时代回归，市场已进入“无处可逃”时刻",
           "source": "华尔街见闻",
-          "link": "https://wallstreetcn.com/articles/3786653",
-          "content": "11月25日，A股在隔夜美股科技股&#34;一日游&#34;式回调的拖累下集体低开，随后盘初震荡收窄，盘中跌幅有所扩大，三大指数午盘均跌超1%，午后跌幅进一步扩大，创业板跌4%，多只宽基ETF尾盘放量成交。创业板权重股宁德时代跌超8%。算力硬件午后亦下挫，半导体产业链陷入调整，GPU、先进封装、光刻机等概念股下跌。零售、餐饮旅游等大消费活跃。 5只宽基ETF成交额较昨日实现翻倍，沪深300ETF易方达全天成交95.5亿元，较上一日增4倍"
+          "link": "https://wallstreetcn.com/articles/3786760",
+          "content": "当传统对冲工具全面哑火，市场进入&#34;无处可逃&#34;的压力时刻，投资者面临的不仅是一次普通回调，而是一场更深层的结构性清算。 Renaissance Macro Research（RenMac）创始人、技术研究负责人Jeff deGraaf在近期节目中明确指出，半导体板块的泡沫信号早在数月前已经触发，而英伟达在AI融资链中扮演的角色与当年的房利美（Fannie Mae）高度相似——用自身强健的资产负债表为信用资质较弱的交易对手背"
         }
       ]
     },
     {
       "title": "其他",
       "items": [
+        {
+          "text": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119563",
+          "content": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。<a href=&#34;https://sspai.com/post/119563&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "我用AI做了一张两千年的中国历史地图",
+          "source": "少数派",
+          "link": "https://sspai.com/post/117510",
+          "content": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。<a href=&#34;https://sspai.com/post/117510&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119560",
+          "content": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。<a href=&#34;https://sspai.com/post/119560&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
+        {
+          "text": "翻开 2027， 值得入手的新年日历推荐",
+          "source": "少数派",
+          "link": "https://sspai.com/post/119264",
+          "content": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...<a href=&#34;https://sspai.com/post/119264&#34; target=&#34;_blank&#34;>查看全文</a>"
+        },
         {
           "text": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
           "source": "少数派",
@@ -99,30 +123,6 @@ window.BRIEFING_DATA = {
           "source": "少数派",
           "link": "https://sspai.com/post/118791",
           "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/118791&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
-          "source": "少数派",
-          "link": "https://sspai.com/post/119527",
-          "content": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。<a href=&#34;https://sspai.com/post/119527&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
-          "source": "少数派",
-          "link": "https://sspai.com/post/119492",
-          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/119492&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
-          "source": "少数派",
-          "link": "https://sspai.com/post/119035",
-          "content": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...<a href=&#34;https://sspai.com/post/119035&#34; target=&#34;_blank&#34;>查看全文</a>"
-        },
-        {
-          "text": "写在动荡之后：漫步巴黎的寻常一日",
-          "source": "少数派",
-          "link": "https://sspai.com/post/119412",
-          "content": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」<a href=&#34;https://sspai.com/post/119412&#34; target=&#34;_blank&#34;>查看全文</a>"
         }
       ]
     },
@@ -130,7 +130,7 @@ window.BRIEFING_DATA = {
       "title": "GitHub 热点项目",
       "items": [
         {
-          "text": "elementalsouls/Claude-BugHunter：elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（Python）",
+          "text": "elementalsouls/Claude-BugHunter：elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.（Python）",
           "source": "GitHub",
           "link": "https://github.com/elementalsouls/Claude-BugHunter",
           "content": ""
@@ -170,4 +170,4 @@ window.BRIEFING_DATA = {
   ]
 };
 
-window.BRIEFING_ARCHIVE = ["2026-11-25","2026-11-24","2026-11-23","2026-11-22","2026-11-21","2026-11-20","2026-11-19","2026-11-18"];
+window.BRIEFING_ARCHIVE = ["2026-11-26","2026-11-25","2026-11-24","2026-11-23","2026-11-22","2026-11-21","2026-11-20","2026-11-19"];
